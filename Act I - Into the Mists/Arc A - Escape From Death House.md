@@ -1,22 +1,22 @@
-*An adventure for five 2nd-level characters.*
+*Una aventura para cinco personajes de segundo nivel.*
 
-> [!tip]+ **A Taste of Horror**
-> The following pages contain a guide to the first acts of the campaign: **Act I: Into the Mists**, **Act II: The Shadowed Town**, and the first third of **Act III: The Broken Land**. Updates providing additional content are expected to follow regularly on the /r/CurseOfStrahd subreddit. 
-> 
-> You can sign up to receive update notifications in your email inbox by joining the free DragnaCarta community on [Patreon](https://www.patreon.com/DragnaCarta).
-> 
-> You can also get an early peek at drafts of the remainder of **Act III: The Broken Land**, as well as outlines and notes for all following acts and arcs, by supporting this guide on [Patreon](https://www.patreon.com/DragnaCarta).
+> [!tip]+ **Una muestra de terror**
+> Las siguientes páginas contienen una guía de los primeros actos de la campaña: **Acto I: Adentrándose en las Nieblas**, **Acto II: El Pueblo Sombrío** y el primer tercio del **Acto III: La Tierra Rota **. Se espera que haya actualizaciones periódicas que proporcionen contenido adicional en el subreddit /r/CurseOfStrahd.
+>
+> Puedes registrarte para recibir notificaciones de actualizaciones en tu bandeja de entrada de correo electrónico uniéndote a la comunidad gratuita de DragnaCarta en [Patreon](https://www.patreon.com/DragnaCarta).
+>
+> También puedes echar un vistazo temprano a los borradores del resto de **Acto III: La Tierra Rota**, así como esquemas y notas de todos los actos y arcos siguientes, apoyando esta guía en [Patreon](https://www.patreon.com/DragnaCarta).
 
-The players begin in the town of Daggerford on the night before Highharvesttide, an annual feast and holiday celebration. The local inns are full for the night, and the players—vagabonds with little coin or company to speak of—find shelter in the stable of the Nightmare’s Bridle, a ramshackle tavern on the outskirts of town. 
+Los jugadores comienzan en la ciudad de Daggerford la noche anterior a Highharvestide, una fiesta anual y celebración navideña. Las posadas locales están llenas para pasar la noche y los jugadores (vagabundos con poco dinero o compañía) encuentran refugio en el establo de Nightmare's Bridle, una taberna destartalada en las afueras de la ciudad.
 
-When the relics they carry sense the presence of Death House, however, the players are led through Daggerfords’ rainy streets and into the house’s waiting threshold.
+Sin embargo, cuando las reliquias que llevan sienten la presencia de la Casa de la Muerte, los jugadores son conducidos a través de las calles lluviosas de Daggerfords hasta el umbral de espera de la casa.
 
-Once inside, the players are trapped and told that a monster will hunt them down once it awakens. They have six hours to find it first and either appease it with a suitable sacrifice—or kill it. As they explore the house, they come to learn the house’s lurid history, as well as the true identity of the beast that lurks beneath.
+Una vez dentro, los jugadores quedan atrapados y se les dice que un monstruo los cazará una vez que despierte. Tienen seis horas para encontrarlo primero y apaciguarlo con un sacrificio adecuado o matarlo. Mientras exploran la casa, descubren la espeluznante historia de la casa, así como la verdadera identidad de la bestia que acecha debajo.
 
-If the players kill the monster, the house begins to collapse, forcing them to flee or be lost in the rubble. Upon emerging, they find that their surroundings have changed, transporting them to the darkened land of Barovia.
+Si los jugadores matan al monstruo, la casa comienza a derrumbarse, obligándolos a huir o perderse entre los escombros. Al salir, descubren que su entorno ha cambiado, transportándolos a la tierra oscura de Barovia.
 
 > [!lore]+ **The History of Death House**
-> See [[History of Barovia#Strahd’s First Followers|Strahd's First Followers]] for a full retelling of the gruesome history of Death House.
+> Ver [[History of Barovia#Los primeros seguidores de Strahd|Los primeros seguidores de Strahd]] para un recuento completo de la  historia de la Casa de la muerte.
 # A1. Daggerford
 ## A1a. The Nightmare’s Bridle
 If one or more of your players are using the [[Running the Adventure#Adventure Hooks|Barovian Relics]] hook, read the following text. Otherwise, proceed to [[#A2. Death House]] below.
