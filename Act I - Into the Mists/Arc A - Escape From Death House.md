@@ -7,7 +7,7 @@
 >
 > También puedes echar un vistazo temprano a los borradores del resto de **Acto III: La Tierra Rota**, así como esquemas y notas de todos los actos y arcos siguientes, apoyando esta guía en [Patreon](https://www.patreon.com/DragnaCarta).
 
-Los jugadores comienzan en la ciudad de Daggerford la noche anterior a Highharvestide, una fiesta anual y celebración navideña. Las posadas locales están llenas para pasar la noche y los jugadores (vagabundos con poco dinero o compañía) encuentran refugio en el establo de Nightmare's Bridle, una taberna destartalada en las afueras de la ciudad.
+Los jugadores comienzan en la ciudad de Daggerford la noche anterior a Highharvestide, una fiesta anual y celebración navideña. Las posadas locales están llenas para pasar la noche y los jugadores (vagabundos con poco dinero o compañía) encuentran refugio en el establo de La Brida de Pesadilla, una taberna destartalada en las afueras de la ciudad.
 
 Sin embargo, cuando las reliquias que llevan sienten la presencia de la Casa de la Muerte, los jugadores son conducidos a través de las calles lluviosas de Daggerfords hasta el umbral de espera de la casa.
 
@@ -18,56 +18,58 @@ Si los jugadores matan al monstruo, la casa comienza a derrumbarse, obligándolo
 > [!lore]+ **The History of Death House**
 > Ver [[History of Barovia#Los primeros seguidores de Strahd|Los primeros seguidores de Strahd]] para un recuento completo de la  historia de la Casa de la muerte.
 # A1. Daggerford
-## A1a. The Nightmare’s Bridle
-If one or more of your players are using the [[Running the Adventure#Adventure Hooks|Barovian Relics]] hook, read the following text. Otherwise, proceed to [[#A2. Death House]] below.
+## A1a. La Brida de Pesadilla
+Si uno o más de tus jugadores están utilizando el anzuelo de los [[Running the Adventure#Adventure Hooks|Reliquias de Barovia]], lee el siguiente texto. De lo contrario, continúa con [[#A2. Death House]] a continuación.
 
 <div class="description">
-<p>It’s the evening before Highharvesttide, and a storm has descended over Daggerford, with dark clouds pouring cascades of rain down upon the town below. Despite the weather, however, the town buzzes with anticipation of the impending falltime festival, each home filled with warmth and joy. Bright, cheery candlelight twinkles from every window, and the sounds of song and dance echo throughout the wet and muddy streets.</p>
-<p>Amidst the merriment, however, you stand apart. Neither locals nor visitors, you’re vagabonds—travelers, ghosts passing through an unfamiliar town. As laughter rings out from inns and homes, you face a simpler, starker dilemma: the quest for shelter.</p>
-<p>Every room in this town is claimed, every hearth filled to bursting, leaving you in the grip of the bitter storm. Until, that is, the owner of the ramshackle Nightmare’s Bridle tavern offers you a grudging reprieve: the hayloft above their stable. It’s nothing to boast about, leaving the biting cold and the lingering scent of musty hay as your only companions. But it’s a roof over your heads nonetheless—a small mercy on a night such as this.</p>
-<p>One by one, you find a home amidst the muck and hay. Overhead, rain lashes the stable, thunder punctuating the rhythmic drumming on the roof. Flashes of lightning lance across the skies, casting the stable’s interior in stark lights and darks. Rainwater drips steadily down through a leak in the roof, snaking its way across the floor until it pools in the corner.</p>
-<p>Here, then, you find yourselves: huddled in the darkness amongst strangers, while joy and mirth dance just out of reach.</p>
+<p>Es la tarde antes de la Víspera de Highharvesttide, y una tormenta ha descendido sobre Daggerford, con nubes oscuras vertiendo cascadas de lluvia sobre el pueblo. A pesar del clima, sin embargo, el pueblo zumba con la anticipación del inminente festival otoñal, con cada hogar lleno de calidez y alegría. La brillante y alegre luz de las velas titila desde cada ventana, y los sonidos de canciones y bailes resuenan por las calles mojadas y embarradas.</p>
+<p>En medio de la alegría, sin embargo, te encuentras apartado. Ni locales ni visitantes, son vagabundos—viajeros, fantasmas que pasan por una ciudad desconocida. Mientras la risa resuena desde las posadas y los hogares, te enfrentas a un dilema más simple y severo: la búsqueda de refugio.</p>
+<p>Cada habitación en este pueblo está ocupada, cada hogar lleno hasta el borde, dejándote a merced de la amarga tormenta. Hasta que, eso sí, el dueño de la taberna ruinosa La Brida de Pesadilla te ofrece un respiro a regañadientes: el desván sobre su establo. No es nada de qué presumir, dejando el frío mordiente y el olor de heno rancio como tus únicos compañeros. Pero sigue siendo un techo sobre sus cabezas—una pequeña misericordia en una noche como esta.</p>
+<p>Uno por uno, encuentrais un hogar en medio del barro y el heno. Arriba, la lluvia azota el establo, el trueno sonando como un tambor rítmico en el techo. Destellos de relámpagos atraviesan el cielo, lanzando luces y sombras vívidas en el interior del establo. El agua de lluvia gotea constantemente a través de una gotera en el techo, serpenteando por el suelo hasta que se acumula en un rincón.</p>
+<p>Así que aquí te encuentras: acurrucado en la oscuridad entre extraños, mientras la alegría y la felicidad bailan justo fuera de tu alcance.</p>
 </div>
 
-Invite the players to describe each character's appearance and countenance, how they’ve positioned themselves, and how they’ve arranged their belongings.
 
-When the players have finished introducing themselves, read:
+Invita a los jugadores a describir la apariencia y el semblante de cada personaje, cómo se han posicionado y cómo han dispuesto sus pertenencias.
+
+Cuando los jugadores hayan terminado de presentarse, lee:
 
 <div class="description">
-<p>A searing bolt of lightning rends the sky, illuminating the evening in a blinding flash of stark white. The booming thunder that follows is so loud it shakes the very ground beneath you, causing the timbers of the stable to creak and groan.</p>
-<p>The light of the strike lingers unnaturally, silhouetting small wisps of fog that twist through the air. A thick, ankle-deep mist gathers outside, shrouding the earth in a ghostly veil. Its tendrils curl invitingly, as though beckoning you to the darkness beyond.</p>
-<p>The rain continues to pelt the roof above, but the wind no longer howls, and the merry sounds of Daggerford’s festivities seem muted and distant. The horses in the stable beneath stir uneasily, their whinnies echoing loudly in the stillness. An uneasy feeling sweeps through the hayloft, a cold shiver that has nothing to do with the wind or rain.</p>
+<p>Un luminoso relámpago desgarra el cielo, iluminando la tarde en un destello cegador de blanco puro. El estruendoso trueno que sigue es tan fuerte que sacude el suelo mismo bajo tus pies, haciendo crujir y gemir las vigas del establo.</p>
+<p>La luz del golpe persiste de manera antinatural, perfilando pequeñas brumas que se retuercen en el aire. Una densa niebla, hasta los tobillos, se acumula afuera, envolviendo la tierra en un velo fantasmal. Sus tentáculos se enrollan de manera invitante, como si te estuvieran llamando hacia la oscuridad más allá.</p>
+<p>La lluvia sigue golpeando el techo arriba, pero el viento ya no aúlla, y los alegres sonidos de las festividades de Daggerford parecen apagados y distantes. Los caballos en el establo debajo se mueven inquietos, sus relinchos resonando fuertemente en la quietud. Una sensación de incomodidad se abre paso a través del desván, un escalofrío frío que nada tiene que ver con el viento o la lluvia.</p>
 </div>
 
-One by one, the players’ relics then react as follows, in the following order.
+Una por una, las reliquias de los jugadores reaccionan de la siguiente manera, en el siguiente orden.
 
-* ***Stone Crest.*** The crest emits a low hum and smells of pine needles and earthy soil, which both grow stronger when the crest is moved toward Death House.
-* ***Broken Blade.*** The blade emits a high-pitched hum and begins to tremble violently, spinning like a compass needle in the direction of Death House.
-* ***Dragon's Scale.*** The scale burns icy cold, one end glowing with a bright, silver light in the direction of Death House.
-* ***Sunrise Medallion.*** The medallion shines with a warm, golden glow, emitting rays of bright light in the direction of Death House.
-* ***Amber Shard.*** The shard glows with amber light and tugs its cord in the direction of Death House.
-* ***Wolf's Tooth.*** The tooth lengthens, glowing with silver moonlight, and tugs its cord in the direction of Death House.
-* ***Crumpled Page.*** The ink on the page glows with amber light, the runes reshaping themselves into a map that shows the page's location—and an arrow that guides toward Death House.
-* ***Tattered Banner.*** The sound of war-drums fills the air, and the banner blows in an unseen wind in the direction of Death House.
-* ***Electrum Coin.*** The coin lands on its edge and begins rolling across the muddy cobblestones in the direction of Death House.
-* ***Angel's Feather.*** The feather is swept away by an unseen wind, its barbs glimmering with golden light as it twirls through the streets toward Death House.
-* ***Raven's Feather.*** The feather is swept away by the wind, its shadow seeming to dance in the air, as it twirls through the streets toward Death House.
-* ***Wanderer's Scarf.*** The scarf is carried away by the wind, its patterns shifting and turning in the air as it whirls through the streets toward Death House.
+* ***Escudo de piedra.*** La piedra emite un zumbido bajo y huele a agujas de pino y tierra terrosa, que se vuelven más fuertes cuando la piedra se mueve hacia la Casa de la Muerte.
+* ***Hoja Rota.*** La hoja emite un zumbido agudo y comienza a temblar violentamente, girando como la aguja de una brújula en dirección a la Casa de la Muerte.
+* ***Escama del Dragón.*** La escama arde helada, un extremo brilla con una luz plateada brillante en dirección a la Casa de la Muerte.
+* ***Medallón del Amanecer.*** El medallón brilla con un cálido resplandor dorado, emitiendo rayos de luz brillante en dirección a la Casa de la Muerte.
+* ***Fragmento de ámbar.*** El fragmento brilla con una luz ámbar y tira de su cordón en dirección a la Casa de la Muerte.
+* ***Diente de Lobo.*** El diente se alarga, brilla con la luz plateada de la luna y tira de su cuerda en dirección a la Casa de la Muerte.
+* ***Página arrugada.*** La tinta de la página brilla con una luz ámbar, las runas se transforman en un mapa que muestra la ubicación de la página y una flecha que guía hacia la Casa de la Muerte.
+* ***Estandarte andrajoso.*** El sonido de los tambores de guerra llena el aire y el estandarte ondea con un viento invisible en dirección a la Casa de la Muerte.
+* ***Moneda de electrum.*** La moneda cae sobre su borde y comienza a rodar por los adoquines embarrados en dirección a la Casa de la Muerte.
+* ***Pluma de ángel.*** La pluma es arrastrada por un viento invisible, sus púas brillan con una luz dorada mientras gira por las calles hacia la Casa de la Muerte.
+* ***Pluma de cuervo.*** La pluma es arrastrada por el viento, su sombra parece bailar en el aire, mientras gira por las calles hacia la Casa de la Muerte.
+* ***Bufanda del caminante.*** La bufanda es arrastrada por el viento, sus patrones cambian y giran en el aire mientras gira por las calles hacia la Casa de la Muerte.
 
-If the players give chase, read:
+Si los jugadores los persiguen, lea:
 
 <div class="description">
-<p>You emerge from the hayloft into the swirling mists beyond, the stones of Daggerford's streets slick and gleaming beneath your feet. The city’s laughter and cheer is now but a hollow echo, the brightness of its revelry drowned in the fog that encircles you. The taste of the cold, damp air is sharp on your tongue, and the sound of your own breath loud in your ears.</p>
-<p>Your relics call you forward, the mists parting to make way. You move slowly at first, then faster, your hearts pounding in your chest. As you venture deeper into the fog, each step you make feels heavier, each echo of thunder a beat in this relentless march.</p>
-<p>The fog swallows the town, buildings reduced to looming shadows, their shapes dancing and flickering in the storm's sporadic flashes of lightning. Rain drums a relentless rhythm, the patter of drops on cobblestone accompanying the distant, mournful peal of thunder. For brief moments, you can feel something else beneath your feet: the steady pounding of a deep and distant heartbeat.</p>
-<p>You're pulled left, then right, then left again, the relics guiding you through the murky labyrinth. Distance and direction have lost all meaning, the shadows around you contorting in twisted shapes. Your blood sings in your ears, and the air grows denser, electric, as the energy of the storm—of the chase—swells with reckless abandon.</p>
-<p>And then—the pounding stops.</p>
-<p>The thunder pauses.</p>
-<p>And the mist breaks.</p>
-<p>The fog pulls back like a curtain, revealing a tall, eerie silhouette that towers in the gloom before you.</p>
+<p>Salis del pajar hacia la densa niebla, con las piedras de las calles de Daggerford resbaladizas y relucientes bajo tus pies. La risa y el jolgorio de la ciudad ahora no son más que un eco hueco, la luminosidad de su algarabía ahogada en la niebla que te rodea. El sabor del aire frío y húmedo es agudo en tu lengua, y el sonido de tu propia respiración es fuerte en tus oídos.</p>
+<p>Vuestras reliquias os llaman hacia adelante, las nieblas se apartan para dar paso. Os moveis lentamente al principio, luego más rápido, con los corazones palpitando en vuestros pechos. A medida que te adentras más en la niebla, cada paso que dais se siente más pesado, cada eco de trueno un latido en esta marcha implacable.</p>
+<p>La niebla engulle la ciudad, los edificios reducidos a sombras imponentes, sus formas bailando y parpadeando en los destellos esporádicos de los relámpagos de la tormenta. La lluvia golpea un ritmo implacable, el repiqueteo de las gotas en el adoquín acompañando el lejano y melancólico repique del trueno. Por breves momentos, puedes sentir algo más bajo tus pies: el constante latido de un corazón profundo y distante.</p>
+<p>Sois arrastrados hacia la izquierda, luego hacia la derecha, luego hacia la izquierda de nuevo, las reliquias os guían a través de las laberínticas calles. La distancia y la dirección han perdido todo significado, las sombras a vuestro alrededor se contorsionan en formas retorcidas. La sangre canta en vuestros oídos, y el aire se vuelve más denso.</p>
+<p>Y luego—el latido se detiene.</p>
+<p>El trueno se detiene.</p>
+<p>Y la niebla se despeja.</p>
+<p>La niebla se retira como una cortina, revelando una silueta alta y espeluznante que se yergue en la penumbra ante ti.</p>
 </div>
 
-This is **Death House.**
+
+Esta es la **Casa de la Muerte.**
 # A2. Death House
 If one or more of your players are using the [[Running the Adventure#Adventure Hooks|Lost in the Mists]] hook, read the following text. Otherwise, proceed to [[#A2a. The Arrival]] below.
 
