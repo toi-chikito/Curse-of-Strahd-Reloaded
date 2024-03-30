@@ -70,17 +70,18 @@ Si los jugadores los persiguen, lea:
 
 
 Esta es la **Casa de la Muerte.**
-# A2. Death House
-If one or more of your players are using the [[Running the Adventure#Adventure Hooks|Lost in the Mists]] hook, read the following text. Otherwise, proceed to [[#A2a. The Arrival]] below.
+# A2. La Casa de la Muerte
+Si uno o más de tus jugadores están utilizando el anzuelo de los [[Running the Adventure#Adventure Hooks|Perdidos en la Niebla]], lee el siguiente texto. De lo contrario, continúa con [[#A2a. The Arrival]] a continuación.
 
 <div class="description">
-<p>Highharvesttide in Daggerford. It’s a time of joy and celebration, of hearth and home, of golden laughter ringing out into the night. But tonight, as a storm has swept over the town, you find yourselves apart from the warmth and revelry, drawn into the cold, dark embrace of mystery.</p>
-<p>As mercenaries, you're no strangers to danger or the unknown. But this—this is different. Over the past few weeks, whispers have spread throughout Daggerford of disappearances: ordinary folk, vanished without a trace.</p>
-<p>The only connection? A grand, old manor, known in hushed tones as “Death House.”</p>
-<p>Tonight, as the storm rages outside, you've been summoned to investigate this mysterious dwelling. The town crier’s proclamation still echoes in your ears, a bounty for any brave souls who dare to uncover the truth. Driven by a mix of greed, curiosity, and perhaps a touch of bravado, you stepped forward.</p>
-<p>Now, guided by the faint glow of your lanterns, you traverse the slick, fog-shrouded cobblestone streets. The distant merriment is a stark contrast to the eerie quiet around you. The world has been reduced to hushed whispers and the steady drumming of rain, a somber serenade to your perilous journey.</p>
-<p>And then, as if answering an unspoken summons, the mists before you part, revealing the grim silhouette of your destination: the “Death House.” Its dark, stone façade and towering spires loom ominously against the storm-tossed sky, a wordless challenge against your resolve.</p>
+<p>Highharvesttide en Daggerford. Es un tiempo de alegría y celebración, de corazón y de hogar, de risas animadas que resuenan en la noche. Pero esta noche, mientras una tormenta ha barrido el pueblo, os encontráis apartados del calor y la alegría, atrapados en el frío y oscuro abrazo del misterio.</p>
+<p>Como aventureros, no sois ajenos al peligro o a lo desconocido. Pero esto—esto es diferente. Durante las últimas semanas, susurros se han extendido por Daggerford sobre desapariciones: gente común, desvanecida sin dejar rastro.</p>
+<p>¿La única conexión? Una gran y antigua mansión, conocida en susurros como "Casa de la Muerte".</p>
+<p>Esta noche, mientras la tormenta resuena afuera, habéis sido convocados para investigar esta misteriosa morada. La proclamación del pregonero de la ciudad todavía resuena en vuestros oídos, una recompensa para cualquier alma valiente que se atreva a descubrir la verdad. Impulsados por una mezcla de codicia, curiosidad y quizás un toque de valentía, disteis un paso adelante.</p>
+<p>Ahora, guiados por el débil resplandor de vuestras linternas, atravesais las resbaladizas calles adoquinadas envueltas en niebla. La lejana alegría es un fuerte contraste con el inquietante silencio que os rodea. El mundo se ha reducido a susurros apagados y el constante tamborileo de la lluvia, una serenata sombría para vuestro peligroso viaje.</p>
+<p>Y entonces, como respondiendo a una orden no anunciada en alto, las nieblas se apartan ante vosotros, revelando la sombría silueta de vuestro destino: la "Casa de la Muerte". Su oscura fachada de piedra y sus torres imponentes se alzan intimidantes contra el cielo sacudido por la tormenta, un desafío silencioso contra vuestra determinación.</p>
 </div>
+
 
 ## A2a. The Arrival
 ### Entrance
