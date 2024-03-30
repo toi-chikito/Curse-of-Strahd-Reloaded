@@ -82,89 +82,90 @@ Si uno o más de tus jugadores están utilizando el anzuelo de los [[Running the
 <p>Y entonces, como respondiendo a una orden no anunciada en alto, las nieblas se apartan ante vosotros, revelando la sombría silueta de vuestro destino: la "Casa de la Muerte". Su oscura fachada de piedra y sus torres imponentes se alzan intimidantes contra el cielo sacudido por la tormenta, un desafío silencioso contra vuestra determinación.</p>
 </div>
 
+## A2a. La llegada
+### Entrada
+<span class="citation"><em>Esta escena tiene lugar en el Apéndice B: Área 1.</em></span>
 
-## A2a. The Arrival
-### Entrance
-<span class="citation"><em>This scene takes place in Appendix B: Area 1.</em></span>
+Lee a todos los jugadores el siguiente texto:
+  
+<div class=description> <p>Una gran casa se erige ante vosotros, cuatro pisos de fría piedra manchada de hollín, altas y estrechas ventanas, y techos altos y puntiagudos formando una imagen de austera y helada grandeza. A medio camino, un balcón estrecho sobresale del tercer piso, ofreciendo un sombrío mirador desde el cual observar los terrenos circundantes.</p> <p>El centro de esta imponente fachada es el pórtico, un arco de piedra que se yergue como centinela ante las puertas de roble de la casa. Una verja de hierro forjado llena este arco, sus bisagras oxidadas crujen mientras se balancea en el viento.</p> <p>A ambos lados de la verja, lámparas de aceite cuelgan de cadenas, con una luz débil y parpadeante, arrojando un brillo enfermizo que apenas atraviesa la niebla circundante.</p> <p>Más allá de la verja, un par de robustas puertas de roble permanecen cerradas, enmarcadas por la verja y las lámparas. Las puertas son viejas y desgastadas, su madera oscurecida por el tiempo, pero se mantienen fuertes y orgullosas—una entrada no deseada a la casa más allá.</p> <p>Una ráfaga de viento pasa a través de vosotros, llevando consigo un susurro de frío terror que os recorre la espalda.</p> </div>
 
-Read all players the following text:
+  
+Los jugadores que comenzaron con el anzuelo de _**Reliquias de Barovia**_ ahora pueden ver a los jugadores que comenzaron con el anzuelo de _**Perdidos en la Niebla**_, y viceversa. (Si alguna de las reliquias de los jugadores voló o rodó hacia la Casa de la Muerte—como con la _**bufanda del vagabundo**_ o la _**moneda de electrón**_—aterrizan en el umbral de la casa, justo más allá del pórtico). La calle está desierta.
 
-<div class=description>
-<p>A grand manor stands before you, four stories of cold, soot-stained stone, tall narrow windows, and high peaked roofs forming a picture of austere, chilling grandeur. Midway up, a narrow balcony juts out from the third floor, offering a grim perch from which to survey the surrounding grounds.</p>
-<p>The centerpiece of this imposing facade is the portico, a stone arch standing sentinel before the house's oaken doors. A wrought-iron gate fills this arch, its rusty hinges creaking as it sways in the wind.</p>
-<p>On either side of the gate, oil lamps hang from chains, their light dim and flickering, casting a sickly glow that barely pierces the surrounding fog.</p>
-<p>Beyond the gate, a set of sturdy oaken doors stand closed, framed by the gate and the lamps. The doors are old and weathered, their wood darkened by time, but they stand strong and proud—an unwelcome entrance to the house beyond.</p>
-<p>A gust of wind sweeps past you, carrying with it a whisper of cold dread that sends shivers down your spine.</p>
-</div>
+La entrada más allá del pórtico es como se describe en <span class="citation">1. Entrance (p. 212)</span>.
+  
+>Colgado en la pared sur del vestíbulo hay un escudo con un escudo de armas (un molino de viento estilizado dorado sobre un campo rojo), flanqueado por retratos enmarcados de aristócratas de rostro pétreo (miembros fallecidos hace mucho tiempo de la familia Durst). Las puertas dobles enmarcadas en caoba que conducen desde el vestíbulo hasta el salón principal (área 2A) están decoradas con paneles de vidrieras.
 
-Any players who began with the ***Barovian Relics*** hook can now see the players who began with the ***Lost in the Mists*** hook, and vice-versa. (If any of the players’ relics flew or rolled to Death House—as with the ***wanderer’s scarf*** or the ***electrum coin***—they land on the house’s threshold, just beyond the portico.) The street is otherwise deserted.
 
-The entrance beyond the portico is otherwise as described in <span class="citation">1. Entrance (p. 212)</span>.
 
-> [!lore]+ **Strahd & the Cult**
+>[!lore]+ **Strahd y la Secta**
 >
-> The cult of Death House earned no love from Strahd in life. But in death, the two parties have come to an informal, unspoken understanding. 
+>La secta de la Casa de la Muerte no se ganó el amor de Strahd en vida. Pero en la muerte, ambas partes han llegado a un entendimiento informal y no verbal.
 >
-> In exchange for the permission to roam far afield from the misty land of Barovia to claim sacrifices, Death House is bound to return to the valley after each hunting excursion. Should any adventurers successfully escape the house's bloodied altar, they inevitably emerge into Strahd's domain—assuring him of a worthy crop of prey to pursue. 
-### Main Hall
-<span class="citation"><em>This scene takes place in Appendix B: Area 2.</em></span>
+>A cambio del permiso para deambular lejos de la tierra brumosa de Barovia para reclamar sacrificios, la Casa de la Muerte está obligada a regresar al valle después de cada excursión de caza. Si algún aventurero logra escapar con éxito del altar ensangrentado de la casa, inevitablemente emergen en el dominio de Strahd, asegurándole una cosecha digna de presas para perseguir.
+### Vestíbulo Principal
+<span class="citation"><em>Esta escena toma lugar en el Apéndice B: Area 2.</em></span>
 
-When the players pass through Death House’s threshold, any Barovian relics they carry cease to be active. (For example, the *sunrise medallion* ceases to glow.)
+Cuando los jugadores cruzan el umbral de la Casa de la Muerte, cualquier reliquia baroviana que lleven dejará de estar activa. (Por ejemplo, el *medallón del amanecer* deja de brillar).
 
-The main hall is largely as described in <span class="citation">Main Hall (p. 212)</span> but now contains a grandfather clock, which is placed in the circular space at the base of the stairs.
+El salón principal es en gran medida como se describe en <span class="citation">Main Hall (p. 212)</span>, pero ahora contiene un reloj de pie, que está ubicado en el espacio circular en la base de las escaleras.
 
-Instead of a longsword, the portrait of the Durst family from <span class="citation">6. Upper Hall (p. 213)</span> now hangs above the fireplace. In the portrait, Rose is holding a smiling doll wearing a yellow lace dress. A plaque beneath the portrait reads: *Mr. Gustav and Mrs. Elisabeth Durst, with their two children, Rosavalda and Thornboldt.*<sup><a href="https://www.reddit.com/r/CurseofStrahd/comments/8sfpkn/fleshing_out_curse_of_strahd_part_2_entering/">1</a></sup>
+En lugar de una espada larga, el retrato de la familia Durst de <span class="citation">6. Vestíbulo Superior (p. 213)</span> ahora cuelga sobre la chimenea. En el retrato, Rose está sosteniendo una muñeca sonriente con un vestido de encaje amarillo. Una placa debajo del retrato dice: _Sr. Gustav y Sra. Elisabeth Durst, con sus dos hijos, Rosavalda y Thornboldt._<sup><a href="https://www.reddit.com/r/CurseofStrahd/comments/8sfpkn/fleshing_out_curse_of_strahd_part_2_entering/">1</a></sup>
 
-Shortly after all of the characters enter the main hall, the front door slams shut, extinguishing all lights in the house. The sound of the rain outside completely vanishes, leaving the house eerily silent. 
+>Un amplio pasillo (área 2A) recorre el ancho de la casa, con una chimenea de mármol negro en un extremo y una majestuosa escalera de mármol rojo en el otro. En el centro de la base circular de las escaleras se encuentra un alto y antiguo reloj de pie. Las paredes revestidas de madera están esculpidas con imágenes de viñas, flores, ninfas y sátiros. Los personajes que busquen puertas secretas en las paredes o inspeccionen los revestimientos pueden, con una exitosa tirada de Sabiduría (Percepción) CD 12, ver serpientes y calaveras hábilmente tejidas en los diseños de las paredes. El revestimiento decorativo sigue la escalera mientras asciende hacia el segundo piso. Un guardarropa (área 2B) tiene varios abrigos negros colgando de ganchos en las paredes. Un sombrero de copa reposa en un estante alto.  Montada en la pared sobre la chimenea hay un retrato enmarcado en madera de una familia. Una placa debajo del retrato dice: _Sr. Gustav y Sra. Elisabeth Durst, con sus dos hijos, Rosavalda y Thornboldt_. Rosvalda tiene una muñeca con un vestido de encaje amarillo y esta sonriente, al igual que su hermano Thornboldt. Se puede ver al Sr. Gustav sujetar un bebe envuelto en pañales, mientras que la madre parece mirarlo con un ligero desprecio.
 
-Bloody letters then begin appearing on the southern wall, just above the marble staircase. They read as follows:
+Poco después de que todos los personajes entren en el salón principal, la puerta principal se cierra de golpe, apagando todas las luces de la casa. El sonido de la lluvia afuera desaparece por completo, dejando la casa inquietantemente en silencio. 
+
+Letras ensangrentadas comienzan a aparecer en la pared sur, justo encima de la escalera de mármol. Leen de la siguiente manera:
 
 <div class="description" style="text-align: center; padding: 15px;">
-<em>Beneath this dwelling lurks a beast</em>
+<em> Bajo esta morada yace una bestia oscura,</em>
 <br>
-<em>Who hungers for a bloody feast.</em>
+<em>Que anhela un festín de sangre pura.</em>
 <br>
-<em>He sleeps until the midnight chime</em>
+<em>Duerme hasta que el reloj marque la medianoche,</em>
 <br>
-<em>Then wakes to feed his dark design.</em>
+<em>Despierta para saciar su voraz hambre, sin reproche</em>
 <br>
-<em>If morsels seek to flee their doom,</em>
+<em>Si las presas buscan huir de su triste final,</em>
 <br>
-<em>Then bring toward his secret room</em>
+<em>Deben llevar un tributo hacia su guarida del mal</em>
 <br>
-<em>A gift to soothe his savage mood</em>
+<em>Un regalo para calmar su ánimo salvaje,</em>
 <br>
-<em>But mind the servants of his brood.</em>
+<em>Mas cuida a los guardianes de su linaje.</em>
 </div>
 
-The grandfather clock then strikes six o’clock.
+El reloj antiguo entonces marca las seis en punto.
 
-> [!info]+ **Time in Death House**
+> [!info]+ **Tiempo en la Casa de la Muerte**
 >
-> When the clock strikes six, place three six-sided dice on the table in front of the players, with each side showing a six. Each pip on the dice represents twenty minutes until midnight.
+> Cuando el reloj marca las seis, coloca tres dados de seis caras sobre la mesa frente a los jugadores, con cada cara mostrando un seis. Cada punto en los dados representa veinte minutos hasta la medianoche.
 >
-> As the players explore the house, tick this dice clock downward to indicate the passage of time, always starting with the die showing the lowest number. If the lowest die shows a one, you can tick it down to “zero” by removing it from the group instead.
+> Mientras los jugadores exploran la casa, haz que este reloj de dados vaya hacia atrás para indicar el paso del tiempo, siempre comenzando con el dado que muestra el número más bajo. Si el dado más bajo muestra un uno, puedes reducirlo a "cero" retirándolo del grupo en lugar de seguir contando hacia atrás.
 >
-> The dice clock counts down as follows:
-> - Each time the players enter a new floor of the house or dungeon, tick the dice clock down by one.
-> - Each time the players make a Perception or Investigation check to search an entire room, tick the dice clock down by one.
-> - Each time the players complete a short rest, tick the dice clock down by three.
+> El reloj de dados cuenta hacia atrás de la siguiente manera:
+> - Cada vez que los jugadores ingresan a un nuevo piso de la casa o mazmorra, reduce el reloj de dados en uno.
+> - Cada vez que los jugadores hagan una tirada de Percepción o Investigación para buscar en una habitación completa, reduce el reloj de dados en uno.
+> - Cada vez que los jugadores completen un descanso corto, reduce el reloj de dados en tres.
 >
-> The grandfather clock in the **Main Hall** sounds on the hour, every hour, and can be heard throughout the house and dungeon.
+> El reloj de pie en el **Salón Principal** suena en punto, cada hora, y se puede escuchar en toda la casa y la mazmorra.
 >
-> When the clock strikes midnight, the **flesh mound** in the **Ritual Chamber** awakens and makes a beeline for the players, exiting through the **Hidden Trapdoor** into the **Den of Wolves** if necessary to reach them. At least one minute should pass between the time the mound wakes up and the time that it first reaches the players, nullifying its *heavy sleeper* feature and allowing it to use its *multiattack* actions.
+> Cuando el reloj marca la medianoche, el **montículo de carne** en la **Cámara del Ritual** despierta y se dirige directamente hacia los jugadores, saliendo a través de la **Trampilla Oculta** hacia el **Antro de los Lobos** si es necesario para alcanzarlos. Debe pasar al menos un minuto entre el momento en que el montículo se despierta y el momento en que llega por primera vez a los jugadores, anulando su característica de *sueño profundo* y permitiéndole usar sus acciones de *ataque múltiple*.
 
-> [!info]+ **Resting in Death House**
+> [!info]+ **Descansar en la Casa de la Muerte**
 >
-> Due to their midnight deadline, it is impossible for the players to take a long rest in Death House. However, the players might still need to take a short rest. Each time they do so in the main house, they experience one or more of the following hauntings:
+> Debido a su plazo de medianoche, es imposible que los jugadores tomen un descanso largo en la Casa de la Muerte. Sin embargo, los jugadores aún podrían necesitar tomar un descanso corto. Cada vez que lo hagan en la casa principal, experimentarán uno o más de los siguientes fenómenos:
 >
-> - A player hears rats scrabbling up and down the spaces between the walls. A thick, choking stench of rot seeps into the room.
-> - A player hears the sound of a woman’s humming emanating from the opposite side of a closed door. If the door is cracked open, a cold blue eye stares back before vanishing.
-> - A player hears footsteps descending from the attic, which stop outside of their door before moving away to the library. Soon after, a grinding noise can be heard coming from the library—the sound of the secret door.
-> - A player hears maniacal laughter echoing from far below the house.
-> - A player hears a pleading female voice in their right ear that swears that “it isn’t his.” Another, colder female voice in the player’s left ear scoffs and says, "You would say that, you little *harlot*."
+> - Un jugador escucha ratas rasguñando arriba y abajo entre las paredes. Un espeso y asfixiante hedor a podredumbre se filtra en la habitación.
+> - Un jugador escucha el sonido del tarareo de una mujer emanando desde el lado opuesto de una puerta cerrada. Si la puerta se abre un poco, un ojo azul frío mira fijamente antes de desaparecer.
+> - Un jugador escucha pasos descendiendo desde el ático, que se detienen fuera de su puerta antes de alejarse hacia la biblioteca. Poco después, se puede escuchar un ruido de molienda proveniente de la biblioteca, el sonido de la puerta secreta.
+> - Un jugador escucha risas maníacas resonando desde muy abajo de la casa.
+> - Un jugador escucha una voz femenina suplicante en su oído derecho que jura que "no es de él". Otra voz femenina más fría en el oído izquierdo del jugador se burla y dice: "Tú dirías eso, pequeña *meretriz*."
 
-A player who opens any outside-facing door or curtain in Death House, or who exits onto any balcony, finds that the exterior of the house has been surrounded by thick, fleshy tendrils. Although the tendrils can be damaged, more grow back swiftly to replace them, sealing the players inside. A player who inspects the tendrils finds that they appear to be extruding from beneath the house.
+
+Un jugador que abra cualquier puerta o cortina que de al exterior en la Casa de la Muerte, o que salga a cualquier balcón, descubre que el exterior de la casa ha sido rodeado por gruesos tentáculos carnosos. Aunque los tentáculos pueden ser dañados, más crecen rápidamente para reemplazarlos, sellando a los jugadores dentro. Un jugador que inspeccione los tentáculos descubre que parecen estar extruyéndose desde debajo de la casa.
 ## A2b. The First Floor
 ### Cloakroom
 <span class="citation"><em>This scene takes place in Appendix B: Area 2.</em></span>
