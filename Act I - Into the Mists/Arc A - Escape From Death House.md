@@ -15,7 +15,7 @@ Una vez dentro, los jugadores quedan atrapados y se les dice que un monstruo los
 
 Si los jugadores matan al monstruo, la casa comienza a derrumbarse, obligándolos a huir o perderse entre los escombros. Al salir, descubren que su entorno ha cambiado, transportándolos a la tierra oscura de Barovia.
 
-> [!lore]+ **The History of Death House**
+> [!lore]+ **La historia de la Casa de la Muerte**
 > Ver [[History of Barovia#Los primeros seguidores de Strahd|Los primeros seguidores de Strahd]] para un recuento completo de la  historia de la Casa de la muerte.
 # A1. Daggerford
 ## A1a. La Brida de Pesadilla
