@@ -1,6 +1,5 @@
 *Una aventura para cinco personajes de segundo nivel.*
 
-<<<<<<< HEAD
 > [!tip]+ **Una muestra de terror**
 > Las siguientes páginas contienen una guía de los primeros actos de la campaña: **Acto I: Adentrándose en las Nieblas**, **Acto II: El Pueblo Sombrío** y el primer tercio del **Acto III: La Tierra Rota **. Se espera que haya actualizaciones periódicas que proporcionen contenido adicional en el subreddit /r/CurseOfStrahd.
 >
