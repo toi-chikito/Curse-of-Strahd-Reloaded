@@ -366,124 +366,130 @@ Los jugadores no reconocen el nombre "Strahd von Zarovich".
 > [!design]- **Nota de Diseño: Eliminando la Escritura**
 > Los jugadores que encuentran la escritura de Old Bonegrinder en el cofre secreto a menudo llegan a la conclusión errónea de que robar la escritura los convierte en los nuevos propietarios del molino. Como resultado, es probable que intenten explorar el molino durante [[Arco C - En el Valle]], lo que desencadenaría un conflicto con el aquelarre de brujas de la noche y, sin culpa suya, un probable TPK (total party kill). Por lo tanto, la escritura ha sido eliminada para ayudar a evitar este resultado.
 
-## A2d. The Third Floor
-As the players ascend the spiral stairs to the third floor, remind them that they can see down the center of the staircase all the way to the bottom floor.
-### Balcony
-<span class="citation"><em>This scene takes place in Appendix B: Area 11.</em></span>
+## A2d. El Tercer Piso
+A medida que los jugadores ascienden por las escaleras en espiral hacia el tercer piso, recuérdales que pueden ver el centro de la escalera hasta el piso inferior.
 
-This room is largely as described in <span class="citation">Balcony (p. 214)</span>. When the players enter this room, read:
+### Balcón
+<span class="citation"><em>Esta escena tiene lugar en el Apéndice B: Área 11.</em></span>
+
+Esta habitación es en gran parte como se describe en <span class="citation">Balcón (p. 214)</span>. Cuando los jugadores entren en esta habitación, lee:
 
 <div class="description">
-<p>You climb the red marble staircase to its full height, arriving at a dusty balcony. The air here is dry and musty, but tinged with a strange, coppery scent. </p>
-<p>A suit of black plate armor stands against one wall, draped in cobwebs and marked by age. Oil lamps are mounted on the faded oak-paneled walls, which are carved with woodland scenes of trees, falling leaves, and tiny beasts.</p>
+<p>Subes la escalera de mármol rojo hasta su altura máxima, llegando a un balcón polvoriento. El aire aquí es seco y rancio, pero con un extraño aroma a cobre.</p>
+<p>Una armadura de placas negra se encuentra contra una pared, cubierta de telarañas y marcada por la edad. Lámparas de aceite están montadas en las paredes de roble descolorido, que están talladas con escenas de bosques, árboles, hojas caídas y pequeñas bestias.</p>
 </div>
 
-When triggered, the **animated armor** will use one or both of its **_multiattack_** attacks to attempt to push a player over the railing using a ***shove*** attack, or attempt to grapple its nearest target before shoving them prone.
+Cuando se activa, la **armadura animada** utilizará uno o ambos de sus ataques de **_multiataque_** para intentar empujar a un jugador sobre la barandilla usando un ataque de ***empujón***, o intentar agarrar a su objetivo más cercano antes de derribarlo.
 
-If the armor is thrown down to the first floor and the players do not reveal their presence atop the balcony, it is unable to observe them with its sixty feet of blindsight, and is too stupid to think to climb back up. 
+Si la armadura es lanzada al primer piso y los jugadores no revelan su presencia en el balcón, la armadura no puede observarlos con sus sesenta pies de visión ciega, y es demasiado tonta para pensar en subir de nuevo.
 
-A creature that is pushed over the edge of the balcony falls two stories, or twenty feet, and takes 2d6 bludgeoning damage. That creature must succeed on a DC 15 Dexterity (Acrobatics) check or land prone.
+Una criatura que es empujada por el borde del balcón cae dos pisos, o veinte pies, y recibe 2d6 puntos de daño contundente. Esa criatura debe tener éxito en una prueba de Destreza (Acrobacias) DC 15 o caerá derribada.
 
-> [!combat]- **Balancing the Animated Armor**
-> This combat encounter is a **mild** encounter against a party of five 2nd-level players, and will consume approximately 15% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+> [!combat]- **Equilibrando la Armadura Animada**
+> Este encuentro de combate es un encuentro **leve** contra un grupo de cinco jugadores de nivel 2, y consumirá aproximadamente el 15% de su total de puntos de vida máxima. Para grupos de tamaños más pequeños o más grandes, modifica el encuentro de la siguiente manera:
 > 
-> * ***Three Players.*** Reduce the armor’s HP to 12.
-> * ***Four Players.*** Reduce the armor’s HP to 21.
-> * ***Six Players.*** Increase the armor’s HP to 48.
-### Master Suite
-<span class="citation"><em>This scene takes place in Appendix B: Area 12.</em></span>
+> * ***Tres Jugadores.*** Reduce los puntos de vida de la armadura a 12.
+> * ***Cuatro Jugadores.*** Reduce los puntos de vida de la armadura a 21.
+> * ***Seis Jugadores.*** Aumenta los puntos de vida de la armadura a 48.
 
-When a player first approaches this door, read:
+### Suite Principal
+<span class="citation"><em>Esta escena tiene lugar en el Apéndice B: Área 12.</em></span>
 
-<div class="description">
-<p>These grand doors loom tall, their dark wood frames enclosing a pair of dusty stained-glass windows. Each pane is etched with intricate designs that resemble windmills, their once-vibrant hues now faded and obscured beneath a thick veil of grime.</p>
-<p>Through the dusty haze that prickles your eyes , you catch a glimpse of something through the windows: a silhouette, standing mere inches behind the glass, lit from behind by a dim, amber glow. It's still and unmoving, but the mere sight of it seizes your muscles in a vice-like grip, your limbs refusing to obey your conscious mind.</p>
-<p>The air around you thickens, its temperature plummeting to a bone-chilling cold. Your breath fogs the glass panes, a delicate frost creeping across them as the house's distant creaks and whispers are swallowed by a heavy silence.</p>
-<p>The shadow behind the door is nearly formless—insubstantial—but its presence invokes a primordial dread deep within your marrow. Your heart beats faster, sweat beading on your forehead, pulse racing through your veins. Slowly, the silhouette begins to turn its head toward yours.</p>
-<p>And then, just as suddenly as it appeared, the shadow evaporates. The biting cold ebbs away, and the house's quiet sounds return once more.</p>
-</div>
-
-This room is largely as described in <span class="citation">Master Suite (p. 214)</span>. When the players enter this room, read:
+Cuando un jugador se acerque por primera vez a esta puerta, lee:
 
 <div class="description">
-<p>You enter a dusty, cobweb-filled master bedroom with burgundy drapes covering the windows. A four-poster bed with embroidered curtains and tattered gossamer veils stands against the center wall.</p>
-<p>A door facing the foot of the bed has a faded full-length mirror mounted on it. In the right-hand corner of the room stands a small wooden door, its surface half-rotted by age. A tarnished metal button is set into the wall beside it.</p>
-<p>A rotting tiger-skin rug lies on the floor in front of the fireplace, which has a dust-covered portrait of the man and woman from the first-floor portrait hanging above it. A web-filled parlor in the southwest corner contains two chairs and a table holding several items, as well as a door with a dark, dirt-flecked window. </p>
-<p>The room also contains a matching pair of wardrobes, a padded chair, and a vanity with a wood-framed mirror and a silver jewelry box. A soft amber glow emanates from beneath the jewelry box's lid.</p>
+<p>Estas puertas majestuosas se elevan altas, sus marcos de madera oscura encierran un par de ventanas de vidrio teñido polvoriento. Cada panel está grabado con diseños intrincados que parecen molinos de viento, cuyos colores vibrantes se han desvanecido y están cubiertos por una gruesa capa de mugre.</p>
+<p>A través de la neblina polvorienta que te pica los ojos, vislumbras algo a través de las ventanas: una silueta, de pie a pocos centímetros detrás del vidrio, iluminada desde atrás por un tenue resplandor ámbar. Está quieta e inmóvil, pero la mera vista de ella te paraliza los músculos, tus extremidades se niegan a obedecer a tu mente consciente.</p>
+<p>El aire a tu alrededor se espesa, su temperatura cae en picado a un frío que cala los huesos. Tu aliento empaña los vidrios, una escarcha delicada se extiende sobre ellos mientras los crujidos y susurros distantes de la casa son tragados por un pesado silencio.</p>
+<p>La sombra detrás de la puerta es casi informe—insustancial—pero su presencia invoca un miedo primordial en lo profundo de tu médula. Tu corazón late más rápido, el sudor se acumula en tu frente, el pulso corre por tus venas. Lentamente, la silueta comienza a girar su cabeza hacia la tuya.</p>
+<p>Y luego, tan repentinamente como apareció, la sombra se evapora. El frío mordiente se disipa, y los sonidos tranquilos de la casa regresan una vez más.</p>
 </div>
 
-***The Bed.*** A player that approaches the bed can see that a large, bloodstained kitchen knife has been driven into one of the pillows.
+Esta habitación es en gran parte como se describe en <span class="citation">Suite Principal (p. 214)</span>. Cuando los jugadores entren en esta habitación, lee:
 
-***The Jewelry Box.*** The jewelry box is empty of valuables. Instead, it is filled with grain, with an *amber shard* resting in the center of the box. (This amber shard is the unique key to the secret door in the [[#Library]].) 
+<div class="description">
+<p>Entras en un dormitorio principal polvoriento, lleno de telarañas, con cortinas de color burdeos que cubren las ventanas. Una cama con dosel con cortinas bordadas y velos de gasa deshilachados se encuentra contra la pared central.</p>
+<p>Una puerta frente al pie de la cama tiene un espejo de cuerpo entero descolorido montado en ella. En la esquina derecha de la habitación hay una pequeña puerta de madera, su superficie medio podrida por la edad. Un botón de metal deslustrado está incrustado en la pared junto a ella.</p>
+<p>Una alfombra de piel de tigre podrida yace en el suelo frente a la chimenea, que tiene un retrato cubierto de polvo del hombre y la mujer del retrato del primer piso colgado sobre ella. Un salón lleno de telarañas en la esquina suroeste contiene dos sillas y una mesa con varios objetos, así como una puerta con una ventana oscura y llena de suciedad.</p>
+<p>La habitación también contiene un par de guardarropas a juego, una silla acolchada y un tocador con un espejo enmarcado en madera y una caja de joyas de plata. Un suave resplandor ámbar emana desde debajo de la tapa de la caja de joyas.</p>
+</div>
 
-A roll of parchment is half-buried in the grain beside the shard. If unfurled, it reads as follows:
+***La Cama.*** Un jugador que se acerque a la cama puede ver que un gran cuchillo de cocina ensangrentado ha sido clavado en una de las almohadas.
+
+***La Caja de Joyas.*** La caja de joyas está vacía de objetos de valor. En cambio, está llena de grano, con un *fragmento de ámbar* descansando en el centro de la caja. (Este fragmento de ámbar es la llave única para la puerta secreta en la [[#Biblioteca]].)
+
+Un rollo de pergamino está medio enterrado en el grano junto al fragmento. Si se desenrolla, lee lo siguiente:
 
 <div class="description">
 <p>Drasha,</p>
-<p>I have selected you as the Beast’s custodian in my absence. Should the Beast grow unruly or show signs of agitation while I am away, I have left this amber shard to weaken it and soothe its fury.</p>
-<p>Should the need arise, present the shard and speak the Beast's name; if you speak with conviction, it shall obey you in my stead, if only for a time. But be sure to begone from the house before it awakens fully at midnight.</p>
-<p>So long as the Beast draws breath, it—not you—is the heart of this house, and no meal shall ever sate its appetite. Should you linger in its domain, it will mean doom for you all.</p>
+<p>Te he seleccionado como el custodio de la Bestia en mi ausencia. Si la Bestia se vuelve incontrolable o muestra signos de agitación mientras estoy fuera, he dejado este fragmento de ámbar para debilitarla y calmar su furia.</p>
+<p>Si surge la necesidad, presenta el fragmento y di el nombre de la Bestia; si hablas con convicción, te obedecerá en mi lugar, aunque solo sea por un tiempo. Pero asegúrate de salir de la casa antes de que despierte completamente a medianoche.</p>
+<p>Mientras la Bestia respire, ella—no tú—es el corazón de esta casa, y ninguna comida saciará jamás su apetito. Si permaneces en su dominio, significará tu perdición.</p>
 <p>Elisabeth</p>
 </div>
 
-See **Elisabeth's Amber Shard** in [[#Ritual Chamber]] below for more information about the amber shard.
+Consulta **El Fragmento de Ámbar de Elisabeth** en [[#Cámara del Ritual]] abajo para obtener más información sobre el fragmento de ámbar.
 
-***The Balcony.*** A player that exits the bedroom onto the balcony sees only a wall of fleshy tendrils encompassing the exterior of the house. The tendrils are as described in [[#Main Hall]].
-### Bathroom
-<span class="citation"><em>This scene takes place in Appendix B: Area 13.</em></span>
+***El Balcón.*** Un jugador que salga del dormitorio al balcón solo verá una pared de zarcillos carnosos que rodean el exterior de la casa. Los zarcillos se describen en [[#Salón Principal]].
 
-This room is as described in <span class="citation">Bathroom (p. 215)</span>.
-### Storage Room
-<span class="citation"><em>This scene takes place in Appendix B: Area 14.</em></span>
+### Baño
+<span class="citation"><em>Esta escena tiene lugar en el Apéndice B: Área 13.</em></span>
 
-This room is largely as described in <span class="citation">Storage Room (p. 215)</span>. When the players enter it, read:
+Esta habitación es como se describe en <span class="citation">Baño (p. 215)</span>.
 
-<div class="description">
-<p>Dusty shelves line the walls of this room. A few of the shelves have folded sheets, blankets, and old bars of soap on them. A cobweb-covered broom leans against the far wall.</p>
-</div>
+### Cuarto de Almacenamiento
+<span class="citation"><em>Esta escena tiene lugar en el Apéndice B: Área 14.</em></span>
 
-When a player first approaches within 5 feet of the **broom of animated attack**, it attacks with surprise as soon as they avert their eyes or turn away, thwacking them once upside the head. It then immediately returns to its initial position—now cobweb-free. On its future turns, the broom uses its **_multiattack_** to continue to attack any player not looking at it who remains within 5 feet, foregoing opportunity attacks against players that move away.
-### Nursemaid’s Suite
-<span class="citation"><em>This scene takes place in Appendix B: Area 15.</em></span>
-
-This room is largely as described in <span class="citation">Nursemaid’s Suite (p. 217)</span>. When the players enter it, read:
+Esta habitación es en gran parte como se describe en <span class="citation">Cuarto de Almacenamiento (p. 215)</span>. Cuando los jugadores entren, lee:
 
 <div class="description">
-<p>Dust and cobwebs shroud this elegantly appointed bedroom. A large bed stands against the far wall, its once-opulent coverings now faded and threadbare. </p>
-<p>Beside the bed, a mildew-covered towel covers most of a dusty yellowed book on one of its two end tables. On the far side of the room, you can see a pair of two more stained-glass doors, their windows flecked with dirt and grime.</p>
-<p>To the left stands an empty wardrobe, its doors slightly ajar. Mounted beside it stands a full-length mirror, its wooden frame carved to resemble ivy and berries.</p>
-<p>To the right, an empty doorway leads into a darkened nursery. You can see the silhouette of a crib, its quiet form veiled by a hanging black shroud. A strange substance seems to cover the floor beneath it.</p>
-<p>As you look around the room, you notice that the blankets atop the bed lift slightly away from the mattress, as though something is lying atop the mattress beneath. As you watch, you can see the coverings, almost imperceptibly, slowly rise and fall with low, rhythmic rustling.</p>
+<p>Estantes polvorientos cubren las paredes de esta habitación. Algunos de los estantes tienen sábanas dobladas, mantas y viejas barras de jabón. Una escoba cubierta de telarañas está apoyada contra la pared del fondo.</p>
 </div>
 
-***The Bed.*** A player that removes the covers from the bed finds that there is nothing beneath them. Instead, the player only finds a bloodstained mattress and crude hand-and-foot restraints made from barbed wire nailed to the four posts of the bed frame.
+Cuando un jugador se acerque por primera vez a menos de 5 pies de la **escoba de ataque animada**, esta ataca por sorpresa tan pronto como aparten la vista o se den la vuelta, golpeándolos una vez en la cabeza. Luego regresa inmediatamente a su posición inicial—ahora libre de telarañas. En sus futuros turnos, la escoba usa su **_multiataque_** para continuar atacando a cualquier jugador que no la esté mirando y que permanezca a menos de 5 pies, renunciando a los ataques de oportunidad contra los jugadores que se alejen.
 
-***The Doors.*** A player that exits the bedroom through the stained-glass doors and onto the balcony sees only a wall of fleshy tendrils encompassing the exterior of the house. The tendrils are as described in [[#Main Hall]].
+### Suite de la Niñera
+<span class="citation"><em>Esta escena tiene lugar en el Apéndice B: Área 15.</em></span>
 
-***The Book.*** The book is a cobwebbed copy of a raunchy romance novel titled *Blue-Blooded Lips*. It tells the story of a peasant woman's romance with a wealthy duke.
-
-***The Nursery.*** The door to the nursery is closed. A player who approaches the door hears a young woman's quiet humming. (A player who has previously read or heard or heard the song in the [[#Conservatory]] recognizes the melody as *Waltz for Klara*.)
-
-If a player enters the nursery, the humming abruptly cuts off. Read:
+Esta habitación es en gran parte como se describe en <span class="citation">Suite de la Niñera (p. 217)</span>. Cuando los jugadores entren, lee:
 
 <div class="description">
-<p>The air in this small nursery is strangely warm and tinged with a coppery scent. Blood-red runes cover the walls, arranged in concentric circles around the crib in the center, which seems to have a name carved into its side. Strange, flesh-like tumors have grown along the floor around it in sparse clusters, and slowly pulsate as if they're breathing.</p>
-<p>Looking down, you notice that a small object seems to have fallen beneath the crib. In the distance, you can faintly hear the sound of an infant's soft whimpering.</p>
+<p>Polvo y telarañas cubren este dormitorio elegantemente decorado. Una gran cama se encuentra contra la pared del fondo, sus cobertores alguna vez opulentos ahora están descoloridos y raídos.</p>
+<p>Junto a la cama, una toalla cubierta de moho cubre la mayor parte de un libro amarillento y polvoriento en una de sus dos mesas de noche. En el lado opuesto de la habitación, puedes ver un par de puertas más de vidrio teñido, con sus ventanas manchadas de suciedad y mugre.</p>
+<p>A la izquierda se encuentra un guardarropa vacío, con las puertas ligeramente entreabiertas. Montado junto a él hay un espejo de cuerpo entero, con un marco de madera tallado para parecerse a hiedra y bayas.</p>
+<p>A la derecha, una puerta vacía conduce a una guardería oscura. Puedes ver la silueta de una cuna, su forma tranquila velada por un dosel negro colgante. Una sustancia extraña parece cubrir el suelo debajo de ella.</p>
+<p>Mientras miras alrededor de la habitación, notas que las mantas sobre la cama se levantan ligeramente del colchón, como si algo estuviera acostado sobre el colchón debajo. Mientras observas, puedes ver las coberturas, casi imperceptiblemente, levantarse y caer con un susurro rítmico y bajo.</p>
 </div>
 
-The object is a severed human finger with several pieces of flesh stripped from it. Tiny toothmarks can be seen around the wounds. A DC 12 Wisdom (Medicine) check identifies the finger as a woman's, and the toothmarks as a human child's. 
+***La Cama.*** Un jugador que retire las coberturas de la cama encontrará que no hay nada debajo de ellas. En cambio, el jugador solo encontrará un colchón ensangrentado y toscas ataduras de manos y pies hechas de alambre de púas clavadas en los cuatro postes del marco de la cama.
 
-The name "Walter" has been lovingly carved into the head of the crib. A successful DC 14 Intelligence (Arcana) identifies the runes around it as dark necromantic magic.
+***Las Puertas.*** Un jugador que salga del dormitorio a través de las puertas de vidrio teñido y al balcón solo verá una pared de zarcillos carnosos que rodean el exterior de la casa. Los zarcillos se describen en [[#Salón Principal]].
 
-***The Mirror.*** The nursemaid’s **specter** does not appear in this room. Instead, when a player approaches the mirror, the nursemaid’s spirit appears as an apparition in the glass.
+***El Libro.*** El libro es una copia cubierta de telarañas de una novela romántica picante titulada *Labios de Sangre Azul*. Cuenta la historia del romance de una mujer campesina con un duque adinerado.
 
-The spirit resembles a pale, skeletally thin young woman, with all of her fingers and toes removed, her eyes sewn shut, and her lips and teeth torn from her mouth. Countless knife-thin scars line her entire body, including the flesh around her wrists and ankles, and her hair has been carelessly hacked to stubble.
+***La Guardería.*** La puerta de la guardería está cerrada. Un jugador que se acerque a la puerta escucha el suave tarareo de una joven. (Un jugador que haya leído o escuchado la canción en el [[#Invernadero]] reconoce la melodía como *Vals para Klara*).
 
-Though its appearance is disturbing, players observing the spirit feel that it is simply watching them with shy curiosity.
+Si un jugador entra en la guardería, el tarareo se corta abruptamente. Lee:
 
-The spirit can neither speak aloud nor exit the mirror. However, it shows no hostility toward the players, and can answer basic questions by nodding or shaking its head. It knows everything that the nursemaid did in life. It shows fear at any mention of Mrs. Durst’s name, sorrow at any mention of Mr. Durst’s, melancholic fondness at any mention of Rose or Thorn, and despair at any mention of Walter.
+<div class="description">
+<p>El aire en esta pequeña guardería es extrañamente cálido y tiene un aroma a cobre. Runas rojas de sangre cubren las paredes, dispuestas en círculos concéntricos alrededor de la cuna en el centro, que parece tener un nombre tallado en su costado. Tumores extraños, parecidos a carne, han crecido a lo largo del suelo a su alrededor en grupos dispersos, y laten lentamente como si estuvieran respirando.</p>
+<p>Al mirar hacia abajo, notas que un pequeño objeto parece haber caído debajo de la cuna. A lo lejos, puedes escuchar débilmente el sonido de un suave gemido infantil.</p>
+</div>
 
-If the players ask the spirit for aid in reaching the basement or finding the “monster,” the spirit steps aside—vanishing from sight—and the secret door behind the mirror slowly swings open. The spirit does not return.
+El objeto es un dedo humano cercenado con varios pedazos de carne arrancados. Se pueden ver pequeñas marcas de dientes alrededor de las heridas. Una prueba de Sabiduría (Medicina) DC 12 identifica el dedo como de una mujer, y las marcas de dientes como de un niño humano.
+
+El nombre "Walter" ha sido tallado con cariño en la cabecera de la cuna. Una prueba de Inteligencia (Arcana) DC 14 identifica las runas alrededor como magia oscura necromántica.
+
+***El Espejo.*** El **espectro** de la niñera no aparece en esta habitación. En cambio, cuando un jugador se acerca al espejo, el espíritu de la niñera aparece como una aparición en el vidrio.
+
+El espíritu se parece a una joven pálida y esquelética, con todos sus dedos y dedos de los pies removidos, sus ojos cosidos, y sus labios y dientes arrancados de su boca. Innumerables cicatrices finas como cuchillas cubren todo su cuerpo, incluyendo la carne alrededor de sus muñecas y tobillos, y su cabello ha sido cortado descuidadamente a rastrojos.
+
+Aunque su apariencia es perturbadora, los jugadores que observen al espíritu sienten que simplemente los está observando con tímida curiosidad.
+
+El espíritu no puede hablar en voz alta ni salir del espejo. Sin embargo, no muestra hostilidad hacia los jugadores y puede responder preguntas básicas asintiendo o negando con la cabeza. Sabe todo lo que la niñera sabía en vida. Muestra miedo ante cualquier mención del nombre de la Sra. Durst, tristeza ante cualquier mención del Sr. Durst, afecto melancólico ante cualquier mención de Rose o Thorn, y desesperación ante cualquier mención de Walter.
+
+Si los jugadores piden al espíritu ayuda para llegar al sótano o encontrar el “monstruo”, el espíritu se aparta—desapareciendo de la vista—y la puerta secreta detrás del espejo se abre lentamente. El espíritu no regresa.
+
 ## A2e. The Attic
 ### Attic Hall
 <span class="citation"><em>This scene takes place in Appendix B: Area 16.</em></span>
