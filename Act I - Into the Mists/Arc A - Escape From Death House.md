@@ -161,203 +161,210 @@ El reloj antiguo entonces marca las seis en punto.
 >
 > - Un jugador escucha ratas rasguñando arriba y abajo entre las paredes. Un espeso y asfixiante hedor a podredumbre se filtra en la habitación.
 > - Un jugador escucha el sonido del tarareo de una mujer emanando desde el lado opuesto de una puerta cerrada. Si la puerta se abre un poco, un ojo azul frío mira fijamente antes de desaparecer.
-> - Un jugador escucha pasos descendiendo desde el ático, que se detienen fuera de su puerta antes de alejarse hacia la biblioteca. Poco después, se puede escuchar el ruido de algo arrastrándose proveniente de la biblioteca, el sonido de la puerta secreta.
+> - Un jugador escucha pasos descendiendo desde el ático, que se detienen fuera de su puerta antes de alejarse hacia la biblioteca. Poco después, se puede escuchar el ruido de algo raspando el suelo proveniente de la biblioteca, el sonido de la puerta secreta.
 > - Un jugador escucha risas maníacas resonando desde muy abajo de la casa.
 > - Un jugador escucha una voz femenina suplicante en su oído derecho que jura que "no es de él". Otra voz femenina más fría en el oído izquierdo del jugador se burla y dice: "Tú dirías eso, pequeña *meretriz*."
 
 
 Un jugador que abra cualquier puerta o cortina que de al exterior en la Casa de la Muerte, o que salga a cualquier balcón, descubre que el exterior de la casa ha sido rodeado por gruesos tentáculos carnosos. Aunque los tentáculos pueden ser dañados, más crecen rápidamente para reemplazarlos, sellando a los jugadores dentro. Un jugador que inspeccione los tentáculos descubre que parecen estar extruyéndose desde debajo de la casa.
-## A2b. The First Floor
-### Cloakroom
-<span class="citation"><em>This scene takes place in Appendix B: Area 2.</em></span>
+## A2b. El Primer Piso
 
-A player who investigates the cloakroom adjoining the Main Hall can observe an envelope poking from the pocket of one of the cloaks. The envelope, which is addressed to Lady Lovina Wachter, contains an invitation. It reads:
+### Guardarropa
+<span class="citation"><em>Esta escena tiene lugar en el Apéndice B: Área 2.</em></span>
+
+Un jugador que investigue el guardarropa adyacente al Salón Principal puede observar un sobre que sobresale del bolsillo de uno de los abrigos. El sobre, que está dirigido a Lady Lovina Wachter, contiene una invitación. Dice:
 
 <div class="description" style="text-align:center; padding: 15px;">
-You are cordially invited to join 
-<div style="height: 3px;"></div>
-<strong>MR. GUSTAV & ELISABETH DURST</strong>
-<div style="height: 3px;"></div>
-for a celebration of the one-year anniversary of the Durst Mill.
-<div style="height: 3px;"></div>
-<strong><em>The Durst Residence, Barovia Village</em></strong>
-<div style="height: 3px;"></div>
-6 o'clock p.m.
-<br>
-13 Neyavr, 348
-<div style="height: 3px;"></div>
-<em>Dinner and refreshments to be served.</em>
+    Está cordialmente invitado a unirse a 
+    <div style="height: 3px;"></div>
+    <strong>SR. GUSTAV & ELISABETH DURST</strong>
+    <div style="height: 3px;"></div>
+    para una celebración del primer aniversario del Molino Durst.
+    <div style="height: 3px;"></div>
+    <strong><em>La Residencia Durst, Pueblo de Barovia</em></strong>
+    <div style="height: 3px;"></div>
+    6 de la tarde
+    <br>
+    13 Neyavr, 348
+    <div style="height: 3px;"></div>
+    <em>Se servirán cena y refrescos.</em>
 </div>
 
-### Den of Wolves
-<span class="citation"><em>This scene takes place in Appendix B: Area 3.</em></span>
+### Guarida de Lobos
+<span class="citation"><em>Esta escena tiene lugar en el Apéndice B: Área 3.</em></span>
 
-This room is largely as described in <span class="citation">Den of Wolves (p. 212)</span>. As the players enter this room, read:
+Esta habitación es en gran parte como se describe en <span class="citation">Guarida de Lobos (p. 212)</span>. Al entrar los jugadores a esta habitación, lee:
 
 <div class="description">
-<p>As you crack the door to this room open, you catch a glimpse of something feral beyond: an amber eye that flashes in the darkness, and a bestial muzzle curled into a snarl.</p>
+    <p>Cuando abres la puerta de esta habitación, vislumbras algo salvaje más allá: un ojo ámbar que destella en la oscuridad y un hocico bestial curvado en un gruñido.</p>
 </div>
 
-If the players proceed, read:
+Si los jugadores proceden, lee:
 
 <div class="description">
-<p>The door cracks open, revealing a gray-furred wolf frozen into place. It's only a moment before you realize that it's not moving—and another before you realize that it's not alone.</p>
-<p>This oak-paneled room looks like a hunter's den. Mounted above the fireplace is a stag's head, and positioned around the outskirts of the room are two additional stuffed wolves—a large gray wolf and a smaller brown wolf.</p>
-<p>Two padded chairs draped in animal furs face a hearth, with an oak table between them supporting an assortment of objects. A chandelier hangs above a cloth-covered table surrounded by four chairs, and two cabinets stand against the walls. A pair of small toys seems to have been forgotten beneath one of the chairs.</p>
+    <p>La puerta se abre, revelando un lobo de pelaje gris congelado en su lugar. Solo pasa un momento antes de que te des cuenta de que no se está moviendo, y otro antes de que te des cuenta de que no está solo.</p>
+    <p>Esta habitación revestida de paneles de roble parece la guarida de un cazador. Montado sobre la chimenea hay una cabeza de ciervo, y posicionados alrededor de los bordes de la habitación hay dos lobos disecados adicionales: un gran lobo gris y un lobo marrón más pequeño.</p>
+    <p>Dos sillas acolchadas cubiertas con pieles de animales enfrentan una chimenea, con una mesa de roble entre ellas que soporta una variedad de objetos. Un candelabro cuelga sobre una mesa cubierta con un mantel rodeada por cuatro sillas, y dos armarios están situados a cada lado.</p>
 </div>
 
-The discarded toys are small, plush gray wolves, whose threadbare coats show evidence of heavy mending and patchwork. Clumsy stitchwork on their stomachs reads ROSE and THORN, respectively.
 
-In addition to its other contents, the east cabinet contains three silvered crossbow bolts mixed in with the other twenty bolts. Meanwhile, the north cabinet also contains a mounted piece of child's needlework that depicts a boy and girl holding the hands of a young woman, alongside clumsily stitched words that read FOR MISS KLARA. The young woman's face has been slashed and cut out.
+Los juguetes desechados son pequeños lobos de peluche gris, cuyos abrigos raídos muestran evidencia de muchas reparaciones y remiendos. Torpes puntadas en sus estómagos leen ROSE y THORN, respectivamente.
 
-The first time that no players are looking at them, the three taxidermied wolves move. When the players next look at them, the large gray wolf is standing beside the smaller brown wolf, and the first gray wolf has turned its snarl toward the others.
+Además de sus otros contenidos, el gabinete este contiene tres virotes de ballesta plateados mezclados con los otros veinte virotes. Mientras tanto, el gabinete norte también contiene una pieza de bordado infantil que representa a un niño y una niña tomados de la mano de una joven, junto con palabras torpemente bordadas que dicen PARA LA SRTA. KLARA. El rostro de la joven ha sido rajado y cortado.
 
-A player that succeeds on a DC 12 Intelligence (Nature) check can identify the large gray wolf as male and the other two as female.
-### Dining Room
-<span class="citation"><em>This scene takes place in Appendix B: Area 5.</em></span>
+La primera vez que ningún jugador los está mirando, los tres lobos disecados se mueven. Cuando los jugadores los vuelven a mirar, el gran lobo gris está parado al lado del lobo marrón más pequeño, y el primer lobo gris ha girado su gruñido hacia los otros.
 
-Players that approach this door can hear the muffled sound of a lively dinner feast, including clinking glasses, quiet laughter, and distant conversation. If the players open or knock on the door, however, the room falls silent, leaving only the stillness and the cold grandeur of the room beyond.
+Un jugador que tenga éxito en una prueba de Inteligencia (Naturaleza) DC 12 puede identificar al gran lobo gris como macho y a los otros dos como hembras.
+### Comedor
+<span class="citation"><em>Esta escena tiene lugar en el Apéndice B: Área 5.</em></span>
 
-This room is largely as described in <span class="citation">Dining Room (p. 213)</span>. When the players enter it, read:
+Los jugadores que se acerquen a esta puerta pueden escuchar el sonido amortiguado de un animado banquete, incluyendo el tintineo de copas, risas suaves y conversaciones distantes. Sin embargo, si los jugadores abren o tocan la puerta, la habitación queda en silencio, dejando solo la quietud y la fría grandeza de la sala más allá.
+
+Esta habitación es en gran parte como se describe en <span class="citation">Comedor (p. 213)</span>. Cuando los jugadores entren, lee:
 
 <div class="description">
-<p>You enter into a wood-paneled dining room. The centerpiece is a carved mahogany table surrounded by eight high-backed chairs with sculpted armrests and cushioned seats. A crystal chandelier hangs above the table, which is set with resplendent silverware and crystal glasses polished to a dazzling shine. Mounted above the marble fireplace is a mahogany-framed painting of an alpine vale.</p>
-<p>The wall paneling is carved with elegant images of deer among the trees. Red silk drapes cover the windows, and a tapestry hangs from an iron rod bolted to the south wall.</p>
-<p>The table groans beneath the weight of a delicious-looking feast. Exquisite dishes lay on grand platters: succulent roasted poultry glazed with a shimmering honey sauce, perfectly grilled cuts of beef still steaming lightly, a variety of cheeses and fresh fruits, and freshly baked breads giving off a comforting aroma. </p>
+<p>Entras en un comedor con paneles de madera. El centro de atención es una mesa de caoba tallada, rodeada por ocho sillas de respaldo alto con reposabrazos esculpidos y asientos acolchonados. Un candelabro de cristal cuelga sobre la mesa, que está puesta con resplandecientes cubiertos de plata y copas de cristal pulidas a un brillo deslumbrante. Sobre la chimenea de mármol está montado un cuadro con un marco de caoba de un valle alpino.</p>
+<p>El panelado de las paredes está tallado con elegantes imágenes de ciervos entre los árboles. Cortinas de seda roja cubren las ventanas, y un tapiz cuelga de una barra de hierro atornillada a la pared sur.</p>
+<p>La mesa se queja bajo el peso de un festín de aspecto delicioso. Exquisitos platos se encuentran en grandiosos platones: aves de corral asadas y glaseadas con una reluciente salsa de miel, cortes de res perfectamente asados que aún emiten vapor, una variedad de quesos y frutas frescas, y panes recién horneados que desprenden un aroma reconfortante.</p>
 </div>
 
-A player who partakes in the food suffers no ill effects.
-### Kitchen and Pantry
-<span class="citation"><em>This scene corresponds to Appendix B: Area 4.</em></span>
+Un jugador que pruebe la comida no sufre ningún efecto adverso.
 
-This room is largely as described in <span class="citation">Kitchen and Pantry (p. 213)</span>. When the players enter this room, read:
+### Cocina y Despensa
+<span class="citation"><em>Esta escena corresponde al Apéndice B: Área 4.</em></span>
+
+Esta habitación es en gran parte como se describe en <span class="citation">Cocina y Despensa (p. 213)</span>. Cuando los jugadores entren, lee:
 
 <div class="description">
-<p>You enter a tidy kitchen, with dishware, cookware, and utensils neatly placed on shelves. A worktable has a cutting board and rolling pin atop it. A stone, dome-shaped oven stands near the east wall, its bent iron stovepipe connecting to a hole in the ceiling. Behind the stove and to the left is a thin door.</p>
-<p>In the front right-hand corner of the room stands a small wooden door set into the wall.</p>
+<p>Entras en una cocina ordenada, con vajilla, utensilios de cocina y cubiertos colocados ordenadamente en los estantes. Una mesa de trabajo tiene una tabla de cortar y un rodillo encima. Un horno de piedra en forma de cúpula se encuentra cerca de la pared este, su tubo de hierro doblado conectándose a un agujero en el techo. Detrás de la estufa y a la izquierda hay una puerta delgada.</p>
+<p>En la esquina delantera derecha de la habitación hay una pequeña puerta de madera incrustada en la pared.</p>
 </div>
 
-If the players inspect the cookware, they find that the largest kitchen knife is missing.
+Si los jugadores inspeccionan los utensilios de cocina, encuentran que falta el cuchillo de cocina más grande.
 
-A player who enters the pantry finds that one of the shelves contains a set of beautiful decorative plates painted with pictures of windmills. One of the plates appears to have been knocked off of the shelf and lies in shattered pieces on the floor, leaving an empty spot in the row of plates.
+Un jugador que entre en la despensa encuentra que uno de los estantes contiene un conjunto de hermosos platos decorativos pintados con imágenes de molinos de viento. Uno de los platos parece haber sido derribado del estante y yace hecho pedazos en el suelo, dejando un espacio vacío en la fila de platos.
 
-A few inches behind the empty spot on the shelf sits an antique copper pot, its lid slightly ajar. Peeking out from beneath the lid is the cork of what appears to be a bottle of wine.
+A unos centímetros detrás del espacio vacío en el estante hay una olla de cobre antigua, con la tapa ligeramente entreabierta. Asomando por debajo de la tapa está el corcho de lo que parece ser una botella de vino.
 
-A player who opens the pot finds it to contain a bottle of wine, a folded piece of delicate lace, a vial of a brownish dried powder, and a bouquet of wilted sunflowers tied to a small scroll of parchment.
+Un jugador que abra la olla encuentra que contiene una botella de vino, un trozo de encaje delicado doblado, un frasco de polvo seco marrón, y un ramo de girasoles marchitos atados a un pequeño pergamino.
 
-* The wine's label shows that it is from the Wizard of Wines winery and provides the name of the wine: Champagne du le Stomp. (A player that drinks the wine finds it to have turned to vinegar, as though it has magically aged centuries in mere moments.)
-* The piece of lace bears the initial "K" sewn onto one corner. 
-* A successful DC 14 Intelligence (Nature) check identifies the brown powder as dried silphium, a contraceptive herb. 
-* The parchment scroll reads: "For the light of my life. —G."
+* La etiqueta del vino muestra que proviene de la bodega Wizard of Wines y proporciona el nombre del vino: Champagne du le Stomp. (Un jugador que beba el vino descubre que se ha convertido en vinagre, como si mágicamente hubiera envejecido siglos en solo unos momentos.)
+* El trozo de encaje tiene la inicial "K" cosida en una esquina.
+* Una prueba exitosa de Inteligencia (Naturaleza) DC 14 identifica el polvo marrón como silfio seco, una hierba anticonceptiva.
+* El pergamino dice: "Para la luz de mi vida. —G."
 
-If the players read the note, one of the knives in the kitchen flies off of its shelf and embeds itself in the opposite wall.
-## A2c. The Second Floor
-### Upper Hall
-<span class="citation"><em>This scene takes place in Appendix B: Area 6.</em></span>
+Si los jugadores leen la nota, uno de los cuchillos en la cocina vuela del estante y se incrusta en la pared opuesta.
 
-This room is largely as described in <span class="citation">Upper Hall (p. 213)</span>. When the players enter this room, read:
+## A2c. El Segundo Piso
+
+### Pasillo Superior
+<span class="citation"><em>Esta escena tiene lugar en el Apéndice B: Área 6.</em></span>
+
+Esta habitación es en gran parte como se describe en <span class="citation">Pasillo Superior (p. 213)</span>. Cuando los jugadores entren, lee:
 
 <div class="description">
-<p>Unlit oil lamps are mounted on the walls of this elegant hall. Hanging above the mantelpiece is a longsword with a windmill cameo worked into the hilt.</p>
-<p>Standing suits of armor flank wooden doors in the east and west walls. Each suit of armor clutches a spear and has a visored helm shaped like a wolf's head. The doors between them are carved with images of dancing youths.</p>
-<p>The red marble staircase continues its upward spiral to a third floor, a cold draft whispering down from above.</p>
+<p>Lámparas de aceite apagadas están montadas en las paredes de este elegante pasillo. Colgado sobre la repisa de la chimenea hay una espada larga con un camafeo de un molino de viento trabajado en la empuñadura.</p>
+<p>Armaduras de pie flanquean puertas de madera en las paredes este y oeste. Cada armadura sostiene una lanza y tiene un yelmo con visera en forma de cabeza de lobo. Las puertas entre ellas están talladas con imágenes de jóvenes danzantes.</p>
+<p>La escalera de mármol rojo continúa su espiral ascendente hacia un tercer piso, un frío viento susurrando desde arriba.</p>
 </div>
 
-### Servants’ Room
-<span class="citation"><em>This scene takes place in Appendix B: Area 7.</em></span>
+### Cuarto de los Sirvientes
+<span class="citation"><em>Esta escena tiene lugar en el Apéndice B: Área 7.</em></span>
 
-This room is largely as described in <span class="citation">Servants’ Room (p. 213)</span>. When the players enter this room, read:
+Esta habitación es en gran parte como se describe en <span class="citation">Cuarto de los Sirvientes (p. 213)</span>. Cuando los jugadores entren, lee:
 
 <div class="description">
-<p>This undecorated bedroom contains a pair of beds with straw-stuffed mattresses. At the foot of each bed is a closed foot locker. A door to the left appears to lead to a closet.</p>
-<p>In the right-hand corner stands a small wooden door, a metal button set into the wall beside it. A basket full of unwashed laundry appears to have been left beside it.</p>
+<p>Este dormitorio sin decorar contiene un par de camas con colchones rellenos de paja. Al pie de cada cama hay un baúl cerrado. Una puerta a la izquierda parece llevar a un armario.</p>
+<p>En la esquina derecha hay una pequeña puerta de madera, con un botón de metal incrustado en la pared junto a ella. Una canasta llena de ropa sucia parece haber sido dejada a su lado.</p>
 </div>
 
-The basket contains a man's laundry, including fine suits, tunics, neckties, pants, and stockings. However, a single, much-smaller woman's slip appears to have been mixed in with the rest.
-### Conservatory
-<span class="citation"><em>This scene takes place in Appendix B: Area 10.</em></span>
+La canasta contiene la ropa de un hombre, incluyendo trajes finos, túnicas, corbatas, pantalones y medias. Sin embargo, un camisón de mujer, mucho más pequeño, parece haberse mezclado con el resto.
 
-Players that approach this door can hear the faint sound of a harpsichord playing from beyond the doors. If the players open or knock on the door, however, the music falls silent.
+### Invernadero
+<span class="citation"><em>Esta escena tiene lugar en el Apéndice B: Área 10.</em></span>
 
-This room is largely as described in <span class="citation">Conservatory (p. 214)</span>. When the players enter it, read:
+Los jugadores que se acerquen a esta puerta pueden escuchar el sonido tenue de un clavecín tocando al otro lado de las puertas. Sin embargo, si los jugadores abren o tocan la puerta, la música cesa.
+
+Esta habitación es en gran parte como se describe en <span class="citation">Invernadero (p. 214)</span>. Cuando los jugadores entren, lee:
 
 <div class="description">
-<p>You enter into an elegantly appointed hall, the windows of which are covered by gossamer drapes. A brass-plated chandelier hangs from the ceiling, and upholstered chairs line the walls. </p>
-<p>Several stained-glass wall hangings depict beautiful men, women, and children singing and playing instruments. A harpsichord with a bench rests in the northwest corner. Near the fireplace is a large standing harp. Alabaster figurines of well-dressed dancers adorn the mantelpiece. </p>
+<p>Entras en un salón elegantemente decorado, cuyas ventanas están cubiertas con cortinas de gasa. Un candelabro de latón cuelga del techo, y sillas tapizadas alinean las paredes.</p>
+<p>Varios colgantes de vidrio pintado representan a hombres, mujeres y niños hermosos cantando y tocando instrumentos. Un clavecín con un banco descansa en la esquina noroeste. Cerca de la chimenea hay una gran arpa de pie. Figuras de alabastro de bailarines bien vestidos adornan la repisa de la chimenea.</p>
 </div>
 
-***The Harpsichord.*** A player who inspects the harpsichord finds that one of the keys appears to be permanently pressed in the "down" position. A player who investigates the interior of the harpsichord finds the cause: a rolled-up piece parchment tucked beneath one of the strings. 
+***El Clavecín.*** Un jugador que inspeccione el clavecín encontrará que una de las teclas parece estar permanentemente presionada en la posición "abajo". Un jugador que investigue el interior del clavecín encontrará la causa: un trozo de pergamino enrollado metido debajo de una de las cuerdas.
 
-The parchment is a piece of handwritten sheet music for the harpsichord titled *Waltz for Klara*. If the sheet music is played on the harpsichord, read:
+El pergamino es una pieza de partitura manuscrita para clavecín titulada *Vals para Klara*. Si la partitura se toca en el clavecín, lee:
 
 <div class="description">
-<p>As you press your fingers to the keys, the notes echo, a haunting melody filling the quiet, dusty room. As you continue to play, the music seems to take on a life of its own, your hands moving across the keys unbidden as if guided by an unseen force.</p>
-<p>From the edges of the room, spectral figures begin to materialize, spinning and weaving in a ghostly dance as though led by the song. Most are unfamiliar to you, but you recognize two: Elisabeth Durst, in the corner, watching Gustav's apparition dancing with a beautiful young woman wearing humble clothes.</p>
-<p>The eyes of Elisabeth's apparition narrow into a cold, furious stare. The dancers pay her little heed, however, the song growing faster as the spirits whirl to the rhythm of the harpsichord's crescendo.</p>
-<p>With a swift movement, Elisabeth reaches for a pendant around her spectral neck—a shimmering amber shard hung on a cord of ethereal mist. As her ghostly fist curls around it, her eyes flash a bright, menacing amber—and the spectral dancers dissipate, swept away as if by an unseen wind.</p>
-<p>Elisabeth's apparition lingers but a moment longer before disappearing with the rest. As it does, a sound resonates through the room: the low sound of scraping wood, originating from the room across the hall. The floor trembles faintly—and you hear a crash from the mantelpiece. Two of the alabaster figurines have fallen from their place on the shelf: one, toppled over on its side; the other, shattered across the floor.</p>
+<p>Cuando presionas tus dedos sobre las teclas, las notas resuenan, una melodía inquietante llena la habitación tranquila y polvorienta. A medida que continúas tocando, la música parece cobrar vida propia, tus manos moviéndose sobre las teclas sin control, como guiadas por una fuerza invisible.</p>
+<p>Desde los bordes de la habitación, figuras espectrales comienzan a materializarse, girando y tejiendo en un baile fantasmal como si fueran guiadas por la canción. La mayoría te son desconocidas, pero reconoces a dos: Elisabeth Durst, en la esquina, observando al espectro de Gustav bailando con una joven hermosa vestida con ropa humilde.</p>
+<p>Los ojos de la aparición de Elisabeth se estrechan en una fría y furiosa mirada. Sin embargo, los bailarines le prestan poca atención, la canción acelerándose mientras los espíritus giran al ritmo del crescendo del clavecín.</p>
+<p>Con un rápido movimiento, Elisabeth alcanza un colgante alrededor de su cuello espectral: un fragmento de ámbar reluciente colgado en un cordón de niebla etérea. Cuando su puño fantasmal se cierra alrededor de él, sus ojos destellan con un ámbar brillante y amenazante, y los bailarines espectrales se disipan, arrastrados como por un viento invisible.</p>
+<p>La aparición de Elisabeth se queda solo un momento más antes de desaparecer con el resto. Mientras lo hace, un sonido resuena en la habitación: el sonido bajo de madera raspando, proveniente de la habitación al otro lado del pasillo. El suelo tiembla ligeramente y escuchas un estruendo proveniente de la repisa de la chimenea. Dos de las figuras de alabastro han caído de su lugar en el estante: una, volcada de lado; la otra, hecha pedazos en el suelo.</p>
 </div>
 
-A player who inspects the fallen figurines finds that the toppled figurine has cracked across its face, arms, and torso, and depicts a young and slender female dancer. The shattered figurine has broken into dozens of pieces, and appears to have once depicted a comely, older man. A third, female dancer figurine remains defiantly standing atop the mantelpiece where all three once stood.
+Un jugador que inspeccione las figuras caídas encontrará que la figura volcada se ha agrietado en la cara, los brazos y el torso, y representa a una bailarina joven y delgada. La figura rota se ha hecho pedazos en docenas de fragmentos, y parece haber representado a un hombre mayor y atractivo. Una tercera figura de bailarina femenina permanece desafiante en pie sobre la repisa donde las tres estaban antes.
 
-Playing *Waltz for Klara* also causes the bookshelf in the [[#Library]] to swing open, exposing the locked secret door beyond. (The scraping sound is the sound of the bookshelf scraping against the floor.)
-### Library
-<span class="citation"><em>This scene takes place in Appendix B: Area 8.</em></span>
+Tocar *Vals para Klara* también hace que la estantería en la [[#Biblioteca]] se abra, exponiendo la puerta secreta bloqueada detrás. (El sonido de raspado es el sonido de la estantería raspando contra el suelo.)
+### Biblioteca
+<span class="citation"><em>Esta escena tiene lugar en el Apéndice B: Área 8.</em></span>
 
-This room is largely as described in **Library** (p. 213-14). When the players enter this room, read:
+Esta habitación es en gran parte como se describe en **Biblioteca** (p. 213-14). Cuando los jugadores entren en esta habitación, lee:
 
 <div class="description">
-<p>Red velvet drapes cover the windows of this room. An exquisite mahogany desk and a matching high-back chair face the entrance and the fireplace, above which hangs a framed picture of a windmill perched atop a rocky crag. Situated in corners of the room are two overstuffed chairs. </p>
-<p>Floor-to-ceiling bookshelves line the south wall. A rolling wooden ladder allows one to more easily reach the high shelves.</p>
+<p>Cortinas de terciopelo rojo cubren las ventanas de esta habitación. Un escritorio de caoba exquisito y una silla a juego de respaldo alto miran hacia la entrada y la chimenea, sobre la cual cuelga un cuadro enmarcado de un molino de viento encaramado sobre un risco rocoso. En las esquinas de la habitación hay dos sillas mullidas.</p>
+<p>Estanterías del suelo al techo llenan la pared sur. Una escalera rodante de madera permite llegar más fácilmente a los estantes altos.</p>
 </div>
 
-***The Desk.*** A handwritten note sits atop the desk. It reads:
+***El Escritorio.*** Una nota manuscrita está sobre el escritorio. Dice:
 
 <div class="description">
-<p>Dear Mr. and Mrs. Durst,</p>
-<p>In light of my current condition, I respectfully ask your leave for a brief time away from my responsibilities. </p>
-<p>While my devotion to your dear children makes this decision difficult, I have taken it upon myself to find a solution that, I hope, will serve your household well. A good acquaintance of mine is experienced in the care of children, and I believe that she could assume my role during my temporary leave without difficulty.</p>
-<p>I realize that my request is not without its complications. However, my years serving your family have shown me the depth of your understanding and compassion. I truly feel that I have become a part of this family, and I look forward to bringing another member of that family into this world.</p>
-<p>Yours sincerely,</p>
+<p>Estimados Sr. y Sra. Durst,</p>
+<p>A la luz de mi condición actual, solicito respetuosamente un breve tiempo fuera de mis responsabilidades.</p>
+<p>Si bien mi devoción por sus queridos hijos hace que esta decisión sea difícil, he decidido encontrar una solución que, espero, sirva bien a su hogar. Una buena conocida mía tiene experiencia en el cuidado de niños, y creo que podría asumir mi rol durante mi ausencia temporal sin dificultad.</p>
+<p>Me doy cuenta de que mi solicitud no está exenta de complicaciones. Sin embargo, mis años al servicio de su familia me han mostrado la profundidad de su comprensión y compasión. Realmente siento que me he convertido en parte de esta familia, y espero con ansias traer a otro miembro de esa familia al mundo.</p>
+<p>Sinceramente,</p>
 <p>Klara</p>
 </div>
 
-The top drawer of the desk now contains a number of receipts for candles, daggers, and incense, rather than the key to [[#Children’s Room]].
+El cajón superior del escritorio ahora contiene varios recibos de velas, dagas e incienso, en lugar de la llave para la [[#Habitación de los Niños]].
 
-A character that searches the room and succeeds on a DC 15 Wisdom (Perception) check can see flickering candle light emanating from beneath the secret door.<sup><a href="https://www.reddit.com/r/dndnext/comments/49bvms/notes_from_running_death_house/">4</a></sup>
+Un personaje que registre la habitación y tenga éxito en una prueba de Sabiduría (Percepción) DC 15 puede ver luz de velas parpadeante emanando desde debajo de la puerta secreta.<sup><a href="https://www.reddit.com/r/dndnext/comments/49bvms/notes_from_running_death_house/">4</a></sup>
 
-> [!info]+ **Making Multiple Ability Checks**
+> [!info]+ **Realización de Múltiples Pruebas de Habilidad**
 >
-> As the players explore Death House and the many secret places within the land of Barovia, don't forget the **Multiple Ability Checks** rule (<span class="citation">Dungeon Master's Guide, p. 237</span>)
+> A medida que los jugadores exploran la Casa de la Muerte y los muchos lugares secretos dentro de la tierra de Barovia, no olvides la regla de **Múltiples Pruebas de Habilidad** (<span class="citation">Guía del Dungeon Master, p. 237</span>)
 
-***The Secret Door.*** The secret door in this room has two components. First, a player must pull on the switch as described in <span class="citation">Secret Door (p. 214)</span>. Doing so causes the bookshelf to swing forward, revealing a blank wooden wall behind it. 
+***La Puerta Secreta.*** La puerta secreta en esta habitación tiene dos componentes. Primero, un jugador debe tirar del interruptor como se describe en <span class="citation">Puerta Secreta (p. 214)</span>. Al hacerlo, la estantería se balancea hacia adelante, revelando una pared de madera en blanco detrás de ella.
 
-Once the bookshelf has been moved, the players can see a small panel made of dark wood behind it, built into the wall at approximately chest level. A small hollow niche, jagged and irregular, lies at the panel's center and emanates a faint amber glow. 
+Una vez que la estantería se ha movido, los jugadores pueden ver un pequeño panel de madera oscura detrás de ella, incrustado en la pared a aproximadamente la altura del pecho. Un pequeño nicho hueco, dentado e irregular, se encuentra en el centro del panel y emite un leve resplandor ámbar.
 
-The door cannot be opened unless the amber shard from the [[#Master Suite]] is placed into the niche. The secret door then swings open, allowing the players to enter the [[#Secret Room]].
-### Secret Room
-<span class="citation"><em>This scene takes place in Appendix B: Area 9.</em></span>
+La puerta no puede abrirse a menos que el fragmento de ámbar de la [[#Suite Principal]] se coloque en el nicho. La puerta secreta se abre entonces, permitiendo a los jugadores entrar en la [[#Habitación Secreta]].
 
-This room is largely as described in <span class="citation">Secret Room (p. 214)</span>. When the players enter this room, read:
+### Habitación Secreta
+<span class="citation"><em>Esta escena tiene lugar en el Apéndice B: Área 9.</em></span>
+
+Esta habitación es en gran parte como se describe en <span class="citation">Habitación Secreta (p. 214)</span>. Cuando los jugadores entren en esta habitación, lee:
 
 <div class="description">
-<p>This small hidden room is packed with bookshelves groaning with old and ominous-looking leather-bound tomes. A heavy wooden chest with clawed iron feet stands against the south wall, its lid half-closed. Sticking out of the chest, its ribs and head caught beneath the lid, is a skeleton in leather armor.</p>
+<p>Esta pequeña habitación oculta está llena de estanterías repletas de tomos de cuero antiguos y de aspecto ominoso. Un pesado cofre de madera con patas de hierro en forma de garras se encuentra contra la pared sur, con la tapa medio cerrada. Sobresaliendo del cofre, con las costillas y la cabeza atrapadas debajo de la tapa, hay un esqueleto con armadura de cuero.</p>
 </div>
 
-The chest no longer contains the deed to Old Bonegrinder. Additionally, change Strahd’s letter to read as follows:
+El cofre ya no contiene la escritura de Old Bonegrinder. Además, cambia la carta de Strahd para que diga lo siguiente:
 
 <div class="description">
-<p>My most pathetic servant,</p>
-<p>I am not a messiah sent to you by the Dark Powers of this land. I have not come to lead you on a path to immortality. However many souls you have bled on your hidden altar, however many visitors you have tortured in your dungeon, know that you are not the one who brought me to this beautiful land. You are but a worm writhing in my earth.</p>
-<p>You say that you are cursed, your fortune spent. Your husband took solace in the bosom of another woman, sired a bastard son, and drove you to abandon love for madness. Cursed by darkness? Of that I have no doubt. Save you from your wretchedness? I think not. I much prefer you as you are.</p>
-<p>Your dread lord and master,</p>
+<p>Mi más patético sirviente,</p>
+<p>No soy un mesías enviado a ti por los Poderes Oscuros de esta tierra. No he venido a guiarte por un camino hacia la inmortalidad. Sin importar cuántas almas hayas desangrado en tu altar oculto, sin importar cuántos visitantes hayas torturado en tu calabozo, debes saber que no fuiste tú quien me trajo a esta hermosa tierra. Eres solo un gusano retorciéndose en mi tierra.</p>
+<p>Dices que estás maldito, que tu fortuna se ha agotado. Tu esposo buscó consuelo en el regazo de otra mujer, engendró un hijo bastardo y te llevó a abandonar el amor por la locura. ¿Maldito por la oscuridad? De eso no tengo duda. ¿Salvarte de tu miseria? No lo creo. Prefiero mucho más que te quedes como estás.</p>
+<p>Tu temido señor y amo,</p>
 <p>Strahd von Zarovich</p>
-</blockquote>
+</div>
 
-The players do not recognize the name "Strahd von Zarovich."
+Los jugadores no reconocen el nombre "Strahd von Zarovich".
 
-> [!design]- **Design Note: Removing the Deed**
-> Players who find the deed to Old Bonegrinder in the secret chest often come to the mistaken conclusion that looting the deed makes them the new owners of the mill. Such players are likely, as a result, to attempt to explore the windmill during [[Arc C - Into the Valley]], triggering a conflict with the night hag coven and—through no fault of their own—a likely TPK. As such, the deed has been removed to help avoid this outcome.
+> [!design]- **Nota de Diseño: Eliminando la Escritura**
+> Los jugadores que encuentran la escritura de Old Bonegrinder en el cofre secreto a menudo llegan a la conclusión errónea de que robar la escritura los convierte en los nuevos propietarios del molino. Como resultado, es probable que intenten explorar el molino durante [[Arco C - En el Valle]], lo que desencadenaría un conflicto con el aquelarre de brujas de la noche y, sin culpa suya, un probable TPK (total party kill). Por lo tanto, la escritura ha sido eliminada para ayudar a evitar este resultado.
 
 ## A2d. The Third Floor
 As the players ascend the spiral stairs to the third floor, remind them that they can see down the center of the staircase all the way to the bottom floor.
