@@ -490,130 +490,136 @@ El espíritu no puede hablar en voz alta ni salir del espejo. Sin embargo, no mu
 
 Si los jugadores piden al espíritu ayuda para llegar al sótano o encontrar el “monstruo”, el espíritu se aparta—desapareciendo de la vista—y la puerta secreta detrás del espejo se abre lentamente. El espíritu no regresa.
 
-## A2e. The Attic
-### Attic Hall
-<span class="citation"><em>This scene takes place in Appendix B: Area 16.</em></span>
+## A2e. El Ático
+### Pasillo del Ático
+<span class="citation"><em>Esta escena tiene lugar en el Apéndice B: Área 16.</em></span>
 
-This room is largely as described in <span class="citation">Attic Hall (p. 215)</span>. When the players enter this room, read:
-
-<div class="description">
-<p>This bare hall is choked with dust and cobwebs. Several doors lead from this attic corridor, including a door held shut with a padlock.</p>
-<p>A low creak cuts through the air as one of the unlocked doors slowly creaks open.</p>
-</div>
-
-The door leads to the [[#Spare Bedroom]].
-### Spare Bedroom
-<span class="citation"><em>This scene takes place in Appendix B: Area 17.</em></span>
-
-This room is largely as described in <span class="citation">Spare Bedroom (p. 215)</span>. When the players first enter it, read:
+Esta habitación es en gran parte como se describe en <span class="citation">Pasillo del Ático (p. 215)</span>. Cuando los jugadores entren en esta habitación, lee:
 
 <div class="description">
-<p>This cold, dust-choked room contains a slender bed, a nightstand, a small iron stove, a writing desk with a stool, an empty wardrobe, and a rocking chair. A frowning doll in a lacy yellow dress sits in the northern window box beside a tarnished old music box, cobwebs draping it like a wedding veil.</p>
+<p>Este pasillo vacío está lleno de polvo y telarañas. Varias puertas conducen desde este corredor del ático, incluyendo una puerta cerrada con un candado.</p>
+<p>Un crujido bajo atraviesa el aire mientras una de las puertas desbloqueadas se abre lentamente.</p>
 </div>
 
-The players can recognize the doll as the same doll that Rose was holding in the family portrait in the Main Hall.
+La puerta conduce al [[#Dormitorio de Repuesto]].
 
-The music box contains a rusted, bloodstained skinning knife as well as the key to the padlock on Rose and Thorn's bedroom door.
+### Dormitorio de Repuesto
+<span class="citation"><em>Esta escena tiene lugar en el Apéndice B: Área 17.</em></span>
 
-The music box also contains two curled-up pieces of parchment. The first parchment shows a basic floor plan split into three rectangles labeled QUARTERS, SHRINE, and ALTAR. QUARTERS and SHRINE are connected at the top by a single line, and at the bottom by a double line, which connects both to ALTAR. The second parchment contains a list of unfamiliar names beneath the word RECRUITMENT.
-
-As the players exit the room, the rocking chair begins to rock softly and the music box opens and begins to play. The sound of motherly humming floats through the air for two measures, but grows off-key and distorted before coming to a violent, screeching halt. The rocking chair then stops rocking.
-### Children’s Room
-<span class="citation"><em>This scene takes place in Appendix B: Area 20.</em></span>
-
-This room is largely as described in **Children’s Room** (p. 215-16).
-
-![[Rose and Thorn.png]]
-<span class="credit">"Rose & Thorn" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
-
-> [!profile]+ **Profile: Rosavalda "Rose" Durst**
->
-> **Roleplaying Information**
-> ***Resonance.*** Rose should inspire sympathy for her insecurities and fears, endearment for her dedication to Thorn, and gratitude for her earnest efforts to aid the players.
->
-> ***Emotions.*** Rose most often feels apprehensive, curious, defiant, or bold.
->
-> ***Motivations.*** Rose wants to keep Thorn safe and comforted, and to allow their spirits to finally find peace.
->
-> ***Inspirations.*** When playing Rose, channel Eleven (*Stranger Things*), Matilda (*Matilda*), and Lucy Pevensie (*The Chronicles of Narnia*). 
->
-> **Character Information**
-> ***Persona.*** To the world, Rose is Thorn's fiercest protector. To those she trusts, Rose is a lost, fearful, and traumatized young girl.
->
-> ***Morale.*** In a fight, Rose would plead for peace, but flee with Thorn if that proved impossible.
->
-> ***Relationships.*** Rose is Thorn Durst's older sister, Walter Durst's half-sibling, and the eldest child of Elisabeth and Gustav Durst.
-
-> [!profile]+ **Profile: Thornboldt "Thorn" Durst**
->
-> **Roleplaying Information**
-> ***Resonance.*** Thorn should inspire sympathy for his shyness and fear, and endearment for his childlike joy.
->
-> ***Emotions.*** Thorn most often feels uncomfortable, joyous, anxious, or terrified.
->
-> ***Motivations.*** Thorn wants to keep close to Rose and find toys to play with.
->
-> ***Inspirations.*** When playing Thorn, channel Neville Longbottom (*Harry Potter*) and Piglet (*Winnie the Pooh*).
->
-> **Character Information**
-***Persona.*** To the world, Thorn is a frightened young boy who clings to his sister. To those he trusts, Thorn is  a quietly observant and insightful child.
->
-> ***Morale.*** In a fight, Thorn would cower and cry, pleading for Rose to rescue him.
->
-> ***Relationships.*** Thorn is Rose Durst's younger brother, Walter Durst's half-sibling, and the youngest child of Elisabeth and Gustav Durst.
-
-In life, Rose was a budding wizard who discovered a small spellbook in her father’s library, and took great care in copying the _mending_, _light_, and _shocking grasp_ cantrips into her diary.<sup><a href="https://www.reddit.com/r/dndnext/comments/49bvms/notes_from_running_death_house/">4</a></sup>
-
-As the ghost children speak with the players, Thorn levitates one of his toys into the air, which falls and breaks. Rose swiftly uses her _mending_ spell to repair it. If her use of magic is remarked upon, she shyly shares her diary’s location, which can be found hidden in the cobweb-covered pillowcase on her bed.
-
-In addition to her cantrips, Rose’s aged and faded diary also contains entries regarding her studies, her friends, her younger brother, her nursemaid (“Miss Klara”), and arguments between her mother and father. (Rose doesn't know anything about the content of those fights.)
-
-Rose knows the way down to the basement, but “isn’t supposed to go down there.” If the party convinces her to show them the way, she points them toward the dollhouse, revealing the secret entry. In exchange, she asks the players to take her and Thorn's bones with them when they escape, burying them in the garden outside. 
-
-The dollhouse contains small dolls that depict tiny, twisted molds of any characters and creatures currently visible in the house. The dolls are made of painted resin. Any character looking inside the dollhouse while in Rose and Thorn’s room can see the appropriately-placed dolls of all living creatures within the manor. The dollhouse only contains rooms within the house itself, and does not depict the dungeon levels below.
-
-When the secret door is revealed, Thorn shyly asks the players if he and Rose can accompany them downstairs to aid them, and attempts to possess a friendly player if permitted. When Rose or Thorn attempts to possess a player, describe it as “a child’s tiny hand, desperately seeking the touch of another soul.” 
-
-A player possessed by Rose can cast the cantrips in her diary, while a player possessed by Thorn can gain the effects of the _mage hand_ cantrip as an action, without the use of components. (The spectral hand is invisible.)
-### Storage Room
-<span class="citation"><em>This scene takes place in Appendix B: Area 18.</em></span>
-
-This room is largely as described in <span class="citation">Storage Room (p. 215)</span>. When the players enter this room, read:
+Esta habitación es en gran parte como se describe en <span class="citation">Dormitorio de Repuesto (p. 215)</span>. Cuando los jugadores entren por primera vez, lee:
 
 <div class="description">
-<p>This dusty chamber is packed with lumpy, squat shapes draped in dusty white sheets. An old iron stove stands against the right-side wall, next to what looks to be a large trunk covered by a sheet.</p>
+<p>Esta fría habitación llena de polvo contiene una cama estrecha, una mesita de noche, una pequeña estufa de hierro, un escritorio con un taburete, un armario vacío y una mecedora. Una muñeca con cara de ceño fruncido en un vestido amarillo con encajes se sienta en la caja de la ventana del norte junto a una vieja caja de música empañada, cubierta de telarañas como un velo de novia.</p>
 </div>
 
-The nursemaid’s **specter** does not appear in this room. Instead, a character who opens the trunk finds the nursemaid’s corpse, with wounds consistent with those seen on the spirit’s body in the **Nursemaid’s Suite**. A DC 14 Wisdom (Medicine) check reveals that the woman died of starvation.
+Los jugadores pueden reconocer la muñeca como la misma que Rose sostenía en el retrato familiar en el Salón Principal.
 
-A player inspecting the remains feels a cold breath on their shoulder and the unshakeable sense of being watched. Meanwhile, if another player has previously uncovered a nearby mirror from its sheet covering, that player can see an apparition of Elisabeth Durst within the mirror staring at the player near the chest. Once observed, the apparition swiftly vanishes.
+La caja de música contiene un cuchillo de desollar oxidado y ensangrentado, así como la llave del candado en la puerta del dormitorio de Rose y Thorn.
 
-**_Milestone_**. Descending into Death House's dungeon level completes a story milestone. When the party gains access to the secret stairs, award each player 200 XP. 
-### Guest Bedroom
-<span class="citation"><em>This scene takes place in Appendix B: Area 19.</em></span>
+La caja de música también contiene dos pergaminos enrollados. El primer pergamino muestra un plano básico dividido en tres rectángulos etiquetados como CUARTOS, SANTUARIO y ALTAR. CUARTOS y SANTUARIO están conectados en la parte superior por una sola línea, y en la parte inferior por una línea doble, que conecta ambos con ALTAR. El segundo pergamino contiene una lista de nombres desconocidos bajo la palabra RECLUTAMIENTO.
 
-This room is as described in <span class="citation">Spare Bedroom (p. 215)</span>.
-### Secret Stairs
-<span class="citation"><em>This scene takes place in Appendix B: Area 21.</em></span>
+Cuando los jugadores salgan de la habitación, la mecedora comienza a balancearse suavemente y la caja de música se abre y comienza a tocar. El sonido de un tarareo maternal flota en el aire durante dos compases, pero se vuelve desafinado y distorsionado antes de detenerse abruptamente con un chillido violento. La mecedora entonces deja de moverse.
 
-This room is largely as described in <span class="citation">Secret Stairs (p. 217)</span>. However, opening the secret door reveals only a stone slab on the opposite side, inset with a small bronze panel at approximately chest level. A small hollow niche identical to the one in the library lies at the panel's center, emanating a faint amber glow. When the niche is exposed, the amber shard from the [[#Master Suite]] glimmers faintly and swings in the air toward it, as though held aloft by an unseen force.
+### Habitación de los Niños
+<span class="citation"><em>Esta escena tiene lugar en el Apéndice B: Área 20.</em></span>
 
-To allow the stone slab to swing open and reveal the hidden stairs on the opposite side, the players must place the amber shard into the niche.
+Esta habitación es en gran parte como se describe en **Habitación de los Niños** (p. 215-16).
 
-When the players enter this room, read:
+![Rose and Thorn](Rose%20and%20Thorn.png)
+<span class="credit">"Rose & Thorn" por Caleb Cleveland. Apóyalo en <a href="https://patreon.com/calebisdrawing/">Patreon</a>!</span>
+
+> [!profile]+ **Perfil: Rosavalda "Rose" Durst**
+>
+> **Información de Interpretación**
+> ***Resonancia.*** Rose debe inspirar simpatía por sus inseguridades y miedos, cariño por su dedicación a Thorn, y gratitud por sus esfuerzos sinceros para ayudar a los jugadores.
+>
+> ***Emociones.*** Rose suele sentirse aprensiva, curiosa, desafiante o valiente.
+>
+> ***Motivaciones.*** Rose quiere mantener a Thorn seguro y consolado, y permitir que sus espíritus finalmente encuentren paz.
+>
+> ***Inspiraciones.*** Al interpretar a Rose, canaliza a Eleven (*Stranger Things*), Matilda (*Matilda*) y Lucy Pevensie (*Las Crónicas de Narnia*).
+>
+> **Información del Personaje**
+> ***Persona.*** Para el mundo, Rose es la protectora más feroz de Thorn. Para aquellos en quienes confía, Rose es una niña perdida, asustada y traumatizada.
+>
+> ***Moral.*** En una pelea, Rose rogaría por la paz, pero huiría con Thorn si eso resultara imposible.
+>
+> ***Relaciones.*** Rose es la hermana mayor de Thorn Durst, medio hermana de Walter Durst, y la hija mayor de Elisabeth y Gustav Durst.
+
+> [!profile]+ **Perfil: Thornboldt "Thorn" Durst**
+>
+> **Información de Interpretación**
+> ***Resonancia.*** Thorn debe inspirar simpatía por su timidez y miedo, y cariño por su alegría infantil.
+>
+> ***Emociones.*** Thorn suele sentirse incómodo, alegre, ansioso o aterrorizado.
+>
+> ***Motivaciones.*** Thorn quiere mantenerse cerca de Rose y encontrar juguetes con los que jugar.
+>
+> ***Inspiraciones.*** Al interpretar a Thorn, canaliza a Neville Longbottom (*Harry Potter*) y Piglet (*Winnie the Pooh*).
+>
+> **Información del Personaje**
+***Persona.*** Para el mundo, Thorn es un niño asustado que se aferra a su hermana. Para aquellos en quienes confía, Thorn es un niño observador y perspicaz.
+>
+> ***Moral.*** En una pelea, Thorn se acobardaría y lloraría, rogando a Rose que lo rescatara.
+>
+> ***Relaciones.*** Thorn es el hermano menor de Rose Durst, medio hermano de Walter Durst, y el hijo menor de Elisabeth y Gustav Durst.
+
+En vida, Rose era una maga en ciernes que descubrió un pequeño libro de hechizos en la biblioteca de su padre, y se tomó gran cuidado en copiar los conjuros _remendar_, _luz_ y _toque eléctrico_ en su diario.<sup><a href="https://www.reddit.com/r/dndnext/comments/49bvms/notes_from_running_death_house/">4</a></sup>
+
+Mientras los niños fantasma hablan con los jugadores, Thorn levita uno de sus juguetes en el aire, que cae y se rompe. Rose usa rápidamente su hechizo _remendar_ para repararlo. Si se comenta sobre su uso de la magia, ella comparte tímidamente la ubicación de su diario, que se puede encontrar escondido en la funda de la almohada cubierta de telarañas en su cama.
+
+Además de sus conjuros, el diario envejecido y descolorido de Rose también contiene entradas sobre sus estudios, sus amigos, su hermano menor, su niñera ("Señorita Klara") y discusiones entre su madre y su padre. (Rose no sabe nada sobre el contenido de esas peleas).
+
+Rose conoce el camino hacia el sótano, pero "no se supone que debe bajar allí". Si el grupo la convence de mostrarles el camino, ella los señala hacia la casa de muñecas, revelando la entrada secreta. A cambio, pide a los jugadores que lleven sus huesos y los de Thorn con ellos cuando escapen, enterrándolos en el jardín exterior.
+
+La casa de muñecas contiene pequeñas muñecas que representan moldes retorcidos de cualquier personaje y criatura visible actualmente en la casa. Las muñecas están hechas de resina pintada. Cualquier personaje que mire dentro de la casa de muñecas mientras está en la habitación de Rose y Thorn puede ver las muñecas apropiadamente colocadas de todas las criaturas vivas dentro de la mansión. La casa de muñecas solo contiene habitaciones dentro de la casa misma, y no muestra los niveles del calabozo debajo.
+
+Cuando se revela la puerta secreta, Thorn pregunta tímidamente a los jugadores si él y Rose pueden acompañarlos al sótano para ayudarlos, e intenta poseer a un jugador amistoso si se le permite. Cuando Rose o Thorn intentan poseer a un jugador, descríbelo como "la pequeña mano de un niño, buscando desesperadamente el toque de otra alma".
+
+Un jugador poseído por Rose puede lanzar los conjuros en su diario, mientras que un jugador poseído por Thorn puede ganar los efectos del conjuro _mano de mago_ como una acción, sin el uso de componentes. (La mano espectral es invisible).
+
+### Cuarto de Almacenamiento
+<span class="citation"><em>Esta escena tiene lugar en el Apéndice B: Área 18.</em></span>
+
+Esta habitación es en gran parte como se describe en <span class="citation">Cuarto de Almacenamiento (p. 215)</span>. Cuando los jugadores entren en esta habitación, lee:
 
 <div class="description">
-<p>The secret door opens to reveal a narrow spiral staircase built of aged-looking wood within a tight shaft of mortared stone. Thick cobwebs fill the staircase as it descends into the darkness below.</p>
+<p>Esta cámara polvorienta está llena de formas abultadas y rechonchas cubiertas con sábanas blancas polvorientas. Una vieja estufa de hierro se encuentra contra la pared derecha, junto a lo que parece ser un gran baúl cubierto por una sábana.</p>
 </div>
 
-As the players descend the stairs, read:
+El **espectro** de la niñera no aparece en esta habitación. En cambio, un personaje que abra el baúl encontrará el cadáver de la niñera, con heridas consistentes con las vistas en el cuerpo del espíritu en la **Suite de la Niñera**. Una prueba de Sabiduría (Medicina) DC 14 revela que la mujer murió de inanición.
+
+Un jugador que inspeccione los restos siente un aliento frío en su hombro y la sensación inquebrantable de ser observado. Mientras tanto, si otro jugador ha descubierto previamente un espejo cercano de su cubierta de tela, ese jugador puede ver una aparición de Elisabeth Durst dentro del espejo mirando al jugador cerca del baúl. Una vez observada, la aparición desaparece rápidamente.
+
+**_Hito_**. Descender al nivel del calabozo de la Casa de la Muerte completa un hito de la historia. Cuando el grupo gane acceso a las escaleras secretas, otorga a cada jugador 200 XP.
+
+### Dormitorio de Huéspedes
+<span class="citation"><em>Esta escena tiene lugar en el Apéndice B: Área 19.</em></span>
+
+Esta habitación es como se describe en <span class="citation">Dormitorio de Huéspedes (p. 215)</span>.
+
+### Escaleras Secretas
+<span class="citation"><em>Esta escena tiene lugar en el Apéndice B: Área 21.</em></span>
+
+Esta habitación es en gran parte como se describe en <span class="citation">Escaleras Secretas (p. 217)</span>. Sin embargo, abrir la puerta secreta revela solo una losa de piedra en el lado opuesto, incrustada con un pequeño panel de bronce a aproximadamente la altura del pecho. Un pequeño nicho hueco idéntico al de la biblioteca se encuentra en el centro del panel, emitiendo un leve resplandor ámbar. Cuando el nicho se expone, el fragmento de ámbar de la [[#Suite Principal]] brilla tenuemente y se balancea en el aire hacia él, como si estuviera sostenido por una fuerza invisible.
+
+Para permitir que la losa de piedra se abra y revele las escaleras ocultas en el lado opuesto, los jugadores deben colocar el fragmento de ámbar en el nicho.
+
+Cuando los jugadores entren en esta habitación, lee:
 
 <div class="description">
-<p>The broken cobwebs around you sway like a gossamer wedding veil, beckoning you forward as the ancient stairs creak and groan underfoot. The gaping maw of the stairwell draws you deeper, swallowing you up as you descend further down its gullet. You descend one floor—two floors—three.</p>
-<p>The walls of the stone shaft narrow around you, forcing you to hunch your shoulders and pull in your elbows to continue downward. In the darkness, you can only hear the shuffle of your feet, the choking groan of the stairs, and the pounding of your blood in your ears. </p>
-<p>Finally, after what feels like hours, the descent levels out, and the spiral staircase ends at a darkened landing of  packed earth. A narrow tunnel supported by aged timber braces stretches ahead of you, its stone walls seeming to bleed with deposits of streaked, red clay. Eight feet ahead, the tunnel splits, branching to the left and right.</p>
-<p>As your eyes and ears adjust to the cold, subterranean corridor, you notice that the tunnel isn't as silent as the staircase above. An eerie, low-pitched sound echoes through the space—and you soon recognize it as a deep, incessant chanting.</p>
+<p>La puerta secreta se abre para revelar una estrecha escalera en espiral construida de madera envejecida dentro de un pozo estrecho de piedra enfoscada. Telarañas gruesas llenan la escalera mientras desciende a la oscuridad.</p>
 </div>
+
+A medida que los jugadores descienden por las escaleras, lee:
+
+<div class="description">
+<p>Las telarañas rotas a tu alrededor se balancean como un velo de boda de gasa, llamándote hacia adelante mientras las antiguas escaleras crujen y gimen bajo tus pies. La boca abierta de la escalera te atrae más y más, tragándote a medida que desciendes más por su garganta. Desciendes un piso—dos pisos—tres.</p>
+<p>Las paredes del pozo de piedra se estrechan a tu alrededor, obligándote a encoger los hombros y meter los codos para seguir bajando. En la oscuridad, solo puedes escuchar el roce de tus pies, el gemido ahogado de las escaleras y el latido de tu sangre en tus oídos.</p>
+<p>Finalmente, después de lo que parece una eternidad, el descenso se nivela, y la escalera en espiral termina en un rellano oscuro de tierra compactada. Un túnel estrecho sostenido por antiguos refuerzos de madera se extiende frente a ti, sus paredes de piedra parecen sangrar con depósitos de arcilla roja rayada. A ocho pies de distancia, el túnel se bifurca, ramificándose a la izquierda y a la derecha.</p>
+<p>A medida que tus ojos y oídos se ajustan al frío corredor subterráneo, notas que el túnel no está tan silencioso como la escalera anterior. Un sonido inquietante y grave resuena a través del espacio—y pronto lo reconoces como un cántico profundo e incesante.</p>
+</div>
+
 
 ## A2f. The Basement
 ### Family Crypts
