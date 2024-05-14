@@ -621,258 +621,264 @@ A medida que los jugadores descienden por las escaleras, lee:
 </div>
 
 
-## A2f. The Basement
-### Family Crypts
-<span class="citation"><em>This scene takes place in Appendix B: Area 23.</em></span>
+## A2f. El Sótano
+### Criptas Familiares
+<span class="citation"><em>Esta escena tiene lugar en el Apéndice B: Área 23.</em></span>
 
-These rooms are largely as described in **Family Crypts** (p. 217-18). 
+Estas habitaciones son en gran parte como se describe en **Criptas Familiares** (p. 217-18).
 
-As the players approach the **Empty Crypt** and **Walter’s Crypt**, read:
-
-<div class="description">
-<p>This side-corridor branches again to the left and right. On either side, large standing stone slabs have been set aside to lean against the walls, opening the way to a pair of dark, quiet crypts. The slab to the right is etched with the name "Walter Durst"; the slab to the left is blank.</p>
-</div>
-
-If the characters enter the **Empty Crypt**, read:
+Cuando los jugadores se acerquen a la **Cripta Vacía** y la **Cripta de Walter**, lee:
 
 <div class="description">
-<p>You peer past the leaning stone slab to see an empty earthen crypt.</p>
+<p>Este corredor lateral se bifurca nuevamente a la izquierda y a la derecha. A cada lado, grandes losas de piedra en pie se han apartado para apoyarse contra las paredes, abriendo el camino a un par de criptas oscuras y silenciosas. La losa a la derecha está grabada con el nombre "Walter Durst"; la losa a la izquierda está en blanco.</p>
 </div>
 
-If the characters enter **Walter’s Crypt**, read:
+Si los personajes entran en la **Cripta Vacía**, lee:
 
 <div class="description">
-<p>Swollen, bloody cysts cover the walls of this crypt like tumors. From time to time, they pulsate and burst, streams of pus oozing down to collect on the floor. Each time they do, you can hear an infant's quiet whimpers, which are swiftly quieted by the sound of distant humming.</p>
+<p>Te asomas más allá de la losa de piedra inclinada para ver una cripta vacía de tierra.</p>
 </div>
 
-Players who have previously read or heard the song recognize the melody of the humming as *Waltz for Klara.*
-
-As the players approach **Gustav’s Crypt** and **Elisabeth’s Crypt**, read:
+Si los personajes entran en la **Cripta de Walter**, lee:
 
 <div class="description">
-<p>This side corridor branches again to the left and right. Large standing stone slabs seal the entrance to the tunnels on either side, blocking the way forward. The slab to the left is etched with the name "Gustav Durst"; the slab to the right is etched with the name "Elisabeth Durst." The tunnel here is unnaturally quiet, and a thin mist clings to the floor.</p>
+<p>Quistes hinchados y ensangrentados cubren las paredes de esta cripta como tumores. De vez en cuando, palpitan y estallan, dejando que corrientes de pus rezumen hasta acumularse en el suelo. Cada vez que lo hacen, puedes escuchar los gemidos suaves de un bebé, que son rápidamente silenciados por el sonido de un tarareo distante.</p>
 </div>
 
-If the characters enter **Gustav’s Crypt**, read:
+Los jugadores que hayan leído o escuchado previamente la canción reconocen la melodía del tarareo como *Vals para Klara*.
+
+Cuando los jugadores se acerquen a la **Cripta de Gustav** y la **Cripta de Elisabeth**, lee:
 
 <div class="description">
-<p>The crypt beyond the slab contains a stone coffin lying atop a dusty stone bier. Silence hangs heavy over the lonely chamber.</p>
+<p>Este corredor lateral se bifurca nuevamente a la izquierda y a la derecha. Grandes losas de piedra en pie sellan la entrada a los túneles a ambos lados, bloqueando el camino hacia adelante. La losa a la izquierda está grabada con el nombre "Gustav Durst"; la losa a la derecha está grabada con el nombre "Elisabeth Durst". El túnel aquí está anormalmente silencioso, y una fina niebla se adhiere al suelo.</p>
 </div>
 
-If the characters enter **Elisabeth’s Crypt**, read:
+Si los personajes entran en la **Cripta de Gustav**, lee:
 
 <div class="description">
-<p>A thick, acrid miasma hangs over the interior of this crypt, which holds a stone-carved coffin resting atop a stone bier. The floor before it is littered with the bodies of hundreds of dead termites. Many cling to the elongated, bloated body of a dead termite queen, while others appear to have died atop the scarred, mutilated bodies of four larger beetles not far away.</p>
+<p>La cripta más allá de la losa contiene un ataúd de piedra que yace sobre un catafalco de piedra polvoriento. El silencio pesa sobre la solitaria cámara.</p>
 </div>
 
-As the players approach **Rose’s Crypt** and **Thorn’s Crypt**, read:
+Si los personajes entran en la **Cripta de Elisabeth**, lee:
 
 <div class="description">
-<p>This side-corridor branches again to the left and right. Large standing stone slabs seal the entrance to the tunnels on either side, blocking the way forward. The slab to the left is etched with the name "Rosavalda Durst"; the slab to the right is etched with the name "Thornboldt Durst." Each slab exudes the silence of a forgotten grave.</p>
+<p>Un miasma espeso y acre cuelga sobre el interior de esta cripta, que contiene un ataúd tallado en piedra que descansa sobre un catafalco de piedra. El suelo frente a él está cubierto con los cuerpos de cientos de termitas muertas. Muchas se aferran al cuerpo alargado e hinchado de una reina termita muerta, mientras que otras parecen haber muerto sobre los cuerpos marcados y mutilados de cuatro escarabajos más grandes no muy lejos.</p>
 </div>
 
-If the characters enter either crypt, read:
+Cuando los jugadores se acerquen a la **Cripta de Rose** y la **Cripta de Thorn**, lee:
 
 <div class="description">
-<p>This small chamber contains a stone coffin resting on a stone bier. The air in this crypt hangs heavy with sorrow.</p>
+<p>Este corredor lateral se bifurca nuevamente a la izquierda y a la derecha. Grandes losas de piedra en pie sellan la entrada a los túneles a ambos lados, bloqueando el camino hacia adelante. La losa a la izquierda está grabada con el nombre "Rosavalda Durst"; la losa a la derecha está grabada con el nombre "Thornboldt Durst". Cada losa exuda el silencio de una tumba olvidada.</p>
 </div>
 
-The players cannot help Rose or Thorn’s ghosts find peace by placing their remains in their coffins. Neither [[Non-Player Characters#Rosavalda "Rose" Durst|Rose]] nor [[Non-Player Characters#Thornboldt "Thorn" Durst|Thorn]] finds these crypts comforting. Both prefer to leave as quickly as possible.
-### Cult Initiates’ Quarters
-<span class="citation"><em>This scene takes place in Appendix B: Area 24.</em></span>
-
-This room is largely as described in <span class="citation">Cult Initiates’ Quarters (p. 218)</span>. 
-
-As the characters move to descend to the <span class="citation">Well and Cultist Quarters (p. 218)</span>, a sudden splashing sound can be heard—which then quickly subsides.
-### Well and Cultist Quarters
-<span class="citation"><em>This scene takes place in Appendix B: Area 25.</em></span>
-
-This room is largely as described in <span class="citation">Well and Cultist Quarters (p. 218)</span>. When the players enter this room, read:
+Si los personajes entran en cualquiera de las criptas, lee:
 
 <div class="description">
-<p>The ceiling of this dark, earthen chamber rises a foot higher than the cramped tunnel. It's supported by thick wooden posts and cross beams that have rotted with age and bear deep holes indicative of hungry insects.</p>
-<p>Here, a lonely well stands at the center of the room, surrounded on three sides by several smaller, alcove-like chambers that have been carved into the walls. Old footprints criss-cross the floor, leading into the alcoves, around the well, up a staircase on the other end of the room, and back upstairs the way you came.</p>
-<p>An old hempen rope attached to a rusted pulley descends past the mouth of the well, swaying gently in the stagnant air as if just abandoned by an unseen occupant.</p>
+<p>Esta pequeña cámara contiene un ataúd de piedra descansando sobre un catafalco de piedra. El aire en esta cripta cuelga pesado con tristeza.</p>
 </div>
 
-The well comprises a 4-foot-diameter well shaft with a 3-foot-high stone lip, and descends 30 feet to a water-filled cistern. A wooden bucket hangs from a rope-and-pulley mechanism bolted to the cross beams above the well. The interior of the shaft is covered with an ash-black species of fungi.
+Los jugadores no pueden ayudar a los fantasmas de Rose o Thorn a encontrar la paz colocando sus restos en sus ataúdes. Ni [[Non-Player Characters#Rosavalda "Rose" Durst|Rose]] ni [[Non-Player Characters#Thornboldt "Thorn" Durst|Thorn]] encuentran estas criptas reconfortantes. Ambos prefieren irse lo antes posible.
 
-If the players toss an object down the well and then turn away, they hear loud splashing and tearing sounds coming from below. When they turn back, the object has been torn to pieces, with large parts missing.
+### Cuartos de los Iniciados del Culto
+<span class="citation"><em>Esta escena tiene lugar en el Apéndice B: Área 24.</em></span>
 
-Replace the silvered shortsword in footlocker **25E** with a book bound in grimy black leather. This journal, which is signed by Drasha, contains a list of names and physical descriptions associated with each name. Each entry includes gruesome details describing the victim’s sacrifice, such as “struggled profusely” or “no sedative given,”<sup><a href="https://www.reddit.com/r/CurseofStrahd/comments/8sfpkn/fleshing_out_curse_of_strahd_part_2_entering/">1</a></sup> and ends with the phrase, "Fed to Walter."
-### Hidden Spiked Pit
-<span class="citation"><em>This scene takes place in Appendix B: Area 26.</em></span>
+Esta habitación es en gran parte como se describe en <span class="citation">Cuartos de los Iniciados del Culto (p. 218)</span>.
 
-This room is largely as described in <span class="citation">Hidden Spiked Pit (p. 218)</span>. If the characters enter this area from [[#Well and Cultist Quarters]], read:
+Cuando los personajes se muevan para descender al <span class="citation">Pozo y Cuartos de los Cultistas (p. 218)</span>, se puede escuchar un sonido repentino de chapoteo, que luego rápidamente se desvanece.
+
+### Pozo y Cuartos de los Cultistas
+<span class="citation"><em>Esta escena tiene lugar en el Apéndice B: Área 25.</em></span>
+
+Esta habitación es en gran parte como se describe en <span class="citation">Pozo y Cuartos de los Cultistas (p. 218)</span>. Cuando los jugadores entren en esta habitación, lee:
 
 <div class="description">
-<p>The staircase leads to a quiet landing. To the front, the stairs continue upward and vanish around a bend. To the right, the landing continues straight into a lonely corridor. This tunnel hallway seems surprisingly clean and bereft of debris; at its far end, another earthen staircase descends into darkness.</p>
-<p>The incessant chanting that has filled the air of this underground complex grows stronger toward the far end of this corridor. Its source seems to lie beyond the descending stairs.</p>
+<p>El techo de esta oscura cámara de tierra se eleva un pie más alto que el túnel estrecho. Está sostenido por gruesos postes de madera y vigas transversales que se han podrido con la edad y tienen agujeros profundos indicativos de insectos hambrientos.</p>
+<p>Aquí, un pozo solitario se encuentra en el centro de la habitación, rodeado en tres lados por varias cámaras más pequeñas, tipo alcoba, que han sido excavadas en las paredes. Huellas antiguas cruzan el suelo, conduciendo a las alcobas, alrededor del pozo, subiendo una escalera en el otro extremo de la habitación y volviendo arriba por donde viniste.</p>
+<p>Una vieja cuerda de cáñamo unida a una polea oxidada desciende más allá de la boca del pozo, balanceándose suavemente en el aire estancado como si acabara de ser abandonada por un ocupante invisible.</p>
 </div>
 
-If the characters enter this area from [[#Dining Hall]], read:
+El pozo comprende un pozo de 4 pies de diámetro con un borde de piedra de 3 pies de altura y desciende 30 pies hasta una cisterna llena de agua. Un cubo de madera cuelga de un mecanismo de cuerda y polea atornillado a las vigas transversales sobre el pozo. El interior del pozo está cubierto con una especie de hongo negro como el hollín.
+
+Si los jugadores lanzan un objeto al pozo y luego se giran, escuchan sonidos fuertes de chapoteo y desgarro provenientes de abajo. Cuando vuelven a mirar, el objeto ha sido destrozado, con grandes partes faltantes.
+
+Reemplaza la espada corta plateada en el baúl **25E** con un libro encuadernado en cuero negro sucio. Este diario, firmado por Drasha, contiene una lista de nombres y descripciones físicas asociadas a cada nombre. Cada entrada incluye detalles espantosos que describen el sacrificio de la víctima, como “luchó profusamente” o “no se le dio sedante,”<sup><a href="https://www.reddit.com/r/CurseofStrahd/comments/8sfpkn/fleshing_out_curse_of_strahd_part_2_entering/">1</a></sup> y termina con la frase, "Alimentado a Walter."
+
+### Foso Oculto con Pinchos
+<span class="citation"><em>Esta escena tiene lugar en el Apéndice B: Área 26.</em></span>
+
+Esta habitación es en gran parte como se describe en <span class="citation">Foso Oculto con Pinchos (p. 218)</span>. Si los personajes entran en esta área desde [[#Pozo y Cuartos de los Cultistas]], lee:
 
 <div class="description">
-<p>The staircase descends to a quiet landing. To the front, the stairs continue to descend, opening into a broader chamber. To the left, the landing continues straight into a lonely corridor. This tunnel hallway seems surprisingly clean and bereft of debris; at its far end, another earthen staircase descends into darkness.</p>
-<p>The incessant chanting that has filled the air of this underground complex grows stronger toward the far end of this corridor.</p>
+<p>La escalera conduce a un rellano silencioso. Al frente, las escaleras continúan hacia arriba y desaparecen alrededor de una curva. A la derecha, el rellano continúa recto hacia un corredor solitario. Este pasillo parece sorprendentemente limpio y libre de escombros; en su extremo más alejado, otra escalera de tierra desciende hacia la oscuridad.</p>
+<p>El cántico incesante que ha llenado el aire de este complejo subterráneo se vuelve más fuerte hacia el extremo más alejado de este corredor. Su fuente parece estar más allá de las escaleras descendentes.</p>
 </div>
 
-If the characters enter this area from [[#Ghoulish Encounter]], read:
+Si los personajes entran en esta área desde el [[#Comedor]], lee:
+
+<div la descripción">
+<p>La escalera desciende a un rellano silencioso. Al frente, las escaleras continúan descendiendo, abriéndose a una cámara más amplia. A la izquierda, el rellano continúa recto hacia un corredor solitario. Este pasillo parece sorprendentemente limpio y libre de escombros; en su extremo más alejado, otra escalera de tierra desciende hacia la oscuridad.</p>
+<p>El cántico incesante que ha llenado el aire de este complejo subterráneo se vuelve más fuerte hacia el extremo más alejado de este corredor.</p>
+</div>
+
+Si los personajes entran en esta área desde el [[#Encuentro Macabro]], lee:
 
 <div class="description">
-<p>The staircase descends to a quiet landing. To the left, the stairs continue to descend, rounding a bend before vanishing into darkness. The incessant chanting that has filled the air of this underground complex appears to be echoing from below.</p>
-<p>To the right, the landing continues straight into a lonely corridor. This tunnel hallway seems surprisingly clean and bereft of debris; at its far end, the corridor branches left and right.</p>
+<p>La escalera desciende a un rellano silencioso. A la izquierda, las escaleras continúan descendiendo, girando una curva antes de desaparecer en la oscuridad. El cántico incesante que ha llenado el aire de este complejo subterráneo parece estar resonando desde abajo.</p>
+<p>A la derecha, el rellano continúa recto hacia un corredor solitario. Este pasillo parece sorprendentemente limpio y libre de escombros; en su extremo más alejado, el corredor se bifurca a la izquierda y a la derecha.</p>
 </div>
 
-### Dining Hall
-<span class="citation"><em>This scene takes place in Appendix B: Area 27.</em></span>
+### Comedor
+<span class="citation"><em>Esta escena tiene lugar en el Apéndice B: Área 27.</em></span>
 
-This room is largely as described in <span class="citation">Dining Hall (p. 218)</span>. When the players enter this room, read: 
+Esta habitación es en gran parte como se describe en <span class="citation">Comedor (p. 218)</span>. Cuando los jugadores entren en esta habitación, lee:
 
 <div class="description">
-<p>This room contains a plain wooden table flanked by long benches. Moldy humanoid bones lie strewn on the dirt floor.  A thick stench of rot and gore fills the chamber, so coppery with blood that you can taste it on your tongue.</p>
-<p>A few dozen moldy bones have been piled into a grotesque and misshapen pyramid in a dark alcove to the south.</p>
+<p>Esta habitación contiene una mesa de madera sencilla flanqueada por bancos largos. Huesos humanos mohosos yacen esparcidos por el suelo de tierra. Un espeso hedor a podredumbre y sangre llena la cámara, tan cobrizo por la sangre que puedes saborearlo en tu lengua.</p>
+<p>Unas pocas docenas de huesos mohosos han sido apilados en una pirámide grotesca y deforme en una oscura alcoba al sur.</p>
 </div>
 
-### Larder
-<span class="citation"><em>This scene takes place in Appendix B: Area 28.</em></span>
+### Despensa
+<span class="citation"><em>Esta escena tiene lugar en el Apéndice B: Área 28.</em></span>
 
-This area is largely as described in <span class="citation">Larder (p. 218)</span>. 
+Esta área es en gran parte como se describe en <span class="citation">Despensa (p. 218)</span>.
 
-The **grick** in this alcove—the warped remains of Gustav Durst’s flayed corpse—is coiled on the ceiling, and drops onto its victim when they enter. A DC 17 Wisdom (Perception) check allows a player to determine its presence before entering. 
+El **grick** en esta alcoba—los restos deformados del cadáver desollado de Gustav Durst—está enrollado en el techo y se deja caer sobre su víctima cuando entra. Una prueba de Sabiduría (Percepción) DC 17 permite a un jugador determinar su presencia antes de entrar.
 
-If the players disturb the grick, read:
+Si los jugadores molestan al grick, lee:
 
 <div class="description">
-<p>A horrific creature—a long, flesh-like worm the breadth and length of a human man—drops from the ceiling. Its flayed muscles split open to reveal a flapping, gaping maw ringed by hundreds of tiny, humanlike teeth and a gnashing, bony beak. </p>
-<p>It lets out a high-pitched, gurgling squeal as it hurls itself forward, writhing, tendon-like tentacles lashing toward your face.</p>
+<p>Una criatura horrible—un gusano largo, parecido a la carne, del ancho y largo de un hombre humano—cae del techo. Sus músculos desollados se abren para revelar una boca abierta y aleteante rodeada por cientos de dientes diminutos, parecidos a los humanos, y un pico óseo y rechinante.</p>
+<p>Emite un chillido agudo y burbujeante mientras se lanza hacia adelante, tentáculos parecidos a tendones agitándose hacia tu cara.</p>
 </div>
 
-> [!combat]- **Balancing the Grick**
-> This combat encounter is a **bruising** encounter against a party of five 2nd-level players, and will consume approximately 28% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+> [!combat]- **Equilibrando el Grick**
+> Este encuentro de combate es un encuentro **contundente** contra un grupo de cinco jugadores de nivel 2, y consumirá aproximadamente el 28% de su total de puntos de vida máxima. Para grupos de tamaños más pequeños o más grandes, modifica el encuentro de la siguiente manera:
 > 
-> * ***Three Players.*** Reduce the grick’s HP to 16. Reduce its tentacles attack to 5 (2d4) damage and its beak attack to 3 (1d6) damage.
-> * ***Four Players.*** Reduce the grick’s HP to 22. Reduce its tentacles attack to 7 (2d6) damage and its beak attack to 4 (1d8) damage.
-> * ***Six Players.*** Increase the grick’s HP to 32. Increase its tentacles attack to 11 (2d8+2) and its bite attack to 6 (1d8+2).
-### Ghoulish Encounter
-<span class="citation"><em>This scene takes place in Appendix B: Area 29.</em></span>
+> * ***Tres Jugadores.*** Reduce los puntos de vida del grick a 16. Reduce su ataque de tentáculos a 5 (2d4) de daño y su ataque de pico a 3 (1d6) de daño.
+> * ***Cuatro Jugadores.*** Reduce los puntos de vida del grick a 22. Reduce su ataque de tentáculos a 7 (2d6) de daño y su ataque de pico a 4 (1d8) de daño.
+> * ***Seis Jugadores.*** Aumenta los puntos de vida del grick a 32. Aumenta su ataque de tentáculos a 11 (2d8+2) y su ataque de pico a 6 (1d8+2).
 
-This area is largely as described in <span class="citation">Ghoulish Encounter (p. 218)</span>. When the players first approach this area, read: 
+### Encuentro Macabro
+<span class="citation"><em>Esta escena tiene lugar en el Apéndice B: Área 29.</em></span>
+
+Esta área es en gran parte como se describe en <span class="citation">Encuentro Macabro (p. 218)</span>. Cuando los jugadores se acerquen por primera vez a esta área, lee:
 
 <div class="description">
-<p>A deathly stench emanates from this corridor. The stone walls bear cracked, red stains, and a trail of old bones leads deeper down the tunnel.</p>
-
+<p>Un hedor mortal emana de este corredor. Las paredes de piedra tienen manchas rojas agrietadas, y un rastro de huesos viejos conduce más adentro en el túnel.</p>
 </div>
 
-When a player first enters one of the 5-foot squares at the entrance of the corridors (marked T on the map), three **ghouls** rise up out of the ground in the spaces marked S and attack.
+Cuando un jugador entre por primera vez en uno de los cuadrados de 5 pies en la entrada de los corredores (marcados T en el mapa), tres **ghouls** se levantan del suelo en los espacios marcados S y atacan.
+
 
 ![[Ghoulish Encounter Map.png]]
 
-> [!combat]- **Balancing the Ghouls**
-> Due to the choke point, this is a series of three consecutive **mild** combat encounters against a party of five 2nd-level players, each of which will consume approximately 15% of the party's total maximum hit points (for a total of 45% of their maximum hit points). For parties of smaller or larger sizes, modify the encounter(s) as follows:
+> [!combat]- **Equilibrando los Ghouls**
+> Debido al punto de estrangulamiento, esta es una serie de tres encuentros de combate consecutivos **leves** contra un grupo de cinco jugadores de nivel 2, cada uno de los cuales consumirá aproximadamente el 15% del total de puntos de vida máxima del grupo (para un total del 45% de su vida máxima). Para grupos de tamaños más pequeños o más grandes, modifica el encuentro de la siguiente manera:
 > 
-> * ***Three Players.*** Decrease the number of ghouls to one.
-> * ***Four Players.*** Decrease the number of ghouls to two and only let one ghoul attack at a time.
-> * ***Six Players.*** Increase the number of ghouls to four and only let one ghoul attack at a time.
+> * ***Tres Jugadores.*** Disminuye el número de ghouls a uno.
+> * ***Cuatro Jugadores.*** Disminuye el número de ghouls a dos y permite que solo un ghoul ataque a la vez.
+> * ***Seis Jugadores.*** Aumenta el número de ghouls a cuatro y permite que solo un ghoul ataque a la vez.
 
-As the ghouls attack, they mindlessly repeat any or all of the following phrases:
+Mientras los ghouls atacan, repiten sin pensar cualquiera o todas las siguientes frases:
 
-* “Beautiful. We’re so beautiful.”
-* “We are perfect. We are immortal.”
-* “Help us live forever.”
+* “Hermosos. Somos tan hermosos.”
+* “Somos perfectos. Somos inmortales.”
+* “Ayúdanos a vivir para siempre.”
 
-If the players continue down the corridor, read:
-
-<div class="description">
-<p>The trail ends at the center of a quiet intersection. The incessant chanting you've heard since first entering the dungeon is noticeably louder down the northern branch of the intersection.</p>
-</div>
-
-### Stairs Down
-<span class="citation"><em>This scene takes place in Appendix B: Area 30.</em></span>
-
-This room is largely as described in <span class="citation">Stairs Down (p. 218)</span>. When the players approach this area, read:
+Si los jugadores continúan por el corredor, lee:
 
 <div class="description">
-<p>A dark set of chiseled stone steps descends into darkness. It's clear that the origin of the muffled chanting you've been hearing lies below.</p>
+<p>El rastro termina en el centro de una intersección tranquila. El cántico incesante que has escuchado desde que entraste en el calabozo es notablemente más fuerte en la rama norte de la intersección.</p>
 </div>
 
-### Darklord’s Shrine
-<span class="citation"><em>This scene takes place in Appendix B: Area 31.</em></span>
+### Escaleras Abajo
+<span class="citation"><em>Esta escena tiene lugar en el Apéndice B: Área 30.</em></span>
 
-This room is largely as described in <span class="citation">Darklord’s Shrine (p. 218)</span>. However, remove the **mimic** from this area. In addition, when the players enter this room, read:
+Esta habitación es en gran parte como se describe en <span class="citation">Escaleras Abajo (p. 218)</span>. Cuando los jugadores se acerquen a esta área, lee:
 
 <div class="description">
-<p>This room is festooned with moldy skeletons that hang from rusty shackles against the walls, their mouths hanging open in silent screams. </p>
-<p>A wide alcove in the south wall contains a painted wooden statue carved in the likeness of a gaunt, pale-faced man wearing a voluminous black cloak, his pale left hand resting on the head of a wolf that stands beside him. The statue's right hand holds a smoky-gray crystal orb, and its painted gaze stares down toward you, a cold and cruel glint to its eye.</p>
-<p>Five ashen shadows are burned into the walls, with soot marks stretching across the floor toward the statue.</p>
-<p>The room has exits to the west and north. Chanting can be heard coming from the west.</p>
+<p>Un oscuro conjunto de escalones de piedra cincelada desciende hacia la oscuridad. Está claro que el origen del cántico amortiguado que has estado escuchando se encuentra abajo.</p>
 </div>
 
-A player that approaches the orb can hear many voices whispering the following phrases:
+### Santuario del Señor Oscuro
+<span class="citation"><em>Esta escena tiene lugar en el Apéndice B: Área 31.</em></span>
 
-* “His gaze burns upon us.”
-* “The Darklord’s eyes are always watching.”
+Esta habitación es en gran parte como se describe en <span class="citation">Santuario del Señor Oscuro (p. 218)</span>. Sin embargo, elimina el **mímico** de esta área. Además, cuando los jugadores entren en esta habitación, lee:
 
-Additionally, that player’s shadow begins to writhe and twist, its edges growing tattered and blurred as it lashes erratically across the floor. A player who touches the orb feels as though a “dark, ancient evil” has suddenly turned its eye upon them. 
+<div class="description">
+<p>Esta habitación está adornada con esqueletos mohosos que cuelgan de grilletes oxidados contra las paredes, sus bocas colgando abiertas en gritos silenciosos.</p>
+<p>Una amplia alcoba en la pared sur contiene una estatua de madera pintada tallada a semejanza de un hombre demacrado y pálido que lleva una voluminosa capa negra, su pálida mano izquierda descansando en la cabeza de un lobo que está a su lado. La mano derecha de la estatua sostiene un orbe de cristal gris ahumado, y su mirada pintada se dirige hacia abajo, hacia ti, con un destello frío y cruel en sus ojos.</p>
+<p>Cinco sombras de ceniza están quemadas en las paredes, con marcas de hollín que se extienden por el suelo hacia la estatua.</p>
+<p>La habitación tiene salidas hacia el oeste y el norte. Se puede escuchar el cántico proveniente del oeste.</p>
+</div>
 
-If the orb is removed from its position, the ashen **shadows** upon the walls begin to stir. Each round, up to two of the shadows “awaken,” swooping across the walls. As they awaken, they murmur and moan the following phrases:
+Un jugador que se acerque al orbe puede escuchar muchas voces susurrando las siguientes frases:
 
-* “Begone from this place!”
-* “Look not upon us.”
-* “Return the Darklord’s offering!”
+* “Su mirada arde sobre nosotros.”
+* “Los ojos del Señor Oscuro siempre están vigilando.”
 
-Once all shadows have awoken, they attack, with each shadow preferring to target a different player. If the orb is returned to its place on the statue, the shadows return to their original positions and become dormant once more.
+Además, la sombra de ese jugador comienza a retorcerse y girar, sus bordes se deshilachan y difuminan mientras se agita erráticamente por el suelo. Un jugador que toque el orbe siente como si una “oscura y antigua maldad” hubiera vuelto su mirada hacia ellos.
 
-The shadows gain the following additional feature:
+Si el orbe se retira de su posición, las **sombras** de ceniza en las paredes comienzan a agitarse. Cada ronda, hasta dos de las sombras “despiertan,” moviéndose por las paredes. Mientras despiertan, murmuran y gimen las siguientes frases:
 
-***Light Sensitivity.*** The shadow is immune to acid, cold, fire, lightning, and thunder damage, as well as bludgeoning, piercing, and slashing damage, while in darkness. The shadow is resistant to those damage types while in dim light, and is damaged by those damage types normally while in bright light.
+* “¡Fuera de este lugar!”
+* “No nos miren.”
+* “¡Devuelvan la ofrenda del Señor Oscuro!”
 
-> [!combat]- **Balancing the Shadows**
-> This combat encounter is a **crushing** encounter against a party of five 2nd-level players, and will consume approximately 131% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+Una vez que todas las sombras han despertado, atacan, y cada sombra prefiere atacar a un jugador diferente. Si el orbe se devuelve a su lugar en la estatua, las sombras vuelven a sus posiciones originales y se vuelven inactivas una vez más.
+
+Las sombras ganan la siguiente característica adicional:
+
+***Sensibilidad a la Luz.*** La sombra es inmune al daño por ácido, frío, fuego, relámpago y trueno, así como al daño por contusión, perforación y corte, mientras esté en la oscuridad. La sombra es resistente a esos tipos de daño mientras esté en luz tenue, y sufre el daño de esos tipos normalmente mientras esté en luz brillante.
+
+> [!combat]- **Equilibrando las Sombras**
+> Este encuentro de combate es un encuentro **aplastante** contra un grupo de cinco jugadores de nivel 2, y consumirá aproximadamente el 131% de su total de puntos de vida máxima. Para grupos de tamaños más pequeños o más grandes, modifica el encuentro de la siguiente manera:
 > 
-> * ***Three Players.*** Reduce the number of shadows to three.
-> * ***Four Players.*** Reduce the number of shadows to four.
-> * ***Six Players.*** Increase the number of shadows to six.
-### Hidden Trapdoor
-<span class="citation"><em>This scene takes place in Appendix B: Area 32.</em></span>
+> * ***Tres Jugadores.*** Reduce el número de sombras a tres.
+> * ***Cuatro Jugadores.*** Reduce el número de sombras a cuatro.
+> * ***Seis Jugadores.*** Aumenta el número de sombras a seis.
 
-This room is largely as described in <span class="citation">Hidden Trapdoor (p. 219)</span>. When the players find and enter this area, read:
+### Trampilla Oculta
+<span class="citation"><em>Esta escena tiene lugar en el Apéndice B: Área 32.</em></span>
 
-<div class="description">
-<p>The clay staircase ends at a cramped landing. Six feet above the ground, a half-rotted ceiling of close-fitting planks holds a closed wooden trapdoor leading to an upper floor. The trapdoor is bolted shut from this side.</p>
-</div>
-
-### Cult Leader’s Den
-<span class="citation"><em>This scene takes place in Appendix B: Area 33.</em></span>
-
-This room is largely as described in <span class="citation">Cult Leaders’ Den (p. 219)</span>. However, remove the **mimic** from this area. In addition, when the players enter this room, read:
+Esta habitación es en gran parte como se describe en <span class="citation">Trampilla Oculta (p. 219)</span>. Cuando los jugadores encuentren y entren en esta área, lee:
 
 <div class="description">
-<p>This quiet room contains a wooden table flanked by two high-backed chairs and holding a clay jug and two flagons. Above the table is suspended an unlit cast-iron chandelier. Iron candlesticks stand in two corners of the chamber, their candles long since melted away. A short corridor at the north end of the room leads to a darkened chamber beyond.</p>
+<p>La escalera de arcilla termina en un rellano estrecho. Seis pies por encima del suelo, un techo medio podrido de tablas ajustadas sostiene una trampilla de madera cerrada que lleva a un piso superior. La trampilla está cerrada con un cerrojo desde este lado.</p>
 </div>
 
-### Cult Leader’s Quarters
-<span class="citation"><em>This scene takes place in Appendix B: Area 34.</em></span>
+### Guarida del Líder del Culto
+<span class="citation"><em>Esta escena tiene lugar en el Apéndice B: Área 33.</em></span>
 
-This room is largely as described in <span class="citation">Cult Leaders’ Quarters (p. 219)</span>. When the players enter this room, read:
+Esta habitación es en gran parte como se describe en <span class="citation">Guarida de los Líderes del Culto (p. 219)</span>. Sin embargo, elimina el **mímico** de esta área. Además, cuando los jugadores entren en esta habitación, lee:
 
 <div class="description">
-<p>This room contains a large wood-framed bed, the feather mattress rotted by years of disuse. An old wooden wardrobe carved with demonic faces stands against the wall to the left, and a faded wooden footlocker stands quietly at the foot of the bed.</p>
-<p>The room is suffused with a familiar stench of death—but far stronger, mixing with a noxious scent that fills your lungs with every breath.</p>
+<p>Esta habitación tranquila contiene una mesa de madera flanqueada por dos sillas de respaldo alto y con un cántaro de arcilla y dos jarros. Sobre la mesa cuelga un candelabro de hierro fundido sin encender. Candelabros de hierro se encuentran en dos esquinas de la cámara, sus velas hace mucho tiempo derretidas. Un corto corredor en el extremo norte de la habitación conduce a una cámara oscura más allá.</p>
 </div>
 
-The wardrobe contains several old robes, a pair of iron candlesticks, and an open crate containing thirty torches and a leather sack with fifteen candles inside it. A rotting aroma also emanates from a pair of rotted organs—a half-eaten liver and a gnawed intestine—lying hidden beneath the hems of the robes.
+### Cuartos del Líder del Culto
+<span class="citation"><em>Esta escena tiene lugar en el Apéndice B: Área 34.</em></span>
 
-Folded inside the foot locker, on top of its other contents, is a **boneless** (<span class="citation">Van Richten’s Guide to Ravenloft, p. 228)</span> made of the recognizable flayed skin of Gustav Durst. When the foot locker is opened, the **boneless** springs out to attack the nearest creature.
+Esta habitación es en gran parte como se describe en <span class="citation">Cuartos de los Líderes del Culto (p. 219)</span>. Cuando los jugadores entren en esta habitación, lee:
 
-> [!combat]- **Balancing the Boneless**
-> This combat encounter is a **mild** encounter against a party of five 2nd-level players, and will consume approximately 15% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+<div class="description">
+<p>Esta habitación contiene una gran cama con marco de madera, el colchón de plumas podrido por años de desuso. Un viejo guardarropa de madera tallado con caras demoníacas se encuentra contra la pared a la izquierda, y un baúl de pie de madera descolorida se encuentra silenciosamente al pie de la cama.</p>
+<p>La habitación está impregnada con un hedor familiar a muerte—pero mucho más fuerte, mezclándose con un aroma nauseabundo que llena tus pulmones con cada respiración.</p>
+</div>
+
+El guardarropa contiene varias túnicas viejas, un par de candelabros de hierro, y una caja abierta que contiene treinta antorchas y un saco de cuero con quince velas dentro. Un aroma a putrefacción también emana de un par de órganos podridos—un hígado medio comido y un intestino roído—que yacen escondidos bajo los dobladillos de las túnicas.
+
+Doblado dentro del baúl, encima de sus otros contenidos, hay un **deshuesado** (<span class="citation">Van Richten’s Guide to Ravenloft, p. 228</span>) hecho de la piel desollada y reconocible de Gustav Durst. Cuando se abre el baúl, el **deshuesado** salta para atacar a la criatura más cercana.
+
+> [!combat]- **Equilibrando el Deshuesado**
+> Este encuentro de combate es un encuentro **leve** contra un grupo de cinco jugadores de nivel 2, y consumirá aproximadamente el 15% de su total de puntos de vida máxima. Para grupos de tamaños más pequeños o más grandes, modifica el encuentro de la siguiente manera:
 > 
-> * ***Three Players.*** Reduce the boneless’ HP to 16. Reduce its slam ***attack*** and its ***crushing embrace*** action to 3 (1d4+1) damage each.
-> * ***Four Players.*** Reduce the boneless’ HP to 21. Reduce its ***slam*** attack and its ***crushing embrace*** action to 4 (1d4+2) damage each.
-> * ***Six Players.*** Increase the boneless’ HP to 31. Increase its ***slam*** attack and its ***crushing embrace*** action to 6 (1d6+3) damage each.
+> * ***Tres Jugadores.*** Reduce los puntos de vida del deshuesado a 16. Reduce su ***ataque de golpe*** y su acción de ***abrazo aplastante*** a 3 (1d4+1) de daño cada uno.
+> * ***Cuatro Jugadores.*** Reduce los puntos de vida del deshuesado a 21. Reduce su ***ataque de golpe*** y su acción de ***abrazo aplastante*** a 4 (1d4+2) de daño cada uno.
+> * ***Seis Jugadores.*** Aumenta los puntos de vida del deshuesado a 31. Aumenta su ***ataque de golpe*** y su acción de ***abrazo aplastante*** a 6 (1d6+3) de daño cada uno.
 
-No **ghasts** attack if a player removes any items from the foot locker, and there are no hidden cavities behind the walls.
+No atacan **ghasts** si un jugador retira algún objeto del baúl, y no hay cavidades ocultas detrás de las paredes.
+
 ## A2g. The Dungeon
 ### Reliquary
 <span class="citation"><em>This scene takes place in Appendix B: Area 35.</em></span>
