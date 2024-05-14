@@ -161,7 +161,7 @@ El reloj antiguo entonces marca las seis en punto.
 >
 > - Un jugador escucha ratas rasguñando arriba y abajo entre las paredes. Un espeso y asfixiante hedor a podredumbre se filtra en la habitación.
 > - Un jugador escucha el sonido del tarareo de una mujer emanando desde el lado opuesto de una puerta cerrada. Si la puerta se abre un poco, un ojo azul frío mira fijamente antes de desaparecer.
-> - Un jugador escucha pasos descendiendo desde el ático, que se detienen fuera de su puerta antes de alejarse hacia la biblioteca. Poco después, se puede escuchar un ruido de molienda proveniente de la biblioteca, el sonido de la puerta secreta.
+> - Un jugador escucha pasos descendiendo desde el ático, que se detienen fuera de su puerta antes de alejarse hacia la biblioteca. Poco después, se puede escuchar el ruido de algo arrastrándose proveniente de la biblioteca, el sonido de la puerta secreta.
 > - Un jugador escucha risas maníacas resonando desde muy abajo de la casa.
 > - Un jugador escucha una voz femenina suplicante en su oído derecho que jura que "no es de él". Otra voz femenina más fría en el oído izquierdo del jugador se burla y dice: "Tú dirías eso, pequeña *meretriz*."
 
