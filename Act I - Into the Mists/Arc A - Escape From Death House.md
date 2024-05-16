@@ -879,90 +879,90 @@ Doblado dentro del baúl, encima de sus otros contenidos, hay un **deshuesado** 
 
 No atacan **ghasts** si un jugador retira algún objeto del baúl, y no hay cavidades ocultas detrás de las paredes.
 
-## A2g. The Dungeon
-### Reliquary
-<span class="citation"><em>This scene takes place in Appendix B: Area 35.</em></span>
+## A2g. El Calabozo
+### Relicario
+<span class="citation"><em>Esta escena tiene lugar en el Apéndice B: Área 35.</em></span>
 
-This room is largely as described in <span class="citation">Reliquary (p. 219)</span>. When the players enter this room, read:
-
-<div class="description">
-<p>The dusty stone steps descend past a landing and around a bend until they end at a cold, rectangular chamber. A thin, wafting mist clings to the ground, and the wooden cross beams that support the ceiling groan beneath the weight of the house and underground complex above. </p>
-<p>The walls of this room are cut with small, chiseled alcoves, each holding a strange, ghastly trinket or relic. A corridor with a sagging ceiling exits the chamber and bends out of sight to the right. Past it, you can see a stone slope that descends into black, murky water. The ghostly chant you've heard since entering the basement is strongest here, and seems to be emanating from the other side of a rusted, closed portcullis.</p>
-<p>You can finally understand the words.</p>
-<p>They say, over and over again, in a ceaseless refrain:</p>
-<p>"He is the Ancient."</p>
-<p>"He is the Land."</p>
-</div>
-
-### Prison
-<span class="citation"><em>This scene takes place in Appendix B: Area 36.</em></span>
-
-This room is largely as described in <span class="citation">Prison (p. 219)</span>. When the players enter this room, read:
+Esta sala se describe en gran medida como en <span class="citation">Relicario (p. 219)</span>. Cuando los jugadores entran en esta sala, lee:
 
 <div class="description">
-<p>The sound of clinking chains melds with a quiet, near-imperceptible rustling as you round the bend into a long, darkened dungeon. Rusted shackles hang patiently from the walls, as if waiting to bite into prisoners' flesh once more.</p>
+<p>Los polvorientos escalones de piedra descienden más allá de un rellano y una curva hasta terminar en una cámara rectangular y fría. Una fina niebla se aferra al suelo y las vigas de madera que sostienen el techo crujen bajo el peso de la casa y el complejo subterráneo.</p>
+<p>Las paredes de esta sala están talladas con pequeños nichos, cada uno de los cuales contiene una extraña y espantosa baratija o reliquia. Un corredor con un techo hundido sale de la cámara y se curva fuera de la vista hacia la derecha. Más allá, puedes ver una pendiente de piedra que desciende hacia un agua negra y turbia. El cántico fantasmal que has escuchado desde que entraste al sótano es más fuerte aquí y parece emanar del otro lado de una reja oxidada y cerrada.</p>
+<p>Finalmente, puedes entender las palabras.</p>
+<p>Dicen, una y otra vez, en un estribillo interminable:</p>
+<p>"Él es el Anciano."</p>
+<p>"Él es la Tierra."</p>
 </div>
 
-### Portcullis
-<span class="citation"><em>This scene takes place in Appendix B: Area 37.</em></span>
+### Prisión
+<span class="citation"><em>Esta escena tiene lugar en el Apéndice B: Área 36.</em></span>
 
-This area is largely as described in <span class="citation">Portcullis (p. 219)</span>. When the players approach this area, read:
+Esta sala se describe en gran medida como en <span class="citation">Prisión (p. 219)</span>. Cuando los jugadores entran en esta sala, lee:
 
 <div class="description">
-<p>The floor is submerged beneath two feet of dark, murky water that sloshes around your calves and boots. The tunnel forward is blocked by a rusty iron portcullis. Beyond its iron bars, you can make out the dark outline of a half-submerged chamber, a raised stone dais, and a thick cloud of rolling mist.</p>
+<p>El sonido de cadenas tintineantes se mezcla con un susurro silencioso y casi imperceptible mientras doblas la esquina hacia una mazmorra larga y oscura. Grilletes oxidados cuelgan pacientemente de las paredes, como si esperaran morder la carne de los prisioneros una vez más.</p>
 </div>
 
-The wooden wheel that opens the portcullis remains on the western side of the gate (i.e., the side facing the [[#Ritual Chamber]]). However, the chain-link mechanism to open the portcullis has broken, preventing the players from proceeding without repairing it (e.g., by using Rose’s _mending_ cantrip) or lifting the portcullis by hand. (If the players lift the portcullis by hand and then release it, its weight causes it to shut once more unless propped open.)
-### Ritual Chamber
-<span class="citation"><em>This scene takes place in Appendix B: Area 38.</em></span>
+### Reja
+<span class="citation"><em>Esta escena tiene lugar en el Apéndice B: Área 37.</em></span>
 
-This room is largely as described in <span class="citation">Ritual Chamber (p. 219)</span>. When the players enter this room, read:
+Esta área se describe en gran medida como en <span class="citation">Reja (p. 219)</span>. Cuando los jugadores se acercan a esta área, lee:
 
 <div class="description">
-<p>The smooth masonry walls of this forty-foot-square room provide excellent acoustics. Featureless stone pillars support the ceiling, and murky water covers most of the floor. Stairs lead up to dry stone ledges that hug the walls. In the middle of the room, more stairs rise to form an octagonal dais that also rises above the water. Rusty chains with shackles dangle from the ceiling directly above a stone altar mounted on the dais. The altar is carved with hideous depictions of grasping ghouls and is stained with dry blood. A small, white bundle lies atop it, surrounded by pulsating, fleshy tendrils.</p>
-<p>The tendrils run to a breach in the far wall that leads to a dark cave, their fleshy masses connecting to a dark, hulking shadow that lies within, its bloated mass rising and falling with a slow, shuddering rhythm.</p>
-<p>As soon as you step foot into the chamber, the ghostly chanting you've heard suddenly falls silent.</p>
+<p>El suelo está sumergido bajo dos pies de agua oscura y turbia que chapotea alrededor de tus pantorrillas y botas. El túnel hacia adelante está bloqueado por una reja de hierro oxidada. Más allá de sus barras de hierro, puedes distinguir la silueta oscura de una cámara medio sumergida, un pedestal de piedra elevado y una espesa nube de niebla rodante.</p>
 </div>
 
-A player that approaches the altar sees that the words "FEED HIM" are carved into its flat stone surface just below the white bundle, surrounded by several fleshy tendrils inset with human teeth. The tendrils belong to the **flesh mound** (see below), which awakens and attacks if the tendrils are damaged.
+La rueda de madera que abre la reja permanece en el lado oeste de la puerta (es decir, el lado que da hacia la [[#Cámara Ritual]]). Sin embargo, el mecanismo de cadena para abrir la reja está roto, impidiendo que los jugadores avancen sin repararlo (por ejemplo, usando el cantrip _reparar_ de Rose) o levantando la reja a mano. (Si los jugadores levantan la reja a mano y luego la sueltan, su peso hace que se cierre de nuevo a menos que se mantenga abierta).
+### Cámara Ritual
+<span class="citation"><em>Esta escena tiene lugar en el Apéndice B: Área 38.</em></span>
 
-The bundle atop the altar is the size and shape of an infant wrapped in swaddling clothes. If unwrapped, the players instead find it to hold a rusted, serrated dagger stained red with ancient blood.
+Esta sala se describe en gran medida como en <span class="citation">Cámara Ritual (p. 219)</span>. Cuando los jugadores entran en esta sala, lee:
 
-The dark shadow in the cave is a **flesh mound** containing Walter’s spirit and remains.<sup><a href="https://www.reddit.com/r/CurseofStrahd/comments/8sfpkn/fleshing_out_curse_of_strahd_part_2_entering/">1</a></sup> It is a swollen, bloated mound of bones, flesh, and gore that seems to breathe as its mass rises and falls. A player that observes it concludes that it appears to be sleeping.
+<div class="description">
+<p>Las suaves paredes de mampostería de esta sala cuadrada de cuarenta pies proporcionan una excelente acústica. Pilares de piedra sin rasgos soportan el techo y agua turbia cubre la mayor parte del suelo. Escaleras conducen a bordes de piedra seca que abrazan las paredes. En el centro de la sala, más escaleras se elevan para formar un pedestal octagonal que también se eleva por encima del agua. Cadenas oxidadas con grilletes cuelgan del techo directamente sobre un altar de piedra montado en el pedestal. El altar está tallado con horribles representaciones de ghouls que se aferran y está manchado con sangre seca. Un pequeño bulto blanco yace sobre él, rodeado de tendones carnosos pulsantes.</p>
+<p>Los tendones se extienden hasta una brecha en la pared lejana que conduce a una cueva oscura, sus masas carnosas conectándose a una sombra oscura y corpulenta que yace dentro, su masa hinchada subiendo y bajando con un ritmo lento y tembloroso.</p>
+<p>Tan pronto como pones un pie en la sala, el cántico fantasmal que has estado escuchando de repente cae en silencio.</p>
+</div>
 
-The cultists' shadows described in <span class="citation">“One Must Die!” (p. 220)</span> do not appear when a player climbs the altar. Instead, the players have two choices: sacrifice a living creature on the altar, or attack the flesh mound.
+Un jugador que se acerque al altar ve que las palabras "ALIMÉNTALO" están talladas en su superficie plana de piedra justo debajo del bulto blanco, rodeadas por varios tendones carnosos con dientes humanos. Los tendones pertenecen al **montón de carne** (ver abajo), que despierta y ataca si los tendones son dañados.
 
-If a creature is sacrificed on the altar, the flesh mound's tendrils accept its corpse and pull it to the mound's lair. There, the mound messily devours it before returning its tendrils to the altar once more. Feeding the mound does not free the players, because its hunger cannot be sated.
+El bulto sobre el altar tiene el tamaño y la forma de un infante envuelto en pañales. Si se desenvuelve, los jugadores encontrarán en su lugar un daga oxidada y dentada manchada de sangre antigua.
 
-The flesh mound awakens if attacked. When it does, its subsequent screeching wail causes the earth to tremble, sending the [[#Portcullis]] crashing to the ground if it's been opened and damaging the mechanism responsible for opening it.
+La sombra oscura en la cueva es un **montón de carne** que contiene el espíritu y los restos de Walter.<sup><a href="https://www.reddit.com/r/CurseofStrahd/comments/8sfpkn/fleshing_out_curse_of_strahd_part_2_entering/">1</a></sup> Es una masa hinchada y abultada de huesos, carne y sangre que parece respirar mientras su masa sube y baja. Un jugador que lo observe concluye que parece estar durmiendo.
 
-In combat, the flesh mound begins in its **first form**. For one minute after it has awoken, the flesh mound’s **_heavy sleeper_** feature prevents it from using its ***multiattack*** actions in either form.
+Las sombras de los cultistas descritas en <span class="citation">“¡Uno debe morir!” (p. 220)</span> no aparecen cuando un jugador sube al altar. En su lugar, los jugadores tienen dos opciones: sacrificar una criatura viva en el altar, o atacar al montón de carne.
 
-A creature engulfed by the mound’s first form can hear the faint sound of a baby crying at the center of its swollen bulk.
+Si una criatura es sacrificada en el altar, los tendones del montón de carne aceptan su cadáver y lo llevan a la guarida del montón. Allí, el montón lo devora desordenadamente antes de devolver sus tendones al altar una vez más. Alimentar al montón no libera a los jugadores, porque su hambre no puede ser saciada.
 
-> [!item]+ **Elisabeth's Amber Shard**
+El montón de carne despierta si es atacado. Cuando lo hace, su posterior grito causa que la tierra tiemble, haciendo que la [[#Reja]] se estrelle contra el suelo si ha sido abierta y dañando el mecanismo responsable de abrirla.
+
+En combate, el montón de carne comienza en su **primera forma**. Durante un minuto después de haber despertado, la característica **_sueño pesado_** del montón de carne le impide usar sus acciones de ***multiataque*** en cualquiera de las dos formas.
+
+Una criatura engullida por la primera forma del montón puede escuchar el sonido tenue de un bebé llorando en el centro de su masa hinchada.
+
+> [!item]+ **Fragmento de Ámbar de Elisabeth**
 >
-> A player in possession of Elisabeth's amber shard from the **Master Suite** can present the shard as a bonus action while within 30 feet of the **flesh mound**, speak the name "Walter," and give a brief command. If the player succeeds on a DC 13 Charisma (Intimidation) check, the mound must immediately use a reaction, if available, to follow the command, moving up to its speed to do so if necessary. The mound won't obey a command that is directly harmful to it, and can stop following a command at the start of its next turn.
+> Un jugador en posesión del fragmento de ámbar de Elisabeth del **Dormitorio Principal** puede presentar el fragmento como una acción adicional mientras esté a 30 pies del **montón de carne**, pronunciar el nombre "Walter" y dar una breve orden. Si el jugador tiene éxito en una prueba de Carisma (Intimidación) DC 13, el montón debe usar una reacción inmediatamente, si está disponible, para seguir la orden, moviéndose hasta su velocidad para hacerlo si es necesario. El montón no obedecerá una orden que sea directamente dañina para él, y puede dejar de seguir la orden al comienzo de su siguiente turno.
 
 <div class="statblock">
-<h2>The Flesh Mound</h2>
-<em>Large undead, chaotic evil</em>
+<h2>El Montón de Carne</h2>
+<em>Gran no muerto, caótico maligno</em>
 <hr>
-<strong>Armor Class</strong> 15 (natural armor)
+<strong>Clase de Armadura</strong> 15 (armadura natural)
 <br>
-<strong>Hit Points</strong> 93 (11d10 + 33)
+<strong>Puntos de Golpe</strong> 93 (11d10 + 33)
 <br>
-<strong>Speed</strong> 20 ft.
+<strong>Velocidad</strong> 20 pies
 <hr>
 <table class="ability-table">
   <thead>
     <tr>
-      <th>STR</th>
-      <th>DEX</th>
+      <th>FUE</th>
+      <th>DES</th>
       <th>CON</th>
       <th>INT</th>
-      <th>WIS</th>
-      <th>CHA</th>
+      <th>SAB</th>
+      <th>CAR</th>
     </tr>
   </thead>
   <tbody>
@@ -977,47 +977,47 @@ A creature engulfed by the mound’s first form can hear the faint sound of a ba
   </tbody>
 </table>
 <hr>
-<strong>Condition Immunities</strong> blinded, deafened, exhaustion<br>
-<strong>Senses</strong> blindsight 60 ft., passive Perception 10<br>
-<strong>Languages</strong> Understands Common, but can't speak it<br>
-<strong>Challenge</strong> 4, or 3 when its <strong><em>heavy sleeper</em></strong> feature is active.<br>
+<strong>Inmunidades a Condiciones</strong> cegado, ensordecido, agotamiento<br>
+<strong>Sentidos</strong> vista ciega 60 pies, Percepción pasiva 10<br>
+<strong>Idiomas</strong> Entiende Común, pero no puede hablarlo<br>
+<strong>Desafío</strong> 4, o 3 cuando su característica <strong><em>sueño pesado</em></strong> está activa.<br>
 <hr>
-<p><strong><em>Heavy Sleeper.</em></strong> If either of the mound’s forms has been unconscious within the past minute, it can’t use its <strong><em>slam</em></strong> attack more than once per turn.</p>
-<p><strong><em>Oozing Body.</em></strong> The flesh mound can move through spaces occupied by enemy creatures. (It can't end its turn inside an occupied space, and it provokes opportunity attacks normally.)</p>
-<p><strong><em>Instinctual Defense.</em></strong> When the mound drops to 0 hit points, it expels each creature currently engulfed by it. (Those creatures appear prone in an empty space within 5 feet of the mound.) The mound’s statistics are then instantly replaced by the statistics of its second form. Its initiative count doesn’t change. Excess damage doesn't carry over to its new form, but it retains any conditions it had in its previous form.</p>
-<h3>Actions</h3>
-<p><strong><em>Multiattack.</em></strong> The flesh mound makes two attacks. It can replace one of those attacks with <strong><em>engulf</em></strong>. If its <strong><em>heavy sleeper.</em></strong> feature is active, it can't use its <strong><em>slam</em></strong> attack more than once, and it can't use <strong><em>engulf</em></strong> on the same turn it uses its <strong><em>slam</em></strong>.
-<p><strong><em>Slam.</em></strong> <em>Melee Weapon Attack:</em> +5 to hit, reach 5 ft., one target. <em>Hit:</em> 14 (2d10 + 3) bludgeoning damage, or 10 (2d6 + 3) bludgeoning damage if the mound's <strong><em>heavy sleeper.</em></strong> feature is active. If the attack hits a Medium or smaller target, the target is grappled (escape DC 13).</p>
-<p><strong><em>Bone Splinters.</em></strong> <em>Ranged Weapon Attack:</em> +5 to hit, range 20/60 ft., up to two targets standing within 5 ft. of each other. <em>Hit:</em> 5 (1d4 + 3) piercing damage.
-<p><strong><em>Engulf.</em></strong> The flesh mound attempts to engulf a Medium or smaller creature grappled by it, forcing that creature to make a DC 13 Strength saving throw. On a failure, the engulfed target is blinded, restrained, and unable to breathe, and it must succeed on a DC 13 Constitution saving throw at the start of each of its turns or take 8 (2d4 + 3) bludgeoning damage. If the mound moves, the engulfed target moves with it. The mound can only have one creature engulfed at a time. An engulfed creature can make a DC 13 Strength saving throw at the end of each of its turns, freeing itself on a success. (Once freed, the creature is no longer grappled.)</p>
-<h3>Bonus Actions</h3>
-<p><strong><em>Rupture.</em></strong> The flesh mound expels a pustule of rotting flesh, with hits a point within 20 feet of the mound and bursts, spraying each creature within 5 feet with caustic blood and pus. A target must succeed on a DC 13 Constitution saving throw or be poisoned until the start of the flesh mound's next turn.</p>
-<p><strong><em>Quake.</em></strong> The flesh mound slams against the floor, causing the room to quake. Each creature within 10 feet of the mound must succeed on a DC 13 Strength saving throw or fall prone.</p>
-<h3>Reactions</h3>
-<p>The flesh mound can take up to three reactions per round, though no more than one per turn. If it would lose its reactions and isn't incapacitated, it loses one reaction instead.</p>
-<p><strong><em>Squelch.</em></strong> In response to taking damage from a melee attack, the flesh mound attempts to grapple the attacker.</p>
-<p><strong><em>Roll.</em></strong> In response to taking damage from a ranged attack or spell, the flesh mound moves up to its speed directly toward or away from the attacker without provoking opportunity attacks.</p>
+<p><strong><em>Sueño Pesado.</em></strong> Si cualquiera de las formas del montón ha estado inconsciente en el último minuto, no puede usar su ataque de <strong><em>golpe</em></strong> más de una vez por turno.</p>
+<p><strong><em>Cuerpo Rezumante.</em></strong> El montón de carne puede moverse a través de espacios ocupados por criaturas enemigas. (No puede terminar su turno dentro de un espacio ocupado y provoca ataques de oportunidad normalmente).</p>
+<p><strong><em>Defensa Instintiva.</em></strong> Cuando el montón cae a 0 puntos de golpe, expulsa a cada criatura que está actualmente engullida por él. (Esas criaturas aparecen boca abajo en un espacio vacío a 5 pies del montón). Las estadísticas del montón se reemplazan instantáneamente por las estadísticas de su segunda forma. Su cuenta de iniciativa no cambia. El daño excedente no se transfiere a su nueva forma, pero conserva cualquier condición que tenía en su forma anterior.</p>
+<h3>Acciones</h3>
+<p><strong><em>Multiataque.</em></strong> El montón de carne realiza dos ataques. Puede reemplazar uno de esos ataques con <strong><em>engullir</em></strong>. Si su característica <strong><em>sueño pesado</em></strong> está activa, no puede usar su ataque de <strong><em>golpe</em></strong> más de una vez, y no puede usar <strong><em>engullir</em></strong> en el mismo turno en que usa su <strong><em>golpe</em></strong>.
+<p><strong><em>Golpe.</em></strong> <em>Ataque de Arma Cuerpo a Cuerpo:</em> +5 para golpear, alcance 5 pies, un objetivo. <em>Impacto:</em> 14 (2d10 + 3) de daño contundente, o 10 (2d6 + 3) de daño contundente si la característica <strong><em>sueño pesado</em></strong> del montón está activa. Si el ataque golpea a un objetivo Mediano o más pequeño, el objetivo queda agarrado (escapar DC 13).</p>
+<p><strong><em>Astillas de Hueso.</em></strong> <em>Ataque de Arma a Distancia:</em> +5 para golpear, alcance 20/60 pies, hasta dos objetivos parados a 5 pies uno del otro. <em>Impacto:</em> 5 (1d4 + 3) de daño perforante.
+<p><strong><em>Engullir.</em></strong> El montón de carne intenta engullir a una criatura Mediana o más pequeña agarrada por él, obligando a esa criatura a hacer una tirada de salvación de Fuerza DC 13. En caso de fallo, el objetivo engullido queda cegado, retenido e incapaz de respirar, y debe tener éxito en una tirada de salvación de Constitución DC 13 al comienzo de cada uno de sus turnos o recibir 8 (2d4 + 3) de daño contundente. Si el montón se mueve, el objetivo engullido se mueve con él. El montón solo puede tener una criatura engullida a la vez. Una criatura engullida puede hacer una tirada de salvación de Fuerza DC 13 al final de cada uno de sus turnos, liberándose en caso de éxito. (Una vez liberado, la criatura ya no está agarrada).</p>
+<h3>Acciones Adicionales</h3>
+<p><strong><em>Ruptura.</em></strong> El montón de carne expulsa una pústula de carne podrida, que golpea un punto a 20 pies del montón y estalla, rociando cada criatura en un radio de 5 pies con sangre cáustica y pus. Un objetivo debe tener éxito en una tirada de salvación de Constitución DC 13 o quedar envenenado hasta el comienzo del siguiente turno del montón de carne.</p>
+<p><strong><em>Temblor.</em></strong> El montón de carne golpea el suelo, haciendo que la sala tiemble. Cada criatura en un radio de 10 pies del montón debe tener éxito en una tirada de salvación de Fuerza DC 13 o caer boca abajo.</p>
+<h3>Reacciones</h3>
+<p>El montón de carne puede tomar hasta tres reacciones por ronda, aunque no más de una por turno. Si perdiera sus reacciones y no está incapacitado, pierde una reacción en su lugar.</p>
+<p><strong><em>Chirrido.</em></strong> En respuesta a recibir daño de un ataque cuerpo a cuerpo, el montón de carne intenta agarrar al atacante.</p>
+<p><strong><em>Rodar.</em></strong> En respuesta a recibir daño de un ataque a distancia o hechizo, el montón de carne se mueve hasta su velocidad directamente hacia o lejos del atacante sin provocar ataques de oportunidad.</p>
 </div><br>
 
 <div class="statblock">
-<h2>Walter, the Graveborn</h2>
-<em>Large undead, chaotic evil</em>
+<h2>Walter, el Nacido de la Tumba</h2>
+<em>Gran no muerto, caótico maligno</em>
 <hr>
-<strong>Armor Class</strong> 15 (natural armor)
+<strong>Clase de Armadura</strong> 15 (armadura natural)
 <br>
-<strong>Hit Points</strong> 93 (11d10 + 33)
+<strong>Puntos de Golpe</strong> 93 (11d10 + 33)
 <br>
-<strong>Speed</strong> 20 ft.
+<strong>Velocidad</strong> 20 pies
 <hr>
 <table class="ability-table">
   <thead>
     <tr>
-      <th>STR</th>
-      <th>DEX</th>
+      <th>FUE</th>
+      <th>DES</th>
       <th>CON</th>
       <th>INT</th>
-      <th>WIS</th>
-      <th>CHA</th>
+      <th>SAB</th>
+      <th>CAR</th>
     </tr>
   </thead>
   <tbody>
@@ -1032,35 +1032,36 @@ A creature engulfed by the mound’s first form can hear the faint sound of a ba
   </tbody>
 </table>
 <hr>
-<strong>Condition Immunities</strong> blinded, deafened, exhaustion<br>
-<strong>Senses</strong> blindsight 60 ft., passive Perception 10<br>
-<strong>Languages</strong> Understands Common, but can't speak it<br>
-<strong>Challenge</strong> 4, or 3 when its <em>heavy sleeper</em> feature is active.<br>
+<strong>Inmunidades a Condiciones</strong> cegado, ensordecido, agotamiento<br>
+<strong>Sentidos</strong> vista ciega 60 pies, Percepción pasiva 10<br>
+<strong>Idiomas</strong> Entiende Común, pero no puede hablarlo<br>
+<strong>Desafío</strong> 4, o 3 cuando su característica <em>sueño pesado</em> está activa.<br>
 <hr>
-<p><strong><em>Heavy Sleeper.</em></strong> If either of the mound’s forms has been unconscious within the past minute, it can’t use its <strong><em>tentacle</em></strong> attack more than once per turn.</p>
-<p><strong><em>Oozing Body.</em></strong> The flesh mound can move through spaces occupied by enemy creatures. (It can't end its turn inside an occupied space, and it provokes opportunity attacks normally.)</p>
-<p><strong><em>Innocent Heart.</em></strong> The center of the mound conceals its "heart": a large, misshapen rib cage. Within the rib cage hovers the infant corpse of Walter Durst. Walter's corpse has AC 15, 25 hit points, and the same ability scores as the flesh mound. If Walter's corpse is reduced to 0 hit points, the flesh mound instantly dies.</p>
-<p><strong><em>Mother's Lullaby.</em></strong> If a player uses their action to hum or play <em>Waltz for Klara</em> and succeeds on a DC 10 Charisma (Performance) check, the mound exposes its heart and can't use its <strong><em>withdraw</em></strong> reaction until the start of the player's next turn.
-<h3>Actions</h3>
-<p><strong><em>Multiattack.</em></strong> The flesh mound makes three attacks, or two attacks if its <strong><em>heavy sleeper</em></strong> feature is active.</p>
-<p><strong><em>Tentacle.</em></strong> <em>Melee Weapon Attack:</em> +5 to hit, reach 15 ft., one target. <em>Hit:</em> 14 (2d10 + 3) bludgeoning damage, or 7 (1d8 + 3) bludgeoning damage if the mound's <strong><em>heavy sleeper.</em></strong> feature is active. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be pulled up to 15 feet toward the mound.</p>
-<p><strong><em>Bite.</em></strong> <em>Melee Weapon Attack:</em> +5 to hit, reach 5 ft., one target. <em>Hit:</em> 10 (2d6 + 3) piercing damage.</p>
-<h3>Bonus Actions</h3>
-<p><strong><em>Gore Spray.</em></strong> The mound spews blood and gore in a 15-foot cone. Each creature in that area must make a DC 13 Dexterity saving throw. On a failure, a creature takes 7 (2d6) necrotic damage and is blinded until the end of the mound's next turn. On a success, a creature takes half as much damage and isn't blinded. Using this ability exposes the mound's heart, allowing it to be attacked.</p>
-<p><strong><em>Wail.</em></strong> The infant corpse of Walter Durst releases a piercing shriek. Each creature that can hear the shriek within 30 feet of the mound must succeed on a DC 10 Constitution saving throw or take 2 (1d4) psychic damage and be deafened until the end of the mound's next turn. Using this ability exposes the mound's heart, allowing it to be attacked.</p>
-<h3>Reaction</h3>
-<p>The flesh mound can take up to three reactions per round, though no more than one per turn. If it would lose its reactions and isn't incapacitated, it loses one reaction instead.</p>
-<p><strong><em>Withdraw.</em></strong> In response to an attack or harmful spell hitting or missing its heart, the mound withdraws its heart into its body, concealing it from view and protecting it from attacks.</p>
-<p><strong><em>Lash Out.</em></strong> In response to taking damage from a melee attack, the mound lashes out at the attacker with a tentacle. The attacker must succeed on a DC 13 Dexterity saving throw or be pushed 10 feet away. If the attacker fails the saving throw by 5 or more, they also fall prone.</p>
-<p><strong><em>Roll.</em></strong> In response to taking damage from a ranged attack or spell, the mound moves up to its speed directly toward or away from the attacker without provoking opportunity attacks. If it moves toward the attacker, it can then immediately attempt to shove them.</p>
+<p><strong><em>Sueño Pesado.</em></strong> Si cualquiera de las formas del montón ha estado inconsciente en el último minuto, no puede usar su ataque de <strong><em>tentáculo</em></strong> más de una vez por turno.</p>
+<p><strong><em>Cuerpo Rezumante.</em></strong> El montón de carne puede moverse a través de espacios ocupados por criaturas enemigas. (No puede terminar su turno dentro de un espacio ocupado y provoca ataques de oportunidad normalmente).</p>
+<p><strong><em>Corazón Inocente.</em></strong> El centro del montón oculta su "corazón": una gran caja torácica deforme. Dentro de la caja torácica flota el cadáver infantil de Walter Durst. El cadáver de Walter tiene CA 15, 25 puntos de golpe y las mismas puntuaciones de habilidad que el montón de carne. Si el cadáver de Walter es reducido a 0 puntos de golpe, el montón de carne muere instantáneamente.</p>
+<p><strong><em>La Nana de Mamá.</em></strong> Si un jugador usa su acción para tararear o tocar <em>Vals para Klara</em> y tiene éxito en una prueba de Carisma (Interpretación) DC 10, el montón expone su corazón y no puede usar su reacción de <strong><em>retirada</em></strong> hasta el comienzo del siguiente turno del jugador.
+<h3>Acciones</h3>
+<p><strong><em>Multiataque.</em></strong> El montón de carne realiza tres ataques, o dos ataques si su característica <strong><em>sueño pesado</em></strong> está activa.</p>
+<p><strong><em>Tentáculo.</em></strong> <em>Ataque de Arma Cuerpo a Cuerpo:</em> +5 para golpear, alcance 15 pies, un objetivo. <em>Impacto:</em> 14 (2d10 + 3) de daño contundente, o 7 (1d8 + 3) de daño contundente si la característica <strong><em>sueño pesado</em></strong> del montón está activa. Si el objetivo es una criatura, debe tener éxito en una tirada de salvación de Fuerza DC 13 o ser arrastrado hasta 15 pies hacia el montón.</p>
+<p><strong><em>Mordisco.</em></strong> <em>Ataque de Arma Cuerpo a Cuerpo:</em> +5 para golpear, alcance 5 pies, un objetivo. <em>Impacto:</em> 10 (2d6 + 3) de daño perforante.</p>
+<h3>Acciones Adicionales</h3>
+<p><strong><em>Rociada de Sangre.</em></strong> El montón arroja sangre y vísceras en un cono de 15 pies. Cada criatura en esa área debe hacer una tirada de salvación de Destreza DC 13. En caso de fallo, la criatura recibe 7 (2d6) de daño necrótico y queda cegada hasta el final del siguiente turno del montón. En caso de éxito, la criatura recibe la mitad de daño y no queda cegada. Usar esta habilidad expone el corazón del montón, permitiendo que sea atacado.</p>
+<p><strong><em>Grito.</em></strong> El cadáver infantil de Walter Durst emite un grito penetrante. Cada criatura que pueda oír el grito en un radio de 30 pies del montón debe tener éxito en una tirada de salvación de Constitución DC 10 o recibir 2 (1d4) de daño psíquico y quedar ensordecida hasta el final del siguiente turno del montón. Usar esta habilidad expone el corazón del montón, permitiendo que sea atacado.</p>
+<h3>Reacciones</h3>
+<p>El montón de carne puede tomar hasta tres reacciones por ronda, aunque no más de una por turno. Si perdiera sus reacciones y no está incapacitado, pierde una reacción en su lugar.</p>
+<p><strong><em>Retirada.</em></strong> En respuesta a un ataque o hechizo dañino que golpea o falla a su corazón, el montón retira su corazón dentro de su cuerpo, ocultándolo de la vista y protegiéndolo de ataques.</p>
+<p><strong><em>Golpe Repentino.</em></strong> En respuesta a recibir daño de un ataque cuerpo a cuerpo, el montón ataca al atacante con un tentáculo. El atacante debe tener éxito en una tirada de salvación de Destreza DC 13 o ser empujado 10 pies hacia atrás. Si el atacante falla la tirada por 5 o más, también cae boca abajo.</p>
+<p><strong><em>Rodar.</em></strong> En respuesta a recibir daño de un ataque a distancia o hechizo, el montón se mueve hasta su velocidad directamente hacia o lejos del atacante sin provocar ataques de oportunidad. Si se mueve hacia el atacante, puede intentar inmediatamente empujarlo.</p>
 </div>
 
-> [!combat]- **Balancing the Flesh Mound**
-> Due to the phase mechanic, this combat encounter is a series of two consecutive **bruising** combat encounters against a party of five 2nd-level players and will consume approximately 28% of their total maximum hit points per phase (for a total of 56% of their maximum hit points). For parties of smaller or larger sizes, modify the encounter as follows:
+> [!combat]- **Equilibrando el Montón de Carne**
+> Debido a la mecánica de fase, este encuentro de combate es una serie de dos encuentros de combate consecutivos **duros** contra un grupo de cinco jugadores de nivel 2 y consumirá aproximadamente el 28% de los puntos de golpe máximos de los jugadores por fase (para un total del 56% de sus puntos de golpe máximos). Para grupos de tamaños más pequeños o más grandes, modifique el encuentro de la siguiente manera:
 > 
-> * ***Three Players.*** Reduce the mound’s HP to 56 in each phase. Reduce the first form’s Slam attack to 8 (2d6+1) damage, or 6 (2d4+1) damage while the heavy sleeper feature is active. Reduce the Bone Splinters to 3 (1d4+1) damage. Reduce Engulf to 6 (2d4+1) damage. Reduce the Innocent Heart’s HP to 15. Reduce the Tentacle attack’s damage to 9 (2d6+2) damage, or 4 (1d4+2) while Heavy Sleeper is active. Reduce the Bite attack’s damage to 7 (2d4+2). Reduce the Gore Spray’s damage to 5 (2d4).
-> * ***Four Players.*** Reduce the mound’s HP to 75 in each phase. Reduce the first form’s Slam attack to 11 (2d10+1) damage, or 8 (2d6+1) damage while the heavy sleeper feature is active. Reduce the Bone Splinters to 4 (1d6+1) damage. Change Engulf to 8 (2d6+1) damage. Reduce the Innocent Heart’s HP to 20. Reduce the Tentacle attack’s damage to 12 (2d10+1) damage, or 5 (1d8+1) while Heavy Sleeper is active. Reduce the Bite attack’s damage to 9 (2d8+1).
-> * ***Six Players.*** Increase the mound’s HP to 112 in each phase. Increase the first form’s Slam attack to 16 (2d12+3) damage, or 12 (2d8+3) damage while the heavy sleeper feature is active. Increase the Bone Splinters to 6 (1d6+3) damage. Increase Engulf to 12 (2d8+3) damage. Increase the Innocent Heart’s HP to 30. Increase the Tentacle attack’s damage to 17 (4d6+3) damage, or 8 (2d4+3) while Heavy Sleeper is active. Increase the Bite attack’s damage to 14 (2d10+3). Increase the Gore Spray’s damage to 9 (2d8).
+> * ***Tres Jugadores.*** Reduce los puntos de golpe del montón a 56 en cada fase. Reduce el ataque de Golpe de la primera forma a 8 (2d6+1) de daño, o 6 (2d4+1) de daño mientras la característica de sueño pesado está activa. Reduce las Astillas de Hueso a 3 (1d4+1) de daño. Reduce Engullir a 6 (2d4+1) de daño. Reduce los puntos de golpe del Corazón Inocente a 15. Reduce el daño del ataque de Tentáculo a 9 (2d6+2) de daño, o 4 (1d4+2) mientras Sueño Pesado está activo. Reduce el daño del ataque de Mordisco a 7 (2d4+2). Reduce el daño de la Rociada de Sangre a 5 (2d4).
+> * ***Cuatro Jugadores.*** Reduce los puntos de golpe del montón a 75 en cada fase. Reduce el ataque de Golpe de la primera forma a 11 (2d10+1) de daño, o 8 (2d6+1) de daño mientras la característica de sueño pesado está activa. Reduce las Astillas de Hueso a 4 (1d6+1) de daño. Cambia Engullir a 8 (2d6+1) de daño. Reduce los puntos de golpe del Corazón Inocente a 20. Reduce el daño del ataque de Tentáculo a 12 (2d10+1) de daño, o 5 (1d8+1) mientras Sueño Pesado está activo. Reduce el daño del ataque de Mordisco a 9 (2d8+1).
+> * ***Seis Jugadores.*** Aumenta los puntos de golpe del montón a 112 en cada fase. Aumenta el ataque de Golpe de la primera forma a 16 (2d12+3) de daño, o 12 (2d8+3) de daño mientras la característica de sueño pesado está activa. Aumenta las Astillas de Hueso a 6 (1d6+3) de daño. Aumenta Engullir a 12 (2d8+3) de daño. Aumenta los puntos de golpe del Corazón Inocente a 30. Aumenta el daño del ataque de Tentáculo a 17 (4d6+3) de daño, o 8 (2d4+3) mientras Sueño Pesado está activo. Aumenta el daño del ataque de Mordisco a 14 (2d10+3). Aumenta el daño de la Rociada de Sangre a 9 (2d8).
+
 ## A2h. Escape From Death House
 When the **flesh mound** dies, the players can hear the sound of the house’s front door opening far overhead, and the distant thunderstorm beyond.
 
