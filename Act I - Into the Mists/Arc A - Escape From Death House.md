@@ -71,6 +71,7 @@ Si los jugadores los persiguen, lea:
 
 Esta es la **Casa de la Muerte.**
 # A2. La Casa de la Muerte
+
 Si uno o más de tus jugadores están utilizando el anzuelo de los [[Running the Adventure#Adventure Hooks|Perdidos en la Niebla]], lee el siguiente texto. De lo contrario, continúa con [[#A2a. The Arrival]] a continuación.
 
 <div class="description">
@@ -1062,89 +1063,95 @@ Una criatura engullida por la primera forma del montón puede escuchar el sonido
 > * ***Cuatro Jugadores.*** Reduce los puntos de golpe del montón a 75 en cada fase. Reduce el ataque de Golpe de la primera forma a 11 (2d10+1) de daño, o 8 (2d6+1) de daño mientras la característica de sueño pesado está activa. Reduce las Astillas de Hueso a 4 (1d6+1) de daño. Cambia Engullir a 8 (2d6+1) de daño. Reduce los puntos de golpe del Corazón Inocente a 20. Reduce el daño del ataque de Tentáculo a 12 (2d10+1) de daño, o 5 (1d8+1) mientras Sueño Pesado está activo. Reduce el daño del ataque de Mordisco a 9 (2d8+1).
 > * ***Seis Jugadores.*** Aumenta los puntos de golpe del montón a 112 en cada fase. Aumenta el ataque de Golpe de la primera forma a 16 (2d12+3) de daño, o 12 (2d8+3) de daño mientras la característica de sueño pesado está activa. Aumenta las Astillas de Hueso a 6 (1d6+3) de daño. Aumenta Engullir a 12 (2d8+3) de daño. Aumenta los puntos de golpe del Corazón Inocente a 30. Aumenta el daño del ataque de Tentáculo a 17 (4d6+3) de daño, o 8 (2d4+3) mientras Sueño Pesado está activo. Aumenta el daño del ataque de Mordisco a 14 (2d10+3). Aumenta el daño de la Rociada de Sangre a 9 (2d8).
 
-## A2h. Escape From Death House
-When the **flesh mound** dies, the players can hear the sound of the house’s front door opening far overhead, and the distant thunderstorm beyond.
+## A2h. Escape de la Casa de la Muerte
 
-When the players next begin to move toward the exit, read:
+Cuando el **montón de carne** muere, los jugadores pueden escuchar el sonido de la puerta principal de la casa abriéndose muy por encima, y la tormenta distante más allá.
 
-<div class="description">
-<p>A guttural moan ripples through the air—and a terrifying apparition manifests before you: the spirit of Elisabeth Durst, her once-beautiful features now grotesquely distorted. Her lustrous hair is a wild, disheveled mess, her skin a deathly pallor, and her lips peeling back to reveal sharp, yellowed teeth. An amber shard glows ominously on a cord around her spectral neck, a shadowed wisp swirling within its depths.</p>
-<p>The spirit levitates high above the floor, sunken eyes blazing with malice and mouth twisted into a snarl. "You may have evaded my pet," it rasps, "but I will tear this house apart before I let you escape." It throws its head back and lets loose a blood-curdling scream that reverberates across the stone walls—and sets the very foundations of the house trembling.</p>
-<p>Far above, the grandfather clock begins to chime, the sound mounting to a thunderous cacophony. Dust and debris rain down as the floor shakes beneath you, the wooden cross beams of the ceiling starting to splinter and crack. Elisabeth's spirit fixes you with a feral grin—and then dissipates into thin air, leaving only echoes of its spiteful laugher as the house rumbles, shifts, and groans.</p>
-</div>
-
-The players must flee from the ritual chamber to the [[#Entrance]] of Death House before the entire structure collapses upon their heads. However, they don't need to roll initiative, and the architectural changes described in <span class="citation">The Cult is Denied (p. 220)</span> are not present. 
-
-Instead, as the players escape the crumbling Death House, they face two additional obstacles.
-
-***Gustav's Ghost.*** As the players move to exit the [[#Reliquary]], the ghost of Gustav Durst (use the statistics of a **poltergeist**, but without its ***invisibility*** feature) confronts them. Read:
+Cuando los jugadores comiencen a moverse hacia la salida, lee:
 
 <div class="description">
-<p>An ethereal apparition appears before you, obstructing the stairs—the ghost of a man. He is a gaunt and pale figure, with sunken, haunted eyes and trembling hands, wearing once-fine clothing now tattered with age.</p>
-<p>"Please," the spirit says, tears beading at the corners of his eyes. "You have to stay here and die. She won't accept anything else."</p>
+<p>Un gemido gutural resuena en el aire—y una aparición aterradora se manifiesta ante ti: el espíritu de Elisabeth Durst, cuyos rasgos alguna vez hermosos ahora están grotescamente distorsionados. Su cabello lustroso es un desorden salvaje y despeinado, su piel es de un pálido mortecino, y sus labios se despegan revelando dientes afilados y amarillentos. Un fragmento de ámbar brilla ominosamente en un cordón alrededor de su cuello espectral, un remolino de sombras arremolinándose en su interior.</p>
+<p>El espíritu levita alto sobre el suelo, con ojos hundidos que arden con malicia y una boca retorcida en una mueca. "Puede que hayas evadido a mi mascota," dice en tono áspero, "pero desgarraré esta casa antes de dejarte escapar." Echa la cabeza hacia atrás y suelta un grito espeluznante que reverbera en las paredes de piedra—y hace que los mismos cimientos de la casa tiemblen.</p>
+<p>Muy arriba, el reloj de pie comienza a sonar, el sonido se monta en una cacofonía atronadora. Polvo y escombros caen mientras el suelo tiembla bajo tus pies, las vigas de madera del techo comienzan a astillarse y agrietarse. El espíritu de Elisabeth te fija con una sonrisa feroz—y luego se disipa en el aire, dejando solo ecos de su risa maliciosa mientras la casa retumba, se mueve y cruje.</p>
 </div>
 
-The spirit is recognizable as Gustav Durst. Gustav pleads with the players to give up, insisting that Elisabeth's spirit is simply too powerful—too fearsome—to disobey. A DC 10 Wisdom (Insight) check reveals that Gustav is terrified of Elisabeth—and ridden with guilt, doubt, and self-loathing.
+Los jugadores deben huir de la cámara ritual hacia la [[#Entrada]] de la Casa de la Muerte antes de que toda la estructura se derrumbe sobre sus cabezas. Sin embargo, no necesitan tirar iniciativa, y los cambios arquitectónicos descritos en <span class="citation">El Culto es Negado (p. 220)</span> no están presentes.
 
-If the players attempt to bypass or attack Gustav, a swarm of levitating debris and shrapnel arises around him. He pleads with the players again, insisting that he doesn't want to fight them, but that he doesn't know that he has any other choice.
+En cambio, mientras los jugadores escapan de la Casa de la Muerte en ruinas, enfrentan dos obstáculos adicionales.
 
-> [!combat]- **Balancing the Poltergeist**
-> This combat encounter is a **bruising** encounter against a party of five 2nd-level players, and will consume approximately 28% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+***El Fantasma de Gustav.*** Mientras los jugadores se mueven para salir de la [[#Reliquia]], el fantasma de Gustav Durst (usa las estadísticas de un **poltergeist**, pero sin su característica de ***invisibilidad***) los confronta. Lee:
+
+<div class="description">
+<p>Una aparición etérea aparece ante ti, obstruyendo las escaleras—el fantasma de un hombre. Es una figura demacrada y pálida, con ojos hundidos y atormentados y manos temblorosas, vistiendo ropas que alguna vez fueron finas, ahora raídas por el tiempo.</p>
+<p>"Por favor," dice el espíritu, con lágrimas en los ojos. "Tienen que quedarse aquí y morir. Ella no aceptará otra cosa."</p>
+</div>
+
+El espíritu es reconocible como Gustav Durst. Gustav suplica a los jugadores que se rindan, insistiendo en que el espíritu de Elisabeth es simplemente demasiado poderoso—demasiado temible—para desobedecer. Una prueba de Sabiduría DC 10 (Perspicacia) revela que Gustav está aterrorizado de Elisabeth—y lleno de culpa, dudas y autodesprecio.
+
+Si los jugadores intentan pasar por alto o atacar a Gustav, un enjambre de escombros y metralla levitante surge a su alrededor. Vuelve a suplicar a los jugadores, insistiendo en que no quiere pelear, pero que no sabe si tiene otra opción.
+
+> [!combat]- **Balanceando el Poltergeist**
+> Este encuentro de combate es un encuentro **desgarrador** contra un grupo de cinco jugadores de nivel 2, y consumirá aproximadamente el 28% de sus puntos de golpe máximos. Para grupos de tamaños más pequeños o más grandes, modifica el encuentro de la siguiente manera:
 > 
-> * ***Three Players.*** Reduce Gustav’s HP to 13. Reduce his ***forceful slam*** attack to 6 (3d4-1) force damage and his ***telekinetic thrust*** action’s attack to 3 (1d6) bludgeoning damage.
-> * ***Four Players.*** Reduce Gustav’s HP to 18. Reduce his forceful slam attack to 8 (3d4+1) ***force damage*** and his ***telekinetic thrust*** action’s attack to 4 (1d8) bludgeoning damage.
-> * ***Six Players.*** Increase Gustav’s HP to 26. Increase his ***forceful slam*** attack to 12 (3d6+2) force damage and his ***telekinetic thrust*** action’s attack to 6 (1d12) bludgeoning damage.
+> * ***Tres Jugadores.*** Reduce los puntos de golpe de Gustav a 13. Reduce su ataque de ***golpe contundente*** a 6 (3d4-1) de daño de fuerza y el ataque de su acción de ***empujón telequinético*** a 3 (1d6) de daño contundente.
+> * ***Cuatro Jugadores.*** Reduce los puntos de golpe de Gustav a 18. Reduce su ataque de ***golpe contundente*** a 8 (3d4+1) de daño de fuerza y el ataque de su acción de ***empujón telequinético*** a 4 (1d8) de daño contundente.
+> * ***Seis Jugadores.*** Aumenta los puntos de golpe de Gustav a 26. Aumenta su ataque de ***golpe contundente*** a 12 (3d6+2) de daño de fuerza y el ataque de su acción de ***empujón telequinético*** a 6 (1d12) de daño contundente.
 
-The players can convince Gustav to step aside with a successful DC 20 Charisma (Intimidation) check. Alternatively, if the players reference Gustav's history with Elisabeth and Klara, they can convince him to stand aside with a DC 10 Charisma (Persuasion) check, succeeding automatically if they show him empathy or kindness or if they ask Rose and Thorn's spirits to assist them in their plea.
+Los jugadores pueden convencer a Gustav de hacerse a un lado con una prueba de Carisma (Intimidación) DC 20 exitosa. Alternativamente, si los jugadores hacen referencia a la historia de Gustav con Elisabeth y Klara, pueden convencerlo de hacerse a un lado con una prueba de Carisma (Persuasión) DC 10, teniendo éxito automáticamente si le muestran empatía o amabilidad o si piden a los espíritus de Rose y Thorn que los ayuden en su súplica.
 
-If the players successfully persuade Gustav to stand aside, he warns them that "her other servants" are lying in wait ahead to block the players' escape. "Don't fear them," he says. "Their only power is fear." He then vanishes.
+Si los jugadores persuaden con éxito a Gustav para que se haga a un lado, él les advierte que "sus otros sirvientes" están esperando adelante para bloquear la escapada de los jugadores. "No los temas," dice. "Su único poder es el miedo." Luego desaparece.
 
-***The Cult's Return*** When the players first reach the [[#Family Crypts]] or (if they have previously found and opened the hidden trapdoor described in **32. Hidden Trapdoor**, p. 219) near the [[#Darklord’s Shrine]], the spirits of the cult arise to stop them. Read:
+***El Regreso del Culto*** Cuando los jugadores lleguen por primera vez a los [[#Criptas Familiares]] o (si han encontrado y abierto previamente la trampilla oculta descrita en **32. Trampilla Oculta**, p. 219) cerca del [[#Santuario del Señor Oscuro]], los espíritus del culto se levantan para detenerlos. Lee:
 
 <div class="description">
-<p>The chanting rises once more as thirteen dark apparitions appear around you, obstructing the way forward—as well as the way back. Each one resembles a black-robed figure holding a torch, but the torch's fire is black and seems to draw light into it. Where you'd expect to see faces are voids. "He is the Ancient!" they chant, over and over. "He is the Land!"</p>
+<p>El canto se eleva una vez más mientras trece apariciones oscuras aparecen a tu alrededor, obstruyendo el camino hacia adelante—y hacia atrás. Cada una de ellas se asemeja a una figura encapuchada de negro sosteniendo una antorcha, pero el fuego de la antorcha es negro y parece atraer la luz hacia sí. Donde esperarías ver rostros, hay vacíos. "¡Él es el Anciano!" cantan, una y otra vez. "¡Él es la Tierra!"</p>
 </div>
 
-The apparitions are harmless and intangible figments that can't be damaged, turned, or dispelled. At the end of each round, each player that remains between the apparitions must succeed on a DC 10 Dexterity saving throw or take 2 (1d4) bludgeoning damage from falling debris.
-# A3. Outside Death House
-When the players exit Death House, the storm overhead has slowed to a mere drizzle, and the mists around the house have disappeared. Night has long since fallen, and the waning moon is high in the sky.
+Las apariciones son inofensivas e intangibles y no pueden ser dañadas, vueltas o disipadas. Al final de cada ronda, cada jugador que permanezca entre las apariciones debe tener éxito en una tirada de salvación de Destreza DC 10 o recibir 2 (1d4) de daño contundente por los escombros que caen.
 
-Most surprisingly, the players now find themselves in a dark forest clearing at the beginning of the <span class="citation">Old Svalich Road (p. 33)</span>, rather than in the streets of Daggerford. The road travels west. To the east lie dark, endless woods filled with the <span class="citation">Mists of Ravenloft (p. 23)</span>.
+# A3. Fuera de la Casa de la Muerte
 
-The house then collapses into the earth, leaving a dark and bottomless pit behind. If the players still have it, Elisabeth Durst's amber shard then crumbles into dust. The pit vanishes the first time the players depart the clearing.
+Cuando los jugadores salen de la Casa de la Muerte, la tormenta sobre ellos se ha ralentizado a una simple llovizna, y las nieblas alrededor de la casa han desaparecido. La noche ya ha caído, y la luna menguante está alta en el cielo.
 
-If they’re still possessing the players, [[Non-Player Characters#Rosavalda "Rose" Durst|Rose]] and [[Non-Player Characters#Thornboldt "Thorn" Durst|Thorn]]’s spirits end their possessions. The children remark that the woods resembles the Svalich Woods, which once surrounded their home—Barovia. However, the children add that these particular woods are unfamiliar to them, and that they seem to be far from their family's original village.
+Lo más sorprendente, los jugadores ahora se encuentran en un claro oscuro del bosque al comienzo del <span class="citation">Viejo Camino Svalich (p. 33)</span>, en lugar de en las calles de Daggerford. El camino viaja hacia el oeste. Al este hay bosques oscuros e interminables llenos de las <span class="citation">Niebla de Ravenloft (p. 23)</span>.
 
-As the players explore their surroundings, they can quickly see the top of an old, ruined stone tower poking up through the treetops. The architecture of the tower is as described in <span class="citation">Will-o'-Wisp (p. 33)</span>, but the interior is not desecrated ground, there is no wooden chest on the ground, and there are no **zombies** or **will-o'-wisps** inside or around the tower.
+La casa luego colapsa en la tierra, dejando un pozo oscuro y sin fondo detrás. Si los jugadores aún la tienen, el fragmento de ámbar de Elisabeth Durst se desmorona en polvo. El pozo desaparece la primera vez que los jugadores abandonan el claro.
 
-The players can easily surmise that this ruin appears to be a safe place to spend the night. Rose and Thorn offer to serve as sentries while the players rest, watching the woods and awakening the players should any threats emerge.
+Si aún están poseyendo a los jugadores, los espíritus de [[Non-Player Characters#Rosavalda "Rose" Durst|Rose]] y [[Non-Player Characters#Thornboldt "Thorn" Durst|Thorn]] terminan sus posesiones. Los niños comentan que el bosque se parece al Bosque Svalich, que una vez rodeó su hogar—Barovia. Sin embargo, los niños añaden que estos bosques en particular les son desconocidos, y que parecen estar lejos del pueblo original de su familia.
 
-The night passes without issue. When the players awaken the following morning, Rose and Thorn ask the players if they can bury their remains before proceeding any further, so that they can finally rest. (The children's spirits will not proceed further into Barovia, instead pleading for the players to allow them to rest.) If the players bury their remains here, the children’s spirits thank them before vanishing.
+Mientras los jugadores exploran sus alrededores, pueden ver rápidamente la cima de una vieja torre de piedra en ruinas asomándose entre las copas de los árboles. La arquitectura de la torre es como se describe en <span class="citation">Will-o'-Wisp (p. 33)</span>, pero el interior no es terreno profanado, no hay un cofre de madera en el suelo, y no hay **zombis** ni **fuegos fatuos** dentro o alrededor de la torre.
 
-The players can find the beginning of the Old Svalich Road a short ways through the woods away from the tower. [[Arc B - Welcome to Barovia]] then begins.
+Los jugadores pueden deducir fácilmente que esta ruina parece ser un lugar seguro
 
-**_Milestone_**. Escaping Death House completes a story milestone. When the party begins their first long rest after escaping the house, award each player 400 XP. (This should allow the players to advance to 3rd level.)
-# Design Notes: Death House
-***The Arrival.*** The illusory Rose and Thorn have been intentionally removed from this version of Death House in order to ensure that the players enter the house of their own volition and trust the real Durst children upon meeting them.
+ para pasar la noche. Rose y Thorn se ofrecen a servir como centinelas mientras los jugadores descansan, vigilando el bosque y despertando a los jugadores si emergen amenazas.
 
-The countdown and poem have been added to provide the players with a clear sense of direction and purpose while exploring the house, and to prevent the players from taking a long rest (and therefore disrupting the balance of subsequent combat encounters) while doing so.
+La noche pasa sin incidentes. Cuando los jugadores despiertan a la mañana siguiente, Rose y Thorn piden a los jugadores si pueden enterrar sus restos antes de proceder más lejos, para que finalmente puedan descansar. (Los espíritus de los niños no procederán más allá en Barovia, en su lugar suplicarán a los jugadores que les permitan descansar.) Si los jugadores entierran sus restos aquí, los espíritus de los niños les agradecen antes de desaparecer.
 
-***The First Floor.*** The feast in the dining room has been made intentionally harmless in order to encourage the players to trust the safety of Strahd's dinner invitation when they later receive it. Additional clues have been added to convey to the players the relationships within the Durst family, including Mr. Durst's affair.
+Los jugadores pueden encontrar el comienzo del Viejo Camino Svalich a una corta distancia a través del bosque, lejos de la torre. [[Arc B - Welcome to Barovia]] comienza entonces.
 
-***The Second Floor.*** Clues have been added to ease the discovery of the library's secret room and to convey the depth of Mr. Durst's affair, as well as the nursemaid's pregnancy.
+**_Hito_**. Escapar de la Casa de la Muerte completa un hito de la historia. Cuando el grupo comience su primer descanso largo después de escapar de la casa, otorga a cada jugador 400 PX. (Esto debería permitir a los jugadores avanzar al nivel 3).
+# Notas de Diseño: Casa de la Muerte
 
-The dog Lancelot, a popular community character, has been intentionally cut from Death House to avoid providing the players with an easy sacrifice to make at the altar in the ritual chamber—a sacrifice that is no longer functional (because the cult no longer releases the players upon making a sacrifice) and which rings hollow when compared to the campaign that follows it (because Strahd's "hunger" cannot be sated.)
+***La Llegada.*** La aparición ilusoria de Rose y Thorn se ha eliminado intencionalmente de esta versión de la Casa de la Muerte para garantizar que los jugadores entren en la casa por su propia voluntad y confíen en los verdaderos niños Durst cuando los conozcan.
 
-***The Third Floor.*** The nursemaid's specter now serves as a vital tool that allows the players to find the attic staircase without undue frustration or delay. Additional clues have been added to convey the fate of Walter, Mr. Durst, and the nursemaid.
+El conteo regresivo y el poema se han agregado para proporcionar a los jugadores un sentido claro de dirección y propósito mientras exploran la casa, y para evitar que los jugadores tomen un descanso largo (y, por lo tanto, desbalanceen los encuentros de combate subsiguientes) mientras lo hacen.
 
-***The Attic.*** Clues have been added to convey the nursemaid's fate and the founding of Mrs. Durst's cult.
+***El Primer Piso.*** El banquete en el comedor se ha hecho intencionalmente inofensivo para animar a los jugadores a confiar en la seguridad de la invitación a cenar de Strahd cuando la reciban más tarde. Se han agregado pistas adicionales para transmitir a los jugadores las relaciones dentro de la familia Durst, incluida la aventura del Sr. Durst.
 
-***The Dungeon.*** Several of the encounters in this area have been changed to reduce the probability of a TPK and to teach the players to act cautiously and make wise decisions. In the ritual chamber, the cult is no longer willing to accept the sacrifice of a beast (e.g., Lancelot), foreshadowing that Strahd will not be content with Ireena alone. The **shambling mound** has been replaced by a two-stage **flesh mound**, whose statistics have been calibrated to provide a challenging fight without risking a TPK.
+***El Segundo Piso.*** Se han agregado pistas para facilitar el descubrimiento de la habitación secreta de la biblioteca y para transmitir la profundidad de la aventura del Sr. Durst, así como el embarazo de la enfermera.
 
-***Escape From Death House.*** The original "escape from Death House" sequence has been replaced with a pair of social encounters that reward the players for investigating the history of the house, and which serve to foreshadow the characterizations of Sergi von Zarovich, Lady Fiona Wachter, and Strahd's brides and servants in the adventure to come.
+El perro Lancelot, un personaje popular en la comunidad, se ha eliminado intencionalmente de la Casa de la Muerte para evitar que los jugadores tengan un sacrificio fácil para hacer en el altar de la cámara ritual, un sacrificio que ya no es funcional (porque el culto ya no libera a los jugadores al hacer un sacrificio) y que suena vacío en comparación con la campaña que le sigue (porque el "hambre" de Strahd no puede ser saciada).
 
-The frequent community addition of a skill challenge to escape the house has been removed to ensure a smooth and simple transition from the flesh mound's death to the players' exit from the house, to remove any friction with players who may struggle to learn the mechanics of a new system of gameplay in the heat of the moment, and to preserve the players' immersion in the narrative of the escape, rather than its gameplay.
+***El Tercer Piso.*** El espectro de la enfermera ahora sirve como una herramienta vital que permite a los jugadores encontrar la escalera del ático sin frustración o retraso indebidos. Se han agregado pistas adicionales para transmitir el destino de Walter, el Sr. Durst y la enfermera.
 
-This guide has intentionally foregone a popular community addition that places a bottle of wine—courtesy of Strahd—at or near the exit of the house. Strahd is not omniscient, and the players' efforts to avoid or foil his spies will prove a recurring aspect of gameplay through the adventure. Moreover, Death House is too far from Barovia proper for Strahd to have obtained and delivered a fresh bottle of wine to its location. A villain is only as evocative as their limitations, and Strahd has many. 
+***El Ático.*** Se han agregado pistas para transmitir el destino de la enfermera y la fundación del culto de la Sra. Durst.
 
-Finally, it is an intentional design choice of this guide that the players do not encounter Strahd directly until their meeting at the River Ivlis Crossroads, which ensures that their relationship with Strahd before then is built solely on rumor, second-hand knowledge, and superstition. Earlier direct exposure would wholly spoil this effect.
+***El Calabozo.*** Varios de los encuentros en esta área se han cambiado para reducir la probabilidad de una muerte total del grupo (TPK) y para enseñar a los jugadores a actuar con cautela y tomar decisiones sabias. En la cámara ritual, el culto ya no está dispuesto a aceptar el sacrificio de una bestia (por ejemplo, Lancelot), lo que prefigura que Strahd no se contentará solo con Ireena. El **montón en descomposición** ha sido reemplazado por un **montón de carne** de dos etapas, cuyas estadísticas se han calibrado para proporcionar una pelea desafiante sin arriesgar una muerte total del grupo (TPK).
+
+***Escape de la Casa de la Muerte.*** La secuencia original de "escape de la Casa de la Muerte" se ha reemplazado con un par de encuentros sociales que recompensan a los jugadores por investigar la historia de la casa, y que sirven para prefigurar las caracterizaciones de Sergi von Zarovich, Lady Fiona Wachter y las novias y sirvientes de Strahd en la aventura por venir.
+
+La frecuente adición de la comunidad de un desafío de habilidades para escapar de la casa se ha eliminado para asegurar una transición suave y simple desde la muerte del montón de carne hasta la salida de los jugadores de la casa, para eliminar cualquier fricción con jugadores que puedan tener dificultades para aprender las mecánicas de un nuevo sistema de juego en el calor del momento, y para preservar la inmersión de los jugadores en la narrativa de la fuga, más que en su jugabilidad.
+
+Esta guía ha evitado intencionalmente una popular adición de la comunidad que coloca una botella de vino, cortesía de Strahd, en o cerca de la salida de la casa. Strahd no es omnisciente, y los esfuerzos de los jugadores por evitar o frustrar a sus espías serán un aspecto recurrente del juego a lo largo de la aventura. Además, la Casa de la Muerte está demasiado lejos de Barovia propiamente dicha para que Strahd haya obtenido y entregado una botella fresca de vino a su ubicación. Un villano es tan evocador como sus limitaciones, y Strahd tiene muchas.
+
+Finalmente, es una elección de diseño intencional de esta guía que los jugadores no encuentren a Strahd directamente hasta su reunión en el Cruce del Río Ivlis, lo que asegura que su relación con Strahd antes de eso se construya únicamente sobre rumores, conocimientos de segunda mano y supersticiones. Una exposición directa anterior arruinaría completamente este efecto.
