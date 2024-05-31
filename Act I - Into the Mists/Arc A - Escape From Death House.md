@@ -7,7 +7,7 @@
 >
 > También puedes echar un vistazo temprano a los borradores del resto de **Acto III: La Tierra Rota**, así como esquemas y notas de todos los actos y arcos siguientes, apoyando esta guía en [Patreon](https://www.patreon.com/DragnaCarta).
 
-Los jugadores comienzan en la ciudad de Daggerford la noche anterior a Highharvestide, una fiesta anual y celebración navideña. Las posadas locales están llenas para pasar la noche y los jugadores (vagabundos con poco dinero o compañía) encuentran refugio en el establo de La Brida de Pesadilla, una taberna destartalada en las afueras de la ciudad.
+Los jugadores comienzan en la ciudad de Daggerford la noche anterior a Highharvestide, una fiesta anual. Las posadas locales están llenas para pasar la noche y los jugadores (vagabundos con poco dinero o compañía) encuentran refugio en el establo de La Brida de Pesadilla, una taberna destartalada en las afueras de la ciudad.
 
 Sin embargo, cuando las reliquias que llevan sienten la presencia de la Casa de la Muerte, los jugadores son conducidos a través de las calles lluviosas de Daggerfords hasta el umbral de espera de la casa.
 
@@ -23,9 +23,10 @@ Si uno o más de tus jugadores están utilizando el anzuelo de los [[Running the
 
 <div class="description">
 <p>Es la tarde antes de la Víspera de Highharvesttide, y una tormenta ha descendido sobre Daggerford, con nubes oscuras vertiendo cascadas de lluvia sobre el pueblo. A pesar del clima, sin embargo, el pueblo zumba con la anticipación del inminente festival otoñal, con cada hogar lleno de calidez y alegría. La brillante y alegre luz de las velas titila desde cada ventana, y los sonidos de canciones y bailes resuenan por las calles mojadas y embarradas.</p>
-<p>En medio de la alegría, sin embargo, te encuentras apartado. Ni locales ni visitantes, son vagabundos—viajeros, fantasmas que pasan por una ciudad desconocida. Mientras la risa resuena desde las posadas y los hogares, te enfrentas a un dilema más simple y severo: la búsqueda de refugio.</p>
+<p>En medio de la alegría, sin embargo, os encuentrais apartados. Ni locales ni visitantes, sois
+vagabundos—viajeros, fantasmas que pasan por una ciudad desconocida. Mientras las risas resuenan desde las posadas y los hogares, os enfrentáis a un dilema más simple y severo: la búsqueda de refugio.</p>
 <p>Cada habitación en este pueblo está ocupada, cada hogar lleno hasta el borde, dejándote a merced de la amarga tormenta. Hasta que, eso sí, el dueño de la taberna ruinosa La Brida de Pesadilla te ofrece un respiro a regañadientes: el desván sobre su establo. No es nada de qué presumir, dejando el frío mordiente y el olor de heno rancio como tus únicos compañeros. Pero sigue siendo un techo sobre sus cabezas—una pequeña misericordia en una noche como esta.</p>
-<p>Uno por uno, encuentrais un hogar en medio del barro y el heno. Arriba, la lluvia azota el establo, el trueno sonando como un tambor rítmico en el techo. Destellos de relámpagos atraviesan el cielo, lanzando luces y sombras vívidas en el interior del establo. El agua de lluvia gotea constantemente a través de una gotera en el techo, serpenteando por el suelo hasta que se acumula en un rincón.</p>
+<p>Uno por uno, encontráis un hogar en medio del barro y el heno. Arriba, la lluvia azota el establo, el trueno sonando como un tambor rítmico en el techo. Destellos de relámpagos atraviesan el cielo, lanzando luces y sombras vívidas en el interior del establo. El agua de lluvia gotea constantemente a través de una gotera en el techo, serpenteando por el suelo hasta que se acumula en un rincón.</p>
 <p>Así que aquí te encuentras: acurrucado en la oscuridad entre extraños, mientras la alegría y la felicidad bailan justo fuera de tu alcance.</p>
 </div>
 
