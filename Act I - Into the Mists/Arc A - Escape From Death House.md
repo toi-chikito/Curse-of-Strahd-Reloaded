@@ -90,14 +90,14 @@ Si uno o más de tus jugadores están utilizando el anzuelo de los [[Running the
 
 Lee a todos los jugadores el siguiente texto:
   
-<div class=description> <p>Una gran casa se erige ante vosotros, cuatro pisos de fría piedra manchada de hollín, altas y estrechas ventanas, y techos altos y puntiagudos formando una imagen de austera y helada grandeza. A medio camino, un balcón estrecho sobresale del tercer piso, ofreciendo un sombrío mirador desde el cual observar los terrenos circundantes.</p> <p>El centro de esta imponente fachada es el pórtico, un arco de piedra que se yergue como centinela ante las puertas de roble de la casa. Una verja de hierro forjado llena este arco, sus bisagras oxidadas crujen mientras se balancea en el viento.</p> <p>A ambos lados de la verja, lámparas de aceite cuelgan de cadenas, con una luz débil y parpadeante, arrojando un brillo enfermizo que apenas atraviesa la niebla circundante.</p> <p>Más allá de la verja, un par de robustas puertas de roble permanecen cerradas, enmarcadas por la verja y las lámparas. Las puertas son viejas y desgastadas, su madera oscurecida por el tiempo, pero se mantienen fuertes y orgullosas—una entrada no deseada a la casa más allá.</p> <p>Una ráfaga de viento os envuelve, llevando consigo un susurro de frío terror que os recorre la espalda.</p> </div>
+<div class=description> <p>Una gran casa se presenta ante vosotros, cuatro pisos de fría piedra manchada de hollín, altas y estrechas ventanas, y techos altos y puntiagudos formando una imagen de austera y helada grandeza. A medio camino, un balcón estrecho sobresale del tercer piso, ofreciendo un sombrío mirador desde el cual observar los terrenos circundantes.</p> <p>El centro de esta imponente fachada es el pórtico, un arco de piedra que se yergue como centinela ante las puertas de roble de la casa. Una verja de hierro forjado llena este arco, sus bisagras oxidadas crujen mientras se balancea en el viento.</p> <p>A ambos lados de la verja, lámparas de aceite cuelgan de cadenas, con una luz débil y parpadeante, arrojando un brillo enfermizo que apenas atraviesa la niebla circundante.</p> <p>Más allá de la verja, un par de robustas puertas de roble permanecen cerradas, enmarcadas por la verja y las lámparas. Las puertas son viejas y desgastadas, su madera oscurecida por el tiempo, pero se mantienen fuertes y orgullosas—una entrada no deseada a la casa más allá.</p> <p>Una ráfaga de viento os envuelve, llevando consigo un susurro de frío terror que os recorre la espalda.</p> </div>
 
   
 Los jugadores que comenzaron con el anzuelo de _**Reliquias de Barovia**_ ahora pueden ver a los jugadores que comenzaron con el anzuelo de _**Perdidos en la Niebla**_, y viceversa. (Si alguna de las reliquias de los jugadores voló o rodó hacia la Casa de la Muerte—como con la _**bufanda del vagabundo**_ o la _**moneda de electrón**_—aterrizan en el umbral de la casa, justo más allá del pórtico). La calle está desierta.
 
 La entrada más allá del pórtico es como se describe en <span class="citation">1. Entrance (p. 212)</span>.
   
->Colgado en la pared sur del vestíbulo hay un escudo con un escudo de armas (un molino de viento estilizado dorado sobre un campo rojo), flanqueado por retratos enmarcados de aristócratas de rostro pétreo (miembros fallecidos hace mucho tiempo de la familia Durst). Las puertas dobles enmarcadas en caoba que conducen desde el vestíbulo hasta el salón principal (área 2A) están decoradas con paneles de vidrieras.
+>Colgado en la pared sur del vestíbulo hay un escudo blasonado con un escudo de armas (un estilizado molino de viento dorado sobre un campo rojo), flanqueado por retratos enmarcados de aristócratas de rostro pétreo (miembros fallecidos hace mucho tiempo de la familia Durst). Las puertas dobles enmarcadas en caoba que conducen desde el vestíbulo hasta el salón principal (área 2A) están decoradas con paneles de vidrieras.
 
 
 
@@ -116,7 +116,7 @@ El salón principal es en gran medida como se describe en <span class="citation"
 En lugar de una espada larga, el retrato de la familia Durst de <span class="citation">6. Vestíbulo Superior (p. 213)</span> ahora cuelga sobre la chimenea. En el retrato, Rose está sosteniendo una muñeca sonriente con un vestido de encaje amarillo. Una placa debajo del retrato dice: _Sr. Gustav y Sra. Elisabeth Durst, con sus dos hijos, Rosavalda y Thornboldt._<sup><a href="https://www.reddit.com/r/CurseofStrahd/comments/8sfpkn/fleshing_out_curse_of_strahd_part_2_entering/">1</a></sup>
 
 
->Un amplio pasillo (área 2A) recorre el ancho de la casa, con una chimenea de mármol negro en un extremo y una majestuosa escalera de mármol rojo en el otro. En el centro de la base circular de las escaleras se encuentra un alto y antiguo reloj de pie. Las paredes revestidas de madera están esculpidas con imágenes de viñas, flores, ninfas y sátiros. Los personajes que busquen puertas secretas en las paredes o inspeccionen los revestimientos pueden, con una exitosa tirada de Sabiduría (Percepción) CD 12, ver serpientes y calaveras hábilmente tejidas en los diseños de las paredes. El revestimiento decorativo sigue la escalera mientras asciende hacia el segundo piso. Un guardarropa (área 2B) tiene varios abrigos negros colgando de ganchos en las paredes. Un sombrero de copa reposa en un estante alto.  Montada en la pared sobre la chimenea hay un retrato enmarcado en madera de una familia. Una placa debajo del retrato dice: _Sr. Gustav y Sra. Elisabeth Durst, con sus dos hijos, Rosavalda y Thornboldt_. Rosvalda tiene una muñeca con un vestido de encaje amarillo y esta sonriente, al igual que su hermano Thornboldt. Se puede ver al Sr. Gustav sujetar un bebe envuelto en pañales, mientras que la madre parece mirarlo con un ligero desprecio.
+>"Un amplio vestíbulo recorre el ancho de la casa, con una chimenea de mármol negro en un extremo y una majestuosa escalera de mármol rojo en el otro. En el centro de la base circular de las escaleras se encuentra un alto y antiguo reloj de pie. Las paredes revestidas de madera están esculpidas con imágenes de viñas, flores, ninfas y sátiros.  Montado en la pared sobre la chimenea hay un retrato enmarcado en madera de una familia. Una placa debajo del retrato dice: _Sr. Gustav y Sra. Elisabeth Durst, con sus dos hijos, Rosavalda y Thornboldt_. Los dos niños están sonrientes y se puede ver como Rosavalda sujeta una muñeca con un vestido de encaje amarillo. Se puede ver al Sr. Gustav sujeta un bebe envuelto en pañales, mientras que la madre parece mirarlo con un ligero desprecio". Un guardarropa (área 2B) tiene varios abrigos negros colgando de ganchos en las paredes. Un sombrero de copa reposa en un estante alto. Los personajes que busquen puertas secretas en las paredes o inspeccionen los revestimientos pueden, con una exitosa tirada de **Sabiduría (Percepción) CD 12**, ver serpientes y calaveras hábilmente tejidas en los diseños de las paredes. "El revestimiento decorativo sigue la escalera mientras asciende hacia el segundo piso. 
 
 Poco después de que todos los personajes entren en el salón principal, la puerta principal se cierra de golpe, apagando todas las luces de la casa. El sonido de la lluvia afuera desaparece por completo, dejando la casa inquietantemente en silencio. 
 
@@ -206,11 +206,13 @@ Si los jugadores proceden, lee:
 <div class="description">
     <p>La puerta se abre, revelando un lobo de pelaje gris congelado en su lugar. Solo pasa un momento antes de que te des cuenta de que no se está moviendo, y otro antes de que te des cuenta de que no está solo.</p>
     <p>Esta habitación revestida de paneles de roble parece la guarida de un cazador. Montado sobre la chimenea hay una cabeza de ciervo, y posicionados alrededor de los bordes de la habitación hay dos lobos disecados adicionales: un gran lobo gris y un lobo marrón más pequeño.</p>
-    <p>Dos sillas acolchadas cubiertas con pieles de animales enfrentan una chimenea, con una mesa de roble entre ellas que soporta una variedad de objetos. Un candelabro cuelga sobre una mesa cubierta con un mantel rodeada por cuatro sillas, y dos armarios están situados a cada lado.</p>
+    <p>Dos sillas acolchadas cubiertas con pieles de animales enfrentan una chimenea, con una mesa de roble entre ellas que soporta una variedad de objetos. Un candelabro cuelga sobre una mesa cubierta con un mantel rodeada por cuatro sillas, y dos armarios están situados a cada lado. Un par de pequeños juguetes parecen haber sido olvidados bajo uno de las sillas.</p>
 </div>
 
 
-Los juguetes desechados son pequeños lobos de peluche gris, cuyos abrigos raídos muestran evidencia de muchas reparaciones y remiendos. Torpes puntadas en sus estómagos leen ROSE y THORN, respectivamente.
+Los juguetes desechados son pequeños lobos de peluche gris, cuyos pelajes raídos muestran evidencia de muchas reparaciones y remiendos. Torpes puntadas en sus estómagos leen ROSE y THORN, respectivamente.
+
+>El gabinete del este tiene una cerradura que se puede forzar con herramientas de ladrón y una prueba exitosa de **Destreza CD 15**. Contiene una ballesta pesada, una ballesta ligera, una ballesta de mano y 20 virotes para cada arma. El gabinete del norte está desbloqueado y contiene una pequeña caja con una baraja de cartas y una variedad de copas de vino.
 
 Además de sus otros contenidos, el gabinete este contiene tres virotes de ballesta plateados mezclados con los otros veinte virotes. Mientras tanto, el gabinete norte también contiene una pieza de bordado infantil que representa a un niño y una niña tomados de la mano de una joven, junto con palabras torpemente bordadas que dicen PARA LA SRTA. KLARA. El rostro de la joven ha sido rajado y cortado.
 
@@ -227,10 +229,11 @@ Esta habitación es en gran parte como se describe en <span class="citation">Com
 <div class="description">
 <p>Entras en un comedor con paneles de madera. El centro de atención es una mesa de caoba tallada, rodeada por ocho sillas de respaldo alto con reposabrazos esculpidos y asientos acolchonados. Un candelabro de cristal cuelga sobre la mesa, que está puesta con resplandecientes cubiertos de plata y copas de cristal pulidas a un brillo deslumbrante. Sobre la chimenea de mármol está montado un cuadro con un marco de caoba de un valle alpino.</p>
 <p>El panelado de las paredes está tallado con elegantes imágenes de ciervos entre los árboles. Cortinas de seda roja cubren las ventanas, y un tapiz cuelga de una barra de hierro atornillada a la pared sur.</p>
-<p>La mesa se queja bajo el peso de un festín de aspecto delicioso. Exquisitos platos se encuentran en grandiosos platones: aves de corral asadas y glaseadas con una reluciente salsa de miel, cortes de res perfectamente asados que aún emiten vapor, una variedad de quesos y frutas frescas, y panes recién horneados que desprenden un aroma reconfortante.</p>
+<p>La mesa se queja bajo el peso de un festín de aspecto delicioso. Exquisitos platos se encuentran en grandiosos platones: aves de granja asadas y glaseadas con una reluciente salsa de miel, cortes de carnes perfectamente asadas que aún emiten vapor, una variedad de quesos y frutas frescas, y panes recién horneados que desprenden un aroma reconfortante.</p>
 </div>
 
 Un jugador que pruebe la comida no sufre ningún efecto adverso.
+
 
 ### Cocina y Despensa
 <span class="citation"><em>Esta escena corresponde al Apéndice B: Área 4.</em></span>
@@ -252,10 +255,12 @@ Un jugador que abra la olla encuentra que contiene una botella de vino, un trozo
 
 * La etiqueta del vino muestra que proviene de la bodega Wizard of Wines y proporciona el nombre del vino: Champagne du le Stomp. (Un jugador que beba el vino descubre que se ha convertido en vinagre, como si mágicamente hubiera envejecido siglos en solo unos momentos.)
 * El trozo de encaje tiene la inicial "K" cosida en una esquina.
-* Una prueba exitosa de Inteligencia (Naturaleza) DC 14 identifica el polvo marrón como silfio seco, una hierba anticonceptiva.
+* Una prueba exitosa de **Inteligencia (Naturaleza) DC 14** identifica el polvo marrón como silfio seco, una hierba anticonceptiva.
 * El pergamino dice: "Para la luz de mi vida. —G."
 
 Si los jugadores leen la nota, uno de los cuchillos en la cocina vuela del estante y se incrusta en la pared opuesta.
+
+>Un personaje Pequeño puede meterse en la caja del montaplatos con una prueba exitosa de Destreza (Acrobacias) CD 10. El mecanismo de cuerda y polea del montaplatos puede soportar hasta 200 libras de peso antes de romperse.
 
 ## A2c. El Segundo Piso
 
@@ -270,6 +275,9 @@ Esta habitación es en gran parte como se describe en <span class="citation">Pas
 <p>La escalera de mármol rojo continúa su espiral ascendente hacia un tercer piso, un frío viento susurrando desde arriba.</p>
 </div>
 
+>Prueba
+>Una prueba exitosa de **Sabiduría (Percepción) CD 12** revela que los jóvenes no están realmente bailando, sino luchando contra enjambres de murciélagos.
+
 ### Cuarto de los Sirvientes
 <span class="citation"><em>Esta escena tiene lugar en el Apéndice B: Área 7.</em></span>
 
@@ -282,12 +290,12 @@ Esta habitación es en gran parte como se describe en <span class="citation">Cua
 
 La canasta contiene la ropa de un hombre, incluyendo trajes finos, túnicas, corbatas, pantalones y medias. Sin embargo, un camisón de mujer, mucho más pequeño, parece haberse mezclado con el resto.
 
-### Invernadero
+### Conservatorio
 <span class="citation"><em>Esta escena tiene lugar en el Apéndice B: Área 10.</em></span>
 
 Los jugadores que se acerquen a esta puerta pueden escuchar el sonido tenue de un clavecín tocando al otro lado de las puertas. Sin embargo, si los jugadores abren o tocan la puerta, la música cesa.
 
-Esta habitación es en gran parte como se describe en <span class="citation">Invernadero (p. 214)</span>. Cuando los jugadores entren, lee:
+Esta habitación es en gran parte como se describe en <span class="citation">Conservatorio (p. 214)</span>. Cuando los jugadores entren, lee:
 
 <div class="description">
 <p>Entras en un salón elegantemente decorado, cuyas ventanas están cubiertas con cortinas de gasa. Un candelabro de latón cuelga del techo, y sillas tapizadas alinean las paredes.</p>
@@ -332,7 +340,7 @@ Esta habitación es en gran parte como se describe en **Biblioteca** (p. 213-14)
 
 El cajón superior del escritorio ahora contiene varios recibos de velas, dagas e incienso, en lugar de la llave para la [[#Habitación de los Niños]].
 
-Un personaje que registre la habitación y tenga éxito en una prueba de Sabiduría (Percepción) DC 15 puede ver luz de velas parpadeante emanando desde debajo de la puerta secreta.<sup><a href="https://www.reddit.com/r/dndnext/comments/49bvms/notes_from_running_death_house/">4</a></sup>
+Un personaje que registre la habitación y tenga éxito en una prueba de **Sabiduría (Percepción) DC 15** puede ver luz de velas parpadeante emanando desde debajo de la puerta secreta.<sup><a href="https://www.reddit.com/r/dndnext/comments/49bvms/notes_from_running_death_house/">4</a></sup>
 
 > [!info]+ **Realización de Múltiples Pruebas de Habilidad**
 >
@@ -343,6 +351,8 @@ Un personaje que registre la habitación y tenga éxito en una prueba de Sabidur
 Una vez que la estantería se ha movido, los jugadores pueden ver un pequeño panel de madera oscura detrás de ella, incrustado en la pared a aproximadamente la altura del pecho. Un pequeño nicho hueco, dentado e irregular, se encuentra en el centro del panel y emite un leve resplandor ámbar.
 
 La puerta no puede abrirse a menos que el fragmento de ámbar de la [[#Suite Principal]] se coloque en el nicho. La puerta secreta se abre entonces, permitiendo a los jugadores entrar en la [[#Habitación Secreta]].
+
+>Una puerta secreta detrás de una estantería puede ser desbloqueada y abierta tirando de un interruptor disfrazado de libro cubierto de rojo con el lomo en blanco. Un personaje que inspeccione la estantería puede detectar el libro falso con una prueba exitosa de Sabiduría (Percepción) CD 13. A menos que la puerta secreta esté apoyada para mantenerse abierta, resortes en las bisagras la hacen cerrarse por sí sola. Más allá de la puerta secreta se encuentra el área 9.
 
 ### Habitación Secreta
 <span class="citation"><em>Esta escena tiene lugar en el Apéndice B: Área 9.</em></span>
@@ -356,9 +366,9 @@ Esta habitación es en gran parte como se describe en <span class="citation">Hab
 El cofre ya no contiene la escritura de Old Bonegrinder. Además, cambia la carta de Strahd para que diga lo siguiente:
 
 <div class="description">
-<p>Mi más patético sirviente,</p>
+<p>Mi más patética sirviente,</p>
 <p>No soy un mesías enviado a ti por los Poderes Oscuros de esta tierra. No he venido a guiarte por un camino hacia la inmortalidad. Sin importar cuántas almas hayas desangrado en tu altar oculto, sin importar cuántos visitantes hayas torturado en tu calabozo, debes saber que no fuiste tú quien me trajo a esta hermosa tierra. Eres solo un gusano retorciéndose en mi tierra.</p>
-<p>Dices que estás maldito, que tu fortuna se ha agotado. Tu esposo buscó consuelo en el regazo de otra mujer, engendró un hijo bastardo y te llevó a abandonar el amor por la locura. ¿Maldito por la oscuridad? De eso no tengo duda. ¿Salvarte de tu miseria? No lo creo. Prefiero mucho más que te quedes como estás.</p>
+<p>Dices que estás maldita, que tu fortuna se ha agotado. Tu esposo buscó consuelo en el regazo de otra mujer, engendró un hijo bastardo y te llevó a abandonar el amor por la locura. ¿Maldito por la oscuridad? De eso no tengo duda. ¿Salvarte de tu miseria? No lo creo. Prefiero mucho más que te quedes como estás.</p>
 <p>Tu temido señor y amo,</p>
 <p>Strahd von Zarovich</p>
 </div>
@@ -381,11 +391,15 @@ Esta habitación es en gran parte como se describe en <span class="citation">Bal
 <p>Una armadura de placas negra se encuentra contra una pared, cubierta de telarañas y marcada por la edad. Lámparas de aceite están montadas en las paredes de roble descolorido, que están talladas con escenas de bosques, árboles, hojas caídas y pequeñas bestias.</p>
 </div>
 
+
+
 Cuando se activa, la **armadura animada** utilizará uno o ambos de sus ataques de **_multiataque_** para intentar empujar a un jugador sobre la barandilla usando un ataque de ***empujón***, o intentar agarrar a su objetivo más cercano antes de derribarlo.
 
 Si la armadura es lanzada al primer piso y los jugadores no revelan su presencia en el balcón, la armadura no puede observarlos con sus sesenta pies de visión ciega, y es demasiado tonta para pensar en subir de nuevo.
 
 Una criatura que es empujada por el borde del balcón cae dos pisos, o veinte pies, y recibe 2d6 puntos de daño contundente. Esa criatura debe tener éxito en una prueba de Destreza (Acrobacias) DC 15 o caerá derribada.
+
+>Una **puerta secreta** en la pared oeste puede ser encontrada con un chequeo exitoso de **Sabiduría (Percepción) DC 15**. Se abre fácilmente para revelar una escalera de madera llena de telarañas que conduce al ático.
 
 > [!combat]- **Equilibrando la Armadura Animada**
 > Este encuentro de combate es un encuentro **leve** contra un grupo de cinco jugadores de nivel 2, y consumirá aproximadamente el 15% de su total de puntos de vida máxima. Para grupos de tamaños más pequeños o más grandes, modifica el encuentro de la siguiente manera:
@@ -436,6 +450,9 @@ Consulta **El Fragmento de Ámbar de Elisabeth** en [[#Cámara del Ritual]] abaj
 
 ### Baño
 <span class="citation"><em>Esta escena tiene lugar en el Apéndice B: Área 13.</em></span>
+
+>Esta habitación oscura contiene una bañera de madera con patas en forma de garras, una pequeña estufa de hierro con una tetera sobre ella y un barril debajo de un grifo en la pared este. Una cisterna en el techo solía recoger agua de lluvia, que bajaba por una tubería hasta el grifo; sin embargo, la plomería ya no funciona.
+
 
 Esta habitación es como se describe en <span class="citation">Baño (p. 215)</span>.
 
@@ -527,6 +544,11 @@ Cuando los jugadores salgan de la habitación, la mecedora comienza a balancears
 
 Esta habitación es en gran parte como se describe en **Habitación de los Niños** (p. 215-16).
 
+>Los niños Durst, Rose y Thorn, fueron descuidados por sus padres y encerrados en esta habitación hasta que murieron de hambre. Sus pequeños esqueletos yacen en el centro del suelo, a plena vista, vistiendo ropa hecha jirones que los personajes reconocen como perteneciente a los niños. El esqueleto de Thorn sostiene la muñeca de trapo del niño.
+
+>El baúl de juguetes contiene una variedad de animales de peluche y juguetes. Los personajes que examinen la casa de muñecas y tengan éxito en una prueba de Sabiduría (Percepción) DC 15 encontrarán todas las puertas secretas de la casa, incluida una en el ático que conduce a una escalera de caracol (una réplica en miniatura del área 21).
+
+
 ![Rose and Thorn](Rose%20and%20Thorn.png)
 <span class="credit">"Rose & Thorn" por Caleb Cleveland. Apóyalo en <a href="https://patreon.com/calebisdrawing/">Patreon</a>!</span>
 
@@ -589,7 +611,7 @@ Esta habitación es en gran parte como se describe en <span class="citation">Cua
 <p>Esta cámara polvorienta está llena de formas abultadas y rechonchas cubiertas con sábanas blancas polvorientas. Una vieja estufa de hierro se encuentra contra la pared derecha, junto a lo que parece ser un gran baúl cubierto por una sábana.</p>
 </div>
 
-El **espectro** de la niñera no aparece en esta habitación. En cambio, un personaje que abra el baúl encontrará el cadáver de la niñera, con heridas consistentes con las vistas en el cuerpo del espíritu en la **Suite de la Niñera**. Una prueba de Sabiduría (Medicina) DC 14 revela que la mujer murió de inanición.
+El **espectro** de la niñera no aparece en esta habitación. En cambio, un personaje que abra el baúl encontrará el cadáver de la niñera, con heridas consistentes con las vistas en el cuerpo del espíritu en la **Suite de la Niñera**. Una prueba de **Sabiduría (Medicina) DC 14** revela que la mujer murió de inanición.
 
 Un jugador que inspeccione los restos siente un aliento frío en su hombro y la sensación inquebrantable de ser observado. Mientras tanto, si otro jugador ha descubierto previamente un espejo cercano de su cubierta de tela, ese jugador puede ver una aparición de Elisabeth Durst dentro del espejo mirando al jugador cerca del baúl. Una vez observada, la aparición desaparece rápidamente.
 
@@ -597,6 +619,8 @@ Un jugador que inspeccione los restos siente un aliento frío en su hombro y la 
 
 ### Dormitorio de Huéspedes
 <span class="citation"><em>Esta escena tiene lugar en el Apéndice B: Área 19.</em></span>
+
+>Esta habitación llena de telarañas contiene una cama estrecha, una mesita de noche, una mecedora, un armario vacío y una pequeña estufa de hierro.
 
 Esta habitación es como se describe en <span class="citation">Dormitorio de Huéspedes (p. 215)</span>.
 
@@ -684,6 +708,8 @@ Los jugadores no pueden ayudar a los fantasmas de Rose o Thorn a encontrar la pa
 ### Cuartos de los Iniciados del Culto
 <span class="citation"><em>Esta escena tiene lugar en el Apéndice B: Área 24.</em></span>
 
+>Una mesa de madera y cuatro sillas se encuentran en el extremo este de esta habitación. Al oeste, hay cuatro nichos que contienen camastros de paja mohosa.
+
 Esta habitación es en gran parte como se describe en <span class="citation">Cuartos de los Iniciados del Culto (p. 218)</span>.
 
 Cuando los personajes se muevan para descender al <span class="citation">Pozo y Cuartos de los Cultistas (p. 218)</span>, se puede escuchar un sonido repentino de chapoteo, que luego rápidamente se desvanece.
@@ -705,6 +731,14 @@ Si los jugadores lanzan un objeto al pozo y luego se giran, escuchan sonidos fue
 
 Reemplaza la espada corta plateada en el baúl **25E** con un libro encuadernado en cuero negro sucio. Este diario, firmado por Drasha, contiene una lista de nombres y descripciones físicas asociadas a cada nombre. Cada entrada incluye detalles espantosos que describen el sacrificio de la víctima, como “luchó profusamente” o “no se le dio sedante,”<sup><a href="https://www.reddit.com/r/CurseofStrahd/comments/8sfpkn/fleshing_out_curse_of_strahd_part_2_entering/">1</a></sup> y termina con la frase, "Alimentado a Walter."
 
+>Loot:
+25A. El cofre de esta habitación contiene 11 po y 60 pp en una bolsa hecha de piel humana.
+25B. El cofre de esta habitación contiene tres ágatas musgosas (con un valor de 10 po cada una) en un trozo de tela negra doblada.
+25C. El cofre de esta habitación contiene un parche de cuero negro con un cornalina (con un valor de 50 po) cosida en él.
+25D. El cofre de esta habitación contiene un cepillo de marfil con cerdas de plata (con un valor de 25 po).
+25E. El cofre de esta habitación contiene el libro de cuero firmado por Drasha.
+
+
 ### Foso Oculto con Pinchos
 <span class="citation"><em>Esta escena tiene lugar en el Apéndice B: Área 26.</em></span>
 
@@ -717,7 +751,7 @@ Esta habitación es en gran parte como se describe en <span class="citation">Fos
 
 Si los personajes entran en esta área desde el [[#Comedor]], lee:
 
-<div la descripción">
+<div class="description">
 <p>La escalera desciende a un rellano silencioso. Al frente, las escaleras continúan descendiendo, abriéndose a una cámara más amplia. A la izquierda, el rellano continúa recto hacia un corredor solitario. Este pasillo parece sorprendentemente limpio y libre de escombros; en su extremo más alejado, otra escalera de tierra desciende hacia la oscuridad.</p>
 <p>El cántico incesante que ha llenado el aire de este complejo subterráneo se vuelve más fuerte hacia el extremo más alejado de este corredor.</p>
 </div>
@@ -744,7 +778,7 @@ Esta habitación es en gran parte como se describe en <span class="citation">Com
 
 Esta área es en gran parte como se describe en <span class="citation">Despensa (p. 218)</span>.
 
-El **grick** en esta alcoba—los restos deformados del cadáver desollado de Gustav Durst—está enrollado en el techo y se deja caer sobre su víctima cuando entra. Una prueba de Sabiduría (Percepción) DC 17 permite a un jugador determinar su presencia antes de entrar.
+El **grick** en esta alcoba—los restos deformados del cadáver desollado de Gustav Durst—está enrollado en el techo y se deja caer sobre su víctima cuando entra. Una prueba de **Sabiduría (Percepción) DC 17** permite a un jugador determinar su presencia antes de entrar.
 
 Si los jugadores molestan al grick, lee:
 
@@ -896,6 +930,22 @@ Esta sala se describe en gran medida como en <span class="citation">Relicario (p
 <p>"Él es la Tierra."</p>
 </div>
 
+>El culto acumuló varios "reliquias" que utilizaban en sus rituales. Estos objetos sin valor están guardados en trece nichos a lo largo de las paredes:
+
+- Una pequeña mano amarilla momificada con garras afiladas (la mano de un goblin) en un lazo de cuerda
+- Un cuchillo tallado de un hueso humano
+- Una daga con un cráneo de rata incrustado en el pomo
+- Un orbe barnizado de 8 pulgadas de diámetro hecho del ojo de un nothic
+- Un aspergilio tallado de hueso
+- Una capa doblada hecha de piel de ghoul cosida
+- Una rana desecada atada a un palo (podría confundirse con una varita de polimorfía)
+- Una bolsa llena de guano de murciélago
+- El dedo cortado de una bruja
+- Una figurita de madera de 6 pulgadas de alto de una momia, con los brazos cruzados sobre su pecho
+- Un colgante de hierro adornado con la cara de un diablo
+- La cabeza reducida y marchita de un halfling
+- Un pequeño cofre de madera que contiene la lengua marchita de un lobo terrible
+
 ### Prisión
 <span class="citation"><em>Esta escena tiene lugar en el Apéndice B: Área 36.</em></span>
 
@@ -904,6 +954,12 @@ Esta sala se describe en gran medida como en <span class="citation">Prisión (p.
 <div class="description">
 <p>El sonido de cadenas tintineantes se mezcla con un susurro silencioso y casi imperceptible mientras doblas la esquina hacia una mazmorra larga y oscura. Grilletes oxidados cuelgan pacientemente de las paredes, como si esperaran morder la carne de los prisioneros una vez más.</p>
 </div>
+
+>Puerta Secreta:
+>Una puerta secreta en la pared sur puede ser encontrada con una tirada exitosa de Sabiduría (Percepción) CD 15 y se abre revelando el área 38 más allá.
+>
+>Loot:
+>Colgado en la pared trasera de la celda marcada con una X en el mapa se encuentra un esqueleto humano vestido con una túnica negra desgarrada. El esqueleto pertenece a un miembro del culto que cuestionó la devoción ciega del culto hacia Strahd. Los personajes que registren el esqueleto encontrarán un anillo de oro (con un valor de 25 gp) en uno de sus dedos óseos.
 
 ### Reja
 <span class="citation"><em>Esta escena tiene lugar en el Apéndice B: Área 37.</em></span>
@@ -915,6 +971,9 @@ Esta área se describe en gran medida como en <span class="citation">Reja (p. 21
 </div>
 
 La rueda de madera que abre la reja permanece en el lado oeste de la puerta (es decir, el lado que da hacia la [[#Cámara Ritual]]). Sin embargo, el mecanismo de cadena para abrir la reja está roto, impidiendo que los jugadores avancen sin repararlo (por ejemplo, usando el cantrip _reparar_ de Rose) o levantando la reja a mano. (Si los jugadores levantan la reja a mano y luego la sueltan, su peso hace que se cierre de nuevo a menos que se mantenga abierta).
+
+>Este túnel está bloqueado por una reja de hierro oxidada que puede ser levantada a la fuerza con una tirada exitosa de Fuerza (Atletismo) CD 20. De lo contrario, la reja puede ser levantada o bajada girando una rueda de madera medio incrustada en la pared este del área 38. (La rueda está fuera del alcance de alguien al este de la reja). El suelo alrededor de la reja está sumergido bajo 2 pies de agua turbia.
+
 ### Cámara Ritual
 <span class="citation"><em>Esta escena tiene lugar en el Apéndice B: Área 38.</em></span>
 
@@ -1080,7 +1139,7 @@ Los jugadores deben huir de la cámara ritual hacia la [[#Entrada]] de la Casa d
 
 En cambio, mientras los jugadores escapan de la Casa de la Muerte en ruinas, enfrentan dos obstáculos adicionales.
 
-***El Fantasma de Gustav.*** Mientras los jugadores se mueven para salir de la [[#Reliquia]], el fantasma de Gustav Durst (usa las estadísticas de un **poltergeist**, pero sin su característica de ***invisibilidad***) los confronta. Lee:
+***El Fantasma de Gustav.*** Mientras los jugadores se mueven para salir del [[#Relicario]], el fantasma de Gustav Durst (usa las estadísticas de un **poltergeist**, pero sin su característica de ***invisibilidad***) los confronta. Lee:
 
 <div class="description">
 <p>Una aparición etérea aparece ante ti, obstruyendo las escaleras—el fantasma de un hombre. Es una figura demacrada y pálida, con ojos hundidos y atormentados y manos temblorosas, vistiendo ropas que alguna vez fueron finas, ahora raídas por el tiempo.</p>
@@ -1122,9 +1181,9 @@ Si aún están poseyendo a los jugadores, los espíritus de [[Non-Player Charact
 
 Mientras los jugadores exploran sus alrededores, pueden ver rápidamente la cima de una vieja torre de piedra en ruinas asomándose entre las copas de los árboles. La arquitectura de la torre es como se describe en <span class="citation">Will-o'-Wisp (p. 33)</span>, pero el interior no es terreno profanado, no hay un cofre de madera en el suelo, y no hay **zombis** ni **fuegos fatuos** dentro o alrededor de la torre.
 
-Los jugadores pueden deducir fácilmente que esta ruina parece ser un lugar seguro
+>Llegais a la carcasa de una torre en ruinas. Los pisos superiores de la estructura se han derrumbado, dejando montones de escombros y madera astillada alrededor de la base de la torre
 
- para pasar la noche. Rose y Thorn se ofrecen a servir como centinelas mientras los jugadores descansan, vigilando el bosque y despertando a los jugadores si emergen amenazas.
+Los jugadores pueden deducir fácilmente que esta ruina parece ser un lugar seguro para pasar la noche. Rose y Thorn se ofrecen a servir como centinelas mientras los jugadores descansan, vigilando el bosque y despertando a los jugadores si emergen amenazas.
 
 La noche pasa sin incidentes. Cuando los jugadores despiertan a la mañana siguiente, Rose y Thorn piden a los jugadores si pueden enterrar sus restos antes de proceder más lejos, para que finalmente puedan descansar. (Los espíritus de los niños no procederán más allá en Barovia, en su lugar suplicarán a los jugadores que les permitan descansar.) Si los jugadores entierran sus restos aquí, los espíritus de los niños les agradecen antes de desaparecer.
 
