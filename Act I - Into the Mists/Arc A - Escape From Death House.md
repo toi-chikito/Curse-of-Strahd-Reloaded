@@ -7,6 +7,7 @@
 >
 > También puedes echar un vistazo temprano a los borradores del resto de **Acto III: La Tierra Rota**, así como esquemas y notas de todos los actos y arcos siguientes, apoyando esta guía en [Patreon](https://www.patreon.com/DragnaCarta).
 
+
 Los jugadores comienzan en la ciudad de Daggerford la noche anterior a Highharvestide, una fiesta anual. Las posadas locales están llenas para pasar la noche y los jugadores (vagabundos con poco dinero o compañía) encuentran refugio en el establo de La Brida de Pesadilla, una taberna destartalada en las afueras de la ciudad.
 
 Sin embargo, cuando las reliquias que llevan sienten la presencia de la Casa de la Muerte, los jugadores son conducidos a través de las calles lluviosas de Daggerfords hasta el umbral de espera de la casa.
@@ -105,7 +106,10 @@ La entrada más allá del pórtico es como se describe en <span class="citation"
 >
 >La secta de la Casa de la Muerte no se ganó el amor de Strahd en vida. Pero en la muerte, ambas partes han llegado a un entendimiento informal y no verbal.
 >
+
 >A cambio del permiso para deambular lejos de la tierra brumosa de Barovia para reclamar sacrificios, la Casa de la Muerte está obligada a regresar al valle después de cada excursión de caza. Si algún aventurero logra escapar con éxito del altar ensangrentado de la casa, inevitablemente emergen en el dominio de Strahd, asegurándole una cosecha digna de presas para perseguir.
+
+
 ### Vestíbulo Principal
 <span class="citation"><em>Esta escena toma lugar en el Apéndice B: Area 2.</em></span>
 
@@ -115,6 +119,7 @@ El salón principal es en gran medida como se describe en <span class="citation"
 
 En lugar de una espada larga, el retrato de la familia Durst de <span class="citation">6. Vestíbulo Superior (p. 213)</span> ahora cuelga sobre la chimenea. En el retrato, Rose está sosteniendo una muñeca sonriente con un vestido de encaje amarillo. Una placa debajo del retrato dice: _Sr. Gustav y Sra. Elisabeth Durst, con sus dos hijos, Rosavalda y Thornboldt._<sup><a href="https://www.reddit.com/r/CurseofStrahd/comments/8sfpkn/fleshing_out_curse_of_strahd_part_2_entering/">1</a></sup>
 
+![[The Durst Family.png]]
 
 >"Un amplio vestíbulo recorre el ancho de la casa, con una chimenea de mármol negro en un extremo y una majestuosa escalera de mármol rojo en el otro. En el centro de la base circular de las escaleras se encuentra un alto y antiguo reloj de pie. Las paredes revestidas de madera están esculpidas con imágenes de viñas, flores, ninfas y sátiros.  Montado en la pared sobre la chimenea hay un retrato enmarcado en madera de una familia. Una placa debajo del retrato dice: _Sr. Gustav y Sra. Elisabeth Durst, con sus dos hijos, Rosavalda y Thornboldt_. Los dos niños están sonrientes y se puede ver como Rosavalda sujeta una muñeca con un vestido de encaje amarillo. Se puede ver al Sr. Gustav sujeta un bebe envuelto en pañales, mientras que la madre parece mirarlo con un ligero desprecio". Un guardarropa (área 2B) tiene varios abrigos negros colgando de ganchos en las paredes. Un sombrero de copa reposa en un estante alto. Los personajes que busquen puertas secretas en las paredes o inspeccionen los revestimientos pueden, con una exitosa tirada de **Sabiduría (Percepción) CD 12**, ver serpientes y calaveras hábilmente tejidas en los diseños de las paredes. "El revestimiento decorativo sigue la escalera mientras asciende hacia el segundo piso. 
 
@@ -192,6 +197,7 @@ Un jugador que investigue el guardarropa adyacente al Salón Principal puede obs
     <em>Se servirán cena y refrescos.</em>
 </div>
 
+![[Durst Invitation.jpg]]
 ### Guarida de Lobos
 <span class="citation"><em>Esta escena tiene lugar en el Apéndice B: Área 3.</em></span>
 
@@ -211,6 +217,7 @@ Si los jugadores proceden, lee:
 
 
 Los juguetes desechados son pequeños lobos de peluche gris, cuyos pelajes raídos muestran evidencia de muchas reparaciones y remiendos. Torpes puntadas en sus estómagos leen ROSE y THORN, respectivamente.
+
 
 >El gabinete del este tiene una cerradura que se puede forzar con herramientas de ladrón y una prueba exitosa de **Destreza CD 15**. Contiene una ballesta pesada, una ballesta ligera, una ballesta de mano y 20 virotes para cada arma. El gabinete del norte está desbloqueado y contiene una pequeña caja con una baraja de cartas y una variedad de copas de vino.
 
@@ -322,6 +329,7 @@ Tocar *Vals para Klara* también hace que la estantería en la [[#Biblioteca]] s
 
 Esta habitación es en gran parte como se describe en **Biblioteca** (p. 213-14). Cuando los jugadores entren en esta habitación, lee:
 
+
 <div class="description">
 <p>Cortinas de terciopelo rojo cubren las ventanas de esta habitación. Un escritorio de caoba exquisito y una silla a juego de respaldo alto miran hacia la entrada y la chimenea, sobre la cual cuelga un cuadro enmarcado de un molino de viento encaramado sobre un risco rocoso. En las esquinas de la habitación hay dos sillas mullidas.</p>
 <p>Estanterías del suelo al techo llenan la pared sur. Una escalera rodante de madera permite llegar más fácilmente a los estantes altos.</p>
@@ -342,9 +350,11 @@ El cajón superior del escritorio ahora contiene varios recibos de velas, dagas 
 
 Un personaje que registre la habitación y tenga éxito en una prueba de **Sabiduría (Percepción) DC 15** puede ver luz de velas parpadeante emanando desde debajo de la puerta secreta.<sup><a href="https://www.reddit.com/r/dndnext/comments/49bvms/notes_from_running_death_house/">4</a></sup>
 
+
 > [!info]+ **Realización de Múltiples Pruebas de Habilidad**
 >
 > A medida que los jugadores exploran la Casa de la Muerte y los muchos lugares secretos dentro de la tierra de Barovia, no olvides la regla de **Múltiples Pruebas de Habilidad** (<span class="citation">Guía del Dungeon Master, p. 237</span>)
+
 
 ***La Puerta Secreta.*** La puerta secreta en esta habitación tiene dos componentes. Primero, un jugador debe tirar del interruptor como se describe en <span class="citation">Puerta Secreta (p. 214)</span>. Al hacerlo, la estantería se balancea hacia adelante, revelando una pared de madera en blanco detrás de ella.
 
@@ -390,7 +400,6 @@ Esta habitación es en gran parte como se describe en <span class="citation">Bal
 <p>Subes la escalera de mármol rojo hasta su altura máxima, llegando a un balcón polvoriento. El aire aquí es seco y rancio, pero con un extraño aroma a cobre.</p>
 <p>Una armadura de placas negra se encuentra contra una pared, cubierta de telarañas y marcada por la edad. Lámparas de aceite están montadas en las paredes de roble descolorido, que están talladas con escenas de bosques, árboles, hojas caídas y pequeñas bestias.</p>
 </div>
-
 
 
 Cuando se activa, la **armadura animada** utilizará uno o ambos de sus ataques de **_multiataque_** para intentar empujar a un jugador sobre la barandilla usando un ataque de ***empujón***, o intentar agarrar a su objetivo más cercano antes de derribarlo.
@@ -1005,6 +1014,13 @@ Una criatura engullida por la primera forma del montón puede escuchar el sonido
 >
 > Un jugador en posesión del fragmento de ámbar de Elisabeth del **Dormitorio Principal** puede presentar el fragmento como una acción adicional mientras esté a 30 pies del **montón de carne**, pronunciar el nombre "Walter" y dar una breve orden. Si el jugador tiene éxito en una prueba de Carisma (Intimidación) DC 13, el montón debe usar una reacción inmediatamente, si está disponible, para seguir la orden, moviéndose hasta su velocidad para hacerlo si es necesario. El montón no obedecerá una orden que sea directamente dañina para él, y puede dejar de seguir la orden al comienzo de su siguiente turno.
 
+> [!warning]+ **Don't Use Tactics!**
+> All enemies in this guide, including boss monsters, have been exhaustively playtested and balanced using the Challenge Ratings 2.0 encounter-building system. All major boss encounters, including the two-phase fight with the **flesh mound**, have been calibrated to consume most or all of the players' hit points, in order to create a dangerous and exciting fight.
+> 
+> However, these boss statblocks have enough hit points and deal enough damage per round (DPR) to ensure that they can present a suitable threat without any special tactics or strategy. To the extent any such strategies exist, they have been built into the statblock and require no additional strategizing by the Dungeon Master.
+> 
+> Accordingly, unless your players have proven themselves highly tactical and/or optimized, **avoid playing these boss statblocks tactically**—because if you *do* play them tactically, you're very likely to TPK your players. Instead, simply choose whichever actions, bonus actions, reactions, and targets will provide the most interest and excitement for the current round.
+
 <div class="statblock">
 <h2>El Montón de Carne</h2>
 <em>Gran no muerto, caótico maligno</em>
@@ -1181,7 +1197,7 @@ Si aún están poseyendo a los jugadores, los espíritus de [[Non-Player Charact
 
 Mientras los jugadores exploran sus alrededores, pueden ver rápidamente la cima de una vieja torre de piedra en ruinas asomándose entre las copas de los árboles. La arquitectura de la torre es como se describe en <span class="citation">Will-o'-Wisp (p. 33)</span>, pero el interior no es terreno profanado, no hay un cofre de madera en el suelo, y no hay **zombis** ni **fuegos fatuos** dentro o alrededor de la torre.
 
->Llegais a la carcasa de una torre en ruinas. Los pisos superiores de la estructura se han derrumbado, dejando montones de escombros y madera astillada alrededor de la base de la torre
+>Llegáis a la carcasa de una torre en ruinas. Los pisos superiores de la estructura se han derrumbado, dejando montones de escombros y madera astillada alrededor de la base de la torre
 
 Los jugadores pueden deducir fácilmente que esta ruina parece ser un lugar seguro para pasar la noche. Rose y Thorn se ofrecen a servir como centinelas mientras los jugadores descansan, vigilando el bosque y despertando a los jugadores si emergen amenazas.
 

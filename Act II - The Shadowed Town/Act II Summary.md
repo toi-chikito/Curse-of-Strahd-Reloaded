@@ -76,16 +76,15 @@ If the players have not yet restored Stella Wachter's soul to her body, her spir
 ## Quest Timeline
 The quests of Act II become available and are resolved as given in the table below. (🟢 signifies a day the quest remains available, 🔶 signifies a day on which a significant event occurs, 🟥 signifies a quest deadline, and ❌ signifies a day the quest is unavailable. The players arrive in Vallaki on Neyavr 2. See [[#Timeline]] above for more information about arc beginnings, events, and endings.)
 
-| Arc \ Day of Neyavr     | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   |
-| :---------------------- | --- | --- | --- | --- | --- | --- | --- | --- |
-| C: Into the Valley      | 🟥  | —   | —   | —   | —   | —   | —   | —   |
-| D                       | —   | —   | —   | —   | —   | —   | —   | —   |
-| E: St. Andral's Feast   | —   | 🟢  | 🟢  | 🟢  | 🟢  | 🟥  | ❌   | ❌   |
-| F: The Missing Vistana  | —   | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  |
-| G: Lady Wachter's Wish  | —   | 🔶  | 🔶  | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  |
-| H: The Strazni Siblings | —   | —   | 🔶  | 🟢  | 🔶  | 🟥  | ❌   | ❌   |
-| I: The Lost Soul        | —   | —   | —   | 🔶  | 🟢  | 🟢  | 🟥  | ❌   |
-| J: The Walls of Krezk   | —   | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  | 🔶  | 🟢  |
+| Arc \ Day of Neyavr    | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   |
+| :--------------------- | --- | --- | --- | --- | --- | --- | --- | --- |
+| C: Into the Valley     | 🟥  | —   | —   | —   | —   | —   | —   | —   |
+| D: St. Andral's Feast  | —   | 🟢  | 🟢  | 🟢  | 🟢  | 🟥  | ❌   | ❌   |
+| E: The Missing Vistana | —   | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  |
+| F: Lady Wachter's Wish | —   | 🔶  | 🔶  | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  |
+| G The Strazni Siblings | —   | —   | 🔶  | 🟢  | 🔶  | 🟥  | ❌   | ❌   |
+| H: The Lost Soul       | —   | —   | —   | 🔶  | 🟢  | 🟢  | 🟥  | ❌   |
+| I: The Walls of Krezk  | —   | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  | 🔶  | 🟢  |
 
 The most common path through Act II is as follows:
 
@@ -104,7 +103,7 @@ Alternately, particularly swift players might take the following path through Ac
 * **Neyavr 4.** The players travel to Krezk and Berez in [[Arc I - The Walls of Krezk]], then return to Vallaki to dine with Lady Fiona Wachter in [[Arc F - Lady Wachter's Wish]]. Izek Strazni attacks the Blue Water Inn in [[Arc G - The Strazni Siblings]] (🔶).
 * **Neyavr 5.** The players assassinate Izek Strazni in [[Arc F - Lady Wachter's Wish]]. At night, the players are visited by the ghost of Erasmus van Richten in [[Arc H - The Lost Soul]] (🔶).
 * **Neyavr 6.** The players speak with Victor Vallakovich and the Barovian refugees in [[Arc H - The Lost Soul]] and attend Lady Wachter's inauguration in [[Arc F - Lady Wachter's Wish]]. The players, Victor, and Lady Wachter defeat the hags of Old Bonegrinder in [[Arc H - The Lost Soul]].
-* **Neyavr 7.** The players return to Krezk in [[Arc I - The Walls of Krezk]], then visit Argynvostholt in [[Arc M - Argynvost's Beacon]] (Act III) before returning to Vallaki.
+* **Neyavr 7.** The players return to Krezk in [[Arc I - The Walls of Krezk]], then visit Argynvostholt in [[Arc M - The Dragon's Manor]] (Act III) before returning to Vallaki.
 * **Neyavr 8.** The players take a day of downtime in Vallaki before defeating the spirit of Leo Dilisnya in [[Arc H - The Lost Soul]] on the night of the full moon.
 ## Diverging Paths
 The town of Vallaki can be a tangled web of assorted paths in the original module. While this guide aims to present it in a more streamlined and predictable manner, DMs may still find the number of possible events, characters, and outcomes to feel overwhelming. To help you digest this act, two of many potential paths have been provided below to guide you in understanding how your players' choices might drive the narrative forward.
