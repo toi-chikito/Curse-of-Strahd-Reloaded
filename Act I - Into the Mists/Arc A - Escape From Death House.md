@@ -551,9 +551,13 @@ Cuando los jugadores salgan de la habitación, la mecedora comienza a balancears
 ### Habitación de los Niños
 <span class="citation"><em>Esta escena tiene lugar en el Apéndice B: Área 20.</em></span>
 
+La cerradura también puede ser forzada con herramientas de ladrón y un chequeo exitoso de Destreza DC 15.
+
+
 Esta habitación es en gran parte como se describe en **Habitación de los Niños** (p. 215-16).
 
->Los niños Durst, Rose y Thorn, fueron descuidados por sus padres y encerrados en esta habitación hasta que murieron de hambre. Sus pequeños esqueletos yacen en el centro del suelo, a plena vista, vistiendo ropa hecha jirones que los personajes reconocen como perteneciente a los niños. El esqueleto de Thorn sostiene la muñeca de trapo del niño.
+>Esta habitación contiene una ventana tapiada flanqueada por dos camas polvorientas con armazones de madera, de tamaño adecuado para niños. Más cerca de la puerta hay un baúl de juguetes con molinos de viento pintados en sus costados y una casa de muñecas que es una réplica perfecta del edificio sombrío en el que te encuentras. Estos muebles están cubiertos de telarañas. En el medio del suelo yacen dos pequeños esqueletos con ropa desgastada pero familiar.
+
 
 >El baúl de juguetes contiene una variedad de animales de peluche y juguetes. Los personajes que examinen la casa de muñecas y tengan éxito en una prueba de Sabiduría (Percepción) DC 15 encontrarán todas las puertas secretas de la casa, incluida una en el ático que conduce a una escalera de caracol (una réplica en miniatura del área 21).
 
@@ -655,26 +659,26 @@ A medida que los jugadores descienden por las escaleras, lee:
 <p>A medida que tus ojos y oídos se ajustan al frío corredor subterráneo, notas que el túnel no está tan silencioso como la escalera anterior. Un sonido inquietante y grave resuena a través del espacio—y pronto lo reconoces como un cántico profundo e incesante.</p>
 </div>
 
-
+>Los túneles tienen 4 pies de ancho por 7 pies de alto. (2,1x1,2)
 ## A2f. El Sótano
 ### Criptas Familiares
 <span class="citation"><em>Esta escena tiene lugar en el Apéndice B: Área 23.</em></span>
 
 Estas habitaciones son en gran parte como se describe en **Criptas Familiares** (p. 217-18).
 
-Cuando los jugadores se acerquen a la **Cripta Vacía** y la **Cripta de Walter**, lee:
+Cuando los jugadores se acerquen a la **Cripta Vacía** y la **Cripta de Walter (23AB)**, lee:
 
 <div class="description">
 <p>Este corredor lateral se bifurca nuevamente a la izquierda y a la derecha. A cada lado, grandes losas de piedra en pie se han apartado para apoyarse contra las paredes, abriendo el camino a un par de criptas oscuras y silenciosas. La losa a la derecha está grabada con el nombre "Walter Durst"; la losa a la izquierda está en blanco.</p>
 </div>
 
-Si los personajes entran en la **Cripta Vacía**, lee:
+Si los personajes entran en la **Cripta Vacía (23A)**, lee:
 
 <div class="description">
 <p>Te asomas más allá de la losa de piedra inclinada para ver una cripta vacía de tierra.</p>
 </div>
 
-Si los personajes entran en la **Cripta de Walter**, lee:
+Si los personajes entran en la **Cripta de Walter (23B)**, lee:
 
 <div class="description">
 <p>Quistes hinchados y ensangrentados cubren las paredes de esta cripta como tumores. De vez en cuando, palpitan y estallan, dejando que corrientes de pus rezumen hasta acumularse en el suelo. Cada vez que lo hacen, puedes escuchar los gemidos suaves de un bebé, que son rápidamente silenciados por el sonido de un tarareo distante.</p>
@@ -682,25 +686,25 @@ Si los personajes entran en la **Cripta de Walter**, lee:
 
 Los jugadores que hayan leído o escuchado previamente la canción reconocen la melodía del tarareo como *Vals para Klara*.
 
-Cuando los jugadores se acerquen a la **Cripta de Gustav** y la **Cripta de Elisabeth**, lee:
+Cuando los jugadores se acerquen a la **Cripta de Gustav** y la **Cripta de Elisabeth (23CD)**, lee:
 
 <div class="description">
 <p>Este corredor lateral se bifurca nuevamente a la izquierda y a la derecha. Grandes losas de piedra en pie sellan la entrada a los túneles a ambos lados, bloqueando el camino hacia adelante. La losa a la izquierda está grabada con el nombre "Gustav Durst"; la losa a la derecha está grabada con el nombre "Elisabeth Durst". El túnel aquí está anormalmente silencioso, y una fina niebla se adhiere al suelo.</p>
 </div>
 
-Si los personajes entran en la **Cripta de Gustav**, lee:
+Si los personajes entran en la **Cripta de Gustav (23C)**, lee:
 
 <div class="description">
 <p>La cripta más allá de la losa contiene un ataúd de piedra que yace sobre un catafalco de piedra polvoriento. El silencio pesa sobre la solitaria cámara.</p>
 </div>
 
-Si los personajes entran en la **Cripta de Elisabeth**, lee:
+Si los personajes entran en la **Cripta de Elisabeth (23D)**, lee:
 
 <div class="description">
 <p>Un miasma espeso y acre cuelga sobre el interior de esta cripta, que contiene un ataúd tallado en piedra que descansa sobre un catafalco de piedra. El suelo frente a él está cubierto con los cuerpos de cientos de termitas muertas. Muchas se aferran al cuerpo alargado e hinchado de una reina termita muerta, mientras que otras parecen haber muerto sobre los cuerpos marcados y mutilados de cuatro escarabajos más grandes no muy lejos.</p>
 </div>
 
-Cuando los jugadores se acerquen a la **Cripta de Rose** y la **Cripta de Thorn**, lee:
+Cuando los jugadores se acerquen a la **Cripta de Rose** y la **Cripta de Thorn (23EF)**, lee:
 
 <div class="description">
 <p>Este corredor lateral se bifurca nuevamente a la izquierda y a la derecha. Grandes losas de piedra en pie sellan la entrada a los túneles a ambos lados, bloqueando el camino hacia adelante. La losa a la izquierda está grabada con el nombre "Rosavalda Durst"; la losa a la derecha está grabada con el nombre "Thornboldt Durst". Cada losa exuda el silencio de una tumba olvidada.</p>
@@ -751,21 +755,21 @@ Reemplaza la espada corta plateada en el baúl **25E** con un libro encuadernado
 ### Foso Oculto con Pinchos
 <span class="citation"><em>Esta escena tiene lugar en el Apéndice B: Área 26.</em></span>
 
-Esta habitación es en gran parte como se describe en <span class="citation">Foso Oculto con Pinchos (p. 218)</span>. Si los personajes entran en esta área desde [[#Pozo y Cuartos de los Cultistas]], lee:
+Esta habitación es en gran parte como se describe en <span class="citation">Foso Oculto con Pinchos (p. 218)</span>. Si los personajes entran en esta área desde [[#Pozo y Cuartos de los Cultistas]](25), lee:
 
 <div class="description">
 <p>La escalera conduce a un rellano silencioso. Al frente, las escaleras continúan hacia arriba y desaparecen alrededor de una curva. A la derecha, el rellano continúa recto hacia un corredor solitario. Este pasillo parece sorprendentemente limpio y libre de escombros; en su extremo más alejado, otra escalera de tierra desciende hacia la oscuridad.</p>
 <p>El cántico incesante que ha llenado el aire de este complejo subterráneo se vuelve más fuerte hacia el extremo más alejado de este corredor. Su fuente parece estar más allá de las escaleras descendentes.</p>
 </div>
 
-Si los personajes entran en esta área desde el [[#Comedor]], lee:
+Si los personajes entran en esta área desde el [[#Comedor]](27), lee:
 
 <div class="description">
 <p>La escalera desciende a un rellano silencioso. Al frente, las escaleras continúan descendiendo, abriéndose a una cámara más amplia. A la izquierda, el rellano continúa recto hacia un corredor solitario. Este pasillo parece sorprendentemente limpio y libre de escombros; en su extremo más alejado, otra escalera de tierra desciende hacia la oscuridad.</p>
 <p>El cántico incesante que ha llenado el aire de este complejo subterráneo se vuelve más fuerte hacia el extremo más alejado de este corredor.</p>
 </div>
 
-Si los personajes entran en esta área desde el [[#Encuentro Macabro]], lee:
+Si los personajes entran en esta área desde el [[#Encuentro Macabro]](29), lee:
 
 <div class="description">
 <p>La escalera desciende a un rellano silencioso. A la izquierda, las escaleras continúan descendiendo, girando una curva antes de desaparecer en la oscuridad. El cántico incesante que ha llenado el aire de este complejo subterráneo parece estar resonando desde abajo.</p>
@@ -883,6 +887,8 @@ Las sombras ganan la siguiente característica adicional:
 > * ***Cuatro Jugadores.*** Reduce el número de sombras a cuatro.
 > * ***Seis Jugadores.*** Aumenta el número de sombras a seis.
 
+>Los personajes que registran la habitación en busca de puertas secretas encuentran una puerta oculta en el centro de la pared este con un chequeo exitoso de Sabiduría (Percepción) CD 10. Básicamente, es una puerta de madera común (aunque podrida) oculta bajo una capa de arcilla. La puerta se abre para revelar una escalera de piedra que asciende 10 pies hasta un rellano (área 32).
+
 ### Trampilla Oculta
 <span class="citation"><em>Esta escena tiene lugar en el Apéndice B: Área 32.</em></span>
 
@@ -921,6 +927,10 @@ Doblado dentro del baúl, encima de sus otros contenidos, hay un **deshuesado** 
 > * ***Tres Jugadores.*** Reduce los puntos de vida del deshuesado a 16. Reduce su ***ataque de golpe*** y su acción de ***abrazo aplastante*** a 3 (1d4+1) de daño cada uno.
 > * ***Cuatro Jugadores.*** Reduce los puntos de vida del deshuesado a 21. Reduce su ***ataque de golpe*** y su acción de ***abrazo aplastante*** a 4 (1d4+2) de daño cada uno.
 > * ***Seis Jugadores.*** Aumenta los puntos de vida del deshuesado a 31. Aumenta su ***ataque de golpe*** y su acción de ***abrazo aplastante*** a 6 (1d6+3) de daño cada uno.
+
+>Los personajes que registren el baúl encontrarán una capa de protección doblada, un cofre de madera pequeño (desbloqueado) que contiene cuatro pociones de curación, una cota de malla, un equipo de comedor, un frasco de fuego de alquimista, un farol de ojo de buey, un juego de herramientas de ladrón y un libro de conjuros con una cubierta de cuero amarillo que contiene los siguientes conjuros de mago:
+	-**1.er nivel:** disfrazarse, identificar, armadura de mago, proyectil mágico, protección contra el bien y el mal
+	 **2.º nivel:** visión en la oscuridad, sujetar persona, invisibilidad, arma mágica
 
 No atacan **ghasts** si un jugador retira algún objeto del baúl, y no hay cavidades ocultas detrás de las paredes.
 
