@@ -1,91 +1,100 @@
-*An adventure for five 3rd-level characters.*
+*Una aventura para cinco personajes de nivel 3.*
 
-> [!warning]+ **Recent Update**
-> This arc was substantially revised on July 19, 2024. To access the deprecated version of this arc, visit [[Deprecated Material/Arc B - Welcome to Barovia|Arc B - Welcome to Barovia]] in the Deprecated Materials appendix.
+> [!warning]+ **Actualización reciente**
+> Este arco fue revisado sustancialmente el 19 de julio de 2024. Para acceder a la versión obsoleta de este arco, visita [[Deprecated Material/Arc B - Welcome to Barovia|Arc B - Welcome to Barovia]] en el apéndice de Materiales Obsoletos.
 
-In this arc, the players travel to the gloomy village of Barovia, which has been ravaged by death and despair in the wake of Strahd’s revival. When a disguised wereraven guides them to the Blood of the Vine Tavern, they meet Ismark, the eldest child of the village’s recently wounded burgomaster.
+En este arco, los jugadores viajan al sombrío pueblo de Barovia, que ha sido devastado por la muerte y la desesperación tras el resurgimiento de Strahd. Cuando un hombre cuervo disfrazado los guía a la Taberna Sangre de la Vid, conocen a Ismark, el hijo mayor del burgomaestre recientemente herido del pueblo.
 
-There, the players learn that the village has been under attack by Strahd’s undead horde each night for the past six nights—and that the horde is expected to return at dusk. In exchange for food, shelter, and information, Ismark asks the players to take up arms alongside the Barovians and prepare to defend the village’s fortifications against the onslaught of the dead.
+Allí, los jugadores se enteran de que el pueblo ha sido atacado por la horda de muertos vivientes de Strahd cada noche durante los últimos seis días, y que se espera que la horda regrese al anochecer. A cambio de comida, refugio e información, Ismark pide a los jugadores que tomen las armas junto a los barovianos y se preparen para defender las fortificaciones del pueblo contra el asalto de los muertos.
 
-After successfully defending the barricades, the players learn that Strahd has personally invaded the burgomaster’s mansion, killing Ismark’s father and biting his sister, Ireena. With the village’s burgomaster dead, Strahd formally withdraws the horde from the village, allowing Ismark, Ireena, and the players to pick up the pieces.
+Después de defender con éxito las barricadas, los jugadores descubren que Strahd ha invadido personalmente la mansión del burgomaestre, matando al padre de Ismark y mordiendo a su hermana, Ireena. Con el burgomaestre del pueblo muerto, Strahd retira formalmente la horda del pueblo, permitiendo a Ismark, Ireena y los jugadores recoger los pedazos.
 
-The following morning, Ismark asks the players to help bring their father’s remains to the local church for burial, escort Ireena to Vallaki, and ask the Vistani seer Madam Eva how Strahd can be defeated. Upon delivering the Burgomaster's coffin to the church the following dawn, the players can meet Doru, Father Donavich's son, who Strahd transformed into a vampire spawn as punishment for his rebellion. The players then face a choice: Will they destroy Doru, as Father Donavich requests—or spare him?
+A la mañana siguiente, Ismark pide a los jugadores que ayuden a llevar los restos de su padre a la iglesia local para el entierro, escolten a Ireena a Vallaki y pregunten a la vidente Vistani Madam Eva cómo se puede derrotar a Strahd. Al entregar el ataúd del burgomaestre a la iglesia al amanecer siguiente, los jugadores pueden conocer a Doru, el hijo del Padre Donavich, a quien Strahd transformó en un engendro vampírico como castigo por su rebelión. Los jugadores entonces enfrentan una elección: ¿Destruirán a Doru, como pide el Padre Donavich, o lo perdonarán?
 
-> [!design]+ **Design Note: Arrival in Barovia**
-> The players’ arrival in the village of Barovia has been substantially reworked to create a strong inciting incident for the campaign, ensuring they have an immediate and concrete reason to seek out Madam Eva’s Tarokka reading, an opportunity to form relationships with the villagers of Barovia, and personalized stakes in seeing Strahd defeated.
-# B1. Old Svalich Road
-<span class="citation"><em>This scene takes place in Chapter 2: Area A.</em></span>
 
-The journey from [[Arc A - Escape From Death House#A3. Outside Death House|the tower]] to [[#B2. Gates of Barovia]] is two miles long and takes forty minutes.
+>[!design]+ **Nota de diseño: Llegada a Barovia** 
+>La llegada de los jugadores al pueblo de Barovia ha sido reestructurada de manera significativa para crear un fuerte incidente incitante para la campaña, asegurando que tengan una razón inmediata y concreta para buscar la lectura de Tarokka de Madam Eva, una oportunidad para formar relaciones con los aldeanos de Barovia y participen personalmente en ver a Strahd derrotado.
 
-This scene unfolds as described in <span class="citation">Old Svalich Road (p. 33)</span>.
-# B2. Gates of Barovia
-<span class="citation"><em>This scene takes place in Chapter 2: Area B.</em></span>
+# B1. Camino Viejo de Svalich
 
-This scene unfolds as described in <span class="citation">Gates of Barovia (p. 34)</span>.
+<span class="citation"><em>Esta escena tiene lugar en el Capítulo 2: Área A.</em></span>
 
-The journey from the Gates of Barovia to [[#B3. Svalich Woods]] is one-quarter mile long and takes five minutes.
-# B3. Svalich Woods
-<span class="citation"><em>This scene takes place in Chapter 2: Area C.</em></span>
+El viaje desde [[Arc A - Escape From Death House#A3. Outside Death House|la torre]] hasta [[#B2. Gates of Barovia]] es de dos millas de largo y toma cuarenta minutos.
 
-This scene begins as described in <span class="citation">Svalich Woods (p. 34)</span>. However, when the players find the corpse of Dalvan Olensky, he is not holding a crumpled envelope, and his clothes appear to have been torn by brambles and thorns, rather than claw marks. He doesn't appear to have any visible wounds, but a successful DC 10 Wisdom (Medicine) check reveals that he died of exhaustion.
+Esta escena se desarrolla como se describe en <span class="citation">Camino Viejo de Svalich (p. 33)</span>.
 
-Instead of the envelope, Dalvan is now holding an old, tarnished copper compass. While it remains close to the edge of the Barovian valley, its needle trembles strangely even when held still.
+# B2. Puertas de Barovia
 
-Dalvan's hand holding the compass is splayed out in the direction of a nearby tree, which bears thirteen tally marks and an arrow that points deeper into the woods, along what seems to be a well-traveled footpath.
+<span class="citation"><em>Esta escena tiene lugar en el Capítulo 2: Área B.</em></span>
 
-> [!lore]+ **What Happened to Dalvan?**
+Esta escena se desarrolla como se describe en <span class="citation">Puertas de Barovia (p. 34)</span>.
+
+El viaje desde las Puertas de Barovia hasta [[#B3. Bosques de Svalich]] es de un cuarto de milla de largo y toma cinco minutos.
+
+# B3. Bosques de Svalich
+
+<span class="citation"><em>Esta escena tiene lugar en el Capítulo 2: Área C.</em></span>
+
+Esta escena comienza como se describe en <span class="citation">Bosques de Svalich (p. 34)</span>. Sin embargo, cuando los jugadores encuentran el cadáver de Dalvan Olensky, no está sosteniendo un sobre arrugado y su ropa parece haber sido desgarrada por zarzas y espinas, en lugar de marcas de garras. No parece tener heridas visibles, pero una prueba exitosa de Sabiduría (Medicina) DC 10 revela que murió de agotamiento.
+
+En lugar del sobre, Dalvan ahora sostiene una vieja brújula de cobre empañada. Mientras permanece cerca del borde del valle de Barovia, su aguja tiembla extrañamente incluso cuando se sostiene quieta.
+
+La mano de Dalvan que sostiene la brújula está extendida en dirección a un árbol cercano, que lleva trece marcas de conteo y una flecha que apunta más hacia el bosque, a lo largo de lo que parece ser un sendero bien transitado.
+
+> [!lore]+ **¿Qué le pasó a Dalvan?**
 >
-> In the wake of Strahd's attack on the village of Barovia, one of the survivors—a young man named Dalvan Olensky—was overcome with terror and despair.
+> Tras el ataque de Strahd al pueblo de Barovia, uno de los sobrevivientes, un joven llamado Dalvan Olensky, fue superado por el terror y la desesperación.
 >
-> Determined to find a way free from Barovia, Dalvan traveled to the Vistani encampment at Tser Pool, seeking out the reputed Vistani seer Madam Eva. There, Madam Eva read his future in the Tarokka cards, and drew the Horseman—a card that predicted that he would die in the Barovian valley.
+> Decidido a encontrar una manera de escapar de Barovia, Dalvan viajó al campamento Vistani en Tser Pool, buscando a la famosa vidente Vistani Madam Eva. Allí, Madam Eva leyó su futuro en las cartas de Tarokka y sacó al Jinete, una carta que predecía que moriría en el valle de Barovia.
 >
-> Panicked, Dalvan returned to the village of Barovia under cover of night, stole a horse and compass, and set off for the eastern road out of Barovia. When the Svalich Road seemed to end, Dalvan delved into the woods, crossing through the mist and reemerging on the opposite side of the road.
+> Presa del pánico, Dalvan regresó al pueblo de Barovia bajo la oscuridad de la noche, robó un caballo y una brújula, y partió hacia el camino al este de Barovia. Cuando el Camino de Svalich parecía terminar, Dalvan se adentró en el bosque, cruzando la niebla y reapareciendo en el lado opuesto del camino.
 >
-> A terrified, desperate, and delirious Dalvan repeated the loop thirteen times, his stolen horse expiring from exhaustion halfway through. It wasn't long before Dalvan succumbed to the effects of the Barovian fog as well—though not before inscribing his own epitaph in the form of the carving on the fourth tree.
+> Un Dalvan aterrorizado, desesperado y delirante repitió el bucle trece veces, su caballo robado expirando de agotamiento a mitad de camino. No pasó mucho tiempo antes de que Dalvan sucumbiera a los efectos de la niebla de Barovia también, aunque no antes de inscribir su propio epitafio en forma de la talla en el cuarto árbol.
 >
-> Madam Eva regrets Dalvan's fate—but as the avatar of the Seeker, she is bound to read the future when asked, and knows that no efforts to escape can unravel a future that she has foreseen.
+> Madam Eva lamenta el destino de Dalvan, pero como avatar de la Buscadora, está obligada a leer el futuro cuando se le pregunta y sabe que ningún esfuerzo por escapar puede desentrañar un futuro que ha previsto.
 
->[!info]+ **Dalvan's Compass**
->Like all compasses in Barovia, Dalvan's compass behaves strangely as it approaches the vicinity of the edge of the Barovian valley—such as by Yester Hill in [[Arc J - The Stolen Gem]] or toward the peak of Mount Ghakis in [[Arc T - The Amber Temple]]. Because there is no true "magnetic north" beyond the Mists that encircle Barovia, the needle of a compass that approaches the edge of the valley begins to tremble and eventually spin wildly the closer it gets. (This strange behavior ends when the compass is removed from the edge of the valley.)
+> [!info]+ **La brújula de Dalvan**
+> Como todas las brújulas en Barovia, la brújula de Dalvan se comporta de manera extraña a medida que se acerca a la vecindad del borde del valle de Barovia, como por Yester Hill en [[Arc J - La gema robada]] o hacia la cima del Monte Ghakis en [[Arc T - El Templo Ámbar]]. Debido a que no hay un verdadero "norte magnético" más allá de las Brumas que rodean Barovia, la aguja de una brújula que se acerca al borde del valle comienza a temblar y eventualmente a girar salvajemente cuanto más se acerca. (Este extraño comportamiento termina cuando se retira la brújula del borde del valle).
 
-If the players follow the footpath in the direction of the arrow, they soon come to a second tree, which bears another thirteen tally marks and an arrow that points further along the direction of the footpath. The edge of the footpath here bears the corpse of a **horse**, which is in a similar state of decay to Dalvan's.
+Si los jugadores siguen el sendero en la dirección de la flecha, pronto llegan a un segundo árbol, que lleva otras trece marcas de conteo y una flecha que apunta más adelante en la dirección del sendero. El borde del sendero aquí lleva el cadáver de un **caballo**, que está en un estado de descomposición similar al de Dalvan.
 
-If the players continue to follow the footpath in the direction of the arrows, they come to a third tree, which bears another thirteen tally marks and an arrow that points further along the direction of the footpath, which visibly vanishes into a wall of impenetrable fog.
+ISi los jugadores continúan siguiendo el sendero en la dirección de las flechas, llegan a un tercer árbol, que tiene otras trece marcas de conteo y una flecha que apunta más allá en la dirección del sendero, el cual desaparece visiblemente en una pared de niebla impenetrable.
 
-The fog is part of the Mists that surround and entrap Barovia. If the players brought Dalvan's compass with them, the needle is now spinning wildly in circles.
+La niebla es parte de las Brumas que rodean y atrapan Barovia. Si los jugadores trajeron la brújula de Dalvan con ellos, la aguja ahora está girando en círculos.
 
-If the players follow the footpath through the fog, they emerge after 2d4 minutes in an unfamiliar portion of the Svalich Woods. Each time the players emerge from the wall of fog around Barovia, they must make a DC 5 Constitution saving throw or take 1 level of exhaustion, as the fog saps their energy and drains their life force. (The DC increases by 5 each time that the players pass through the fog again.)
+Si los jugadores siguen el sendero a través de la niebla, emergen después de 2d4 minutos en una parte desconocida de los Bosques Svalich. Cada vez que los jugadores emergen de la pared de niebla alrededor de Barovia, deben hacer una tirada de salvación de Constitución DC 5 o recibir un nivel de agotamiento, ya que la niebla les drena la energía y su fuerza vital. (La DC aumenta en 5 cada vez que los jugadores pasan nuevamente por la niebla).
 
-Upon emerging from the fog, the players can see a fourth tree, which bears another thirteen tally marks and an arrow that points further along the direction of the footpath. In addition, the fourth tree appears to bear a carving and has an object protruding from its trunk. If the players inspect it, read:
+Al salir de la niebla, los jugadores pueden ver un cuarto árbol, que tiene otras trece marcas de conteo y una flecha que apunta más allá en la dirección del sendero. Además, el cuarto árbol parece tener una inscripción y tiene un objeto sobresaliendo de su tronco. Si los jugadores lo inspeccionan, lee:
 
 <div class="description">
-<p>Someone has stabbed an old dagger in the trunk of this old, gnarled tree. Beside it lies a rough carving of a figure atop a horse, just above two sets of rough-hewn words: </p>
-<p>"THE HORSEMAN RIDES." </p>
-<p>"THE SEER SPOKE TRUE."</p>
+<p>Alguien ha clavado una vieja daga en el tronco de este viejo y nudoso árbol. Junto a ella hay una inscripción tosca de una figura sobre un caballo, justo encima de dos conjuntos de palabras toscamente talladas: </p>
+<p>"EL JINETE CABALGA." </p>
+<p>"LA VIDENTE DIJO LA VERDAD."</p>
 </div>
 
-If the players follow the footpath in the direction of the arrow, they find that it crosses the Svalich Road before returning to the location of Dalvan's corpse. 
+Si los jugadores siguen el sendero en la dirección de la flecha, descubren que cruza el Camino Svalich antes de regresar a la ubicación del cadáver de Dalvan.
 
-If the players then leave Dalvan's corpse and return, they find that both his and the horse's remains have vanished.
+Si los jugadores luego dejan el cadáver de Dalvan y regresan, descubren que tanto sus restos como los del caballo han desaparecido.
 
-> [!design]+ **Design Note: Dalvan’s Fate**
-> Dalvan’s task in the original module—placing a warning note at the eastern Barovian gates—makes little sense, given that Burgomaster Indirovich would know that those who arrive in Barovia from beyond the Mists can’t turn back, even before they enter the Barovian gates. Instead, Dalvan’s role has been revised to foreshadow Madam Eva’s prophetic insight and communicate the perils (and mechanics) of entering the Mists. 
+> [!design]+ **Nota de Diseño: El Destino de Dalvan**
+> La tarea de Dalvan en el módulo original—dejar una nota de advertencia en las puertas orientales de Barovia—no tiene mucho sentido, dado que el Burgomaestre Indirovich sabría que aquellos que llegan a Barovia desde más allá de las Brumas no pueden regresar, incluso antes de que entren a las puertas de Barovia. En cambio, el rol de Dalvan ha sido revisado para prefigurar la visión profética de Madam Eva y comunicar los peligros (y mecánicas) de entrar en las Brumas. 
 >
-> Dalvan and his horse will later reappear as the skeletal rider described in <span class="citation">Skeletal Rider (p. 31)</span> in [[Act I - Into the Mists/Arc C - Into the Valley#C5. The Skeletal Rider|Arc C - Into the Valley]]. The rider will again appear in [[Arc O - Dinner with the Devil#O3b. The Rider’s Guidance|Arc O - Dinner with the Devil]], guiding the players at Madam Eva’s direction to Katarina’s tree and long-lost locket, which the players can use to let Varushka’s spirit find peace in [[Arc O - Dinner with the Devil#Varushka’s Grief|Arc O - Dinner with the Devil]].
-# B4. Barovian Overlook
-<span class="citation"><em>This scene takes place in Chapter 2: Area D.</em></span>
+> Dalvan y su caballo reaparecerán más tarde como el jinete esquelético descrito en <span class="citation">Jinete Esquelético (p. 31)</span> en [[Act I - Into the Mists/Arc C - Into the Valley#C5. The Skeletal Rider|Arc C - Into the Valley]]. El jinete aparecerá nuevamente en [[Arc O - Dinner with the Devil#O3b. The Rider’s Guidance|Arc O - Dinner with the Devil]], guiando a los jugadores bajo la dirección de Madam Eva hacia el árbol de Katarina y el relicario perdido hace mucho tiempo, que los jugadores pueden usar para permitir que el espíritu de Varushka encuentre la paz en [[Arc O - Dinner with the Devil#Varushka’s Grief|Arc O - Dinner with the Devil]].
 
-The players emerge from the Svalich Woods one mile and twenty minutes after departing Dalvan's corpse. When they do, read:
+# B4. Mirador de Barovia
+<span class="citation"><em>Esta escena tiene lugar en el Capítulo 2: Área D.</em></span>
+
+Los jugadores emergen de los Bosques Svalich una milla y veinte minutos después de salir del cadáver de Dalvan. Cuando lo hagan, lee:
 
 <div class="description">
-<p>The dark woods fall away, revealing a misted, gloomy valley dotted with thick clouds of fog. </p>
-<p>Rolling thunderclouds cast a gray pall over the land below, no sun visible in the cold, grey light. Evergreen trees climb the sides of the mountains that enclose the valley. To the north rises a stony mount with tufts of trees; to the south, a snow-capped peak with rugged slopes towers imperiously above the land below.</p>
-<p>The muddy road continues on ahead, passing through yellowed grasses and farmland until it reaches a small, humble settlement hunkered down in the earth. Alongside the road, a river flows as clear as a blue winter sky through the valley. </p>
-<p>Far above the village looms a dark, twisted castle, standing alone atop a pillar of sheer stone. For an instant, a distant spear of lightning crackles, illuminating the towering keep in harsh lights and shadows—and then a thick bank of fog rolls in, concealing the village and castle from view.</p>
+<p>Los oscuros bosques se desvanecen, revelando un valle brumoso y sombrío salpicado de densas nubes de niebla. </p>
+<p>Truenos rodantes lanzan un tono gris sobre la tierra abajo, sin sol visible en la fría y grisácea luz. Árboles de hoja perenne escalan los lados de las montañas que encierran el valle. Al norte se alza una montaña rocosa con mechones de árboles; al sur, un pico cubierto de nieve con laderas escarpadas se alza imperiosamente sobre la tierra abajo.</p>
+<p>El camino embarrado continúa adelante, pasando a través de hierbas amarillentas y tierras de cultivo hasta llegar a un pequeño y humilde asentamiento agazapado en la tierra. Junto al camino, un río fluye tan claro como un cielo azul de invierno a través del valle. </p>
+<p>Muy por encima del pueblo se alza un oscuro y retorcido castillo, solo en lo alto de un pilar de piedra escarpada. Por un instante, un lejano rayo de relámpago chisporrotea, iluminando la imponente fortaleza con luces y sombras marcadas—y luego un espeso banco de niebla rueda, ocultando el pueblo y el castillo de la vista.</p>
 </div>
 
-The journey from here to the outskirts of the village is two miles long and takes forty minutes.
+El viaje desde aquí hasta las afueras del pueblo es de dos millas de largo y toma cuarenta minutos.
+
 # B5. The Village of Barovia
 
 > [!info]+ **The Fortified Village**
