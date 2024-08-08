@@ -1,6 +1,6 @@
 
 - **Anya Draganova**
-- **Viktor Petrovich**
+- **Viktor Petrovich** XXX
 - **Zoya Karkaroff**
 - **Mikhail Sokolov**
 - **Nadia Volkovna**

@@ -58,7 +58,7 @@ La mano de Dalvan que sostiene la brújula está extendida en dirección a un á
 
 Si los jugadores siguen el sendero en la dirección de la flecha, pronto llegan a un segundo árbol, que lleva otras trece marcas de conteo y una flecha que apunta más adelante en la dirección del sendero. El borde del sendero aquí lleva el cadáver de un **caballo**, que está en un estado de descomposición similar al de Dalvan.
 
-ISi los jugadores continúan siguiendo el sendero en la dirección de las flechas, llegan a un tercer árbol, que tiene otras trece marcas de conteo y una flecha que apunta más allá en la dirección del sendero, el cual desaparece visiblemente en una pared de niebla impenetrable.
+Si los jugadores continúan siguiendo el sendero en la dirección de las flechas, llegan a un tercer árbol, que tiene otras trece marcas de conteo y una flecha que apunta más allá en la dirección del sendero, el cual desaparece visiblemente en una pared de niebla impenetrable.
 
 La niebla es parte de las Brumas que rodean y atrapan Barovia. Si los jugadores trajeron la brújula de Dalvan con ellos, la aguja ahora está girando en círculos.
 
@@ -95,515 +95,533 @@ Los jugadores emergen de los Bosques Svalich una milla y veinte minutos después
 
 El viaje desde aquí hasta las afueras del pueblo es de dos millas de largo y toma cuarenta minutos.
 
-# B5. The Village of Barovia
+# B5. El Pueblo de Barovia
 
-> [!info]+ **The Fortified Village**
-> The village of Barovia has been heavily fortified to defend against Strahd’s nightly siege. Barricades composed of logs, planks, and broken furniture have been erected at every major entrance into the settlement, with additional obstructions raised in every alleyway or gap between the villagers’ homes. A trench has been dug around the village and planted with sharp stakes, and archers patrol the rooftops at all hours of day and night.
-## B5a. The Barricade
-This scene largely unfolds as described in <span class="citation">Approaching the Village (p. 41)</span>. However, modify the description as follows:
+> [!info]+ **El Pueblo Fortificado**
+> El pueblo de Barovia ha sido fuertemente fortificado para defenderse del asedio nocturno de Strahd. Se han erigido barricadas compuestas de troncos, tablones y muebles rotos en cada entrada principal al asentamiento, con obstrucciones adicionales levantadas en cada callejón o hueco entre las casas de los aldeanos. Se ha cavado una trinchera alrededor del pueblo y se ha plantado con estacas afiladas, y arqueros patrullan los tejados a todas horas del día y la noche.
+
+## B5a. La Barricada
+Esta escena se desarrolla en gran medida como se describe en <span class="citation">Acercándose al Pueblo (p. 41)</span>. Sin embargo, modifica la descripción de la siguiente manera:
 
 <div class="description">
-<p>As the morning deepens, the overcast skies brightening to a dull, gloomy grey, the outskirts of the village come into clearer view. A wide dirt trench surrounds the settlement, five feet across and just as deep, with hundreds of sharpened wooden stakes thrusting up like jagged teeth from the earth within. Up ahead, beside a tall heap of charred wood, the road continues over a makeshift wooden bridge, the muddy ground beyond giving way to slick, wet cobblestones.</p>
-<p>Wooden barricades stand haphazardly along the streets. The structures around them bear scorch marks and gashes, and several buildings show partially collapsed roofs or walls, allowing the cold, creeping fog to drift silently inside.</p>
-<p>The tall shapes of village dwellings stand above the rest, looming out of the dense fog that clings to the earth. Figures bearing crossbows patrol the old rooftops above, while a half-dozen haunted-looking villagers make repairs to a thirty-foot barricade blocking the main street. A tall, broad-shouldered man with shoulder-length blond hair and a chiseled jaw leads the work, wearing an old longsword buckled to his hip and a set of splint armor over a collared coat. A raven with blue-tipped wings perches atop one of the rooftops nearby, watching the proceedings below with obvious interest.</p>
+<p>A medida que avanza la mañana, los cielos nublados se iluminan a un gris apagado y sombrío, y los alrededores del pueblo se hacen más claros. Una amplia zanja de tierra rodea el asentamiento, de cinco pies de ancho y igual de profunda, con cientos de estacas de madera afiladas que se levantan como dientes irregulares desde la tierra. Más adelante, junto a un alto montón de madera carbonizada, el camino continúa sobre un puente de madera improvisado, dando paso el suelo embarrado a adoquines mojados y resbaladizos.</p>
+<p>Barricadas de madera se alzan de manera desordenada a lo largo de las calles. Las estructuras a su alrededor muestran marcas de quemaduras y cortes, y varios edificios muestran techos o paredes parcialmente colapsados, permitiendo que la fría y arrastrante niebla se deslice silenciosamente hacia adentro.</p>
+<p>Las altas formas de las viviendas del pueblo se alzan por encima del resto, emergiendo de la densa niebla que se aferra a la tierra. Figuras portando ballestas patrullan los viejos tejados de arriba, mientras una media docena de aldeanos de aspecto atormentado reparan una barricada de treinta pies que bloquea la calle principal. Un hombre alto y de hombros anchos, con cabello rubio hasta los hombros y una mandíbula cincelada, lidera el trabajo, llevando una vieja espada larga abrochada a su cadera y un conjunto de armadura de placas sobre un abrigo con cuello. Un cuervo con alas de puntas azules se posa en uno de los tejados cercanos, observando los procedimientos de abajo con evidente interés.</p>
 </div>
 
 ![[Ismark.png]]
-<span class="credit">"Ismark Kolyanovich" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
-The man is Ismark Kolyanovich, who is largely as described in <span class="citation">E2. Blood of the Vine Tavern (p. 43)</span>. The raven is Muriel, a disguised **wereraven** and member of the [[Lore of Barovia#Factions#Keepers of the Feather|Keepers of the Feather]]. Two **scouts** bearing light crossbows (+4 to hit, range 80/320 ft., one target, *Hit:* 6 (1d8 + 2) piercing damage) and named Kereza and Korga stand watch on the rooftops nearby, while six Barovian **commoners** make repairs to the barricade.
+<span class="credit">"Ismark Kolyanovich" por Caleb Cleveland. ¡Apóyalo en <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
-> [!profile]+ **Profile: Ismark Kolyanovich**
->
-> **Roleplaying Information**
-> ***Resonance.*** Ismark should inspire flattery with his genuine interest and empathy for the players, sympathy for his guilt and desperation, endearment for his anxiety to step beyond his ancestor's shadow, and gratitude for his friendliness and aid.
->
-> ***Emotions.*** Ismark most often feels concerned, guilty, friendly, melancholy, defiant, hopeful, desperate, and grateful.
->
-> ***Motivations.*** Ismark wants to keep his village and Ireena safe, keep his father's memory alive, and one day match his ancestor's legacy.
->
-> ***Inspirations.*** When playing Ismark, channel Jon Snow (*Game of Thrones*), Faramir (*Lord of the Rings*), and Trevor Belmont (*Castlevania*).
->
-> **Character Information**
-> ***Persona.*** To the world, Ismark is a courageous, reliable, and compassionate leader. To those he trusts, Ismark is a self-doubting, struggling warrior desperate to keep his loved ones safe. Deep down, Ismark worries that he will never live up to his ancestor's deeds—and fears that he has already irreparably failed.
->
-> ***Morale.*** In a fight, Ismark would first seek to mediate the parties' conflict, but would gladly draw his sword—and even fight to the death—if he believed that he was fighting for something or someone worth protecting.
->
-> ***Relationships.*** Ismark is the adoptive brother of Ireena Kolyana, and the great-grandson of Ismark the Great.
+El hombre es Ismark Kolyanovich, que es en gran medida como se describe en <span class="citation">E2. Taberna Sangre de la Vid (p. 43)</span>. El cuervo es Muriel, una **wareraven** disfrazada y miembro de los [[Lore of Barovia#Factions#Keepers of the Feather|Guardianes de la Pluma]]. Dos **exploradores** que portan ballestas ligeras (+4 para golpear, alcance 80/320 pies, un objetivo, *Impacto:* 6 (1d8 + 2) de daño perforante) y llamados Kereza y Korga vigilan desde los tejados cercanos, mientras seis **aldeanos** de Barovia reparan la barricada.
 
-As the players approach, Kereza challenges them. Read:
+> [!profile]+ **Perfil: Ismark Kolyanovich**
+>
+> **Información de Rol**
+> ***Resonancia.*** Ismark debería inspirar halagos con su genuino interés y empatía por los jugadores, simpatía por su culpa y desesperación, cariño por su ansiedad por superar la sombra de su antepasado, y gratitud por su amabilidad y ayuda.
+>
+> ***Emociones.*** Ismark a menudo siente preocupación, culpa, amistad, melancolía, desafío, esperanza, desesperación y gratitud.
+>
+> ***Motivaciones.*** Ismark quiere mantener a su pueblo y a Ireena a salvo, mantener viva la memoria de su padre y un día igualar el legado de su antepasado.
+>
+> ***Inspiraciones.*** Al interpretar a Ismark, canaliza a Jon Snow (*Game of Thrones*), Faramir (*Lord of the Rings*), y Trevor Belmont (*Castlevania*).
+>
+> **Información del Personaje**
+> ***Personalidad.*** Para el mundo, Ismark es un líder valiente, confiable y compasivo. Para aquellos en quienes confía, Ismark es un guerrero que duda de sí mismo, luchando por mantener a salvo a sus seres queridos. En el fondo, Ismark teme no estar a la altura de las hazañas de su antepasado y teme haber fallado irremediablemente.
+>
+> ***Moral.*** En una pelea, Ismark buscaría primero mediar en el conflicto entre las partes, pero con gusto desenvainaría su espada—e incluso lucharía hasta la muerte—si creyera que está luchando por algo o alguien que vale la pena proteger.
+>
+> ***Relaciones.*** Ismark es el hermano adoptivo de Ireena Kolyana y el bisnieto de Ismark el Grande.
+
+A medida que los jugadores se acercan, Kereza los desafía. Lee:
 
 <div class="description">
-<p>A woman on the rooftops calls down to you: “Halt! Declare yourselves—be you dead or alive?" Her compatriot, a grim-looking man clad in leather armor, twitches toward the crossbow at his hip.</p>
+<p>Una mujer en los tejados te llama: “¡Detente! Declárate: ¿estás muerto o vivo?" Su compañero, un hombre de aspecto sombrío vestido con armadura de cuero, se mueve nerviosamente hacia la ballesta en su cadera.</p>
 </div>
 
-Kereza is suspicious of the players, believing them to be vampires, zombies, or ghouls in disguise. Regardless of the players’ response, Ismark intervenes, gently chiding Kereza for her paranoia and reassuring the other Barovians with good humor that the players are clearly alive, “just like us." 
+Kereza sospecha de los jugadores, creyendo que son vampiros, zombis o ghouls disfrazados. Independientemente de la respuesta de los jugadores, Ismark interviene, reprendiendo suavemente a Kereza por su paranoia y asegurando a los otros barovianos con buen humor que los jugadores están claramente vivos, “igual que nosotros."
 
-Ismark then kindly invites the players beyond the barricade and welcomes them. He confesses, however, that he’s afraid they’ve come at a poor time, sharing that the village has been under siege by an undead horde the past several nights. 
+Ismark luego invita amablemente a los jugadores a pasar más allá de la barricada y les da la bienvenida. Confiesa, sin embargo, que teme que hayan llegado en un mal momento, compartiendo que el pueblo ha estado bajo asedio por una horda de no-muertos las últimas noches.
 
-After confirming that the barricade is nearly repaired, Ismark invites the players to join him at the Blood of the Vine Tavern at the center of town, where he has further business to attend to, and where they can speak further and share drinks. (“We have at least three hours before dusk falls," he says, squinting at the gray sky overhead. “Should give us enough time before the dead return.")
+Después de confirmar que la barricada está casi reparada, Ismark invita a los jugadores a unirse a él en la Taberna Sangre de la Vid en el centro del pueblo, donde tiene más asuntos que atender, y donde pueden hablar más y compartir bebidas. (“Tenemos al menos tres horas antes de que caiga el anochecer", dice, entrecerrando los ojos al cielo gris sobre su cabeza. “Debería darnos tiempo suficiente antes de que regresen los muertos.")
 
-If the players agree, Muriel follows them to the town square, staying aloft in the air overhead and watching with keen interest.
+Si los jugadores están de acuerdo, Muriel los sigue hasta la plaza del pueblo, permaneciendo en el aire por encima de ellos y observando con gran interés.
 
-> [!abstract]+ **The Raven**
-> Ismark doesn’t know that the blue-winged raven is a wereraven, and doesn’t know whether anyone has given it a name. He believes the raven’s presence is a good omen, however, and can share the superstition about ravens described in <span class="citation">Beliefs and Superstitutions (p. 28)</span>. (This superstition is shared by all Barovians, not just Vistani.)
+> [!abstract]+ **El Cuervo**
+> Ismark no sabe que el cuervo de alas azules es una wereraven, y no sabe si alguien le ha dado un nombre. Sin embargo, cree que la presencia del cuervo es un buen presagio, y puede compartir la superstición sobre los cuervos descrita en <span class="citation">Creencias y Supersticiones (p. 28)</span>. (Esta superstición es compartida por todos los barovianos, no solo los Vistani.)
 
-> [!design]+ **Design Note: Entering the Village**
-> This scene has been written to immediately convey the villagers’ wariness, establish Ismark as a sympathetic ally, and introduce the **wereraven** Muriel Vinshaw and the ravens of Barovia, thereby foreshadowing the Keepers of the Feather. 
+> [!design]+ **Nota de Diseño: Entrando al Pueblo**
+> Esta escena ha sido escrita para transmitir inmediatamente la cautela de los aldeanos, establecer a Ismark como un aliado comprensivo, e introducir a la **wereraven** Muriel Vinshaw y los cuervos de Barovia, presagiando así a los Guardianes de la Pluma.
 >
-> Muriel will later reappear in [[Act I - Into the Mists/Arc C - Into the Valley#C3. The Strix|Arc C - Into the Valley]], fleeing a **greater strix** after eavesdropping on Strahd’s meeting with Madam Eva, and will accompany the players to the town of Vallaki throughout the remainder of Arc C. Muriel will also appear in her human form and persona in [[Arc J - The Stolen Gem#Meeting Muriel|Arc J - The Stolen Gem|| to accompany the players as they journey to the Wizard of Wines winery, and will reveal her true lycanthropic nature at [[Act I - Into the Mists/Arc C - Into the Valley#Ludmilla’s Provocations|Yester Hill]].
-## B5b. The Town Square
-As the players and Ismark pass through the village streets, read:
+> Muriel reaparecerá más tarde en [[Act I - Into the Mists/Arc C - Into the Valley#C3. The Strix|Arc C - Into the Valley]], huyendo de un **strix mayor** después de espiar la reunión de Strahd con Madam Eva, y acompañará a los jugadores al pueblo de Vallaki durante el resto del Arc C. Muriel también aparecerá en su forma humana y persona en [[Arc J - The Stolen Gem#Meeting Muriel|Arc J - The Stolen Gem]] para acompañar a los jugadores mientras viajan a la bodega Wizard of Wines, y revelará su verdadera naturaleza licántropa en [[Act I - Into the Mists/Arc C - Into the Valley#Ludmilla’s Provocations|Yester Hill]].
+
+## B5b. La Plaza del Pueblo
+Mientras los jugadores e Ismark pasan por las calles del pueblo, lee:
 
 <div class="description">
-<p>Haggard villagers with haunted eyes watch as you pass, their clothes stained dark with mud or blood and their hands never far from a bow, axe, or pitchfork. Ismark greets each one by name. Several approach him, speaking quietly in hushed tones before fleeing once more into the groaning homes or gloomy alleyways around you.</p>
-<p>Ismark guides you through a second, larger barricade, manned by grim-faced villagers wielding clubs and spears. Beyond it stands an old, chipped stone statue standing at the center of a small town square, depicting a man wearing leather armor and holding a sword. More than a dozen makeshift tents and campfires have been set up around it, hosting a haggard-looking host of young, old, and sickly-looking villagers.</p>
+<p>Aldeanos demacrados con ojos atormentados te observan al pasar, sus ropas manchadas de barro o sangre y sus manos nunca lejos de un arco, un hacha o una horca. Ismark saluda a cada uno por su nombre. Varios se le acercan, hablando en tonos bajos antes de huir una vez más a las casas quejumbrosas o los sombríos callejones a tu alrededor.</p>
+<p>Ismark te guía a través de una segunda barricada más grande, atendida por aldeanos de rostro sombrío armados con garrotes y lanzas. Más allá de ella se encuentra una vieja estatua de piedra astillada que se erige en el centro de una pequeña plaza del pueblo, representando a un hombre vestido con armadura de cuero y sosteniendo una espada. Más de una docena de tiendas de campaña y hogueras improvisadas se han instalado a su alrededor, albergando a un grupo de aldeanos jóvenes, ancianos y de aspecto enfermo.</p>
 </div>
 
-Add the description of the exterior of the Blood of the Vine Tavern, given in <span class="citation">E2. Blood of the Vine Tavern (p. 43)</span>.
+Añade la descripción del exterior de la Taberna Sangre de la Vid, dada en <span class="citation">E2. Taberna Sangre de la Vid (p. 43)</span>.
 
-The tents host the village’s elderly, sick, and children, who have been gathered here as a fortification of last resort. The statue bears a weather-worn plaque at its base, which reads: “ISMARK ANTONOVICH THE GREAT. Burgomaster of Barovia. Bane of Vampires. 618—662 B.C." (“B.C." stands for “Barovian Calendar.") 
+Las tiendas de campaña albergan a los ancianos, enfermos y niños del pueblo, que se han reunido aquí como fortificación de último recurso. La estatua tiene una placa desgastada por el clima en su base, que dice: "ISMARK ANTONOVICH EL GRANDE. Burgomaestre de Barovia. Azote de Vampiros. 618—662 C.B." (“C.B." significa “Calendario Baroviano.") 
 ![[Ismark the Great.png]]
-<span class="credit">"Ismark the Great" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
-If the players ask about the statue, Ismark can share the following information:
+<span class="credit">"Ismark el Grande" por Caleb Cleveland. Apóyalo en <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+Si los jugadores preguntan por la estatua, Ismark puede compartir la siguiente información:
  
-* In life, Ismark Antonovich, also known as Ismark the Great, was a mighty warrior and the burgomaster of the village of Barovia. In his prime, he fought scores of vampires and other undead left behind when Strahd vanished from public view. He eventually died defending a group of trappers from a dire wolf attack at the age of 44, and the statue outside was erected in his honor. 
-* Ismark Antonovich was Ismark Kolyanovich's great-grandfather. Ismark's father, Kolyan, gave him that name in the hopes that he would one day become a great warrior.
-## B5c. The Blood of the Vine Tavern
-This area is largely as described in <span class="citation">E2. Blood of the Vine Tavern (p. 43)</span>. However, instead of Alenka, Mirabel, and Sorvia—the three Vistani found here in the original module—Arik is the sole owner and proprietor of the tavern. (Alenka, Mirabel, and Sorvia aren’t present in the tavern, having fled the village for Tser Pool the day before the siege began.)
+* En vida, Ismark Antonovich, también conocido como Ismark el Grande, fue un poderoso guerrero y el burgomaestre del pueblo de Barovia. En su mejor momento, luchó contra decenas de vampiros y otros no-muertos que quedaron cuando Strahd desapareció de la vista pública. Finalmente murió defendiendo a un grupo de tramperos de un ataque de lobo terrible a la edad de 44 años, y la estatua afuera fue erigida en su honor.
+* Ismark Antonovich era el bisabuelo de Ismark Kolyanovich. El padre de Ismark, Kolyan, le dio ese nombre con la esperanza de que algún día se convirtiera en un gran guerrero.
 
-After entering the tavern, Ismark pays Arik to fetch them drinks. As the players sit down with him, Ismark apologizes for the state of the village and asks how they’ve come to arrive in the valley. "You must have a thousand questions," he says sympathetically. "I'd be glad to answer as many as I can."
+## B5c. La Taberna Sangre de la Vid
 
-Ismark can share the following information:
+Esta área es en gran medida como se describe en <span class="citation">E2. Taberna Sangre de la Vid (p. 43)</span>. Sin embargo, en lugar de Alenka, Mirabel y Sorvia—las tres Vistani que se encuentran aquí en el módulo original—Arik es el único propietario y administrador de la taberna. (Alenka, Mirabel y Sorvia no están presentes en la taberna, ya que huyeron del pueblo hacia Tser Pool el día antes de que comenzara el asedio).
 
-* The players have entered the land of Barovia, a realm surrounded by deadly fog and ruled by Strahd von Zarovich, a powerful vampire who slumbered in Castle Ravenloft until recently.
-* Outsiders are occasionally spirited into Barovia by the mists. (Ismark has no knowledge of Death House, but vaguely remembers tales of unorthodox ways by which travelers have come to the valley.) There is no escaping Barovia once an outsider has entered it.
-* Just over three months ago, a man named Doru, the son of the village priest, raised a rebellion against the castle, hoping to free the valley from its prison in the mists. Their revolt failed, awakening Strahd from his dormancy and spurring the vampire to vow vengeance upon the village below.
-* Several dozen Barovians fled to the town of Vallaki, almost a day’s travel to the west. The remainder stayed in the village, determined to defend their homes and those who were unable to make the journey.
-* Six nights ago, Strahd’s undead forces began attacking the town. Each night, the Barovians beat back multiple waves of the dead—and each night, the horde comes ever-closer to breaching the village’s defenses.
-* Many Barovians fear that the village is doomed. However, the undead have infested the woods to the north, west, and south, blocking the Old Svalich Road just past the Ivlis River. With the Mists blocking passage to the east, the village has been effectively cut off from the world, left to survive on its own—or perish.
+Después de entrar en la taberna, Ismark le paga a Arik para que les traiga bebidas. Mientras los jugadores se sientan con él, Ismark se disculpa por el estado del pueblo y pregunta cómo han llegado al valle. "Deben tener mil preguntas", dice con simpatía. "Me alegraría responder tantas como pueda."
 
-[[Non-Player Characters#Ismark Kolyanovich|Ismark]] can also share the the village’s recent history, as well as most of the information in <span class="citation">Roleplaying Ismark (p. 43)</span> and <span class="citation">Barovian Lore (p. 26)</span>. However, Ismark doesn't mention a "mad wizard" and he doesn't suggest that the Vistani serve Strahd. (Note that Ismark’s father, Burgomaster Kolyan Indirovich, is still alive—albeit wounded—in the burgomaster’s mansion, and Ismark’s sister, Ireena Kolyana, hasn’t yet been bitten by Strahd.)
-### Bildrath's Fury
-Shortly after Ismark begins answering the players' questions, read:
+Ismark puede compartir la siguiente información:
 
-<div class="description">
-<p>Something slams against a nearby table—and the sound draws your attention to a man sitting not far away, his clenched fist twitching against his table's wooden surface. He is squat, with greasy receding salt-and-pepper hair and a patched, well-worn coat. A scowl mars his face as he turns his dark eyes toward your group. "It's a fool's errand to put your faith in Ismark the <em>Lesser</em>," he rasps, eyes lingering upon each of you. "Best to seek better company, lest you wind up in the ground with the last fools that trusted him."</p>
-</div>
+* Los jugadores han entrado en la tierra de Barovia, un reino rodeado de niebla mortal y gobernado por Strahd von Zarovich, un poderoso vampiro que dormía en el Castillo Ravenloft hasta hace poco.
+* Ocasionalmente, forasteros son llevados a Barovia por las brumas. (Ismark no tiene conocimiento de la Casa de la Muerte, pero recuerda vagamente historias de formas poco ortodoxas en que los viajeros han llegado al valle). No hay escapatoria de Barovia una vez que un forastero ha entrado en ella.
+* Hace poco más de tres meses, un hombre llamado Doru, el hijo del sacerdote del pueblo, levantó una rebelión contra el castillo, con la esperanza de liberar el valle de su prisión en las brumas. Su revuelta fracasó, despertando a Strahd de su letargo e incitando al vampiro a jurar venganza sobre el pueblo de abajo.
+* Varias docenas de barovianos huyeron al pueblo de Vallaki, casi un día de viaje hacia el oeste. El resto se quedó en el pueblo, decididos a defender sus hogares y a aquellos que no pudieron hacer el viaje.
+* Hace seis noches, las fuerzas no-muertas de Strahd comenzaron a atacar el pueblo. Cada noche, los barovianos rechazan múltiples oleadas de muertos, y cada noche, la horda se acerca más a romper las defensas del pueblo.
+* Muchos barovianos temen que el pueblo esté condenado. Sin embargo, los no-muertos han infestado los bosques al norte, oeste y sur, bloqueando el Camino Viejo de Svalich justo después del Río Ivlis. Con las Brumas bloqueando el paso hacia el este, el pueblo ha quedado efectivamente aislado del mundo, dejado a sobrevivir por sí solo, o perecer.
 
-The man is Bildrath Cantemir, the owner of <span class="citation">Bildrath's Mercantile (p. 43)</span>. If any of the players appear interested in speaking with him further, he invites them to sit at his table instead to "hear the real story of this bloody land." "The wine's shit," he grunts, shoving a pitcher of wine across the table, "but so's everything else."
+[[Non-Player Characters#Ismark Kolyanovich|Ismark]] también puede compartir la historia reciente del pueblo, así como la mayoría de la información en <span class="citation">Interpretando a Ismark (p. 43)</span> y <span class="citation">Lore Baroviano (p. 26)</span>. Sin embargo, Ismark no menciona a un "mago loco" y no sugiere que los Vistani sirvan a Strahd. (Tenga en cuenta que el padre de Ismark, el Burgomaestre Kolyan Indirovich, todavía está vivo, aunque herido, en la mansión del burgomaestre, y la hermana de Ismark, Ireena Kolyana, aún no ha sido mordida por Strahd).
 
-If asked about Bildrath's statement about "the last fools that trusted him," Ismark winces. "He's right to hate me," he says quietly. "I asked the other villagers to stay and defend our homes. I was arrogant and foolish—I didn't appreciate just how powerful the Devil and his creatures were." He closes his eyes. "Now dozens of my friends and neighbors are gone—and I'm still here."
+### La furia de Bildrath
 
-Should one or more of the players join him, Bildrath can share the following information:
-
-* Just over three months ago, a pack of would-be "revolutionaries" marched off to Castle Ravenloft to "slay the vampire." Doru, the son of Father Donavich, the village priest, "filled their heads with fairy tales" of banishing the Mists and bringing the Sun back to Barovia.
-* None of the revolutionaries ever came back. A few days later, a dusk-skinned elf came to the village and announced that the village had ninety days to make peace with the gods before the the lord of Castle Ravenloft—now awoken after a hundred years of slumber—exacted penance for their disobedience.
-* Some villagers left. Many others wanted to leave. However, Ismark delivered a resounding speech in the village square before the statue of Ismark the Great, promising the villagers that those who remained would stand and defend their homes. "The audacity of the bastard," Bildrath sneers. "Standing in front of his great-grandfather's statue like he was worth a *tenth* of him."
-* Bildrath wanted to leave—but his sister, Marta, and her husband, Dragomir, chose to stay with their son, Parriwimple, inspired by Ismark's words. Unwilling to leave his family, Bildrath stayed as well. "They figured they'd fight to defend what's theirs," he chokes out, blinking back tears. "Bloody *idiots* should've run, and never looked back."
-* Ninety days after the elf delivered his proclamation, the undead came, swarming in hordes dozens strong from the Svalich Wood. The villagers fought back, defending the streets with barricades, swords, and arrows. "But the dead kept coming," Bildrath croaks. "And Marta—" He falls silent. (Bildrath lost Marta and Dragomir in the attacks, and blames Ismark for his failure to protect them.)
-
-When he's regained his composure, Bildrath warns the players that the village is doomed, and likely all of Barovia with it. "There's no sun to bring back," he spits. "No escape from the mists. This is Hell, now and for all eternity. The sooner you lot accept that, the better off you'll be."
-### Mary's News
-As the players' conversations with [[Non-Player Characters#Ismark Kolyanovich|Ismark]] and Bildrath wind to a close, read:
+Poco después de que Ismark comience a responder las preguntas de los jugadores, lee:
 
 <div class="description">
-<p>The door to the tavern swings open once more, and a woman steps through, clad in a tattered and threadbare cloak. Her hair, tied into two loops that fall around her neck, is unkempt and tangled, and her wide eyes dart across the room with fearful energy.</p>
-<p>Her gaze falls upon Ismark, and she steps shakily forward. As her features come into the light, you see that her face is pale, her eyes blotchy, with dried tears staining the flesh across her cheeks. Her voice is a ragged, haunting whisper as she says, "Master Kolyanovich—I apologize for interrupting you and your guests. But I haven't seen Gertruda since last night, and Nori isn't in the stable. I think Gertruda's gone to the castle—alone."</p>
+<p>Algo golpea una mesa cercana, y el sonido llama tu atención hacia un hombre sentado no muy lejos, con el puño cerrado temblando sobre la superficie de madera de su mesa. Es corpulento, con cabello grasiento entrecano que se le está cayendo y un abrigo remendado y desgastado. Un ceño fruncido estropea su rostro mientras dirige sus ojos oscuros hacia tu grupo. "Es un trabajo de tontos depositar tu fe en Ismark el <em>Menor</em>," resopla, sus ojos deteniéndose en cada uno de ustedes. "Es mejor buscar mejor compañía, a menos que terminen en el suelo con los últimos tontos que confiaron en él."</p>
 </div>
 
-The tavern immediately falls silent, and Ismark's eyes crease with worry. He gives Mary his condolences, and promises that he will organize a search party to look for her. "If she didn’t make it to the castle, we'll find her—and bring her home safely."
+El hombre es Bildrath Cantemir, el propietario de <span class="citation">Mercancías de Bildrath (p. 43)</span>. Si alguno de los jugadores parece interesado en hablar más con él, los invita a sentarse en su mesa para "escuchar la verdadera historia de esta maldita tierra". "El vino es una mierda," gruñe, empujando una jarra de vino por la mesa, "pero también lo es todo lo demás."
 
-> [!abstract]+ **The Search Party**
-> If the players offer to assist the search party in locating Gertruda, Ismark thanks them for their generosity, but assures them that the hunters and trappers he plans to organize know the local roads and woods far better than they, and should be able to skirt alongside the edges of the undead horde without risking much trouble. "The more who accompany them, however," he says apologetically, "the more likely the horde notices their movements and attacks."
+Si se le pregunta sobre la declaración de Bildrath acerca de "los últimos tontos que confiaron en él," Ismark se estremece. "Tiene razón en odiarme," dice en voz baja. "Le pedí a los otros aldeanos que se quedaran y defendieran nuestros hogares. Fui arrogante y tonto; no aprecié lo poderoso que era el Diablo y sus criaturas." Cierra los ojos. "Ahora, docenas de mis amigos y vecinos se han ido, y yo sigo aquí."
+
+Si uno o más de los jugadores se une a él, Bildrath puede compartir la siguiente información:
+
+* Hace poco más de tres meses, un grupo de supuestos "revolucionarios" marchó hacia el Castillo Ravenloft para "matar al vampiro". Doru, el hijo del Padre Donavich, el sacerdote del pueblo, "llenó sus cabezas de cuentos de hadas" sobre desterrar las Brumas y devolver el Sol a Barovia.
+* Ninguno de los revolucionarios regresó jamás. Unos días después, un elfo de piel oscura llegó al pueblo y anunció que el pueblo tenía noventa días para hacer las paces con los dioses antes de que el señor del Castillo Ravenloft, ahora despertado después de cien años de letargo, exigiera penitencia por su desobediencia.
+* Algunos aldeanos se fueron. Muchos otros querían irse. Sin embargo, Ismark pronunció un discurso resonante en la plaza del pueblo ante la estatua de Ismark el Grande, prometiendo a los aldeanos que aquellos que se quedaran defenderían sus hogares. "La audacia del bastardo," se burla Bildrath. "De pie frente a la estatua de su bisabuelo como si valiera una *décima* parte de él."
+* Bildrath quería irse, pero su hermana, Marta, y su esposo, Dragomir, decidieron quedarse con su hijo, Parriwimple, inspirados por las palabras de Ismark. No dispuesto a dejar a su familia, Bildrath también se quedó. "Pensaron que lucharían para defender lo que es suyo," dice con voz entrecortada, parpadeando para contener las lágrimas. "Los malditos *idiotas* debieron haber corrido y nunca mirar atrás."
+* Noventa días después de que el elfo entregara su proclamación, los muertos vinieron, enjambres de hordas de muertos vivientes del Bosque de Svalich. Los aldeanos lucharon, defendiendo las calles con barricadas, espadas y flechas. "Pero los muertos seguían viniendo," croa Bildrath. "Y Marta—" Se queda en silencio. (Bildrath perdió a Marta y Dragomir en los ataques, y culpa a Ismark por su fracaso en protegerlos.)
+
+Cuando recupera la compostura, Bildrath advierte a los jugadores que el pueblo está condenado, y probablemente todo Barovia con él. "No hay sol que devolver," escupe. "No hay escape de las brumas. Esto es el Infierno, ahora y por toda la eternidad. Cuanto antes lo acepten, mejor estarán."
+
+### Las Noticias de Mary
+
+Cuando las conversaciones de los jugadores con [[Non-Player Characters#Ismark Kolyanovich|Ismark]] y Bildrath llegan a su fin, lee:
+
+<div class="description">
+<p>La puerta de la taberna se abre una vez más, y una mujer entra, vestida con una capa raída y desgastada. Su cabello, atado en dos bucles que caen alrededor de su cuello, está desaliñado y enredado, y sus ojos grandes recorren la habitación con una energía temerosa.</p>
+<p>Su mirada se fija en Ismark, y ella avanza tambaleándose. A medida que sus facciones se iluminan, ves que su rostro está pálido, sus ojos manchados, con lágrimas secas marcando su piel por las mejillas. Su voz es un susurro desgarrado y escalofriante cuando dice: "Maestro Kolyanovich, lamento interrumpirlo a usted y a sus invitados. Pero no he visto a Gertruda desde anoche, y Nori no está en el establo. Creo que Gertruda ha ido al castillo, sola."</p>
+</div>
+
+La taberna inmediatamente cae en silencio, y los ojos de Ismark se fruncen con preocupación. Da sus condolencias a Mary y promete que organizará un grupo de búsqueda para encontrarla. "Si no llegó al castillo, la encontraremos y la traeremos de regreso a salvo."
+
+> [!abstract]+ **El Grupo de Búsqueda**
+> Si los jugadores se ofrecen para ayudar al grupo de búsqueda a localizar a Gertruda, Ismark les agradece por su generosidad, pero les asegura que los cazadores y tramperos que planea organizar conocen las carreteras y los bosques locales mucho mejor que ellos, y deberían poder moverse al lado de los bordes de la horda de muertos vivientes sin arriesgarse a demasiados problemas. "Cuantos más los acompañen," dice disculpándose, "más probable es que la horda note sus movimientos y ataque."
 > 
-> "If you'd like to help, however," he adds, "we can use all hands to organize tonight's defense here." Ismark then makes the request given in [[#Ismark’s Request]].
+> "Si quieren ayudar, sin embargo," agrega, "podemos usar todas las manos para organizar la defensa de esta noche aquí." Ismark luego hace la petición dada en [[#La Petición de Ismark]].
 
-As he does, Bildrath snarls and spits, "More empty promises, Kolyanovich?" He turns to the players, glowering. "Have you lot ever seen something so cruel?"
+Mientras lo hace, Bildrath gruñe y escupe: "¿Más promesas vacías, Kolyanovich?" Se vuelve hacia los jugadores, fulminándolos con la mirada. "¿Alguna vez han visto algo tan cruel?"
 
-After the players have had a chance to speak, Bildrath insists, "No one can survive alone on those roads. The girl's gone, Mary. I'm sorry." Mary then bursts into tears.
+Después de que los jugadores hayan tenido la oportunidad de hablar, Bildrath insiste: "Nadie puede sobrevivir solo en esos caminos. La chica se ha ido, Mary. Lo siento." Mary entonces estalla en lágrimas.
 
-Unless the players intervene, the following sequence then unfolds:
+A menos que los jugadores intervengan, la siguiente secuencia se desarrolla:
 
-* Ismark stands up, pushing his seat away from the table. "That's enough, Master Cantemir," he growls.
-* "You going to put me in my place, Master Kolyanovich?" Bildrath sneers. "Stop lying to the woman. The girl's as good as dead. We'll all be joining her soon enough."
-* "There's always a chance," Ismark says heatedly. He swallows, and glances back at Mary, then at the players. "You might have given up on our people, Bildrath, but I haven't."
-* Bildrath eyes Ismark, his hands curling into fists. After a long, lingering moment, he spits on the floor and exits the tavern without addressing Ismark or the players. The taproom remains deathly quiet, the silence broken only by Mary's choking sobs.
+* Ismark se levanta, empujando su silla lejos de la mesa. "Ya es suficiente, Maestro Cantemir," gruñe.
+* "¿Vas a ponerme en mi lugar, Maestro Kolyanovich?" se burla Bildrath. "Deja de mentirle a la mujer. La chica está tan muerta como nosotros. Todos nos uniremos a ella pronto."
+* "Siempre hay una posibilidad," dice Ismark acaloradamente. Traga saliva y mira a Mary, luego a los jugadores. "Puede que hayas renunciado a nuestra gente, Bildrath, pero yo no lo he hecho."
+* Bildrath observa a Ismark, sus manos apretándose en puños. Después de un largo momento, escupe en el suelo y sale de la taberna sin dirigirse a Ismark ni a los jugadores. La sala permanece en un silencio mortal, solo roto por los sollozos ahogados de Mary.
 
-If the players ask, Mary can share the following information:
+Si los jugadores preguntan, Mary puede compartir la siguiente información:
 
-* Gertruda is her twenty-one-year-old daughter. Ever since Doru, her betrothed, marched on Castle Ravenloft and failed to return, Gertruda has become fixated on the castle, believing that, if she could only journey to Castle Ravenloft and speak with the Devil, she could convince him to set Doru free from whatever prison he's been thrown in.
-* Mary has repeatedly forbidden Gertruda from traveling to the castle. With the advent of the siege, however, Gertruda has become stubbornly convinced that a diplomatic solution is the only way to end the village's suffering.
-* Last night, Mary and Gertruda had a tumultuous argument that ended with both on poor terms. This morning, Mary woke to find their old horse, Nori, missing from her stall—and Gertruda nowhere to be found. (Mary believes Gertruda took Nori in an effort to outrun the zombie horde.)
+* Gertruda es su hija de veintiún años. Desde que Doru, su prometido, marchó hacia el Castillo Ravenloft y no regresó, Gertruda se ha obsesionado con el castillo, creyendo que, si pudiera llegar al Castillo Ravenloft y hablar con el Diablo, podría convencerlo de liberar a Doru de cualquier prisión en la que esté encerrado.
+* Mary ha prohibido repetidamente a Gertruda viajar al castillo. Sin embargo, con el advenimiento del asedio, Gertruda se ha convencido obstinadamente de que una solución diplomática es la única forma de poner fin al sufrimiento del pueblo.
+* Anoche, Mary y Gertruda tuvieron una acalorada discusión que terminó con ambas en malos términos. Esta mañana, Mary se despertó para encontrar a su viejo caballo, Nori, desaparecido de su establo y Gertruda en ninguna parte. (Mary cree que Gertruda tomó a Nori en un esfuerzo por superar a la horda de zombis).
 
-A few moments after Bildrath has left, if the players haven't already done so, Ismark turns to comfort Mary. "I promise you," he says, his voice breaking, "That I will do *everything* I can to see that Gertruda is brought home safely."
+Unos momentos después de que Bildrath se haya ido, si los jugadores aún no lo han hecho, Ismark se vuelve para consolar a Mary. "Te prometo," dice, con la voz quebrada, "que haré *todo* lo que pueda para asegurarme de que Gertruda regrese a salvo a casa."
 
-Once calmed, Mary wipes her eyes, thanks Ismark (and the players, if they comforted her), and departs the tavern.
+Una vez calmada, Mary se seca los ojos, agradece a Ismark (y a los jugadores, si la consolaron) y sale de la taberna.
 
-> [!lore]+ **Where's Gertruda?**
-> Gertruda, despairing at the state of the village and determined to show the same courage as Doru, left Barovia for Castle Ravenloft the morning of the players' arrival, seeking to plead for Strahd’s mercy. When she arrived at the castle, a trembling Gertruda demanded Strahd make good on his obligations as Barovia's liege-lord, providing for the safety and repairs the village so desperately needed. Impressed by her audacity, Strahd invited her to Castle Ravenloft to discuss the matter further—and she has remained there ever since.
-### Ismark’s Request
-After Mary departs, Ismark asks them to aid in defending the village’s eastern barricade that night. “Like it or not, we’re all in this together," he says somberly. “The more hands, the better. I don’t know if I can promise coin, but I can promise it’ll help all of us survive the night—yourselves included." In exchange for the players’ aid, Ismark is glad to offer them room and board at his family’s home. (The Blood of the Vine Tavern doesn't have rooms for rent.) 
+> [!lore]+ **¿Dónde está Gertruda?**
+> Gertruda, desesperada por el estado del pueblo y decidida a mostrar el mismo coraje que Doru, dejó Barovia para ir al Castillo Ravenloft la mañana de la llegada de los jugadores, buscando suplicar por la misericordia de Strahd. Cuando llegó al castillo, una temblorosa Gertruda exigió que Strahd cumpliera con sus obligaciones como señor feudal de Barovia, proporcionando la seguridad y las reparaciones que el pueblo necesitaba desesperadamente. Impresionado por su audacia, Strahd la invitó al Castillo Ravenloft para discutir el asunto más a fondo, y ella ha permanecido allí desde entonces.
+### La Petición de Ismark
 
-If the players agree to aid in the town’s defense, Ismark is deeply grateful. He asks them to first retrieve a crate of “fire bottles" from his sister, Ireena, who is overseeing the defense of the village’s southern perimeter from their home, <span class="citation">E4. Burgomaster’s Mansion (p. 44)</span>. (Ismark, who has to return to the western barricades to prepare for the return of the dead, can’t take the time to do so himself.) If asked, Ismark can explain that a “fire bottle" is a bottle of wine with a rag wick, meant to be lit and hurled at approaching undead.
+Después de que Mary se marcha, Ismark les pide que ayuden a defender la barricada oriental del pueblo esa noche. "Nos guste o no, estamos todos juntos en esto", dice con seriedad. "Cuantas más manos, mejor. No sé si puedo prometer monedas, pero puedo prometer que ayudará a todos a sobrevivir la noche, ustedes incluidos". A cambio de la ayuda de los jugadores, Ismark está encantado de ofrecerles alojamiento en la casa de su familia. (La taberna Blood of the Vine no tiene habitaciones para alquilar).
 
-Once the players have retrieved the crate of fire bottles and had an opportunity to rest at the manor, Ismark tells them, they should take the fire bottles to the eastern barricade—the place where they first entered the village—where they’ll be stationed throughout the night.
-## B5d. The Burgomaster’s Mansion
-This area is largely as described in <span class="citation">Burgomaster’s Mansion (p. 44)</span>. However, Burgomaster Kolyan Indirovich has not yet been killed, and Ireena hasn’t yet been bitten.
-### The Angry Mob
-When the players arrive, they find a mob of ten Barovian **commoners** has formed outside of the mansion. Add the following to the end of this area’s description:
+Si los jugadores aceptan ayudar en la defensa del pueblo, Ismark les estará profundamente agradecido. Les pide que primero recojan una caja de "botellas incendiarias" de su hermana, Ireena, quien está supervisando la defensa del perímetro sur del pueblo desde su hogar, <span class="citation">E4. Mansión del Burgomaestre (p. 44)</span>. (Ismark, que tiene que volver a las barricadas occidentales para prepararse para el regreso de los muertos, no puede tomarse el tiempo para hacerlo él mismo). Si se le pregunta, Ismark puede explicar que una "botella incendiaria" es una botella de vino con una mecha de trapo, destinada a ser encendida y lanzada a los muertos vivientes que se aproximen.
+
+Una vez que los jugadores hayan recuperado la caja de botellas incendiarias y hayan tenido la oportunidad de descansar en la mansión, Ismark les dice que deben llevar las botellas incendiarias a la barricada oriental, el lugar por donde entraron al pueblo, donde estarán apostados durante toda la noche.
+
+## B5d. La Mansión del Burgomaestre
+
+Esta área es en gran medida como se describe en <span class="citation">Mansión del Burgomaestre (p. 44)</span>. Sin embargo, el burgomaestre Kolyan Indirovich aún no ha sido asesinado, e Ireena aún no ha sido mordida.
+
+### La Turba Enfurecida
+
+Cuando los jugadores llegan, encuentran una turba de diez **plebeyos** barovianos formada fuera de la mansión. Agrega lo siguiente al final de la descripción de esta área:
 
 <div class="description">
-<p>A small mob of villagers have gathered outside of the manor, brandishing pitchforks, brooms, and axes. A plain, tired-looking woman stands at their front, her wavy brown hair tied back with a wrinkled white bandana.</p>
-<p>"Give her up, Kolyan!" she calls out. “Your defenses have held the Devil at bay, but they haven’t ended his scourge. It’s time to take matters into our own hands."</p>
-<p>An older man dressed in fine clothes, his thinning gray hair receding across his scalp, leans heavily on a cane in the door. Heavy, bloodstained bandages wrap around his stomach, forehead, and left knee. Beside him stands a young woman with long, red hair and a steel breastplate over a long-sleeved gray tunic, her face ashen and tense. A rapier hangs in a sheath at her side, her right hand hovering over its glinting hilt.</p>
-<p>“Go home, Alenka," the man booms. “The rest of you as well. For as long as I am burgomaster, I will not permit this madness." 
+<p>Una pequeña turba de aldeanos se ha reunido fuera de la mansión, blandiendo horcas, escobas y hachas. Una mujer sencilla, de aspecto cansado, está al frente de ellos, su cabello castaño ondulado atado con un pañuelo blanco arrugado.</p>
+<p>"Entrégala, Kolyan," llama. "Tus defensas han mantenido al Diablo a raya, pero no han terminado con su plaga. Es hora de tomar el asunto en nuestras propias manos."</p>
+<p>Un hombre mayor vestido con ropas finas, con el cabello gris y delgado que se retira de su cuero cabelludo, se apoya pesadamente en un bastón en la puerta. Pesados vendajes manchados de sangre envuelven su estómago, frente y rodilla izquierda. A su lado se encuentra una joven de cabello largo y rojo y una coraza de acero sobre una túnica gris de manga larga, su rostro ceniciento y tenso. Un estoque cuelga en una vaina a su lado, su mano derecha flotando sobre el resplandeciente puño.</p>
+<p>"Vete a casa, Alenka," truena el hombre. "El resto de ustedes también. Mientras yo sea el burgomaestre, no permitiré esta locura." 
 </div>
 
-The brown-haired woman is Alenka Konstantinova, a middle-aged Barovian **commoner**. The older man is Burgomaster Kolyan Indirovich, a **veteran** with four levels of exhaustion. The red-haired young woman is Ireena Kolyana, who is largely as described in <span class="citation">Roleplaying Ireena (p. 45)</span>.
+La mujer de cabello castaño es Alenka Konstantinova, una **plebeya** baroviana de mediana edad. El hombre mayor es el burgomaestre Kolyan Indirovich, un **veterano** con cuatro niveles de agotamiento. La joven pelirroja es Ireena Kolyana, que se describe principalmente en <span class="citation">Interpretando a Ireena (p. 45)</span>.
 
-> [!profile]+ **Profile: Ireena Kolyana**
+> [!profile]+ **Perfil: Ireena Kolyana**
 >
-> **Roleplaying Information**
-> ***Resonance.*** Ireena should inspire flattery with her genuine interest in the players' goals and interests, sympathy for her sense of guilt and fear of Strahd, endearment for her determination to continue moving forward, and gratitude for her efforts to help the players succeed.
+> **Información para la interpretación**
+> ***Resonancia.*** Ireena debe inspirar adulación con su genuino interés en los objetivos e intereses de los jugadores, simpatía por su sentido de culpa y miedo a Strahd, ternura por su determinación de seguir adelante y gratitud por sus esfuerzos para ayudar a los jugadores a tener éxito.
 >
-> ***Emotions.*** Ireena most often feels curious, thoughtful, melancholy, guilty, stubborn, joyful, determined, defiant, and anxious.
+> ***Emociones.*** Ireena a menudo se siente curiosa, reflexiva, melancólica, culpable, terca, alegre, decidida, desafiante y ansiosa.
 >
-> ***Motivations.*** Ireena wants to keep her fellow Barovians and Ismark safe, honor her parents' memory, learn new stories, and one day explore distant lands.
+> ***Motivaciones.*** Ireena quiere mantener a salvo a sus compañeros barovianos e Ismark, honrar la memoria de sus padres, aprender nuevas historias y algún día explorar tierras lejanas.
 >
-> ***Inspirations.*** When playing Ireena, channel Belle (*Beauty and the Beast*), Elizabeth Swann (*Pirates of the Caribbean*), Eowyn (*Lord of the Rings*), Hermione Granger (*Harry Potter*), and Katniss Everdeen (*The Hunger Games*).
+> ***Inspiraciones.*** Al interpretar a Ireena, canaliza a Bella (*La Bella y la Bestia*), Elizabeth Swann (*Piratas del Caribe*), Éowyn (*El Señor de los Anillos*), Hermione Granger (*Harry Potter*) y Katniss Everdeen (*Los Juegos del Hambre*).
 >
-> **Character Information**
-> ***Persona.*** To the world, Ireena is a compassionate, curious, yet stubborn young noblewoman. To those she trusts, Ireena is an anxious, yet determined young woman who dreams of freedom and adventure. Deep down, Ireena wonders whether giving herself up to Strahd would be the best way to protect those she loves.
+> **Información del personaje**
+> ***Persona.*** Para el mundo, Ireena es una joven noble compasiva, curiosa, pero terca. Para quienes confía, Ireena es una joven ansiosa pero decidida que sueña con la libertad y la aventura. En el fondo, Ireena se pregunta si entregarse a Strahd sería la mejor manera de proteger a quienes ama.
 >
-> ***Morale.*** In a fight, Ireena will always turn to words before a sword. If necessary to defend herself, though, she'll draw her rapier—reluctantly, if protecting herself, and proudly, if protecting another.
+> ***Moral.*** En una pelea, Ireena siempre recurrirá a las palabras antes que a la espada. Si es necesario para defenderse, sin embargo, sacará su estoque, de manera reacia si se protege a sí misma, y con orgullo si protege a otro.
 >
-> ***Relationships.*** Ireena is the (knowing) adopted sister of Ismark Kolyanovich, the (unknowing) sister of Izek Strazni, and the second (unknowing) reincarnation of Tatyana Federovna.
+> ***Relaciones.*** Ireena es la hermana adoptiva (consciente) de Ismark Kolyanovich, la hermana (inconsciente) de Izek Strazni y la segunda (inconsciente) reencarnación de Tatyana Federovna.
 
-> [!profile]+ **Profile: Burgomaster Kolyan Indirovich**
-> **Roleplaying Information**
-> ***Resonance.*** Kolyan should inspire comfort with his warmth and reassurances, endearment and sympathy for his stubbornness in the face of his disability, and flattery with his genuine interest in the players’ history and skills.
+> [!profile]+ **Perfil: Burgomaestre Kolyan Indirovich**
+> **Información para la interpretación**
+> ***Resonancia.*** Kolyan debe inspirar comodidad con su calidez y tranquilidad, ternura y simpatía por su terquedad frente a su discapacidad, y adulación con su genuino interés en la historia y habilidades de los jugadores.
 >
-> ***Emotions.*** Kolyan most often feels curious, thoughtful, eager, stubborn, cheerful, and grim.
+> ***Emociones.*** Kolyan a menudo se siente curioso, reflexivo, ansioso, terco, alegre y sombrío.
 >
-> ***Motivations.*** Kolyan wants to keep his people and children safe.
+> ***Motivaciones.*** Kolyan quiere mantener a salvo a su gente y sus hijos.
 >
-> ***Inspirations.*** When playing Kolyan, channel Jean-Luc Picard (*Star Trek*), Greg Universe (*Steven Universe*), and Atticus Finch (*To Kill a Mockingbird*).
+> ***Inspiraciones.*** Al interpretar a Kolyan, canaliza a Jean-Luc Picard (*Star Trek*), Greg Universe (*Steven Universe*) y Atticus Finch (*Matar a un ruiseñor*).
 >
-> **Character Information**
-> ***Persona.*** To the world, Kolyan is a steely, strong-willed, yet compassionate leader. To his family, Kolyan is a supportive and cheerful father wholly dedicated to his children.
+> **Información del personaje**
+> ***Persona.*** Para el mundo, Kolyan es un líder de voluntad firme, fuerte, pero compasivo. Para su familia, Kolyan es un padre solidario y alegre totalmente dedicado a sus hijos.
 >
-> ***Morale.*** In a fight, Kolyan would attempt to negotiate a peace—but keep one hand on his blade if necessary to defend himself or his neighbors.
+> ***Moral.*** En una pelea, Kolyan intentaría negociar la paz, pero mantendría una mano en su espada si fuera necesario para defenderse a sí mismo o a sus vecinos.
 >
-> ***Relationships.*** Kolyan is the burgomaster of the village of Baroviah, the biological father of Ismark Kolyanovich, the adoptive father of Ireena Kolyana, and the grandson of Ismark the Great.
+> ***Relaciones.*** Kolyan es el burgomaestre del pueblo de Barovia, el padre biológico de Ismark Kolyanovich, el padre adoptivo de Ireena Kolyana, y el nieto de Ismark el Grande.
 
-> [!lore]+ **Alenka’s Grief**
-> Alenka is the sister of Anton Konstantinovich, a Barovian man married to Dezdrelda Konstaninova. Two nights ago, Anton and Dezdrelda mysteriously vanished in the middle of the night during the siege; their bodies were never found. Their loss has driven Alenka to grief and paranoia, and given her a desperate need to seek an end to the siege by any means possible.
+> [!lore]+ **El Dolor de Alenka**
+> Alenka es la hermana de Anton Konstantinovich, un baroviano casado con Dezdrelda Konstaninova. Hace dos noches, Anton y Dezdrelda desaparecieron misteriosamente en medio de la noche durante el asedio; sus cuerpos nunca fueron encontrados. Su pérdida ha llevado a Alenka al dolor y la paranoia, y le ha dado una necesidad desesperada de buscar el fin del asedio por cualquier medio posible.
 >
-> Unbeknownst to Alenka, Anton and Dezdrelda are prisoners of Volenta Popofsky, one of Strahd’s vampiric brides, in Castle Ravenloft. The players will later encounter Anton as a masked servant in [[Arc O - Dinner with the Devil#Volenta’s Toy|Arc O - Dinner with the Devil]].
+> Sin que Alenka lo sepa, Anton y Dezdrelda son prisioneros de Volenta Popofsky, una de las novias vampíricas de Strahd, en el Castillo Ravenloft. Los jugadores encontrarán más tarde a Anton como un sirviente enmascarado en [[Arc O - Cena con el Diablo#El Juguete de Volenta|Arc O - Cena con el Diablo]].
 
-Driven to desperation by Strahd’s attacks on the village, Alenka and the mob believe that a sacrifice or offering is needed to appease the vampire and soothe his rage. The following conversation unfolds if the players don’t intervene:
+Impulsados por la desesperación por los ataques de Strahd al pueblo, Alenka y la turba creen que se necesita un sacrificio u ofrenda para apaciguar al vampiro y calmar su ira. La siguiente conversación se desarrolla si los jugadores no intervienen:
 
-* Alenka stonily informs Kolyan that a sacrifice to the vampire isn’t madness, but “common sense." “Legends say the Devil Strahd enjoys preying upon red-haired women," she tells him. “If her blood might win his favor, how can we do otherwise?"
-* Kolyan replies that Alenka is a “fool" if she believes surrendering Ireena—or anyone else—will appease the Devil of Castle Ravenloft. “You are grasping for answers in a world that has none to offer," he thunders. “And we are Barovians. We do not turn on our own."
-* Alenka retorts that Ireena isn’t a true Barovian—after all, Kolyan found her wandering the woods near the Pillarstone of Ravenloft as a child. (Ireena and Kolyan are already aware of this, and show no surprise at this statement.) “She’s not one of us," Alenka says sharply, “and if you’re going to choose her over us, neither are you." 
-* Two of Alenka’s compatriots step closer to the mansion, brandishing their weapons. Kolyan gasps, “How dare you," steps forward, and nearly crumples from his wounds. Ireena catches him before he falls and commands the mob not to “lay a finger on her father." 
+* Alenka informa con frialdad a Kolyan que un sacrificio al vampiro no es una locura, sino "sentido común". "Las leyendas dicen que al Diablo Strahd le gusta cazar mujeres pelirrojas", le dice. "Si su sangre puede ganar su favor, ¿cómo podemos hacer otra cosa?"
+* Kolyan responde que Alenka es una "tonta" si cree que entregar a Ireena, o a cualquier otra persona, apaciguará al Diablo del Castillo Ravenloft. "Estás buscando respuestas en un mundo que no tiene nada que ofrecer", truena. "Y somos barovianos. No traicionamos a los nuestros".
+* Alenka replica que Ireena no es una verdadera baroviana. Después de todo, Kolyan la encontró deambulando por los bosques cerca del Pilar de Ravenloft cuando era una niña. (Ireena y Kolyan ya están al tanto de esto y no muestran sorpresa ante esta declaración). "Ella no es una de nosotros", dice Alenka con dureza, "y si vas a elegirla a ella sobre nosotros, tú tampoco lo eres".
+* Dos de los compañeros de Alenka se acercan más a la mansión, blandiendo sus armas. Kolyan exclama: "¿Cómo te atreves?" da un paso adelante y casi se desmorona por sus heridas. Ireena lo atrapa antes de que caiga y ordena a la turba que no "toque a su padre".
 
-If the players are still present and haven’t yet intervened, Ireena pleads for their help as Alenka’s mob advances.
+Si los jugadores todavía están presentes y no han intervenido, Ireena les ruega que la ayuden mientras la turba de Alenka avanza.
 
-If the players intervene, Alenka, Kolyan, and Ireena receive them with unfamiliarity and surprise, though Alenka is suspicious that they may be spies for “the Devil Strahd." (If Ismark’s name is mentioned, Ireena and Kolyan are reassured, though Alenka spits on the ground and quietly cursed “Ismark the Lesser" under her breath.)
+Si los jugadores intervienen, Alenka, Kolyan e Ireena los reciben con sorpresa y desconfianza, aunque Alenka sospecha que pueden ser espías del "Diablo Strahd". (Si se menciona el nombre de Ismark, Ireena y Kolyan se sienten más tranquilos, aunque Alenka escupe al suelo y maldice en voz baja a “Ismark el Menor".)
 
-The players can disperse the mob by making a reasonable argument and succeeding on a DC 10 Charisma (Persuasion) check, made with advantage if the players inquire into Alenka’s missing family members and show her sympathy. The players can also disperse the mob by brandishing their weapons or magic and succeeding on a DC 10 Charisma (Intimidation) check, made with advantage if they mention their recent battles in Death House.
+Los jugadores pueden dispersar a la turba haciendo un argumento razonable y superando un chequeo de Carisma (Persuasión) con DC 10, realizado con ventaja si los jugadores preguntan por los familiares desaparecidos de Alenka y le muestran simpatía. Los jugadores también pueden dispersar a la turba mostrando sus armas o magia y superando un chequeo de Carisma (Intimidación) con DC 10, realizado con ventaja si mencionan sus recientes batallas en la Casa de la Muerte.
 
-If the players appear ready to attack the mob unprovoked, Kolyan pleads for them to avoid violence. “They’re confused," he says hoarsely, “but they’re Barovians, all the same."
+Si los jugadores parecen listos para atacar a la turba sin provocación, Kolyan les ruega que eviten la violencia. “Están confundidos," dice con voz ronca, “pero son barovianos, al fin y al cabo."
 
-If the players fail to disperse the mob but refuse to allow Ireena to be taken, Alenka commands them to stand down. If they refuse, she directs the mob to knock them unconscious before taking Ireena.
+Si los jugadores no logran dispersar a la turba pero se niegan a permitir que Ireena sea llevada, Alenka les ordena que se retiren. Si se niegan, ella dirige a la turba para que los dejen inconscientes antes de llevarse a Ireena.
 
-If combat breaks out, Ireena joins the players in defending the mansion while Kolyan pleads for the combatants to avoid killing anyone. If two of the Barovians are knocked unconscious, or if one is killed, the remainder flee.
+Si se desata el combate, Ireena se une a los jugadores para defender la mansión mientras Kolyan ruega a los combatientes que eviten matar a alguien. Si dos de los barovianos quedan inconscientes o si uno es asesinado, el resto huye.
 
-> [!info]+ **Nonlethal Damage**
-> Wanton death to the Barovian commoners will alienate the villagers and the members of Ismark’s family. Players who wish to avoid killing the Barovians can incapacitate their opponents as described in <span class="citation">Knocking a Creature Out (p. 198)</span>. If players choose not to do so, allow unconscious members of the mob to make death saving throws as described in <span class="citation">Monsters and Death (p. 198)</span>. 
+> [!info]+ **Daño No Letal**
+> La muerte desenfrenada de los comunes barovianos alienará a los aldeanos y a los miembros de la familia de Ismark. Los jugadores que deseen evitar matar a los barovianos pueden incapacitar a sus oponentes como se describe en <span class="citation">Noquear a una Criatura (p. 198)</span>. Si los jugadores deciden no hacerlo, permita que los miembros inconscientes de la turba hagan tiradas de salvación contra la muerte como se describe en <span class="citation">Monstruos y Muerte (p. 198)</span>.
 
-If the players successfully disperse the mob, Kolyan and Ireena invite them into the manor with gratitude.
+Si los jugadores logran dispersar a la turba, Kolyan e Ireena los invitan al interior de la mansión con gratitud.
 
-> [!design]- **Design Note: The Mob**
-> This scene has been added to communicate Ireena’s origins to the players, foreshadow Strahd’s interest in her, offer a dramatic question while the players visit the mansion, and endear Ireena and Kolyan to the players before Strahd’s arrival during the siege later that night.
-### Within the Mansion
-This area is largely as described in <span class="citation">E4. Burgomaster’s Mansion (p. 44)</span>. However, remove the last sentence in this area’s description (referring to Kolyan’s corpse).
+> [!design]- **Nota de Diseño: La Turba**
+> Esta escena se ha añadido para comunicar a los jugadores los orígenes de Ireena, presagiar el interés de Strahd en ella, ofrecer una pregunta dramática mientras los jugadores visitan la mansión, y hacer que Ireena y Kolyan se ganen la simpatía de los jugadores antes de la llegada de Strahd durante el asedio más tarde esa noche.
+### Dentro de la Mansión
+Esta área se describe en gran medida como en <span class="citation">E4. Mansión del Burgomaestre (p. 44)</span>. Sin embargo, elimina la última oración en la descripción de esta área (que hace referencia al cadáver de Kolyan).
 
-If the players assisted in dispersing the mob, Kolyan and Ireena welcome them warmly, especially if the players mention Ismark’s name. Whether or not the players mention that Ismark granted them room and board at the manor, Kolyan invites them to stay for lunch in gratitude for their aid in dealing with Alenka.
-#### Lunch with the Burgomaster
-Lunch, which is already stewing in a pot over the kitchen hearth, is a stew of turnips and rabbit meat. Ireena apologizes for the sparse meal, but the players can clearly see that the family’s pantry is nearly bare.
+Si los jugadores ayudaron a dispersar a la turba, Kolyan e Ireena los reciben calurosamente, especialmente si los jugadores mencionan el nombre de Ismark. Tanto si los jugadores mencionan o no que Ismark les concedió alojamiento en la mansión, Kolyan los invita a quedarse a almorzar en agradecimiento por su ayuda con Alenka.
+#### Almuerzo con el Burgomaestre
+El almuerzo, que ya está cocinándose en una olla sobre el hogar de la cocina, es un guiso de nabos y carne de conejo. Ireena se disculpa por la escasa comida, pero los jugadores pueden ver claramente que la despensa de la familia está casi vacía.
 
-During the meal, Kolyan and Ireena ask the players about their interests and lives outside of Barovia. Ireena especially is fascinated by tales of the world beyond the mists. 
+Durante la comida, Kolyan e Ireena preguntan a los jugadores sobre sus intereses y vidas fuera de Barovia. Ireena, especialmente, está fascinada con las historias del mundo más allá de las brumas.
 
-If the players are looking to purchase additional supplies, Ireena offers them directions to Bildrath’s Mercantile, but warns them not to mention Ismark's name. If the players ask her why Ismark is called "the Lesser," Ireena and Kolyan wince, and can share the following information:
+Si los jugadores buscan comprar suministros adicionales, Ireena les ofrece direcciones a la Mercancía de Bildrath, pero les advierte que no mencionen el nombre de Ismark. Si los jugadores le preguntan por qué a Ismark lo llaman "el Menor", Ireena y Kolyan se estremecen y pueden compartir la siguiente información:
 
-* When Strahd's dusk elf servant—a cruel-looking man named Rahadin—delivered his warning three months ago, many Barovians were prepared to flee the village for Vallaki.
-* Ismark, however, delivered a thundering and inspiring speech, invoking the memory of Lugdana and Ismark the Great to encourage them to stay and fight for their homes. Most did so.
-* When Strahd's siege began, many who lost homes or loved ones blamed Ismark, who they felt had led them astray with his foolish fantasies of heroism and valor. They now call him "Ismark the Lesser" in mockery of his ancestry.
-* No one feels more guilty or ashamed than Ismark himself, who has taken the weight of every death incurred in the siege on his own shoulders.
+* Cuando el sirviente elfo del crepúsculo de Strahd, un hombre de aspecto cruel llamado Rahadin, entregó su advertencia hace tres meses, muchos barovianos estaban preparados para huir del pueblo hacia Vallaki.
+* Sin embargo, Ismark pronunció un discurso inspirador y atronador, invocando la memoria de Lugdana e Ismark el Grande para animarlos a quedarse y luchar por sus hogares. La mayoría lo hizo.
+* Cuando comenzó el asedio de Strahd, muchos que perdieron hogares o seres queridos culparon a Ismark, sintiendo que los había llevado por mal camino con sus fantasías tontas de heroísmo y valentía. Ahora lo llaman "Ismark el Menor" en burla de su linaje.
+* Nadie se siente más culpable o avergonzado que el propio Ismark, quien ha cargado con el peso de cada muerte ocurrida en el asedio sobre sus propios hombros.
 
-If the players ask about Doru's rebellion, Ireena can share the following information:
+Si los jugadores preguntan sobre la rebelión de Doru, Ireena puede compartir la siguiente información:
 
-* Doru was a friend of theirs, and the son of the village priest Father Donavich. He was a bright and cheery young man, with a sunny disposition and a zeal for everything he did.
-* Just over three months ago, without warning, Doru announced a crusade against Castle Ravenloft, which he proclaimed would free Barovia from the mists and return sunlight to the valley. Over two dozen young Barovians accompanied him, as well as a scholar from distant lands named Alanik Ray, who had been staying as a guest at Ismark and Ireena's home for the previous several weeks while studying Barovian history and ecology. 
-* Ireena doesn't recall much about Alanik, other than that he was a curious, somewhat intense man who kept to himself, took long walks into the Svalich Woods, and owned a pet monkey. She does remember, however, that he had a furious argument with Doru at one point, which confused her when he accompanied Doru to Castle Ravenloft shortly thereafter.
-#### Kolyan’s Dilemma
-During lunch, Kolyan invites the players to help him deliberate on a dilemma he’s been trying to solve, noting that he would find it useful to have “an outside perspective" on the matter. If the players agree to do so, read:
+* Doru era amigo de ellos, e hijo del sacerdote del pueblo, el Padre Donavich. Era un joven brillante y alegre, con una disposición soleada y un entusiasmo por todo lo que hacía.
+* Hace poco más de tres meses, sin previo aviso, Doru anunció una cruzada contra el Castillo Ravenloft, proclamando que liberaría Barovia de las brumas y devolvería la luz del sol al valle. Más de dos docenas de jóvenes barovianos lo acompañaron, así como un erudito de tierras lejanas llamado Alanik Ray, quien había estado como huésped en la casa de Ismark e Ireena durante las semanas anteriores mientras estudiaba la historia y ecología de Barovia.
+* Ireena no recuerda mucho sobre Alanik, aparte de que era un hombre curioso, algo intenso que se mantenía para sí mismo, daba largos paseos por los Bosques de Svalich y tenía un mono como mascota. Sin embargo, recuerda que tuvo una furiosa discusión con Doru en un momento dado, lo que la confundió cuando acompañó a Doru al Castillo Ravenloft poco después.
+#### El Dilema de Kolyan
+Durante el almuerzo, Kolyan invita a los jugadores a ayudarlo a deliberar sobre un dilema que ha estado tratando de resolver, señalando que le sería útil tener "una perspectiva externa" sobre el asunto. Si los jugadores aceptan hacerlo, lee:
 
 <div class="description">
-<p>The burgomaster nods toward a sheet of parchment lying across a writing desk. On its surface, you can make out a crude drawing of the area around the village, with thin lines depicting the Old Svalich Road and the Ivlis River to the southwest, and darker shapes depicting the Svalich Wood to the north, west, and south.</p>
-<p>"Each night," he rumbles, “dozens of undead lay siege to our defenses, killing some and wounding many more. Instead of attacking all at once, however, they arrive in groups, with each wave striking our defenses separately, and almost randomly throughout the night. What do you make of that?"</p>
+<p>El burgomaestre asiente hacia una hoja de pergamino que yace sobre un escritorio. En su superficie, puedes ver un dibujo rudimentario del área alrededor del pueblo, con líneas delgadas que representan el Antiguo Camino Svalich y el Río Ivlis al suroeste, y formas más oscuras que representan el Bosque de Svalich al norte, oeste y sur.</p>
+<p>"Cada noche", dice con voz profunda, "decenas de muertos vivientes asedian nuestras defensas, matando a algunos y hiriendo a muchos más. Sin embargo, en lugar de atacar todos a la vez, llegan en grupos, con cada ola golpeando nuestras defensas por separado y casi al azar durante la noche. ¿Qué opinan de eso?"</p>
 </div>
 
-After the players have discussed and answered Kolyan’s question, read:
+Después de que los jugadores hayan discutido y respondido a la pregunta de Kolyan, lee:
 
 <div class="description">
-<p>Kolyan nods. “Interesting. One more thing: Although dozens of the dead attack the village each night, our scouts have reported that hundreds more lurk in the woods around us—perhaps as many as a thousand. If they attacked all at once, we would surely be overrun—and yet, seemingly by the grace of the Morninglord, they have not. Why?</p>
+<p>Kolyan asiente. “Interesante. Una cosa más: Aunque decenas de muertos atacan el pueblo cada noche, nuestros exploradores han informado que cientos más acechan en los bosques a nuestro alrededor, quizás hasta mil. Si atacaran todos a la vez, seguramente seríamos invadidos, y sin embargo, aparentemente por la gracia del Señor del Alba, no lo han hecho. ¿Por qué?"</p>
 </div>
 
-If the players provide a suitably impressive or insightful answer, Kolyan asks if they intend to travel to the other settlements beyond Barovia if they survive the night—namely, Vallaki and Krezk to the west. If the players express an interest in doing so, Kolyan fetches a quill and ink from his writing desk and offers to draft them a signed letter of introduction. When completed, the letter reads as follows:
+Si los jugadores proporcionan una respuesta suficientemente impresionante o perspicaz, Kolyan les pregunta si tienen la intención de viajar a otros asentamientos más allá de Barovia si sobreviven la noche, a saber, Vallaki y Krezk al oeste. Si los jugadores expresan interés en hacerlo, Kolyan busca una pluma y tinta de su escritorio y se ofrece a redactarles una carta de presentación firmada. Cuando se completa, la carta dice lo siguiente:
 
 <div class="description">
-<p>To whom it may concern,</p>
-<p>I humbly ask that you provide the bearer of this letter with what aid you can. Trust in their purpose, assist in their endeavors, and offer shelter and counsel if you are able. Please extend to them every courtesy you would afford a friend of mine.</p>
-<p>With utmost respect,</p>
+<p>A quien corresponda,</p>
+<p>Humildemente le pido que proporcione al portador de esta carta la ayuda que pueda. Confíe en su propósito, ayúdeles en sus esfuerzos, y ofrézcales refugio y consejo si le es posible. Por favor, extiéndales todas las cortesías que ofrecería a un amigo mío.</p>
+<p>Con el mayor respeto,</p>
 <p>Kolyan Indirovich<br>
-Burgomaster of Barovia</p>
+Burgomaestre de Barovia</p>
 </div>
 
-The letter is sealed with the wax sigil of the burgomaster of Barovia: a longsword before a rising sun. Kolyan concedes that he cannot promise the letter will be obeyed, noting it has been “years" since he traveled to any of the other settlements in the valley. He vows, however, that it should at least “open the ears" of those they may wish to approach, such as Baron Vargas Vallakovich and Lady Fiona Wachter of Vallaki, or Burgomaster Dmitri Krezkov of Krezk.
+La carta está sellada con el sigilo de cera del burgomaestre de Barovia: una espada larga delante de un sol naciente. Kolyan admite que no puede prometer que la carta será obedecida, señalando que han pasado "años" desde que viajó a cualquiera de los otros asentamientos en el valle. Sin embargo, promete que al menos debería "abrir los oídos" de aquellos a quienes deseen acercarse, como el Barón Vargas Vallakovich y la Dama Fiona Wachter de Vallaki, o el Burgomaestre Dmitri Krezkov de Krezk.
 
-> [!item]+ **Letter of Introduction**
-> Players who present Kolyan’s letter of introduction to Baron Vargas Vallakovich, Lady Fiona Wachter of Vallaki, Burgomaster Dmitri Krezkov of Krezk within the first ten minutes of meeting them, or their servants or family members, have advantage on any Charisma (Persuasion) check made within that ten minutes, provided it is possible for the check to succeed.
-#### Rooms at the Mansion
-If the players mention Ismark's offer to provide them with rooms, Ireena shows them to the mansion’s two guest bedrooms and provides them with basic supplies. "I can't say how much sleep you'll be able to get, or when," she says apologetically, her own eyes bearing dark circles beneath them. "But if nothing else, they should provide a quiet place to rest."
+> [!item]+ **Carta de Presentación**
+> Los jugadores que presenten la carta de presentación de Kolyan al Barón Vargas Vallakovich, a la Dama Fiona Wachter de Vallaki, al Burgomaestre Dmitri Krezkov de Krezk dentro de los primeros diez minutos de conocerlos, o a sus sirvientes o familiares, tienen ventaja en cualquier chequeo de Carisma (Persuasión) realizado dentro de esos diez minutos, siempre y cuando sea posible que el chequeo tenga éxito.
+#### Habitaciones en la Mansión
+Si los jugadores mencionan la oferta de Ismark de proporcionarles habitaciones, Ireena les muestra las dos habitaciones de invitados de la mansión y les proporciona suministros básicos. "No puedo decir cuánto podrán dormir, o cuándo", dice disculpándose, con sus propios ojos mostrando círculos oscuros debajo de ellos. "Pero al menos, deberían proporcionar un lugar tranquilo para descansar."
 
-If the players ask about her parents, Ireena freely shares the following information while asking after the players' own families:
+Si los jugadores preguntan por sus padres, Ireena comparte libremente la siguiente información mientras pregunta sobre las familias de los jugadores:
 
-* Ismark and Ireena's mother was Korina Targolova. Korina died of a sickness fourteen years ago, but Kolyan has done his best since then to continue raising both children alone. (The scarf Ireena wears is her last memory of her mother.)
-* Kolyan, their father, was the one who found Ireena when she was a young girl, by the edge of the Svalich Woods near the Pillarstone of Ravenloft. Ireena doesn't remember anything of her past before then, but is grateful to her parents for taking her in and loving her dearly.
+* La madre de Ismark e Ireena era Korina Targolova. Korina murió de una enfermedad hace catorce años, pero Kolyan ha hecho lo mejor que ha podido desde entonces para seguir criando a ambos niños solo. (El pañuelo que lleva Ireena es su último recuerdo de su madre.)
+* Kolyan, su padre, fue quien encontró a Ireena cuando era una niña, cerca del borde del Bosque de Svalich, cerca del Pilar de Ravenloft. Ireena no recuerda nada de su pasado antes de eso, pero está agradecida a sus padres por haberla acogido y amado mucho.
 
-As the players explore their rooms, one of them finds a torn excerpt of *Van Richten's Guide to Vampires* by Dr. Rudolph van Richten sitting on a night table by the bed. This excerpt of the preface, which Van Richten tore from Doru's book in the midst of a furious argument, reads as follows:
+Mientras los jugadores exploran sus habitaciones, uno de ellos encuentra un fragmento rasgado de *La Guía de Van Richten sobre Vampiros* del Dr. Rudolph van Richten en una mesita de noche junto a la cama. Este fragmento del prefacio, que Van Richten arrancó del libro de Doru en medio de una furiosa discusión, dice lo siguiente:
 
 <div class="description">
-<p>In some shadowed corners of the world, the vampire reigns as a fearsome predator. Beyond mere bloodlust, these creatures are cursed with a range of abilities and weaknesses that make them as enigmatic as they are terrifying.</p>
-<p>Their bodies are resilient to mundane weapons, shrugging off blows that would fell most mortals and regenerating even grievous wounds in a matter of moments. They move with unnatural grace, their senses sharply attuned to the whispers of the night. But it is in their supernatural abilities that their true horror lies. They can bend the will of others to their own, ensnaring friend and foe with but a gaze and a whisper. They can shift form with the ease of thought, becoming bats, wolves, or even a sinister mist that creeps beneath doorways and through cracks. And those their fangs kill become vampire spawn—ravenous creatures with a vampire's hunger for blood.</p>
-<p>These creatures are not wholly invincible, however, possessing a tapestry of strengths woven with fatal weaknesses. Sunlight and running water can end their cursed existence, and wooden stakes through the heart will paralyze them as they sleep. They recoil from the sight of certain holy symbols, and cannot enter a residence without an invitation. They bear neither shadow nor reflection, and must return to their coffins, crypts, or graves to rest by day.</p>
-<p>It is said that the bloodlust of these creatures is an unquenchable fire that burns within their undead hearts. The young and newly turned are slaves to this craving, often losing themselves in a frenzy at the mere scent of blood. But those who have walked the night for centuries, as well as those with indomitable focus and will, may learn to temper this fire. Those who do so possess the rare ability to conceal their monstrous nature, retracting and exposing their fangs at will—a sign that the monster within is held at bay, if only while the vampire allows.</p>
-<p>To create a new vampire, a vampire must fully drain the blood of its victim without killing it—a torturous and careful process that can often take multiple nights. For some vampires, this process is a practical means of creating fresh and powerful thralls; for others, it presents a sadistic opportunity to slowly break their victim's will. Some vampires in the latter camp may even appear as an intermittent predator in the night, haunting their target over days or weeks before finally ending their suffering.</p>
+<p>En algunos rincones sombríos del mundo, el vampiro reina como un temible depredador. Más allá de la mera sed de sangre, estas criaturas están malditas con una gama de habilidades y debilidades que las hacen tan enigmáticas como terroríficas.</p>
+<p>Sus cuerpos son resistentes a las armas mundanas, desestimando golpes que derribarían a la mayoría de los mortales y regenerando incluso heridas graves en cuestión de momentos. Se mueven con una gracia antinatural, sus sentidos agudamente sintonizados con los susurros de la noche. Pero es en sus habilidades sobrenaturales donde radica su verdadero horror. Pueden doblar la voluntad de otros a la suya propia, atrapando a amigos y enemigos con solo una mirada y un susurro. Pueden cambiar de forma con la facilidad del pensamiento, convirtiéndose en murciélagos, lobos o incluso en una siniestra niebla que se desliza bajo las puertas y a través de las grietas. Y aquellos a quienes matan con sus colmillos se convierten en vástagos vampíricos: criaturas voraces con el hambre de un vampiro por la sangre.</p>
+<p>Sin embargo, estas criaturas no son completamente invencibles, poseen una serie de fortalezas entrelazadas con debilidades fatales. La luz del sol y el agua corriente pueden poner fin a su existencia maldita, y las estacas de madera a través del corazón los paralizarán mientras duermen. Rehuyen la vista de ciertos símbolos sagrados y no pueden entrar en una residencia sin una invitación. No proyectan sombra ni reflejo, y deben regresar a sus ataúdes, criptas o tumbas para descansar durante el día.</p>
+<p>Se dice que la sed de sangre de estas criaturas es un fuego inextinguible que arde dentro de sus corazones no muertos. Los jóvenes y recién transformados son esclavos de este deseo, a menudo perdiéndose en un frenesí con solo el olor de la sangre. Pero aquellos que han caminado por la noche durante siglos, así como aquellos con una concentración y voluntad indomables, pueden aprender a templar este fuego. Aquellos que lo hacen poseen la rara habilidad de ocultar su naturaleza monstruosa, retractando y exponiendo sus colmillos a voluntad, una señal de que el monstruo dentro está contenido, aunque solo mientras el vampiro lo permita.</p>
+<p>Para crear un nuevo vampiro, un vampiro debe drenar completamente la sangre de su víctima sin matarla, un proceso tortuoso y cuidadoso que puede llevar varias noches. Para algunos vampiros, este proceso es un medio práctico para crear nuevos y poderosos siervos; para otros, presenta una oportunidad sádica para romper lentamente la voluntad de su víctima. Algunos vampiros en el último grupo pueden incluso aparecer como un depredador intermitente en la noche, atormentando a su objetivo durante días o semanas antes de poner fin a su sufrimiento.</p>
 </div>
 
-Kolyan and Ireena don't recognize the excerpt, but Ireena recalls that Doru owned a copy of *Van Richten's Guide to Vampires*, which he loved. Neither is sure how this excerpt came to be in their guest room.
+Kolyan e Ireena no reconocen el fragmento, pero Ireena recuerda que Doru poseía una copia de *La Guía de Van Richten sobre Vampiros*, que adoraba. Ninguno de los dos está seguro de cómo llegó este fragmento a su habitación de invitados.
 
-When the players are ready to depart, Ireena retrieves a wooden crate containing twelve *fire bottles* (see below) from a closet, with each bottle packed securely between wads of straw.
+Cuando los jugadores están listos para partir, Ireena saca una caja de madera que contiene doce *botellas de fuego* (ver más abajo) de un armario, con cada botella empaquetada de forma segura entre almohadillas de paja.
 
-> [!item]+ **Fire Bottle**
-> This bottle of Purple Grapemash No. 3, which bears the stamp of the Wizard of Wines winery, has had its corked removed and replaced with a rag wick. 
+> [!item]+ **Botella de Fuego**
+> Esta botella de Purple Grapemash No. 3, que lleva el sello de la bodega Wizard of Wines, ha sido descorchada y reemplazada con una mecha de trapo. 
 > 
-> As an action, a creature can use a lit torch or other fire source to light the wick, then throw the bottle up to 20 feet, shattering on impact. Make a ranged attack against a creature or object, treating the bottle as an improvised weapon. On a hit, the target takes 1d4 fire damage at the start of each of its turns. 
+> Como una acción, una criatura puede usar una antorcha encendida u otra fuente de fuego para encender la mecha y luego lanzar la botella hasta 20 pies, rompiéndose al impactar. Haz un ataque a distancia contra una criatura u objeto, tratando la botella como un arma improvisada. Al golpear, el objetivo recibe 1d4 de daño por fuego al comienzo de cada uno de sus turnos. 
 > 
-> A creature can end this damage by using its action to make a DC 10 Dexterity check to extinguish the flames.
-## B5f. Bildrath’s Mercantile
-<span class="citation"><em>This scene takes place in Chapter 3: Area E1.</em></span>
+> Una criatura puede terminar este daño usando su acción para hacer una prueba de Destreza DC 10 para apagar las llamas.
 
-Should the players choose to visit it before proceeding to [[#B5e. The Eastern Barricade]], this  area is largely as described in <span class="citation">Bildrath’s Mercantile (p. 43)</span>. However, instead of selling items for ten times the price listed in the _Player’s Handbook_, Bildrath sells them for only twice the price, citing the recent economic upheaval. 
+## B5f. La Mercancía de Bildrath
+<span class="citation"><em>Esta escena tiene lugar en el Capítulo 3: Área E1.</em></span>
 
-If any players were kind to him in the tavern, he instead sells those players items at the normal price listed in the *Player's Handbook*—a special deal, for them only. If any players defended Ismark in the tavern, Bildrath glowers at them and instead sells those players items at five times the price listed in the _Player’s Handbook_, spitefully claiming them to be a “special deal" for friends of the town’s “great hero."
+Si los jugadores eligen visitarlo antes de proceder a [[#B5e. La Barricada del Este]], esta área se describe en gran medida como en <span class="citation">La Mercancía de Bildrath (p. 43)</span>. Sin embargo, en lugar de vender artículos por diez veces el precio listado en el _Manual del Jugador_, Bildrath los vende solo por el doble del precio, citando la reciente agitación económica.
 
-During the players’ conversation with Bildrath, Parriwimple enters the room carrying a box of wares that Bildrath asked him to fetch. He is excitedly curious about the players’ presence, but Bildrath orders him to return to his bedroom in order to avoid “disturbing the customers."
+Si algún jugador fue amable con él en la taberna, en su lugar les vende a esos jugadores artículos al precio normal listado en el *Manual del Jugador*—una oferta especial, solo para ellos. Si algún jugador defendió a Ismark en la taberna, Bildrath los mira con desdén y les vende artículos a cinco veces el precio listado en el _Manual del Jugador_, afirmando con rencor que es una "oferta especial" para los amigos del "gran héroe" del pueblo.
 
-> [!profile]+ **Profile: Parriwimple**
->
-> **Roleplaying Information**
-> ***Resonance.*** Parriwimple should inspire sympathy for the loss of his parents, endearment for his childlike mannerisms and optimistic perseverance, and flattery for his fascination with the players’ exotic weapons and clothes.
->
-> ***Emotions.*** Parriwimple most often feels curiosity, hope, wonder, melancholy, and confusion.
->
-> ***Motivations.*** Parriwimple wants to help his friends and neighbors, take care of his Uncle Bildrath, and honor his late parents’ memories.
->
-> ***Inspirations.*** When playing Parriwimple, channel Lenny Small (Of Mice and Men) and Forrest Gump (Forrest Gump).
->
-> **Character Information**
-> ***Persona.*** To the world, Parriwimple is a cheerful, simple-minded young man. To those he trusts, Parriwimple is a thoughtful, insightful, yet grieving orphan, desperate to move past his parents’ deaths by proving useful to others.
->
-> ***Morale.*** In a fight, Parriwimple would hold up his hands and plead for peace. If ignored, however, he would swiftly use his strength to restrain any combatants—with righteous fury if defending his uncle Bildrath.
->
-> ***Relationships.*** Parriwimple is an orphan and the nephew of the general-store owner Bildrath Cantemir.
+Durante la conversación de los jugadores con Bildrath, Parriwimple entra en la habitación llevando una caja de mercancías que Bildrath le pidió que buscara. Está emocionado y curioso por la presencia de los jugadores, pero Bildrath le ordena que regrese a su dormitorio para evitar "molestar a los clientes".
 
-If Bildrath orders Parriwimple to remove the players from the store, Parriwimple attempts to grapple them and pull them out the door, preferring to avoid violence if at all possible.
-## B5e. The Eastern Barricade
-### Preparing the Barricade
-Shortly after returning to the barricade at the eastern entrance to the village, the players are met by Bildrath and Parriwimple, who are largely as described in <span class="citation">E1. Bildrath’s Mercantile (p. 43)</span>. However, Bildrath also carries a light crossbow (+2 to hit, range 80/320 ft., one target. *Hit:* 4 (1d8 + 0) piercing damage).
+> [!profile]+ **Perfil: Parriwimple**
+>
+> **Información de Interpretación**
+> ***Resonancia.*** Parriwimple debe inspirar simpatía por la pérdida de sus padres, cariño por sus maneras infantiles y perseverancia optimista, y halago por su fascinación con las armas y ropas exóticas de los jugadores.
+>
+> ***Emociones.*** Parriwimple suele sentir curiosidad, esperanza, asombro, melancolía y confusión.
+>
+> ***Motivaciones.*** Parriwimple quiere ayudar a sus amigos y vecinos, cuidar de su tío Bildrath y honrar la memoria de sus padres fallecidos.
+>
+> ***Inspiraciones.*** Al interpretar a Parriwimple, canaliza a Lenny Small (*De Ratones y Hombres*) y Forrest Gump (*Forrest Gump*).
+>
+> **Información del Personaje**
+> ***Persona.*** Para el mundo, Parriwimple es un joven alegre y de mente simple. Para aquellos en quienes confía, Parriwimple es un huérfano reflexivo, perspicaz y afligido, desesperado por superar la muerte de sus padres demostrando ser útil a los demás.
+>
+> ***Moral.*** En una pelea, Parriwimple levantaría las manos y suplicaría por la paz. Si es ignorado, usaría rápidamente su fuerza para inmovilizar a los combatientes, con furia justa si defiende a su tío Bildrath.
+>
+> ***Relaciones.*** Parriwimple es huérfano y sobrino del dueño de la tienda general, Bildrath Cantemir.
 
-When the players first encounter Parriwimple, read:
+Si Bildrath ordena a Parriwimple que saque a los jugadores de la tienda, Parriwimple intenta inmovilizarlos y sacarlos por la puerta, prefiriendo evitar la violencia si es posible.
+
+## B5e. La Barricada del Este
+### Preparando la Barricada
+Poco después de regresar a la barricada en la entrada este del pueblo, los jugadores son recibidos por Bildrath y Parriwimple, quienes se describen en gran medida como en <span class="citation">E1. La Mercancía de Bildrath (p. 43)</span>. Sin embargo, Bildrath también lleva una ballesta ligera (+2 para golpear, alcance 80/320 pies, un objetivo. *Impacto:* 4 (1d8 + 0) de daño perforante).
+
+Cuando los jugadores encuentran por primera vez a Parriwimple, lee:
 
 <div class="description">
-<p>A hulking figure stands at Bildrath’s side—a young man, tall and brawny. His shaggy brown hair falls messily across his face, and his crooked teeth glint in the grey light. Though muscles ripple beneath his tunic, there's a lightness and immaturity to his posture that belies his strength and size. He fidgets with the hem of his tunic as your eyes fall upon him.</p>
+<p>Una figura corpulenta se encuentra al lado de Bildrath: un joven alto y musculoso. Su cabello castaño desgreñado cae desordenadamente sobre su rostro, y sus dientes torcidos brillan a la luz gris. Aunque los músculos se ondulan bajo su túnica, hay una ligereza e inmadurez en su postura que desmiente su fuerza y tamaño. Se retuerce el borde de su túnica mientras tus ojos se posan sobre él.</p>
 </div>
 
-Bildrath greets the players warmly or coldly, depending on their interaction at the Blood of the Vine Tavern and (if they visited him there) Bildrath's Mercantile. Regardless of Bildrath’s disposition, Parriwimple is glad to meet new friends.
+Bildrath saluda a los jugadores con calidez o frialdad, dependiendo de su interacción en la Taberna Sangre de la Vid y (si lo visitaron allí) en la Mercancía de Bildrath. Independientemente de la disposición de Bildrath, Parriwimple está encantado de conocer nuevos amigos.
 
-> [!profile]+ **Profile: Parriwimple**
+> [!profile]+ **Perfil: Parriwimple**
 >
-> **Roleplaying Information**
-> ***Resonance.*** Parriwimple should inspire sympathy for the loss of his parents, endearment for his childlike mannerisms and optimistic perseverance, and flattery for his fascination with the players’ exotic weapons and clothes.
+> **Información de Interpretación**
+> ***Resonancia.*** Parriwimple debe inspirar simpatía por la pérdida de sus padres, cariño por sus maneras infantiles y perseverancia optimista, y halago por su fascinación con las armas y ropas exóticas de los jugadores.
 >
-> ***Emotions.*** Parriwimple most often feels curiosity, hope, wonder, melancholy, and confusion.
+> ***Emociones.*** Parriwimple suele sentir curiosidad, esperanza, asombro, melancolía y confusión.
 >
-> ***Motivations.*** Parriwimple wants to help his friends and neighbors, take care of his Uncle Bildrath, and honor his late parents’ memories.
+> ***Motivaciones.*** Parriwimple quiere ayudar a sus amigos y vecinos, cuidar de su tío Bildrath y honrar la memoria de sus padres fallecidos.
 >
-> ***Inspirations.*** When playing Parriwimple, channel Lenny Small (*Of Mice and Men*) and Forrest Gump (*Forrest Gump*).
+> ***Inspiraciones.*** Al interpretar a Parriwimple, canaliza a Lenny Small (*De Ratones y Hombres*) y Forrest Gump (*Forrest Gump*).
 >
-> **Character Information**
-> ***Persona.*** To the world, Parriwimple is a cheerful, simple-minded young man. To those he trusts, Parriwimple is a thoughtful, insightful, yet grieving orphan, desperate to move past his parents’ deaths by proving useful to others.
+> **Información del Personaje**
+> ***Persona.*** Para el mundo, Parriwimple es un joven alegre y de mente simple. Para aquellos en quienes confía, Parriwimple es un huérfano reflexivo, perspicaz y afligido, desesperado por superar la muerte de sus padres demostrando ser útil a los demás.
 >
-> ***Morale.*** In a fight, Parriwimple would hold up his hands and plead for peace. If ignored, however, he would swiftly use his strength to restrain any combatants—with righteous fury if defending his uncle Bildrath.
+> ***Moral.*** En una pelea, Parriwimple levantaría las manos y suplicaría por la paz. Si es ignorado, usaría rápidamente su fuerza para inmovilizar a los combatientes, con furia justa si defiende a su tío Bildrath.
 >
-> ***Relationships.*** Parriwimple is an orphan and the nephew of the general-store owner Bildrath Cantemir.
+> ***Relaciones.*** Parriwimple es huérfano y sobrino del dueño de la tienda general, Bildrath Cantemir.
 
-Bildrath is pleased to see the players’ delivery of *fire bottles*. He can inform the players that they have been assigned to defend the eastern barricade from any smaller bands of undead that might drift around the edges of the village rather than attacking from the north, south, or west.
+Bildrath está complacido al ver la entrega de los *botellas de fuego* por parte de los jugadores. Puede informarles que han sido asignados para defender la barricada del este de cualquier pequeño grupo de muertos vivientes que pueda rodear los bordes del pueblo en lugar de atacar desde el norte, sur o oeste.
 
-If any of the players treated him kindly at the Blood of the Vine Tavern or Bildrath's Mercantile, Bildrath instructs Parriwimple to present them with a crate containing two bags of ball bearings, two bags of caltrops, ten iron spikes, and three flasks of oil from his shop, to be used in preparing the barricade for the siege. (See <span class="citation">Adventuring Gear (Player’s Handbook, p. 148)</span> for more information regarding these items.) Bildrath also directs the players to a pair of ten-foot ladders nailed to one of the houses nearby, which can allow any ranged combatants to ascend to the house’s roof. Finally, Bildrath instructs Parriwimple to obey those players’ instructions as though they were his own.
+Si alguno de los jugadores fue amable con él en la Taberna Sangre de la Vid o en la Mercancía de Bildrath, Bildrath instruye a Parriwimple para que les entregue una caja que contiene dos bolsas de canicas, dos bolsas de caltrops, diez picos de hierro y tres frascos de aceite de su tienda, para ser utilizados en la preparación de la barricada para el asedio. (Consulta <span class="citation">Equipo de Aventura (Manual del Jugador, p. 148)</span> para obtener más información sobre estos artículos). Bildrath también dirige a los jugadores a un par de escaleras de diez pies clavadas en una de las casas cercanas, que pueden permitir a los combatientes a distancia subir al techo de la casa. Finalmente, Bildrath instruye a Parriwimple a obedecer las instrucciones de esos jugadores como si fueran propias.
 
-> [!info]+ **The Barricade**
-> The barricade the players have been assigned to defend is a thirty-foot-long, six-foot-tall assembly of tree logs, piled furniture, and nailed wooden planks. Each five-foot-long section of the barricade has AC 15, 10 hit points, and immunity to piercing, psychic, and poison damage. 
+> [!info]+ **La Barricada**
+> La barricada que los jugadores han sido asignados para defender es una estructura de treinta pies de largo y seis pies de alto compuesta de troncos de árboles, muebles apilados y tablones de madera clavados. Cada sección de cinco pies de largo de la barricada tiene CA 15, 10 puntos de golpe e inmunidad al daño perforante, psíquico y por veneno.
 >
-> Wooden platforms scattered across the western side of the barricade allow defenders to peer over the edge and attack approaching enemies. While behind the barricade, defenders have full cover, or three-quarters cover while standing on a platform.
-### The Siege
-Dusk falls soon after the players complete their preparations. Read:
+> Plataformas de madera dispersas por el lado oeste de la barricada permiten a los defensores asomarse por el borde y atacar a los enemigos que se acercan. Mientras estén detrás de la barricada, los defensores tienen cobertura total, o tres cuartos de cobertura mientras están en una plataforma.
+
+### El Asedio
+El anochecer cae poco después de que los jugadores completen sus preparativos. Lee:
 
 <div class="description">
-<p>As the last shades of light fade from the sky, an eerie silence descends upon the village. A chill wind whispers through the streets, carrying with it the faint scent of decay as the leaves of the Svalich Woods rustle in the distance.</p>
-<p>A blood-curdling howl pierces the night, followed by a second—and then a third. The cacophony of inhuman shrieks and moans grows louder, echoing across the basin from all directions as the distant forest seems to come alive.</p>
+<p>A medida que las últimas sombras de luz se desvanecen del cielo, un silencio inquietante desciende sobre el pueblo. Un viento frío susurra a través de las calles, llevando consigo el tenue olor a descomposición mientras las hojas del Bosque Svalich susurran en la distancia.</p>
+<p>Un aullido espeluznante atraviesa la noche, seguido de un segundo, y luego un tercero. La cacofonía de gritos y gemidos inhumanos se hace más fuerte, resonando en toda la cuenca desde todas las direcciones mientras el bosque distante parece cobrar vida.</p>
 </div>
 
-If he is present, Bildrath’s face grows grim, and he grips his crossbow tightly. “It begins," he mutters, as the din fades once more into the cold night. Parriwimple nods in determination, clutching his spear closer to his chest.
+Si está presente, el rostro de Bildrath se vuelve sombrío y agarra su ballesta con fuerza. “Comienza," murmura, mientras el estruendo se desvanece una vez más en la fría noche. Parriwimple asiente con determinación, sujetando su lanza más cerca de su pecho.
 
-> [!info]+ **A Moonless Night**
-> At night, torches mounted at ten-foot intervals along the barricade illuminate the surrounding area out to a distance of forty feet. On the night of the siege, thick cloud cover obscures the moonlight, preventing defenders without darkvision from seeing any approaching creatures in the darkness.
+> [!info]+ **Una Noche Sin Luna**
+> Por la noche, las antorchas montadas a intervalos de diez pies a lo largo de la barricada iluminan el área circundante hasta una distancia de cuarenta pies. En la noche del asedio, una espesa capa de nubes oscurece la luz de la luna, impidiendo que los defensores sin visión en la oscuridad vean a las criaturas que se acercan en la oscuridad.
 
-> [!abstract]+ **Holding the Line**
-> If the zombies successfully break through the barricade, Parriwimple attempts to hold the choke point with his spear, though he’s grateful for any aid the players might provide.
+> [!abstract]+ **Mantener la Línea**
+> Si los zombis logran romper la barricada, Parriwimple intenta mantener el punto de estrangulamiento con su lanza, aunque agradece cualquier ayuda que los jugadores puedan proporcionar.
 
-> [!info]+ **Undead Fortitude**
-> Revise each **zombie** and **zombie plague spreader’s** ***undead fortitude*** feature to read as follows:
+> [!info]+ **Fortaleza No Muerta**
+> Revisa la característica ***fortaleza no muerta*** de cada **zombi** y **propagador de la plaga zombi** para que diga lo siguiente:
 >
-> * ***Undead Fortitude (1/day).*** If damage reduces the zombie to 0 hit points, the zombie drops to 1 hit point instead. The zombie can’t use this ability if the damage is radiant or from a critical hit, or if the damage taken is 15 or more.
+> * ***Fortaleza No Muerta (1/día).*** Si el daño reduce al zombi a 0 puntos de golpe, el zombi cae a 1 punto de golpe en su lugar. El zombi no puede usar esta habilidad si el daño es radiante o de un golpe crítico, o si el daño recibido es de 15 o más.
 
-***The First Wave.*** Not long after darkness falls, six **zombies** emerge from the darkness and approach the barricade. Read:
-
-<div class="description">
-<p>Six figures shamble toward the barricade, the whites of their eyes glinting in the torchlight. Their low, guttural moans echo through the night, their rotting arms outstretched toward you.</p>
-</div>
-
-In combat, the zombies focus their attacks on the barricade, attempting to batter it down with their ***slam** attacks. Once the zombies have broken a hole in the barricade, they attempt to flood through it, attacking any defenders who stand in their way.
-
-***The Second Wave.*** At the beginning of the third round of combat after the first wave arrives, two additional **zombies** emerge from the darkness, joined by two **ghouls**. Read:
+***La Primera Ola.*** Poco después de que caiga la oscuridad, seis **zombis** emergen de la oscuridad y se acercan a la barricada. Lee:
 
 <div class="description">
-<p>Two more zombies shamble from the gloom, flanked by a pair of gaunt, feral, humanoid creatures with razor-sharp claws and hungry, glowing eyes. These ghouls move with a predatory grace, their lipless mouths revealing rows of pointed teeth as they release shrieking howls that echo through the night.</p>
+<p>Seis figuras se tambalean hacia la barricada, el blanco de sus ojos brillando a la luz de las antorchas. Sus bajos gemidos guturales resuenan en la noche, sus brazos podridos extendiéndose hacia ustedes.</p>
 </div>
 
-The zombies again attempt to batter down the barricade, while the ghouls attempt to climb over it using their claws.
+En combate, los zombis centran sus ataques en la barricada, intentando derribarla con sus ataques de ***golpe***. Una vez que los zombis han abierto un agujero en la barricada, intentan pasar a través de él, atacando a cualquier defensor que se interponga en su camino.
 
-***The Third Wave.*** At the beginning of the seventh round of combat after the first wave arrives, a **wight** and a **zombie plague spreader** <span class="citation">(<em>Van Richten’s Guide to Ravenloft</em>, p. 255)</span> approach the barricade. Read:
+***La Segunda Ola.*** Al comienzo de la tercera ronda de combate después de la llegada de la primera ola, dos **zombis** adicionales emergen de la oscuridad, acompañados por dos **ghouls**. Lee:
 
 <div class="description">
-<p>A lone undead shambles slowly from the darkness, its white eyes staring dully past the flickering torchlight. Its flesh, though rotting, is a smooth, sickly white, its skin run through with raised, crimson veins. A faint cloud of reddish mist spills continually from its mouth and down onto the bloodstained earth before dissipating into the air.</p>
+<p>Dos zombis más emergen de la penumbra, flanqueados por un par de criaturas humanoides feroces y demacradas con garras afiladas como cuchillas y ojos hambrientos y brillantes. Estos ghouls se mueven con una gracia depredadora, sus bocas sin labios revelan filas de dientes puntiagudos mientras emiten aullidos chillones que resuenan en la noche.</p>
 </div>
 
-> [!info]+ **The Plague Spreader**
-> Increase the **plague spreader's** hit points to 130, decrease the necrotic damage dealt by its ***slam*** to 5 (1d8), and decrease the damage dealt by its ***virulent miasma*** to 7 (2d6) poison damage per creature. 
+Los zombis intentan nuevamente derribar la barricada, mientras que los ghouls intentan trepar por ella usando sus garras.
+
+***La Tercera Ola.*** Al comienzo de la séptima ronda de combate después de la llegada de la primera ola, un **momia** y un **propagador de la plaga zombi** <span class="citation">(<em>Guía de Van Richten para Ravenloft</em>, p. 255)</span> se acercan a la barricada. Lee:
+
+<div class="description">
+<p>Un solitario no-muerto avanza lentamente desde la oscuridad, sus ojos blancos mirando sin vida más allá de la luz parpadeante de las antorchas. Su carne, aunque podrida, es de un blanco enfermizo y liso, su piel surcada por venas carmesí levantadas. Una tenue nube de niebla rojiza se derrama continuamente de su boca y cae sobre la tierra manchada de sangre antes de disiparse en el aire.</p>
+</div>
+
+> [!info]+ **El Propagador de la Plaga**
+> Aumenta los puntos de golpe del **propagador de la plaga** a 130, disminuye el daño necrótico que inflige su ***golpe*** a 5 (1d8) y disminuye el daño infligido por su ***miasma virulenta*** a 7 (2d6) de daño por veneno por criatura.
 >
-> In addition, revise its ***virulent miasma*** action such that a Humanoid reduced to 0 hit points doesn’t automatically die, and instead only rises as a zombie if it dies before stabilizing or regaining hit points. The DC for stabilizing a creature reduced to 0 hit points in this way increases to 20.
+> Además, revisa su acción de ***miasma virulenta*** para que un Humanoide reducido a 0 puntos de golpe no muera automáticamente, y en su lugar solo se levante como zombi si muere antes de estabilizarse o recuperar puntos de golpe. La DC para estabilizar una criatura reducida a 0 puntos de golpe de esta manera aumenta a 20.
 
-The plague spreader first approaches the players as closely as possible, then releases its ***virulent miasma***, attempting to hit as many creatures as possible. (If possible, aim to ensure that the miasma hits Bildrath, to make sure the players understand the nature of its attack. Neither Bildrath nor Parriwimple have seen or heard of a zombie plague spreader before, and both are ignorant of the virus it carries.) After the plague spreader uses its miasma, the red mist stops spilling from its mouth.
+El propagador de la plaga se acerca primero a los jugadores lo más cerca posible y luego libera su ***miasma virulenta***, intentando golpear a la mayor cantidad de criaturas posible. (Si es posible, intenta asegurar que la miasma golpee a Bildrath, para que los jugadores comprendan la naturaleza de su ataque. Ni Bildrath ni Parriwimple han visto u oído hablar de un propagador de la plaga zombi antes, y ambos desconocen el virus que porta). Después de que el propagador de la plaga usa su miasma, la niebla roja deja de salir de su boca.
 
-Meanwhile, the wight attacks from the darkness beyond the torches’ light, making ***longbow*** attacks from 60 feet away. If the players engage the plague spreader in melee combat or reduce it to 90 hit points or fewer, the wight draws its ***longsword*** and engages the players directly.
-## B5f. The Western Barricade
-### The Raven’s Guidance
-Shortly after the players dispatch the final wave, the **wereraven** Muriel appears to them in **raven** form. Read:
+Mientras tanto, el momia ataca desde la oscuridad más allá de la luz de las antorchas, haciendo ataques de ***arco largo*** desde 60 pies de distancia. Si los jugadores enfrentan al propagador de la plaga en combate cuerpo a cuerpo o lo reducen a 90 puntos de golpe o menos, el momia saca su ***espada larga*** y ataca a los jugadores directamente.
 
-<div class="description">
-<p>A small, dark silhouette plunges from the skies above, resolving into the form of a familiar raven, its blue-tipped wings flashing in the torchlight. Its eyes are wide and panicked, and an urgent, desperate shriek sounds repeatedly from its wide-open beak.</p>
-</div>
-
-Although she can’t speak in raven form, Muriel attempts to nonverbally alert the players that the western barricade has fallen, pulling their hair and clothes toward the town square. If the players don’t immediately follow, read:
+## B5f. La Barricada Oeste
+### La Guía del Cuervo
+Poco después de que los jugadores despachen la última ola, la **wereraven** Muriel aparece ante ellos en forma de **cuervo**. Lee:
 
 <div class="description">
-<p>You hear terrified shouts in the distance, and the sound of crunching wood.<p>
+<p>Una pequeña silueta oscura se precipita desde el cielo, resolviéndose en la forma de un cuervo familiar, sus alas con puntas azules brillando a la luz de las antorchas. Sus ojos están muy abiertos y asustados, y un chillido urgente y desesperado suena repetidamente desde su pico abierto de par en par.</p>
 </div>
 
-### Ismark’s Last Stand
-If the players follow her, Muriel guides them west toward the town square, then leads them through a series of alleyways behind and around the Blood of the Vine tavern, finally emerging on the north side of the street just west of the town square. When the players arrive, read:
+Aunque no puede hablar en forma de cuervo, Muriel intenta alertar a los jugadores de manera no verbal de que la barricada oeste ha caído, tirando de su pelo y ropa hacia la plaza del pueblo. Si los jugadores no la siguen de inmediato, lee:
 
 <div class="description">
-<p>Dozens of bodies litter the street, bloody and unmoving. The air is thick with the pungent scent of rot and death, and the howling wind sings with the sound of terrified screams.</p>
-<p>The barricade protecting the town square has been shattered, its splintered remains surrounded by a mound of corpses nearly six feet high. In the square, children scream as the elderly and infirm watch with muted horror.</p>
-<p>The torches to the west have been extinguished, the town’s western defenders fled—or killed. Only one figure remains standing: Ismark, his clothes torn and bloody, bearing a longsword in his left hand and a shortsword in his right. Twenty feet away from him stands a pale-skinned zombie, its flesh a smooth, sickly white that bulges with crimson veins. Its eyes stare dully toward the tents in the town square beyond, and, as a cloud of reddish mist spills gently from its gaping mouth, it takes a shambling step forward.</p>
+<p>Escuchas gritos aterrorizados a lo lejos, y el sonido de madera crujiente.</p>
 </div>
 
-Ismark, who has been reduced to 40 hit points, welcomes any help the players can provide against the plague spreader. If reduced to 30 hit points or fewer, Ismark obstructs the plague spreader directly while taking the Dodge action on each of his turns, hoping to delay it while providing the players sufficient time to defeat it.
-
-The plague spreader, which begins 120 feet from the center of the town square and has the same modifications as the plague spreader in [[#The Siege]], won’t use its ***viral miasma*** until it reaches the center of the town square or is reduced to 30 hit points or fewer. Each round, it attempts to move its full speed in a straight line toward the town square. If it can’t, it uses its ***multiattack*** to attack any creatures within reach. (The plague spreader doesn’t attempt to move around creatures obstructing it, even if doing so could allow it to reach its destination.)
-### Rahadin’s Proclamation
-Shortly after the players defeat the plague spreader, a lone horseman flanked by twelve **zombies** approaches the town square from the west. Read:
+### La Última Resistencia de Ismark
+Si los jugadores la siguen, Muriel los guía hacia el oeste, hacia la plaza del pueblo, y luego los lleva a través de una serie de callejones detrás y alrededor de la taberna Sangre de la Vid, emergiendo finalmente en el lado norte de la calle, justo al oeste de la plaza del pueblo. Cuando los jugadores lleguen, lee:
 
 <div class="description">
-<p>You hear the sound of hoofsteps squelching through mud. From the shadows on the western road emerges a cloaked man riding an ash-gray horse with dull, shadowed eyes. Behind it trail a dozen shambling undead, flanking the horseman with six to a side.</p>
-<p>The flickering torchlight paints the man’s features in shades of burning orange and red, revealing a tall, lithe figure of dusky complexion, with long, black hair that falls past his neck. A light cloak is draped across his shoulders, its edge rimmed with thick, white fur, and gloves of supple black leather cover his hands. A deep blue tunic trimmed with bronze is visible beneath a layer of tough, yet flexible leather armor, and a curved saber hangs from a sheath at his belt, with a pair of scimitars strapped to his back above it.</p>
-<p>His ears taper sharply upward to elven points, and his dark, brown eyes bear a quiet awareness and a casual, almost predatory gaze as they shift slowly across his surroundings. A long, wicked scar cuts across his forehead, just above where lines have begun to mark his face with age, and his lips are pulled back into a thin, perpetual frown.</p>
+<p>Docenas de cuerpos yacen en la calle, ensangrentados e inmóviles. El aire está cargado con el olor acre de la podredumbre y la muerte, y el viento aullante canta con el sonido de gritos aterrorizados.</p>
+<p>La barricada que protegía la plaza del pueblo ha sido destrozada, sus restos astillados rodeados por un montón de cadáveres de casi seis pies de altura. En la plaza, los niños gritan mientras los ancianos y enfermos observan con horror contenido.</p>
+<p>Las antorchas al oeste han sido apagadas, los defensores del oeste del pueblo han huido o han sido asesinados. Solo una figura permanece en pie: Ismark, su ropa desgarrada y ensangrentada, con una espada larga en su mano izquierda y una espada corta en su mano derecha. A veinte pies de él se encuentra un zombi de piel pálida, su carne es de un blanco enfermizo y liso que se abulta con venas carmesí. Sus ojos miran sin vida hacia las tiendas en la plaza del pueblo más allá, y, mientras una nube de niebla rojiza se derrama suavemente de su boca abierta, da un paso tambaleante hacia adelante.</p>
 </div>
 
-This is Rahadin, riding his *phantom steed*. As he comes to a halt at the edge of the town square, he pulls a scroll from his cloak and unfurls. If not interrupted, he begins to read from it, his resonant voice carrying across the square:
+Ismark, que ha sido reducido a 40 puntos de golpe, agradece cualquier ayuda que los jugadores puedan brindar contra el propagador de la plaga. Si se reduce a 30 puntos de golpe o menos, Ismark obstruye directamente al propagador de la plaga mientras toma la acción Esquivar en cada uno de sus turnos, esperando retrasarlo mientras brinda a los jugadores suficiente tiempo para derrotarlo.
+
+El propagador de la plaga, que comienza a 120 pies del centro de la plaza del pueblo y tiene las mismas modificaciones que el propagador de la plaga en [[#El Asedio]], no usará su ***miasma virulenta*** hasta que alcance el centro de la plaza del pueblo o se reduzca a 30 puntos de golpe o menos. Cada ronda, intenta mover su velocidad completa en línea recta hacia la plaza del pueblo. Si no puede, usa su ***multiataque*** para atacar a cualquier criatura al alcance. (El propagador de la plaga no intenta moverse alrededor de las criaturas que lo obstruyen, incluso si hacerlo podría permitirle alcanzar su destino.)
+
+### La Proclamación de Rahadin
+Poco después de que los jugadores derroten al propagador de la plaga, un jinete solitario flanqueado por doce **zombis** se acerca a la plaza del pueblo desde el oeste. Lee:
 
 <div class="description">
-<p>"Five score and seven days past, this people rose in unlawful rebellion against Strahd von Zarovich, Count of Barovia, Master of Castle Ravenloft, and Protector of the Balinok Mountains. For this treasonous act, this settlement has been met with righteous punishment, so that its inhabitants might learn the weight of their defiance.</p>
-<p>"Witnessed by the eyes of the dead and damned, this price has been extracted in blood, common and noble alike. Let it be known that on this day, the mercy of Strahd von Zarovich extends once more unto those who return to their fief and field—while those who continue in their folly shall be swept away as chaff before the wind."</p>
+<p>Escuchas el sonido de cascos chapoteando en el barro. Desde las sombras en el camino occidental emerge un hombre con capa montando un caballo gris ceniza con ojos apagados y sombreados. Detrás de él caminan una docena de muertos vivientes tambaleantes, flanqueando al jinete con seis a cada lado.</p>
+<p>La luz de las antorchas parpadeantes pinta las facciones del hombre en tonos de naranja y rojo ardiente, revelando una figura alta y esbelta de tez oscura, con largo cabello negro que cae más allá de su cuello. Una capa ligera está drapeada sobre sus hombros, con el borde ribeteado con piel blanca gruesa, y guantes de cuero negro suave cubren sus manos. Una túnica azul profundo adornada con bronce es visible debajo de una capa de armadura de cuero dura pero flexible, y un sable curvo cuelga de una funda en su cinturón, con un par de cimitarras atadas a su espalda encima de él.</p>
+<p>Sus orejas se afinan hacia arriba en puntas élficas, y sus ojos marrones oscuros llevan una conciencia tranquila y una mirada casual, casi depredadora, que se desplaza lentamente por su entorno. Una cicatriz larga y malvada corta su frente, justo encima de donde las líneas han comenzado a marcar su rostro con la edad, y sus labios están retraídos en una delgada y perpetua mueca.</p>
 </div>
 
-If not prevented, Rahadin searches the crowd, his gaze finally settling on Ismark. Leaving the undead behind, he approaches Ismark on horseback. 
-
-As Rahadin approaches the players (or vice—versa), the players can hear the sounds of his ***deathly choir.*** Read: 
+Este es Rahadin, montando su *corcel fantasma*. Cuando se detiene en el borde de la plaza del pueblo, saca un pergamino de su capa y lo desenrolla. Si no lo interrumpen, comienza a leerlo, su voz resonante se escucha por toda la plaza:
 
 <div class="description">
-<p>It begins with a dull roar—a prickle at the edge of your awareness, like the washing of the ocean against the shore. As the man grows closer, however, the muffled sound grows ever—more insistent, amplifying and building upon itself—until it resolves from a more innocuous sound, almost like waves, into a torrent of screams.</p>
-<p>Your ears fill with a cacophony of a thousand voices, pleading, suffering, dying: a psychic onslaught that crashes against your mind from every direction, leaving little room for thought. The man, however, remains unflinching—seemingly undisturbed by the symphony of screams that surrounds him.</p>
+<p>"Hace ciento siete días, este pueblo se levantó en rebelión ilegal contra Strahd von Zarovich, Conde de Barovia, Maestro del Castillo Ravenloft y Protector de las Montañas Balinok. Por este acto traicionero, este asentamiento ha sido castigado con justicia, para que sus habitantes aprendan el peso de su desafío.</p>
+<p>"Testigos de los ojos de los muertos y condenados, este precio ha sido extraído en sangre, tanto común como noble. Que se sepa que en este día, la misericordia de Strahd von Zarovich se extiende una vez más a aquellos que regresen a su feudo y campo, mientras que aquellos que continúen en su locura serán barridos como paja ante el viento."</p>
 </div>
 
-The players can notice that any other Barovians within ten feet of Rahadin appear to be similarly disturbed. (Any Barovians beyond the ten—foot radius can’t hear the screams.) When Rahadin speaks, the screams somewhat recede—enough to allow him and others to be heard—but gain a notable accent of fear.
+Si no se lo impiden, Rahadin busca en la multitud, su mirada finalmente se posa en Ismark. Dejando atrás a los muertos vivientes, se acerca a Ismark a caballo.
 
-Upon approaching Ismark, Rahadin inspects him briefly, then states coldly: “Please accept my congratulations on your new position—and my condolences on your loss." Unless obstructed, he then turns his horse around and departs the village, once more trailed by the twelve **zombies**.
+A medida que Rahadin se acerca a los jugadores (o viceversa), los jugadores pueden escuchar los sonidos de su ***coro mortal***. Lee:
 
-Rahadin’s initial proclamation leaves Ismark stiff and stone-faced, but his subsequent greeting leaves Ismark shell-shocked and frozen. Shortly after Rahadin departs, Ismark appears to process the weight of Rahadin’s words, releases a bellowing, wordless cry, and runs for the burgomaster’s mansion. (If Parriwimple is present, he urges the players to follow Ismark.)
+<div class="description">
+<p>Comienza con un rugido sordo, un cosquilleo en el borde de tu conciencia, como el oleaje del océano contra la orilla. Sin embargo, a medida que el hombre se acerca, el sonido apagado se vuelve cada vez más insistente, amplificándose y acumulándose sobre sí mismo, hasta que se resuelve de un sonido más inocuo, casi como olas, en un torrente de gritos.</p>
+<p>Tus oídos se llenan con una cacofonía de mil voces, suplicantes, sufrientes, moribundas: un asalto psíquico que choca contra tu mente desde todas las direcciones, dejando poco espacio para pensar. El hombre, sin embargo, permanece impasible, aparentemente imperturbable por la sinfonía de gritos que lo rodea.</p>
+</div>
 
-> [!abstract]+ **The Players Challenge Rahadin**
-> Rahadin takes little interest in the players. If challenged, he states merely that the siege was “the will of Strahd," and informs the players that it is “not for them to question the actions of their betters." If asked his identity, he shares only that he is Rahadin, chamberlain of Castle Ravenloft, and a humble servant of Strahd von Zarovich.
+Los jugadores pueden notar que cualquier otro baroviano dentro de diez pies de Rahadin parece estar igualmente perturbado. (Cualquier baroviano más allá del radio de diez pies no puede escuchar los gritos). Cuando Rahadin habla, los gritos retroceden un poco, lo suficiente como para permitir que se le escuche a él y a los demás, pero ganan un notable acento de miedo.
+
+Al acercarse a Ismark, Rahadin lo inspecciona brevemente y luego declara fríamente: “Por favor, acepte mis felicitaciones por su nueva posición y mis condolencias por su pérdida". A menos que se lo obstruya, luego gira su caballo y abandona el pueblo, seguido una vez más por los doce **zombis**.
+
+La proclamación inicial de Rahadin deja a Ismark rígido y con cara de piedra, pero su saludo posterior deja a Ismark en estado de shock y congelado. Poco después de que Rahadin se marche, Ismark parece procesar el peso de las palabras de Rahadin, emite un grito ensordecedor y sin palabras, y corre hacia la mansión del burgomaestre. (Si Parriwimple está presente, insta a los jugadores a seguir a Ismark).
+> [!abstract]+ **Los Jugadores Desafían a Rahadin**
+> Rahadin muestra poco interés en los jugadores. Si lo desafían, él simplemente dice que el asedio fue “la voluntad de Strahd," e informa a los jugadores que “no les corresponde cuestionar las acciones de sus superiores." Si le preguntan su identidad, solo comparte que es Rahadin, chambelán de Castillo Ravenloft, y un humilde sirviente de Strahd von Zarovich.
 >
-> If grappled, restrained, or attacked, Rahadin first commands them to “cease their foolishness," noting that “in the spirit of the night’s mercy, and in light of their foreign nature," he is not unwilling to overlook their disobedience on this single occasion. If the interfering player continues their interference, Rahadin swiftly and efficiently dispatches them. 
+> Si es agarrado, inmovilizado o atacado, Rahadin primero les ordena “cesar su tontería," notando que “en el espíritu de la misericordia de la noche, y en vista de su naturaleza extranjera," no está dispuesto a pasar por alto su desobediencia en esta única ocasión. Si el jugador interferente continúa su interferencia, Rahadin lo despacha rápida y eficientemente.
 >
-> Once an interfering player has been knocked unconscious, Rahadin uses the pommel of his saber to slam their wrist, knee, or ribs, temporarily causing that player to gain the effects of one of the following <span class="citation">Lingering Injuries (<em>Dungeon Master’s Guide</em>, p. 272)</span>: **Lose an Arm or Hand**, **Lose a Foot or Leg**, or **Internal Injury**. This injury lasts until the player has completed two long rests.
+> Una vez que un jugador interferente ha sido dejado inconsciente, Rahadin usa el pomo de su sable para golpear su muñeca, rodilla o costillas, causando temporalmente que ese jugador obtenga los efectos de una de las siguientes <span class="citation">Heridas Persistentes (<em>Guía del Dungeon Master</em>, p. 272)</span>: **Perder un Brazo o Mano**, **Perder un Pie o Pierna**, o **Herida Interna**. Esta herida dura hasta que el jugador haya completado dos descansos largos.
 
 <div class="statblock">
-<h2>Rahadin, Castle Chamberlain</h2>
-<em>Medium humanoid (elf), lawful evil</em>
+<h2>Rahadin, Chambelán del Castillo</h2>
+<em>Humanoide mediano (elfo), legal maligno</em>
 <hr>
-<strong>Armor Class</strong> 18 (studded leather)
+<strong>Clase de Armadura</strong> 18 (cuero tachonado)
 <br>
-<strong>Hit Points</strong> 247 (34d8 + 102)
+<strong>Puntos de Golpe</strong> 247 (34d8 + 102)
 <br>
-<strong>Speed</strong> 35 ft.
+<strong>Velocidad</strong> 35 pies.
 <hr>
 <table class="ability-table">
   <thead>
     <tr>
-      <th>STR</th>
-      <th>DEX</th>
+      <th>FUE</th>
+      <th>DES</th>
       <th>CON</th>
       <th>INT</th>
-      <th>WIS</th>
-      <th>CHA</th>
+      <th>SAB</th>
+      <th>CAR</th>
     </tr>
   </thead>
   <tbody>
@@ -618,58 +636,58 @@ Rahadin’s initial proclamation leaves Ismark stiff and stone-faced, but his su
   </tbody>
 </table>
 <hr>
-<strong>Saving Throws</strong> Dex +11, Wis +8<br>
-<strong>Skills</strong> Acrobatics +11, Peception +9, Insight +8, Intimidation +14, Perception +13, Stealth +16<br>
-<strong>Senses</strong> darkvision 60 ft., passive Perception 23<br>
-<strong>Languages</strong> Common, Elvish<br>
-<strong>Challenge</strong> 14<br>
-<strong>Proficiency</strong> +5<br>
+<strong>Tiradas de Salvación</strong> Dex +11, Sab +8<br>
+<strong>Habilidades</strong> Acrobatics +11, Perception +9, Insight +8, Intimidation +14, Stealth +16<br>
+<strong>Sentidos</strong> visión en la oscuridad 60 pies, Percepción pasiva 23<br>
+<strong>Idiomas</strong> Común, Élfico<br>
+<strong>Desafío</strong> 14<br>
+<strong>Competencia</strong> +5<br>
 <hr>
-<p><strong><em>Screams of the Dead.</em></strong> Any creature within 10 feet of Rahadin that isn't protected by a <em>mind blank</em> spell hears in its mind the screams of the thousands of people Rahadin has killed.</p>
-<p><strong><em>Fey Ancestry.</em></strong> Rahadin has advantage on saving throws against being charmed, and magic can't put him to sleep.</p>
-<p><strong><em>Legendary Resistance (1/day).</em></strong> If Rahadin would fail a saving throw, he can choose to succeed instead.</p>
-<p><strong><em>Indomitable.</em></strong> If Rahadin would be paralyzed or stunned, he is slowed instead. (His speed is halved, he has disadvantage on Dexterity saving throws, and creatures have advantage on attacks made against him.)
-<p><strong><em>Innate Spellcasting.</em></strong> Rahadin's innate spellcasting ability is Intelligence. He can innately cast the following spells, requiring no components:<br>
-- 3/day: phantom steed<br>
-- 1/day: nondetection</p>
-<p><strong><em>Mask of the Wild.</em></strong> Rahadin can attempt to hide even when he is only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena.</p>
-<p><strong><em>Murderous Instinct.</em></strong> When Rahadin drops to 0 hit points, he stows his saber and draws his twin scimitars, <em>Thorn</em> and <em>Chain</em>. His statistics are then instantly replaced by the statistics of his second form. His initiative count doesn't change. Excess damage doesn't carry over to his new form, and he doesn’t retain any conditions he had in his previous form.</p>
-<h3>Actions</h3>
-<p><strong><em>Multiattack.</em></strong> Rahadin makes two attacks.</p>
-<p><strong><em>Saber.</em></strong> <em>Melee Weapon Attack:</em> +11 to hit, reach 5 ft., one target. <em>Hit:</em> 11 (1d8 + 6) slashing damage, and Rahadin can push the target up to 5 feet away. Instead of pushing the target, Rahadin can force it to succeed on a DC 15 Strength saving throw or be knocked prone.</p>
-<p><strong><em>Poisoned Dart.</em></strong> <em>Ranged Weapon Attack:</em> +11 to hit, range 20/60 ft., one target. <em>Hit:</em> 14 (1d4 + 6 plus 2d4) piercing and poison damage, and the target must succeed on a DC 15 Constitution saving throw or be poisoned until the start of Rahadin's next turn.</p>
-<h3>Bonus Actions</h3>
-<p><strong><em>Wind Strike.</em></strong> Rahadin moves up to his speed in a straight line toward an unoccupied space he can see, including through enemy spaces, without provoking opportunity attacks. Each creature within 5 feet of a space he passes through must make a DC 19 Dexterity saving throw, taking 7 (2d6) slashing damage on a failed save, or half as much damage on a successful one.</p>
-<p><strong><em>Whirling Blades.</em></strong> Each creature within 10 feet of Rahadin must make a DC 19 Dexterity saving throw, taking 7 (2d6) slashing damage on a failed save, or half as much damage on a successful one.</p>
-<p><strong><em>Misty Step.</em></strong> Rahadin casts <em>misty step</em>. Rahadin doesn't need to see his destination when casting <em>misty step</em> in this way.</p>
-<h3>Reactions</h3>
-<p>Rahadin can take up to three reactions per round, though no more than one per turn. If Rahadin would lose his reactions and isn't incapacitated, he loses one reaction instead.</p>
-<p><strong><em>Parry.</em></strong> Rahadin adds +5 to his Armor Class against one melee or ranged attack that would hit him or to the result of a failed Dexterity saving throw, or takes no damage from <em>magic missile</em> this turn. If he causes a melee attack to miss in this way, he can then immediately use an additional reaction, if available, to use his Riposte against the attacker.</p>
-<p><strong><em>Riposte.</em></strong> When an enemy misses Rahadin with a melee attack, he can use his reaction to move up to his speed to an unoccupied space within 5 feet of that enemy without triggering opportunity attacks. He can then immediately make a <strong><em>saber</em></strong> attack against that enemy with advantage.</p>
-<p><strong><em>Misty Step.</em></strong> When an enemy misses Rahadin with an attack or deals damage to him, he can use his reaction to cast <em>misty step</em>. He can then immediately take the Hide action. Rahadin doesn't need to see his destination when casting <em>misty step</em> in this way.</p>
-<p><strong><em>Psychic Scream (1/day).</em></strong> When Rahadin is reduced to 0 hit points, he can use his reaction to cause his deathly choir to release a terrible scream. Each creature within 60 feet of Rahadin must make a DC 17 Wisdom saving throw, taking 11 (2d10) psychic damage on a failed save or half as much on a success. If a creature fails the saving throw by 5 or more, it is also stunned until the start of Rahadin's next turn.</p>
+<p><strong><em>Gritos de los Muertos.</em></strong> Cualquier criatura a 10 pies de Rahadin que no esté protegida por un hechizo <em>mente en blanco</em> escucha en su mente los gritos de las miles de personas que Rahadin ha matado.</p>
+<p><strong><em>Ascendencia Feérica.</em></strong> Rahadin tiene ventaja en tiradas de salvación contra ser encantado, y la magia no puede ponerlo a dormir.</p>
+<p><strong><em>Resistencia Legendaria (1/día).</em></strong> Si Rahadin falla una tirada de salvación, puede elegir tener éxito en su lugar.</p>
+<p><strong><em>Indomable.</em></strong> Si Rahadin sería paralizado o aturdido, queda ralentizado en su lugar. (Su velocidad se reduce a la mitad, tiene desventaja en tiradas de salvación de Destreza, y las criaturas tienen ventaja en ataques contra él.)
+<p><strong><em>Conjuración Innata.</em></strong> La habilidad de conjuración innata de Rahadin es Inteligencia. Puede conjurar de manera innata los siguientes hechizos, sin requerir componentes:<br>
+- 3/día: corcel fantasmal<br>
+- 1/día: no detección</p>
+<p><strong><em>Máscara de lo Salvaje.</em></strong> Rahadin puede intentar esconderse incluso cuando solo está ligeramente oculto por follaje, lluvia intensa, nieve cayendo, niebla y otros fenómenos naturales.</p>
+<p><strong><em>Instinto Asesino.</em></strong> Cuando Rahadin cae a 0 puntos de golpe, guarda su sable y desenvaina sus dos cimitarra, <em>Espina</em> y <em>Cadena</em>. Sus estadísticas son reemplazadas instantáneamente por las estadísticas de su segunda forma. Su cuenta de iniciativa no cambia. El daño en exceso no se traslada a su nueva forma, y no conserva ninguna condición que tuviera en su forma anterior.</p>
+<h3>Acciones</h3>
+<p><strong><em>Multiataque.</em></strong> Rahadin hace dos ataques.</p>
+<p><strong><em>Sable.</em></strong> <em>Ataque de arma cuerpo a cuerpo:</em> +11 para golpear, alcance 5 pies, un objetivo. <em>Impacto:</em> 11 (1d8 + 6) de daño cortante, y Rahadin puede empujar al objetivo hasta 5 pies de distancia. En lugar de empujar al objetivo, Rahadin puede forzarlo a tener éxito en una tirada de salvación de Fuerza DC 15 o quedar tumbado.</p>
+<p><strong><em>Dardo Envenenado.</em></strong> <em>Ataque de arma a distancia:</em> +11 para golpear, alcance 20/60 pies, un objetivo. <em>Impacto:</em> 14 (1d4 + 6 más 2d4) de daño perforante y veneno, y el objetivo debe tener éxito en una tirada de salvación de Constitución DC 15 o quedar envenenado hasta el comienzo del próximo turno de Rahadin.</p>
+<h3>Acciones Adicionales</h3>
+<p><strong><em>Golpe de Viento.</em></strong> Rahadin se mueve hasta su velocidad en línea recta hacia un espacio desocupado que pueda ver, incluyendo a través de espacios enemigos, sin provocar ataques de oportunidad. Cada criatura dentro de 5 pies de un espacio por el que pasa debe hacer una tirada de salvación de Destreza DC 19, recibiendo 7 (2d6) de daño cortante en una tirada fallida, o la mitad de daño en una tirada exitosa.</p>
+<p><strong><em>Cuchillas Giratorias.</em></strong> Cada criatura a 10 pies de Rahadin debe hacer una tirada de salvación de Destreza DC 19, recibiendo 7 (2d6) de daño cortante en una tirada fallida, o la mitad de daño en una tirada exitosa.</p>
+<p><strong><em>Paso Brumoso.</em></strong> Rahadin conjura <em>paso brumoso</em>. Rahadin no necesita ver su destino al conjurar <em>paso brumoso</em> de esta manera.</p>
+<h3>Reacciones</h3>
+<p>Rahadin puede tomar hasta tres reacciones por ronda, aunque no más de una por turno. Si Rahadin perdería sus reacciones y no está incapacitado, pierde una reacción en su lugar.</p>
+<p><strong><em>Parar.</em></strong> Rahadin añade +5 a su Clase de Armadura contra un ataque cuerpo a cuerpo o a distancia que lo golpearía o al resultado de una tirada de salvación de Destreza fallida, o no recibe daño de <em>misil mágico</em> este turno. Si hace que un ataque cuerpo a cuerpo falle de esta manera, puede usar inmediatamente una reacción adicional, si está disponible, para usar su Contraataque contra el atacante.</p>
+<p><strong><em>Contraataque.</em></strong> Cuando un enemigo falla un ataque cuerpo a cuerpo contra Rahadin, puede usar su reacción para moverse hasta su velocidad a un espacio desocupado dentro de 5 pies de ese enemigo sin desencadenar ataques de oportunidad. Luego puede hacer inmediatamente un ataque <strong><em>sable</em></strong> contra ese enemigo con ventaja.</p>
+<p><strong><em>Paso Brumoso.</em></strong> Cuando un enemigo falla un ataque contra Rahadin o le inflige daño, puede usar su reacción para conjurar <em>paso brumoso</em>. Luego puede tomar inmediatamente la acción de Esconderse. Rahadin no necesita ver su destino al conjurar <em>paso brumoso</em> de esta manera.</p>
+<p><strong><em>Grito Psíquico (1/día).</em></strong> Cuando Rahadin cae a 0 puntos de golpe, puede usar su reacción para causar que su coro mortal emita un terrible grito. Cada criatura a 60 pies de Rahadin debe hacer una tirada de salvación de Sabiduría DC 17, recibiendo 11 (2d10) de daño psíquico en una tirada fallida o la mitad en una exitosa. Si una criatura falla la tirada de salvación por 5 o más, también queda aturdida hasta el comienzo del próximo turno de Rahadin.</p>
 </div>
 <br>
 
 <div class="statblock">
-<h2>Rahadin, Kinslayer</h2>
-<em>Medium humanoid (elf), lawful evil</em>
+<h2>Rahadin, Asesino de Parientes</h2>
+<em>Humanoide mediano (elfo), legal maligno</em>
 <hr>
-<strong>Armor Class</strong> 18 (studded leather)
+<strong>Clase de Armadura</strong> 18 (cuero tachonado)
 <br>
-<strong>Hit Points</strong> 247 (34d8 + 102)
+<strong>Puntos de Golpe</strong> 247 (34d8 + 102)
 <br>
-<strong>Speed</strong> 35 ft.
+<strong>Velocidad</strong> 35 pies
 <hr>
 <table class="ability-table">
   <thead>
     <tr>
-      <th>STR</th>
-      <th>DEX</th>
+      <th>FUE</th>
+      <th>DES</th>
       <th>CON</th>
       <th>INT</th>
-      <th>WIS</th>
-      <th>CHA</th>
+      <th>SAB</th>
+      <th>CAR</th>
     </tr>
   </thead>
   <tbody>
@@ -684,32 +702,31 @@ Rahadin’s initial proclamation leaves Ismark stiff and stone-faced, but his su
   </tbody>
 </table>
 <hr>
-<strong>Saving Throws</strong> Dex +11, Wis +8<br>
-<strong>Skills</strong> Acrobatics +11, Deception +9, Insight +8, Intimidation +14, Perception +13, Stealth +16<br>
-<strong>Senses</strong> darkvision 60 ft., passive Perception 23<br>
-<strong>Languages</strong> Common, Elvish<br>
-<strong>Challenge</strong> 15<br>
-<strong>Proficiency</strong> +5<br>
+<strong>Tiradas de Salvación</strong> Des +11, Sab +8<br>
+<strong>Habilidades</strong> Acrobatics +11, Engaño +9, Perspicacia +8, Intimidación +14, Percepción +13, Sigilo +16<br>
+<strong>Sentidos</strong> visión en la oscuridad 60 pies, Percepción pasiva 23<br>
+<strong>Idiomas</strong> Común, Elfo<br>
+<strong>Desafío</strong> 15<br>
+<strong>Competencia</strong> +5<br>
 <hr>
-<p><strong><em>Screams of the Dead.</em></strong> Any creature within 10 feet of Rahadin that isn't protected by a <em>mind blank</em> spell hears in its mind the screams of the thousands of people Rahadin has killed.</p>
-<p><strong><em>Fey Ancestry.</em></strong> Rahadin has advantage on saving throws against being charmed, and magic can't put him to sleep.</p>
-<p><strong><em>Legendary Resistance (1/day).</em></strong> If Rahadin would fail a saving throw, he can choose to succeed instead.</p>
-<p><strong><em>Indomitable.</em></strong> If Rahadin would be paralyzed or stunned, he is slowed instead. (His speed is halved, he has disadvantage on Dexterity saving throws, and creatures have advantage on attacks made against him.)
-<p><strong><em>Mask of the Wild.</em></strong> Rahadin can attempt to hide even when he is only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena.</p>
-<h3>Actions</h3>
-<p><strong><em>Multiattack.</em></strong> Rahadin makes three attacks with his scimitars <strong><em>Thorn</em></strong> and/or <strong><em>Chain</em></strong>. He can replace one attack with his <strong><em>haunt</em></strong> feature.
-<p><strong><em>Thorn.</em></strong> <em>Melee Weapon Attack:</em> +11 to hit, reach 5 ft., one target. <em>Hit:</em> 9 (1d6 + 6) slashing damage, and Rahadin can force the target to make a DC 19 Constitution saving throw or bleed for the next 1 minute. (A bleeding target must succeed on a DC 19 Constitution saving throw at the start of each of its turns or take an additional 1d6 slashing damage. On a success or upon receiving magical healing, the target is no longer bleeding.)
-<p><strong><em>Chain.</em></strong> <em>Melee Weapon Attack:</em> +11 to hit, reach 5 ft., one target. <em>Hit:</em> 9 (1d6 + 6) slashing damage, and Rahadin can force the target to make a DC 19 Constitution saving throw or have its speed reduced to 0 until the end of its next turn. If the target fails by 5 or more, it also falls prone.
-<p><strong><em>Haunt.</em></strong> Rahadin forces a creature he can see within 30 feet to succeed on a DC 17 Wisdom saving throw or take 7 (2d6) psychic damage and be frightened and deafened by shrieking souls until the start of his next turn.</p>
-<h3>Bonus Actions</h3>
-<p><strong><em>Deathly Choir.</em></strong> Each creature within 10 feet of Rahadin that isn't protected by a <em>mind blank</em> spell must succeed on a DC 17 Wisdom saving throw, taking 9 (2d8) psychic damage on a failed save or half as much damage on a successful one. If a creature fails the saving throw by 5 or more, it is also frightened until the start of Rahadin's next turn.</p>
-<p><strong><em>Swift Step.</em></strong> Rahadin takes the Dash or Disengage action.
-<h3>Reactions</h3>
-<p>Rahadin can take up to three reactions per round, though no more than one per turn. If Rahadin would lose his reactions and isn't incapacitated, he loses one reaction instead.</p>
-<p><strong><em>Vengeful Strike.</em></strong> When Rahadin is hit by a melee or ranged attack, he can use his reaction to move up to his speed toward the attacker and make an attack with <strong><em>Thorn</em></strong> or <strong><em>Chain</em></strong>. This movement doesn't trigger opportunity attacks.</p>
-<p><strong><em>Disarm.</em></strong> When an enemy misses Rahadin with a melee attack while wielding a weapon, he can use his reaction to force that enemy to make a DC 19 Strength saving throw, with advantage if the enemy is holding the weapon with two hands. On a failure, the enemy drops the item, which is knocked 10 feet away.</p>
+<p><strong><em>Gritos de los Muertos.</em></strong> Cualquier criatura dentro de 10 pies de Rahadin que no esté protegida por un hechizo <em>mente en blanco</em> escucha en su mente los gritos de las miles de personas que Rahadin ha matado.</p>
+<p><strong><em>Ascendencia Feérica.</em></strong> Rahadin tiene ventaja en las tiradas de salvación contra ser encantado, y la magia no puede dormirlo.</p>
+<p><strong><em>Resistencia Legendaria (1/día).</em></strong> Si Rahadin falla una tirada de salvación, puede elegir tener éxito en su lugar.</p>
+<p><strong><em>Indomable.</em></strong> Si Rahadin quedara paralizado o aturdido, en su lugar queda ralentizado. (Su velocidad se reduce a la mitad, tiene desventaja en las tiradas de salvación de Destreza, y las criaturas tienen ventaja en los ataques contra él).
+<p><strong><em>Máscara de la Naturaleza.</em></strong> Rahadin puede intentar esconderse incluso cuando solo está ligeramente oculto por follaje, lluvia intensa, nieve, niebla y otros fenómenos naturales.</p>
+<h3>Acciones</h3>
+<p><strong><em>Ataque Múltiple.</em></strong> Rahadin realiza tres ataques con sus cimitarras <strong><em>Espina</em></strong> y/o <strong><em>Cadena</em></strong>. Puede reemplazar un ataque con su característica <strong><em>atormentar</em></strong>.
+<p><strong><em>Espina.</em></strong> <em>Ataque de Arma Cuerpo a Cuerpo:</em> +11 para golpear, alcance 5 pies, un objetivo. <em>Impacto:</em> 9 (1d6 + 6) de daño cortante, y Rahadin puede forzar al objetivo a hacer una tirada de salvación de Constitución CD 19 o sangrar durante 1 minuto. (Un objetivo que esté sangrando debe tener éxito en una tirada de salvación de Constitución CD 19 al comienzo de cada uno de sus turnos o recibir 1d6 de daño cortante adicional. Con un éxito o al recibir curación mágica, el objetivo deja de sangrar).
+<p><strong><em>Cadena.</em></strong> <em>Ataque de Arma Cuerpo a Cuerpo:</em> +11 para golpear, alcance 5 pies, un objetivo. <em>Impacto:</em> 9 (1d6 + 6) de daño cortante, y Rahadin puede forzar al objetivo a hacer una tirada de salvación de Constitución CD 19 o tener su velocidad reducida a 0 hasta el final de su siguiente turno. Si falla la tirada por 5 o más, también cae derribado.
+<p><strong><em>Atormentar.</em></strong> Rahadin fuerza a una criatura que pueda ver dentro de 30 pies a hacer una tirada de salvación de Sabiduría CD 17 o recibir 7 (2d6) de daño psíquico y quedar asustada y ensordecida por almas aullantes hasta el comienzo del siguiente turno de Rahadin.</p>
+<h3>Acciones Adicionales</h3>
+<p><strong><em>Coro de la Muerte.</em></strong> Cada criatura dentro de 10 pies de Rahadin que no esté protegida por un hechizo <em>mente en blanco</em> debe tener éxito en una tirada de salvación de Sabiduría CD 17, recibiendo 9 (2d8) de daño psíquico si falla la tirada, o la mitad de daño en un éxito. Si una criatura falla la tirada por 5 o más, también queda asustada hasta el comienzo del siguiente turno de Rahadin.</p>
+<p><strong><em>Paso Rápido.</em></strong> Rahadin toma la acción de Correr o Desengañarse.
+<h3>Reacciones</h3>
+<p>Rahadin puede tomar hasta tres reacciones por ronda, pero no más de una por turno. Si Rahadin perdiera sus reacciones y no está incapacitado, pierde una reacción en su lugar.</p>
+<p><strong><em>Golpe Vengativo.</em></strong> Cuando Rahadin es golpeado por un ataque cuerpo a cuerpo o a distancia, puede usar su reacción para moverse hasta su velocidad hacia el atacante y hacer un ataque con <strong><em>Espina</em></strong> o <strong><em>Cadena</em></strong>. Este movimiento no provoca ataques de oportunidad.</p>
+<p><strong><em>Desarmar.</em></strong> Cuando un enemigo falla un ataque cuerpo a cuerpo contra Rahadin mientras empuña un arma, puede usar su reacción para forzar a ese enemigo a hacer una tirada de salvación de Fuerza CD 19, con ventaja si el enemigo está sujetando el arma con dos manos. En un fallo, el enemigo suelta el objeto, que es arrojado a 10 pies de distancia.</p>
 </div>
-
 ## B5g. Return to the Mansion
 ### Strahd’s Aftermath
 If the players follow Ismark to the burgomaster’s mansion, they find its grounds abandoned and the front door ajar. Upon arriving, Ismark rushes inside, shouting for his father and Ireena.
