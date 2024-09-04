@@ -173,6 +173,7 @@ Si los jugadores están de acuerdo, Muriel los sigue hasta la plaza del pueblo, 
 ## B5b. La Plaza del Pueblo
 Mientras los jugadores e Ismark pasan por las calles del pueblo, lee:
 
+
 <div class="description">
 <p>Aldeanos demacrados con ojos atormentados te observan al pasar, sus ropas manchadas de barro o sangre y sus manos nunca lejos de un arco, un hacha o una horca. Ismark saluda a cada uno por su nombre. Varios se le acercan, hablando en tonos bajos antes de huir una vez más a las casas quejumbrosas o los sombríos callejones a tu alrededor.</p>
 <p>Ismark te guía a través de una segunda barricada más grande, atendida por aldeanos de rostro sombrío armados con garrotes y lanzas. Más allá de ella se encuentra una vieja estatua de piedra astillada que se erige en el centro de una pequeña plaza del pueblo, representando a un hombre vestido con armadura de cuero y sosteniendo una espada. Más de una docena de tiendas de campaña y hogueras improvisadas se han instalado a su alrededor, albergando a un grupo de aldeanos jóvenes, ancianos y de aspecto enfermo.</p>
@@ -278,7 +279,7 @@ Una vez calmada, Mary se seca los ojos, agradece a Ismark (y a los jugadores, si
 > Gertruda, desesperada por el estado del pueblo y decidida a mostrar el mismo coraje que Doru, dejó Barovia para ir al Castillo Ravenloft la mañana de la llegada de los jugadores, buscando suplicar por la misericordia de Strahd. Cuando llegó al castillo, una temblorosa Gertruda exigió que Strahd cumpliera con sus obligaciones como señor feudal de Barovia, proporcionando la seguridad y las reparaciones que el pueblo necesitaba desesperadamente. Impresionado por su audacia, Strahd la invitó al Castillo Ravenloft para discutir el asunto más a fondo, y ella ha permanecido allí desde entonces.
 ### La Petición de Ismark
 
-Después de que Mary se marcha, Ismark les pide que ayuden a defender la barricada oriental del pueblo esa noche. "Nos guste o no, estamos todos juntos en esto", dice con seriedad. "Cuantas más manos, mejor. No sé si puedo prometer monedas, pero puedo prometer que ayudará a todos a sobrevivir la noche, vosotros incluidos". A cambio de la ayuda de los jugadores, Ismark está encantado de ofrecerles alojamiento en la casa de su familia. (La taberna Blood of the Vine no tiene habitaciones para alquilar).
+Si los jugadores aceptan ayudar en la defensa del pueblo, Ismark se muestra profundamente agradecido. Les pide que primero recuperen una caja de “botellas de fuego” de su hermana, Ireena, quien está supervisando la defensa del perímetro sur del pueblo desde su casa, <span class="citation">E4. Mansión del Burgomaestre (p. 44)</span>. (Ismark, que tiene que regresar a las barricadas del oeste para prepararse para el regreso de los muertos, no puede tomarse el tiempo para hacerlo él mismo). Si se le pregunta, Ismark puede explicar que una “botella de fuego” es una botella de vino destilado con una mecha de trapo, diseñada para encenderse y lanzarse contra los muertos vivientes que se acercan.
 
 Si los jugadores aceptan ayudar en la defensa del pueblo, Ismark les estará profundamente agradecido. Les pide que primero recojan una caja de "botellas incendiarias" de su hermana, Ireena, quien está supervisando la defensa del perímetro sur del pueblo desde su hogar, <span class="citation">E4. Mansión del Burgomaestre (p. 44)</span>. (Ismark, que tiene que volver a las barricadas occidentales para prepararse para el regreso de los muertos, no puede tomarse el tiempo para hacerlo él mismo). Si se le pregunta, Ismark puede explicar que una "botella incendiaria" es una botella de vino con una mecha de trapo, destinada a ser encendida y lanzada a los muertos vivientes que se aproximen.
 
@@ -444,10 +445,15 @@ Cuando los jugadores están listos para partir, Ireena saca una caja de madera q
 
 > [!item]+ **Botella de Fuego**
 > Esta botella de Purple Grapemash No. 3, que lleva el sello de la bodega Wizard of Wines, ha sido descorchada y reemplazada con una mecha de trapo. 
-> 
+>  
 > Como una acción, una criatura puede usar una antorcha encendida u otra fuente de fuego para encender la mecha y luego lanzar la botella hasta 20 pies, rompiéndose al impactar. Haz un ataque a distancia contra una criatura u objeto, tratando la botella como un arma improvisada. Al golpear, el objetivo recibe 1d4 de daño por fuego al comienzo de cada uno de sus turnos. 
 > 
 > Una criatura puede terminar este daño usando su acción para hacer una prueba de Destreza DC 10 para apagar las llamas.
+
+> [!abstract]+ **Visitar la Iglesia**  
+> Los jugadores que insistan en visitar la <span class="citation">E5. Iglesia (p. 45)</span> la encontrarán en gran parte como se describe en [[#B5i. La Iglesia de Barovia]] más abajo. Sin embargo, Parriwimple no se encuentra en la iglesia en este momento, y el Padre Donavich no menciona el destino de Doru sin la presencia de Ireena o Ismark.
+
+
 
 ## B5f. La Mercancía de Bildrath
 <span class="citation"><em>Esta escena tiene lugar en el Capítulo 3: Área E1.</em></span>
@@ -600,6 +606,10 @@ Si los jugadores la siguen, Muriel los guía hacia el oeste, hacia la plaza del 
 Ismark, que ha sido reducido a 40 puntos de golpe, agradece cualquier ayuda que los jugadores puedan brindar contra el propagador de la plaga. Si se reduce a 30 puntos de golpe o menos, Ismark obstruye directamente al propagador de la plaga mientras toma la acción Esquivar en cada uno de sus turnos, esperando retrasarlo mientras brinda a los jugadores suficiente tiempo para derrotarlo.
 
 El propagador de la plaga, que comienza a 120 pies del centro de la plaza del pueblo y tiene las mismas modificaciones que el propagador de la plaga en [[#El Asedio]], no usará su ***miasma virulenta*** hasta que alcance el centro de la plaza del pueblo o se reduzca a 30 puntos de golpe o menos. Cada ronda, intenta mover su velocidad completa en línea recta hacia la plaza del pueblo. Si no puede, usa su ***multiataque*** para atacar a cualquier criatura al alcance. (El propagador de la plaga no intenta moverse alrededor de las criaturas que lo obstruyen, incluso si hacerlo podría permitirle alcanzar su destino.)
+
+> [!info]+ **PNJs Moribundos**
+>
+> Como se indica en Monstruos y Muerte (<span class="citation">Manual del Jugador, p. 198</span>), los personajes no jugadores aliados—como Ismark Kolyanovich y cualquier otro PNJ que luche junto a los jugadores—deberían quedar inconscientes al ser reducidos a 0 puntos de golpe. Cuando esto ocurre, siguen las mismas reglas para las tiradas de salvación contra la muerte que los personajes jugadores, descritas en Tiradas de Salvación contra la Muerte (<span class="citation">Manual del Jugador, p. 197</span>).
 
 ### La Proclamación de Rahadin
 Poco después de que los jugadores derroten al propagador de la plaga, un jinete solitario flanqueado por doce **zombis** se acerca a la plaza del pueblo desde el oeste. Lee:
@@ -838,7 +848,6 @@ Aunque les pide que lo hagan discretamente, para evitar atraer de nuevo la ira d
 Si los jugadores aceptan hacerlo, el jugador con la puntuación de Sabiduría (Percepción) pasiva más alta nota una **rata**—una de las espías de Strahd—observándolos con un interés maligno, astuto y atento desde debajo de un mueble cercano. Una vez que es detectada, la rata inmediatamente corre hacia la cocina en un claro intento de escapar.
 
 Los jugadores tienen una ronda para matar a la rata mientras se apresura hacia un gran agujero en la pared de la cocina. Si fallan, Ireena la atraviesa con su estoque antes de que pueda escapar, reconociéndola como una de las espías de Strahd.
-
 ***Llevar el Ataúd.*** Después de pedir sus dos primeros favores, Ismark pide a los jugadores que lo ayuden a él y a Ireena a llevar el ataúd de Kolyan a la iglesia. Si aceptan, los dos hermanos acompañan a los jugadores hasta la iglesia.
 
 ## B5d. La Iglesia de Barovia
@@ -922,11 +931,11 @@ A medida que la conversación se desarrolla, pueden ocurrir los siguientes inter
 * Si Ismark, Ireena o un jugador le informa que Gertruda (la prometida de Doru) ha desaparecido, el Padre Donavich la llora y murmura una oración silenciosa para que el Señor del Alba proteja y guarde su alma.
 
 Si los jugadores investigan más, Donavich puede compartir la siguiente información:
-
-* Cuando Doru partió hacia el Castillo Ravenloft, el Padre Donavich le dio su símbolo sagrado del Señor del Alba—un sol de bronce en un cordón de cuero—para protegerlo en la oscuridad. Sin embargo, cuando Doru no regresó, Donavich temió lo peor.
-* Hace dos semanas, cuando comenzaba el asedio, Doru regresó a la iglesia a medianoche, ahora transformado en un **vástago vampírico**. Donavich logró atraer a Doru a la cripta y atraparlo allí.
-* Desde que Doru regresó, Donavich no ha podido lanzar hechizos ni sentir la presencia del Señor del Alba. Cree que esto se debe a que Doru aún tiene su símbolo sagrado, y que la influencia maligna de Strahd ha corrompido la conexión de Donavich con los dioses.
+* Cuando Doru partió hacia el Castillo Ravenloft, el Padre Donavich le entregó su símbolo sagrado del Señor del Alba—un medallón de bronce con forma de sol en un cordón de cuero—para protegerlo frente a la oscuridad. Sin embargo, cuando Doru no regresó, Donavich temió lo peor.
+* Hace seis días, al comienzo del asedio, Doru regresó a la iglesia a medianoche, ahora transformado en un **vástago vampírico**. Donavich logró atraer a Doru al sótano y atraparlo allí.
+* Desde el regreso de Doru, Donavich no ha sido capaz de lanzar conjuros ni de sentir la presencia del Señor del Alba. Cree que esto se debe a que Doru aún posee su símbolo sagrado, y que la influencia corrupta de Strahd ha interrumpido la conexión de Donavich con los dioses.
 * Donavich cree que su hijo está muerto, y que la criatura que lleva su piel es una burla que debe ser destruida.
+
 
 Donavich sabe que no puede derrotar a Doru y no soporta ver la cara de su hijo otra vez. Sin embargo, si los jugadores están dispuestos, Donavich les pide que desciendan a la cripta, destruyan el cuerpo de Doru y recuperen su símbolo sagrado. A cambio, Donavich ofrece completar los ritos funerarios adecuados y contarles a los jugadores sobre un lugar donde pueden encontrar refugio del Diablo Strahd.
 

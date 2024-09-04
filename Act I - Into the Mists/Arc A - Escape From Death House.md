@@ -19,8 +19,16 @@ Si los jugadores matan al monstruo, la casa comienza a derrumbarse, obligándolo
 > [!lore]+ **La historia de la Casa de la Muerte**
 > Ver [[History of Barovia#Los primeros seguidores de Strahd|Los primeros seguidores de Strahd]] para un recuento completo de la  historia de la Casa de la muerte.
 # A1. Daggerford
+
 ## A1a. La Brida de Pesadilla
 Si uno o más de tus jugadores están utilizando el anzuelo de los [[Running the Adventure#Adventure Hooks|Reliquias de Barovia]], lee el siguiente texto. De lo contrario, continúa con [[#A2. Death House]] a continuación.
+
+
+> [!warning]+ **Keep Your Workload Low**
+> *Curse of Strahd: Reloaded* has intentionally been written to minimize time spent away from the table, aiming to serve as a "zero-prep" campaign to the maximum extent possible. To make this possible, this guide has been designed to manipulate players into taking specific, curated paths through the adventure, even while providing intentional degrees of freedom that, while meaningful, will not substantially change the ultimate outcome of the campaign.
+> 
+> If you wish to minimize your workload, do your best to avoid making any changes or additions to this guide. Doing so is likely to alter how the players interface with and approach its narrative and gameplay, disturbing load-bearing pillars that may be difficult to notice without re-reading the full, complete guide multiple times. (For example, increasing distances between the Barovian settlements makes multiple quests in Acts II and III impossible to complete without a comprehensive overhaul of the entire campaign's timeline.) Any modifications—such as changes to deadlines, distances, statblocks, character motivations, or events—are made at the DM's own risk, and may lead to TPKs, wild divergences, or unsatisfying storylines.
+
 
 <div class="description">
 <p>Es la tarde antes de la Víspera de Highharvesttide, y una tormenta ha descendido sobre Daggerford, con nubes oscuras vertiendo cascadas de lluvia sobre el pueblo. A pesar del clima, sin embargo, el pueblo zumba con la anticipación del inminente festival otoñal, con cada hogar lleno de calidez y alegría. La brillante y alegre luz de las velas titila desde cada ventana, y los sonidos de canciones y bailes resuenan por las calles mojadas y embarradas.</p>
@@ -548,6 +556,8 @@ La caja de música también contiene dos pergaminos enrollados. El primer pergam
 
 Cuando los jugadores salgan de la habitación, la mecedora comienza a balancearse suavemente y la caja de música se abre y comienza a tocar. El sonido de un tarareo maternal flota en el aire durante dos compases, pero se vuelve desafinado y distorsionado antes de detenerse abruptamente con un chillido violento. La mecedora entonces deja de moverse.
 
+![[Death House Dungeon Map.png]]
+
 ### Habitación de los Niños
 <span class="citation"><em>Esta escena tiene lugar en el Apéndice B: Área 20.</em></span>
 
@@ -625,6 +635,7 @@ Esta habitación es en gran parte como se describe en <span class="citation">Cua
 </div>
 
 El **espectro** de la niñera no aparece en esta habitación. En cambio, un personaje que abra el baúl encontrará el cadáver de la niñera, con heridas consistentes con las vistas en el cuerpo del espíritu en la **Suite de la Niñera**. Una prueba de **Sabiduría (Medicina) DC 14** revela que la mujer murió de inanición.
+
 
 Un jugador que inspeccione los restos siente un aliento frío en su hombro y la sensación inquebrantable de ser observado. Mientras tanto, si otro jugador ha descubierto previamente un espejo cercano de su cubierta de tela, ese jugador puede ver una aparición de Elisabeth Durst dentro del espejo mirando al jugador cerca del baúl. Una vez observada, la aparición desaparece rápidamente.
 
