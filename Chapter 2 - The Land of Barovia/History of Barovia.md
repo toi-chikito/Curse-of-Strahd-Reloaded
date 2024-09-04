@@ -1,4 +1,4 @@
-*All dates are given in the Barovian calendar, in which "B.U." stands for "Before Unification", and "B.C." stands for "Barovian Calendar." The year 1 B.C. is marked by the founding of the first Kingdom of Zarovia by King Barov von Zarovich I.*
+ *All dates are given in the Barovian calendar, in which "B.U." stands for "Before Unification", and "B.C." stands for "Barovian Calendar." The year 1 B.C. is marked by the founding of the first Kingdom of Zarovia by King Barov von Zarovich I.*
 # The Ancient Era (3,000 BU–0 BC)
 ## Origins of the Valley
 Nearly four millenia ago, the land of Barovia was a peaceful valley inhabited by the First Folk: a nomadic society of hunter-gatherers. When they arrived in the valley—which they called "Cerunnos," meaning "fertile land"—the First Folk brought with them the worship of a quartet of minor fey goddesses that they called the *Rozana*—the Ladies.
@@ -504,6 +504,7 @@ As Kasimir prepared to climb the slopes of Mount Ghakis, Victor Vallakovich and 
 In Krezk, the Abbot completed a prototype of his own: a monstrous **flesh golem**, which he set to patrolling <span class="citation">S15. Madhouse (p. 151)</span>. He swiftly began work on his next project: a masterpiece to serve as Strahd's final bride.
 
 As the Abbot's grave-robbing intensified, Kasimir attempted to reach the Amber Temple, but was turned back by the **vrocks** of Tsolenka Pass at <span class="citation">T2. Demon Statues (p. 157)</span>. Wounded and despondent, Kasimir returned to the dusk elves’ settlement to ponder his next move.
+
 ## The Wrath of Strahd
 Ninety days after Rahadin's proclamation, Strahd's undead army was finally complete. He unleashed the zombie horde against the village of Barovia—and, to punish Doru, sent him to the Barovian church to torment his father, Father Donavich.
 

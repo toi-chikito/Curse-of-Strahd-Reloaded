@@ -1,5 +1,93 @@
 
-- **Anya Draganova**
+
+
+# Nombres Masculinos:
+
+1. Alek Ivanovich
+2. Andrej Krezkov
+3. Anton Mironovich
+4. Balthazar Dargovich
+5. Bogan Swilovich
+6. Boris Stefanovich
+7. Dargos Ulrich
+8. Darzin Garvinski
+9. Dragomir Antonovich
+10. Emeric Radovich
+11. Falkon Krykski
+12. Frederich Polensky
+13. Franz Lipsiege
+14. Gargosh Lansten
+15. Gorek Voltanescu
+16. Grygori Lazarescu
+17. Hans Taltos
+18. Harkus Diminski
+19. Ivan Grygorovich
+20. Jirko Janek
+21. Kobal Targolov
+22. Korga Vadu
+23. Krystofor Drazkoi
+24. Lazlo Moldovar
+25. Livius Zalken
+26. Marek Nimirovich
+27. Miroslav Alastroi
+28. Nikolaj Ulbrek
+29. Nimir Cantemir
+30. Oleg Diavolov
+31. Radovan Tyminski
+32. Radu Strazni
+33. Seraz Voltanescu
+34. Sergei Garvinski
+35. Stefan Targolov
+36. Tural Zalken
+37. Valentin Antonovich
+38. Vasily Lipsiege
+39. Vladislav Polensky
+40. Waltar Grygorovich
+41. Yesper Diminski
+42. Zsolt Stefanovich
+
+
+# Nombres Femeninos:
+
+1. Alana Ivanova
+2. Clavdia Krezkova
+3. Danya Mironovna
+4. Dezdrelda Dargova
+5. Diavola Swilova
+6. Dorina Stefanova
+7. Drasha Ulbrek
+8. Drilvia Garvinski
+9. Elisabeta Antonova
+10. Fatima Radova
+11. Grilsha Krykski
+12. Isabella Polenska
+13. Ivana Lipsiege
+14. Jarzinka Lansten
+15. Kala Voltanescu
+16. Katerina Lazarescu
+17. Kereza Taltos
+18. Korina Diminska
+19. Lavinia Grygorova
+20. Magda Janek
+21. Marta Targolova
+22. Mathilda Vadu
+23. Minodora Drazkova
+24. Mirabel Moldovar
+25. Miruna Zalken
+26. Nimira Nimirova
+27. Nyanka Alastroi
+28. Olivenka Ulbrek
+29. Ruxandra Cantemir
+30. Sorina Diavolova
+31. Tereska Tyminski
+32. Valentina Strazni
+33. Vasha Voltanescu
+34. Victoria Garvinska
+35. Wensencia Diminska
+36. Zondra Antonova
+
+
+# Extra:
 - **Viktor Petrovich** XXX
 - **Zoya Karkaroff**
 - **Mikhail Sokolov**

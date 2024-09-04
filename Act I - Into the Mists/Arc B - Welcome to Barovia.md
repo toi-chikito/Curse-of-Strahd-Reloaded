@@ -16,26 +16,42 @@ A la mañana siguiente, Ismark pide a los jugadores que ayuden a llevar los rest
 >La llegada de los jugadores al pueblo de Barovia ha sido reestructurada de manera significativa para crear un fuerte incidente incitante para la campaña, asegurando que tengan una razón inmediata y concreta para buscar la lectura de Tarokka de Madam Eva, una oportunidad para formar relaciones con los aldeanos de Barovia y participen personalmente en ver a Strahd derrotado.
 
 # B1. Camino Viejo de Svalich
-
 <span class="citation"><em>Esta escena tiene lugar en el Capítulo 2: Área A.</em></span>
+
+>Charcos negros de agua se alzan como oscuros espejos en y alrededor del camino embarrado. Enormes árboles se alzan a ambos lados del camino, con sus ramas arañando la niebla.
 
 El viaje desde [[Arc A - Escape From Death House#A3. Outside Death House|la torre]] hasta [[#B2. Gates of Barovia]] es de dos millas de largo y toma cuarenta minutos.
 
 Esta escena se desarrolla como se describe en <span class="citation">Camino Viejo de Svalich (p. 33)</span>.
 
 # B2. Puertas de Barovia
-
 <span class="citation"><em>Esta escena tiene lugar en el Capítulo 2: Área B.</em></span>
 
 Esta escena se desarrolla como se describe en <span class="citation">Puertas de Barovia (p. 34)</span>.
 
+>La niebla se derrama del bosque para engullir el camino detrás de ti. Al frente, sobresaliendo del impenetrable bosque a ambos lados del camino, se encuentran altos contrafuertes de piedra que se alzan grises en la niebla. Enormes puertas de hierro cuelgan de la mampostería. El rocío se aferra con fría tenacidad a las barras oxidadas. Dos estatuas decapitadas de guardianes armados flanquean la puerta, con sus cabezas ahora reposando entre las malezas a sus pies. Te reciben solo con silencio.
+
 El viaje desde las Puertas de Barovia hasta [[#B3. Bosques de Svalich]] es de un cuarto de milla de largo y toma cinco minutos.
 
 # B3. Bosques de Svalich
-
 <span class="citation"><em>Esta escena tiene lugar en el Capítulo 2: Área C.</em></span>
 
-Esta escena comienza como se describe en <span class="citation">Bosques de Svalich (p. 34)</span>. Sin embargo, cuando los jugadores encuentran el cadáver de Dalvan Olensky, no está sosteniendo un sobre arrugado y su ropa parece haber sido desgarrada por zarzas y espinas, en lugar de marcas de garras. No parece tener heridas visibles, pero una prueba exitosa de Sabiduría (Medicina) DC 10 revela que murió de agotamiento.
+
+>LEER:
+>Altísimos árboles, cuyas copas se pierden en una densa niebla gris, bloquean toda luz excepto una luz gris mortuoria. Los troncos de los árboles están antinaturalmente cerca unos de otros, y el bosque tiene el silencio de una tumba olvidada, pero emana la sensación de un grito no pronunciado.
+
+Si los personajes están siguiendo el camino a pie, el miembro del grupo que tenga la **puntuación más alta de Sabiduría pasiva (Percepción)** nota algo:
+
+> LEER:
+> Percibes el olor de la muerte en el aire.
+
+El personaje puede seguir el hedor hasta su fuente:
+
+> El pestilente olor te conduce a un cadáver humano medio enterrado en la maleza, a unos quince pies del camino. El joven parece ser un plebeyo. Su ropa embarrada parece haber sido rasgada por zarzas y espinas. Los cuervos han estado picoteando el cuerpo, que está rodeado de huellas de patas. El hombre ha estado obviamente muerto durante varios días. En su mano se puede ver como sostiene una brújula
+
+Esta escena comienza como se describe en <span class="citation">Bosques de Svalich (p. 34)</span>. Sin embargo, cuando los jugadores encuentran el cadáver de Dalvan Olensky, no está sosteniendo un sobre arrugado y su ropa parece haber sido desgarrada por zarzas y espinas, en lugar de marcas de garras.
+
+No parece tener heridas visibles, pero una prueba exitosa de **Sabiduría (Medicina) DC 10** revela que murió de agotamiento.
 
 En lugar del sobre, Dalvan ahora sostiene una vieja brújula de cobre empañada. Mientras permanece cerca del borde del valle de Barovia, su aguja tiembla extrañamente incluso cuando se sostiene quieta.
 
@@ -174,9 +190,17 @@ Si los jugadores preguntan por la estatua, Ismark puede compartir la siguiente i
 
 ## B5c. La Taberna Sangre de la Vid
 
+>LEER:
+>Un único rayo de luz irrumpe en la plaza principal, su brillo parece un pilar sólido en la densa niebla. Sobre la entrada abierta de par en par, un letrero cuelga precariamente torcido, proclamando que este es el Mesón Sangre en la Vid.
+
+> El edificio de la taberna tiene unas 60 pies por lado. Una inspección más cercana del letrero revela que originalmente decía "Sangre de la Vid." (Un "en" ha sido rasguñada sobre  "de").
+
+> LEER:
+> Entráis en un espacio iluminado tenuemente por antorchas sujetas a las paredes que arrojan sombras danzantes. El suelo de adoquines cruje bajo vuestras botas, y las mesas de madera maciza, aunque la mayoría están vacías, muestran las marcas de incontables años de uso. Un leve olor a vino añejo flota en el aire, mezclándose con el murmullo bajo de un par de conversaciones en rincones oscuros. Detrás de la larga barra de roble ennegrecido, un único camarero atiende el lugar. Un hombre de aspecto que limpia vasos con un trapo en la barra del establecimiento.
+
 Esta área es en gran medida como se describe en <span class="citation">E2. Taberna Sangre de la Vid (p. 43)</span>. Sin embargo, en lugar de Alenka, Mirabel y Sorvia—las tres Vistani que se encuentran aquí en el módulo original—Arik es el único propietario y administrador de la taberna. (Alenka, Mirabel y Sorvia no están presentes en la taberna, ya que huyeron del pueblo hacia Tser Pool el día antes de que comenzara el asedio).
 
-Después de entrar en la taberna, Ismark le paga a Arik para que les traiga bebidas. Mientras los jugadores se sientan con él, Ismark se disculpa por el estado del pueblo y pregunta cómo han llegado al valle. "Deben tener mil preguntas", dice con simpatía. "Me alegraría responder tantas como pueda."
+Después de entrar en la taberna, Ismark le paga a Arik para que les traiga bebidas. Mientras los jugadores se sientan con él, Ismark se disculpa por el estado del pueblo y pregunta cómo han llegado al valle. "Debéis tener mil preguntas", dice con simpatía. "Me alegraría responder tantas como pueda."
 
 Ismark puede compartir la siguiente información:
 
@@ -186,6 +210,8 @@ Ismark puede compartir la siguiente información:
 * Varias docenas de barovianos huyeron al pueblo de Vallaki, casi un día de viaje hacia el oeste. El resto se quedó en el pueblo, decididos a defender sus hogares y a aquellos que no pudieron hacer el viaje.
 * Hace seis noches, las fuerzas no-muertas de Strahd comenzaron a atacar el pueblo. Cada noche, los barovianos rechazan múltiples oleadas de muertos, y cada noche, la horda se acerca más a romper las defensas del pueblo.
 * Muchos barovianos temen que el pueblo esté condenado. Sin embargo, los no-muertos han infestado los bosques al norte, oeste y sur, bloqueando el Camino Viejo de Svalich justo después del Río Ivlis. Con las Brumas bloqueando el paso hacia el este, el pueblo ha quedado efectivamente aislado del mundo, dejado a sobrevivir por sí solo, o perecer.
+* [[Lore Baroviano]]
+
 
 [[Non-Player Characters#Ismark Kolyanovich|Ismark]] también puede compartir la historia reciente del pueblo, así como la mayoría de la información en <span class="citation">Interpretando a Ismark (p. 43)</span> y <span class="citation">Lore Baroviano (p. 26)</span>. Sin embargo, Ismark no menciona a un "mago loco" y no sugiere que los Vistani sirvan a Strahd. (Tenga en cuenta que el padre de Ismark, el Burgomaestre Kolyan Indirovich, todavía está vivo, aunque herido, en la mansión del burgomaestre, y la hermana de Ismark, Ireena Kolyana, aún no ha sido mordida por Strahd).
 
@@ -194,7 +220,7 @@ Ismark puede compartir la siguiente información:
 Poco después de que Ismark comience a responder las preguntas de los jugadores, lee:
 
 <div class="description">
-<p>Algo golpea una mesa cercana, y el sonido llama tu atención hacia un hombre sentado no muy lejos, con el puño cerrado temblando sobre la superficie de madera de su mesa. Es corpulento, con cabello grasiento entrecano que se le está cayendo y un abrigo remendado y desgastado. Un ceño fruncido estropea su rostro mientras dirige sus ojos oscuros hacia tu grupo. "Es un trabajo de tontos depositar tu fe en Ismark el <em>Menor</em>," resopla, sus ojos deteniéndose en cada uno de ustedes. "Es mejor buscar mejor compañía, a menos que terminen en el suelo con los últimos tontos que confiaron en él."</p>
+<p>Algo golpea una mesa cercana, y el sonido llama tu atención hacia un hombre sentado no muy lejos, con el puño cerrado temblando sobre la superficie de madera de su mesa. Es corpulento, con cabello grasiento entrecano que se le está cayendo y un abrigo remendado y desgastado. Un ceño fruncido estropea su rostro mientras dirige sus ojos oscuros hacia tu grupo. "Es un trabajo de tontos depositar tu fe en Ismark el <em>Menor</em>," resopla, sus ojos deteniéndose en cada uno de ustedes. "Es mejor buscar mejor compañía, a menos que querais terminar enterrados con los últimos idiotas que confiaron en él."</p>
 </div>
 
 El hombre es Bildrath Cantemir, el propietario de <span class="citation">Mercancías de Bildrath (p. 43)</span>. Si alguno de los jugadores parece interesado en hablar más con él, los invita a sentarse en su mesa para "escuchar la verdadera historia de esta maldita tierra". "El vino es una mierda," gruñe, empujando una jarra de vino por la mesa, "pero también lo es todo lo demás."
@@ -209,7 +235,7 @@ Si uno o más de los jugadores se une a él, Bildrath puede compartir la siguien
 * Bildrath quería irse, pero su hermana, Marta, y su esposo, Dragomir, decidieron quedarse con su hijo, Parriwimple, inspirados por las palabras de Ismark. No dispuesto a dejar a su familia, Bildrath también se quedó. "Pensaron que lucharían para defender lo que es suyo," dice con voz entrecortada, parpadeando para contener las lágrimas. "Los malditos *idiotas* debieron haber corrido y nunca mirar atrás."
 * Noventa días después de que el elfo entregara su proclamación, los muertos vinieron, enjambres de hordas de muertos vivientes del Bosque de Svalich. Los aldeanos lucharon, defendiendo las calles con barricadas, espadas y flechas. "Pero los muertos seguían viniendo," croa Bildrath. "Y Marta—" Se queda en silencio. (Bildrath perdió a Marta y Dragomir en los ataques, y culpa a Ismark por su fracaso en protegerlos.)
 
-Cuando recupera la compostura, Bildrath advierte a los jugadores que el pueblo está condenado, y probablemente todo Barovia con él. "No hay sol que devolver," escupe. "No hay escape de las brumas. Esto es el Infierno, ahora y por toda la eternidad. Cuanto antes lo acepten, mejor estarán."
+Cuando recupera la compostura, Bildrath advierte a los jugadores que el pueblo está condenado, y probablemente todo Barovia con él. "No hay sol que devolver," escupe. "No hay escape de las brumas. Esto es el Infierno, ahora y por toda la eternidad. Cuanto antes lo aceptéis, mejor estaréis."
 
 ### Las Noticias de Mary
 
@@ -227,7 +253,7 @@ La taberna inmediatamente cae en silencio, y los ojos de Ismark se fruncen con p
 > 
 > "Si quieren ayudar, sin embargo," agrega, "podemos usar todas las manos para organizar la defensa de esta noche aquí." Ismark luego hace la petición dada en [[#La Petición de Ismark]].
 
-Mientras lo hace, Bildrath gruñe y escupe: "¿Más promesas vacías, Kolyanovich?" Se vuelve hacia los jugadores, fulminándolos con la mirada. "¿Alguna vez han visto algo tan cruel?"
+Mientras lo hace, Bildrath gruñe y escupe: "¿Más promesas vacías, Kolyanovich?" Se vuelve hacia los jugadores, fulminándolos con la mirada. "¿Alguna vez habéis visto algo tan cruel?"
 
 Después de que los jugadores hayan tenido la oportunidad de hablar, Bildrath insiste: "Nadie puede sobrevivir solo en esos caminos. La chica se ha ido, Mary. Lo siento." Mary entonces estalla en lágrimas.
 
@@ -252,7 +278,7 @@ Una vez calmada, Mary se seca los ojos, agradece a Ismark (y a los jugadores, si
 > Gertruda, desesperada por el estado del pueblo y decidida a mostrar el mismo coraje que Doru, dejó Barovia para ir al Castillo Ravenloft la mañana de la llegada de los jugadores, buscando suplicar por la misericordia de Strahd. Cuando llegó al castillo, una temblorosa Gertruda exigió que Strahd cumpliera con sus obligaciones como señor feudal de Barovia, proporcionando la seguridad y las reparaciones que el pueblo necesitaba desesperadamente. Impresionado por su audacia, Strahd la invitó al Castillo Ravenloft para discutir el asunto más a fondo, y ella ha permanecido allí desde entonces.
 ### La Petición de Ismark
 
-Después de que Mary se marcha, Ismark les pide que ayuden a defender la barricada oriental del pueblo esa noche. "Nos guste o no, estamos todos juntos en esto", dice con seriedad. "Cuantas más manos, mejor. No sé si puedo prometer monedas, pero puedo prometer que ayudará a todos a sobrevivir la noche, ustedes incluidos". A cambio de la ayuda de los jugadores, Ismark está encantado de ofrecerles alojamiento en la casa de su familia. (La taberna Blood of the Vine no tiene habitaciones para alquilar).
+Después de que Mary se marcha, Ismark les pide que ayuden a defender la barricada oriental del pueblo esa noche. "Nos guste o no, estamos todos juntos en esto", dice con seriedad. "Cuantas más manos, mejor. No sé si puedo prometer monedas, pero puedo prometer que ayudará a todos a sobrevivir la noche, vosotros incluidos". A cambio de la ayuda de los jugadores, Ismark está encantado de ofrecerles alojamiento en la casa de su familia. (La taberna Blood of the Vine no tiene habitaciones para alquilar).
 
 Si los jugadores aceptan ayudar en la defensa del pueblo, Ismark les estará profundamente agradecido. Les pide que primero recojan una caja de "botellas incendiarias" de su hermana, Ireena, quien está supervisando la defensa del perímetro sur del pueblo desde su hogar, <span class="citation">E4. Mansión del Burgomaestre (p. 44)</span>. (Ismark, que tiene que volver a las barricadas occidentales para prepararse para el regreso de los muertos, no puede tomarse el tiempo para hacerlo él mismo). Si se le pregunta, Ismark puede explicar que una "botella incendiaria" es una botella de vino con una mecha de trapo, destinada a ser encendida y lanzada a los muertos vivientes que se aproximen.
 
@@ -262,6 +288,7 @@ Una vez que los jugadores hayan recuperado la caja de botellas incendiarias y ha
 
 Esta área es en gran medida como se describe en <span class="citation">Mansión del Burgomaestre (p. 44)</span>. Sin embargo, el burgomaestre Kolyan Indirovich aún no ha sido asesinado, e Ireena aún no ha sido mordida.
 
+>Una mansión de aspecto cansado se agazapa detrás de una oxidada cerca de hierro. Las puertas de hierro están torcidas y destrozadas. La puerta derecha yace tirada a un lado, mientras que la izquierda se balancea perezosamente con el viento. El chirrido y el clangor intermitente de la puerta se repiten con una precisión sin sentido. Las malezas ahogan los terrenos y presionan con amenaza sobre la propia casa. Sin embargo, contra las paredes, el crecimiento ha sido pisoteado para crear un sendero alrededor de todo el dominio. Pesadas marcas de garras han despojado las paredes de su hermoso acabado. Grandes marcas negras hablan de los incendios que han asediado la mansión. No queda ni un panel ni un fragmento de vidrio en ninguna ventana. Todas las ventanas están tapiadas con tablones, cada uno marcado con manchas de mal augurio.
 ### La Turba Enfurecida
 
 Cuando los jugadores llegan, encuentran una turba de diez **plebeyos** barovianos formada fuera de la mansión. Agrega lo siguiente al final de la descripción de esta área:
@@ -344,6 +371,9 @@ Si los jugadores logran dispersar a la turba, Kolyan e Ireena los invitan al int
 ### Dentro de la Mansión
 Esta área se describe en gran medida como en <span class="citation">E4. Mansión del Burgomaestre (p. 44)</span>. Sin embargo, elimina la última oración en la descripción de esta área (que hace referencia al cadáver de Kolyan).
 
+>LEER:
+>El interior de la mansión está bien amueblado, pero los muebles muestran signos de gran desgaste. Las peculiaridades más notables son las ventanas tapiadas y la presencia de símbolos sagrados en cada habitación.
+
 Si los jugadores ayudaron a dispersar a la turba, Kolyan e Ireena los reciben calurosamente, especialmente si los jugadores mencionan el nombre de Ismark. Tanto si los jugadores mencionan o no que Ismark les concedió alojamiento en la mansión, Kolyan los invita a quedarse a almorzar en agradecimiento por su ayuda con Alenka.
 #### Almuerzo con el Burgomaestre
 El almuerzo, que ya está cocinándose en una olla sobre el hogar de la cocina, es un guiso de nabos y carne de conejo. Ireena se disculpa por la escasa comida, pero los jugadores pueden ver claramente que la despensa de la familia está casi vacía.
@@ -424,6 +454,11 @@ Cuando los jugadores están listos para partir, Ireena saca una caja de madera q
 
 Si los jugadores eligen visitarlo antes de proceder a [[#B5e. La Barricada del Este]], esta área se describe en gran medida como en <span class="citation">La Mercancía de Bildrath (p. 43)</span>. Sin embargo, en lugar de vender artículos por diez veces el precio listado en el _Manual del Jugador_, Bildrath los vende solo por el doble del precio, citando la reciente agitación económica.
 
+>LEER:
+>La escasa luz de este edificio se derrama desde detrás de gruesas cortinas cerradas. Un letrero sobre la puerta, que cruje en sus bisagras, dice "Mercancías de Bildrath".
+
+>El establecimiento mide 70 pies de largo por 40 pies de ancho.
+
 Si algún jugador fue amable con él en la taberna, en su lugar les vende a esos jugadores artículos al precio normal listado en el *Manual del Jugador*—una oferta especial, solo para ellos. Si algún jugador defendió a Ismark en la taberna, Bildrath los mira con desdén y les vende artículos a cinco veces el precio listado en el _Manual del Jugador_, afirmando con rencor que es una "oferta especial" para los amigos del "gran héroe" del pueblo.
 
 Durante la conversación de los jugadores con Bildrath, Parriwimple entra en la habitación llevando una caja de mercancías que Bildrath le pidió que buscara. Está emocionado y curioso por la presencia de los jugadores, pero Bildrath le ordena que regrese a su dormitorio para evitar "molestar a los clientes".
@@ -455,7 +490,7 @@ Poco después de regresar a la barricada en la entrada este del pueblo, los juga
 Cuando los jugadores encuentran por primera vez a Parriwimple, lee:
 
 <div class="description">
-<p>Una figura corpulenta se encuentra al lado de Bildrath: un joven alto y musculoso. Su cabello castaño desgreñado cae desordenadamente sobre su rostro, y sus dientes torcidos brillan a la luz gris. Aunque los músculos se ondulan bajo su túnica, hay una ligereza e inmadurez en su postura que desmiente su fuerza y tamaño. Se retuerce el borde de su túnica mientras tus ojos se posan sobre él.</p>
+<p>Una figura corpulenta se encuentra al lado de Bildrath: un joven alto y musculoso. Su cabello castaño desgreñado cae desordenadamente sobre su rostro, y sus dientes torcidos brillan a la luz gris. Aunque los músculos se ondulan bajo su túnica, hay una ligereza e inmadurez en su postura que contrasta con su fuerza y tamaño. Se retuerce el borde de su túnica mientras tus ojos se posan sobre él.</p>
 </div>
 
 Bildrath saluda a los jugadores con calidez o frialdad, dependiendo de su interacción en la Taberna Sangre de la Vid y (si lo visitaron allí) en la Mercancía de Bildrath. Independientemente de la disposición de Bildrath, Parriwimple está encantado de conocer nuevos amigos.
@@ -480,7 +515,7 @@ Bildrath saluda a los jugadores con calidez o frialdad, dependiendo de su intera
 
 Bildrath está complacido al ver la entrega de los *botellas de fuego* por parte de los jugadores. Puede informarles que han sido asignados para defender la barricada del este de cualquier pequeño grupo de muertos vivientes que pueda rodear los bordes del pueblo en lugar de atacar desde el norte, sur o oeste.
 
-Si alguno de los jugadores fue amable con él en la Taberna Sangre de la Vid o en la Mercancía de Bildrath, Bildrath instruye a Parriwimple para que les entregue una caja que contiene dos bolsas de canicas, dos bolsas de caltrops, diez picos de hierro y tres frascos de aceite de su tienda, para ser utilizados en la preparación de la barricada para el asedio. (Consulta <span class="citation">Equipo de Aventura (Manual del Jugador, p. 148)</span> para obtener más información sobre estos artículos). Bildrath también dirige a los jugadores a un par de escaleras de diez pies clavadas en una de las casas cercanas, que pueden permitir a los combatientes a distancia subir al techo de la casa. Finalmente, Bildrath instruye a Parriwimple a obedecer las instrucciones de esos jugadores como si fueran propias.
+Si alguno de los jugadores fue amable con él en la Taberna Sangre de la Vid o en la Mercancía de Bildrath, Bildrath instruye a Parriwimple para que les entregue una caja que contiene dos bolsas de canicas, dos bolsas de abrojos, diez picas de hierro y tres frascos de aceite de su tienda, para ser utilizados en la preparación de la barricada para el asedio. (Consulta <span class="citation">Equipo de Aventura (Manual del Jugador, p. 148)</span> para obtener más información sobre estos artículos). Bildrath también dirige a los jugadores a un par de escaleras de diez pies clavadas en una de las casas cercanas, que pueden permitir a los combatientes a distancia subir al techo de la casa. Finalmente, Bildrath instruye a Parriwimple a obedecer las instrucciones de esos jugadores como si fueran propias.
 
 > [!info]+ **La Barricada**
 > La barricada que los jugadores han sido asignados para defender es una estructura de treinta pies de largo y seis pies de alto compuesta de troncos de árboles, muebles apilados y tablones de madera clavados. Cada sección de cinco pies de largo de la barricada tiene CA 15, 10 puntos de golpe e inmunidad al daño perforante, psíquico y por veneno.
@@ -524,7 +559,7 @@ En combate, los zombis centran sus ataques en la barricada, intentando derribarl
 
 Los zombis intentan nuevamente derribar la barricada, mientras que los ghouls intentan trepar por ella usando sus garras.
 
-***La Tercera Ola.*** Al comienzo de la séptima ronda de combate después de la llegada de la primera ola, un **momia** y un **propagador de la plaga zombi** <span class="citation">(<em>Guía de Van Richten para Ravenloft</em>, p. 255)</span> se acercan a la barricada. Lee:
+***La Tercera Ola.*** Al comienzo de la séptima ronda de combate después de la llegada de la primera ola, un **tumulario** y un **propagador de la plaga zombi** <span class="citation">(<em>Guía de Van Richten para Ravenloft</em>, p. 255)</span> se acercan a la barricada. Lee:
 
 <div class="description">
 <p>Un solitario no-muerto avanza lentamente desde la oscuridad, sus ojos blancos mirando sin vida más allá de la luz parpadeante de las antorchas. Su carne, aunque podrida, es de un blanco enfermizo y liso, su piel surcada por venas carmesí levantadas. Una tenue nube de niebla rojiza se derrama continuamente de su boca y cae sobre la tierra manchada de sangre antes de disiparse en el aire.</p>
@@ -537,7 +572,7 @@ Los zombis intentan nuevamente derribar la barricada, mientras que los ghouls in
 
 El propagador de la plaga se acerca primero a los jugadores lo más cerca posible y luego libera su ***miasma virulenta***, intentando golpear a la mayor cantidad de criaturas posible. (Si es posible, intenta asegurar que la miasma golpee a Bildrath, para que los jugadores comprendan la naturaleza de su ataque. Ni Bildrath ni Parriwimple han visto u oído hablar de un propagador de la plaga zombi antes, y ambos desconocen el virus que porta). Después de que el propagador de la plaga usa su miasma, la niebla roja deja de salir de su boca.
 
-Mientras tanto, el momia ataca desde la oscuridad más allá de la luz de las antorchas, haciendo ataques de ***arco largo*** desde 60 pies de distancia. Si los jugadores enfrentan al propagador de la plaga en combate cuerpo a cuerpo o lo reducen a 90 puntos de golpe o menos, el momia saca su ***espada larga*** y ataca a los jugadores directamente.
+Mientras tanto, el tumulario ataca desde la oscuridad más allá de la luz de las antorchas, haciendo ataques de ***arco largo*** desde 60 pies de distancia. Si los jugadores enfrentan al propagador de la plaga en combate cuerpo a cuerpo o lo reducen a 90 puntos de golpe o menos, el tumulario saca su ***espada larga*** y ataca a los jugadores directamente.
 
 ## B5f. La Barricada Oeste
 ### La Guía del Cuervo

@@ -1172,7 +1172,7 @@ En cambio, mientras los jugadores escapan de la Casa de la Muerte en ruinas, enf
 <p>"Por favor," dice el espíritu, con lágrimas en los ojos. "Tienen que quedarse aquí y morir. Ella no aceptará otra cosa."</p>
 </div>
 
-El espíritu es reconocible como Gustav Durst. Gustav suplica a los jugadores que se rindan, insistiendo en que el espíritu de Elisabeth es simplemente demasiado poderoso—demasiado temible—para desobedecer. Una prueba de Sabiduría DC 10 (Perspicacia) revela que Gustav está aterrorizado de Elisabeth—y lleno de culpa, dudas y autodesprecio.
+El espíritu es reconocible como Gustav Durst. Gustav suplica a los jugadores que se rindan, insistiendo en que el espíritu de Elisabeth es simplemente demasiado poderoso—demasiado temible—para desobedecer. Una prueba de **Sabiduría DC 10 (Perspicacia)** revela que Gustav está aterrorizado de Elisabeth—y lleno de culpa, dudas y autodesprecio.
 
 Si los jugadores intentan pasar por alto o atacar a Gustav, un enjambre de escombros y metralla levitante surge a su alrededor. Vuelve a suplicar a los jugadores, insistiendo en que no quiere pelear, pero que no sabe si tiene otra opción.
 
@@ -1183,7 +1183,7 @@ Si los jugadores intentan pasar por alto o atacar a Gustav, un enjambre de escom
 > * ***Cuatro Jugadores.*** Reduce los puntos de golpe de Gustav a 18. Reduce su ataque de ***golpe contundente*** a 8 (3d4+1) de daño de fuerza y el ataque de su acción de ***empujón telequinético*** a 4 (1d8) de daño contundente.
 > * ***Seis Jugadores.*** Aumenta los puntos de golpe de Gustav a 26. Aumenta su ataque de ***golpe contundente*** a 12 (3d6+2) de daño de fuerza y el ataque de su acción de ***empujón telequinético*** a 6 (1d12) de daño contundente.
 
-Los jugadores pueden convencer a Gustav de hacerse a un lado con una prueba de Carisma (Intimidación) DC 20 exitosa. Alternativamente, si los jugadores hacen referencia a la historia de Gustav con Elisabeth y Klara, pueden convencerlo de hacerse a un lado con una prueba de Carisma (Persuasión) DC 10, teniendo éxito automáticamente si le muestran empatía o amabilidad o si piden a los espíritus de Rose y Thorn que los ayuden en su súplica.
+Los jugadores pueden convencer a Gustav de hacerse a un lado con una prueba de **Carisma (Intimidación) DC 20** exitosa. Alternativamente, si los jugadores hacen referencia a la historia de Gustav con Elisabeth y Klara, pueden convencerlo de hacerse a un lado con una prueba de **Carisma (Persuasión) DC 10**, teniendo éxito automáticamente si le muestran empatía o amabilidad o si piden a los espíritus de Rose y Thorn que los ayuden en su súplica.
 
 Si los jugadores persuaden con éxito a Gustav para que se haga a un lado, él les advierte que "sus otros sirvientes" están esperando adelante para bloquear la escapada de los jugadores. "No los temas," dice. "Su único poder es el miedo." Luego desaparece.
 
