@@ -47,7 +47,7 @@ Si los personajes están siguiendo el camino a pie, el miembro del grupo que ten
 
 El personaje puede seguir el hedor hasta su fuente:
 
-> El pestilente olor te conduce a un cadáver humano medio enterrado en la maleza, a unos quince pies del camino. El joven parece ser un plebeyo. Su ropa embarrada parece haber sido rasgada por zarzas y espinas. Los cuervos han estado picoteando el cuerpo, que está rodeado de huellas de patas. El hombre ha estado obviamente muerto durante varios días. En su mano se puede ver como sostiene una brújula
+> El pestilente olor te conduce a un cadáver humano medio enterrado en la maleza, a unos quince pies del camino. El joven parece ser un plebeyo. Su ropa embarrada parece haber sido rasgada por zarzas y espinas. Los cuervos han estado picoteando el cuerpo, que está rodeado de huellas de patas. El hombre ha estado obviamente muerto durante varios días. En su mano se puede ver como sostiene una brújula de cobre.
 
 Esta escena comienza como se describe en <span class="citation">Bosques de Svalich (p. 34)</span>. Sin embargo, cuando los jugadores encuentran el cadáver de Dalvan Olensky, no está sosteniendo un sobre arrugado y su ropa parece haber sido desgarrada por zarzas y espinas, en lugar de marcas de garras.
 
@@ -197,7 +197,7 @@ Si los jugadores preguntan por la estatua, Ismark puede compartir la siguiente i
 > El edificio de la taberna tiene unas 60 pies por lado. Una inspección más cercana del letrero revela que originalmente decía "Sangre de la Vid." (Un "en" ha sido rasguñada sobre  "de").
 
 > LEER:
-> Entráis en un espacio iluminado tenuemente por antorchas sujetas a las paredes que arrojan sombras danzantes. El suelo de adoquines cruje bajo vuestras botas, y las mesas de madera maciza, aunque la mayoría están vacías, muestran las marcas de incontables años de uso. Un leve olor a vino añejo flota en el aire, mezclándose con el murmullo bajo de un par de conversaciones en rincones oscuros. Detrás de la larga barra de roble ennegrecido, un único camarero atiende el lugar. Un hombre de aspecto que limpia vasos con un trapo en la barra del establecimiento.
+> Entráis en un espacio iluminado tenuemente por antorchas sujetas a las paredes que arrojan sombras danzantes. El suelo de adoquines cruje bajo vuestras botas, y las mesas de madera maciza, aunque la mayoría están vacías, muestran las marcas de incontables años de uso. Un leve olor a vino añejo flota en el aire, mezclándose con el murmullo bajo de un par de conversaciones en rincones oscuros. Detrás de la larga barra de roble ennegrecido, un único camarero atiende el lugar. Un hombre de aspecto cansado que limpia vasos con un trapo en la barra del establecimiento.
 
 Esta área es en gran medida como se describe en <span class="citation">E2. Taberna Sangre de la Vid (p. 43)</span>. Sin embargo, en lugar de Alenka, Mirabel y Sorvia—las tres Vistani que se encuentran aquí en el módulo original—Arik es el único propietario y administrador de la taberna. (Alenka, Mirabel y Sorvia no están presentes en la taberna, ya que huyeron del pueblo hacia Tser Pool el día antes de que comenzara el asedio).
 
@@ -346,7 +346,7 @@ La mujer de cabello castaño es Alenka Konstantinova, una **plebeya** baroviana 
 Impulsados por la desesperación por los ataques de Strahd al pueblo, Alenka y la turba creen que se necesita un sacrificio u ofrenda para apaciguar al vampiro y calmar su ira. La siguiente conversación se desarrolla si los jugadores no intervienen:
 
 * Alenka informa con frialdad a Kolyan que un sacrificio al vampiro no es una locura, sino "sentido común". "Las leyendas dicen que al Diablo Strahd le gusta cazar mujeres pelirrojas", le dice. "Si su sangre puede ganar su favor, ¿cómo podemos hacer otra cosa?"
-* Kolyan responde que Alenka es una "tonta" si cree que entregar a Ireena, o a cualquier otra persona, apaciguará al Diablo del Castillo Ravenloft. "Estás buscando respuestas en un mundo que no tiene nada que ofrecer", truena. "Y somos barovianos. No traicionamos a los nuestros".
+* Kolyan responde que Alenka es una "necia" si cree que entregar a Ireena, o a cualquier otra persona, apaciguará al Diablo del Castillo Ravenloft. "Estás buscando respuestas en un mundo que no tiene nada que ofrecer", truena. "Y somos barovianos. No traicionamos a los nuestros".
 * Alenka replica que Ireena no es una verdadera baroviana. Después de todo, Kolyan la encontró deambulando por los bosques cerca del Pilar de Ravenloft cuando era una niña. (Ireena y Kolyan ya están al tanto de esto y no muestran sorpresa ante esta declaración). "Ella no es una de nosotros", dice Alenka con dureza, "y si vas a elegirla a ella sobre nosotros, tú tampoco lo eres".
 * Dos de los compañeros de Alenka se acercan más a la mansión, blandiendo sus armas. Kolyan exclama: "¿Cómo te atreves?" da un paso adelante y casi se desmorona por sus heridas. Ireena lo atrapa antes de que caiga y ordena a la turba que no "toque a su padre".
 
@@ -452,6 +452,7 @@ Cuando los jugadores están listos para partir, Ireena saca una caja de madera q
 
 > [!abstract]+ **Visitar la Iglesia**  
 > Los jugadores que insistan en visitar la <span class="citation">E5. Iglesia (p. 45)</span> la encontrarán en gran parte como se describe en [[#B5i. La Iglesia de Barovia]] más abajo. Sin embargo, Parriwimple no se encuentra en la iglesia en este momento, y el Padre Donavich no menciona el destino de Doru sin la presencia de Ireena o Ismark.
+
 
 
 
@@ -848,6 +849,7 @@ Aunque les pide que lo hagan discretamente, para evitar atraer de nuevo la ira d
 Si los jugadores aceptan hacerlo, el jugador con la puntuación de Sabiduría (Percepción) pasiva más alta nota una **rata**—una de las espías de Strahd—observándolos con un interés maligno, astuto y atento desde debajo de un mueble cercano. Una vez que es detectada, la rata inmediatamente corre hacia la cocina en un claro intento de escapar.
 
 Los jugadores tienen una ronda para matar a la rata mientras se apresura hacia un gran agujero en la pared de la cocina. Si fallan, Ireena la atraviesa con su estoque antes de que pueda escapar, reconociéndola como una de las espías de Strahd.
+
 ***Llevar el Ataúd.*** Después de pedir sus dos primeros favores, Ismark pide a los jugadores que lo ayuden a él y a Ireena a llevar el ataúd de Kolyan a la iglesia. Si aceptan, los dos hermanos acompañan a los jugadores hasta la iglesia.
 
 ## B5d. La Iglesia de Barovia

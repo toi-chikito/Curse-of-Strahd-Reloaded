@@ -2,7 +2,7 @@
 Los barovianos típicos conocen ciertos hechos o tienen ciertas creencias sobre su existencia y su entorno. Esta sabiduría popular se resume aquí. Los personajes pueden aprender esta información después de ganarse la confianza de un baroviano.
 
 
-### El Diablo Strahd
+### El Diablo Strahd y los vampiros
 
 Sobre Strahd y los vampiros, los barovianos creen lo siguiente:
 
