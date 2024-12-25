@@ -1,3 +1,66 @@
+# Hotfix 2.0.10.2 (December 20, 2024)
+* Amended the bodaks' combat strategy in [[Arc R - Trials of the Mountain]]
+# Hotfix 2.0.10.1 (December 19, 2024)
+* Removed Strahd's *Father of the Night* ability from [[Strahd von Zarovich]] 
+# Version 2.0.10 (December 16, 2024)
+* Added [[Act IV Summary]]
+* Added [[Arc R - Trials of the Mountain]]
+* Updated the Table of Contents in [[A DM's Guide to Curse of Strahd|Introduction]]
+# Patch 2.0.9.7 (November 19, 2024)
+* Fixed assorted typos and inconsistencies
+* Removed outdated references in Madam Eva's tarokka reading in [[Arc C - Into the Valley]]
+* Added tactics to vine blights at the spiked pit trap in [[Arc J - The Stolen Gem]]
+* Added further description of the Holy Symbol of Ravenkind to bring attention to it in [[Arc L - The Den of Wolves]]
+* Added a shaft of moonlight to illuminate the Holy Symbol of Ravenkind in [[Arc L - The Den of Wolves]]
+* Added reasoning for Vladimir to be dismissive of players mentioning Argynvost's spirit in [[Arc M - The Dragon's Manor]]
+* Added information on Lief Lipsiege to [[Arc O - Dinner with the Devil]]
+* Added Great Taar Haak's amber shard to the Ravenloft treasury in [[Arc P - Ravenloft Heist]]
+* Amended which round the wraith and hell hounds manifest in [[Arc P - Ravenloft Heist]]
+* Clarified what Kiril can do with his leap ability in [[Arc Q - A Shining Beacon]]
+* Clarified how many revenants appear at different times in [[Arc Q - A Shining Beacon]]
+* Brought Vladimir's flame trap in line with action economy in [[Arc Q - A Shining Beacon]]
+# Hotfix 2.0.9.6 (October 22, 2024)
+* Fixed assorted typos and inconsistencies
+# Patch 2.0.9.5 (October 21, 2024)
+* Fixed assorted typos and inconsistencies 
+* Amended Strahd's statblock to accurately reflect his proficiency bonus as a CR 21 enemy
+* Amended Strahd's statblock to include dispel magic, and fane-specific lair actions
+* Amended Strahd's bite attack to include a new max hit point recovery mechanic 
+* Amended Ithuriel's statblock to be in line with ability scores and proficiency bonus
+* Added additional artwork by artist Caleb Cleveland
+* Added additional detail about spider venom and holy water both being able to coat any weapon or ammunition
+* Clarified that areas K73-76 in Castle Ravenloft are difficult terrain
+* Revised the flesh mound's immunities to include prone and grappled
+* Revised the flesh mound's features to include a variance of the amorphous feature
+* Clarified that the pool in the ritual chamber is difficult terrain for medium or smaller creatures.
+* Revised wording on Ludmilla's grease and web spells
+* Added new rebalancing details for the pit trap in [[Arc A - Escape From Death House]] 
+* Added new rebalancing details for the escape in [[Arc A - Escape From Death House]] 
+* Added new rebalancing details for the town square in [[Arc B - Welcome to Barovia]]
+* Added new rebalancing details for the siege in [[Arc B - Welcome to Barovia]]
+* Added new rebalancing details for the wolves in [[Arc C - Into the Valley]]
+* Added new rebalancing details for the mass grave in [[Arc M - The Dragon's Manor]]
+* Added new rebalancing details for the spiders' ballroom in [[Arc M - The Dragon's Manor]]
+* Added new rebalancing details for the trapped hallway in [[Arc M - The Dragon's Manor]]
+* Added new rebalancing details for Vladimir in [[Arc M - The Dragon's Manor]]
+* Added new rebalancing details for the entryway in [[Arc P - Ravenloft Heist]]
+* Added new rebalancing details for the ravenous spawn in [[Arc P - Ravenloft Heist]]
+* Added new rebalancing details for the guardian vermin in [[Arc P - Ravenloft Heist]]
+* Added new rebalancing details for the guest landing in [[Arc P - Ravenloft Heist]]
+* Added new rebalancing details for the witches in [[Arc P - Ravenloft Heist]]
+* Added new rebalancing details for the tomb of the darklord in [[Arc P - Ravenloft Heist]]
+* Added new rebalancing details for the north tower rooftop in [[Arc P - Ravenloft Heist]]
+* Added new rebalancing details for the thirty-fifth crypt in [[Arc P - Ravenloft Heist]]
+* Added new rebalancing details for Ludmilla in [[Arc P - Ravenloft Heist]]
+* Added new rebalancing details for Anastrasya in [[Arc P - Ravenloft Heist]]
+* Added new rebalancing details for Volenta in [[Arc P - Ravenloft Heist]]
+* Added new rebalancing details for Ithuriel in [[Arc Q - A Shining Beacon]]
+* Added new rebalancing details for the return to the foyer in [[Arc Q - A Shining Beacon]]
+* Added new rebalancing details for Kiril in [[Arc Q - A Shining Beacon]]
+* Added new rebalancing details for Vladimir in [[Arc Q - A Shining Beacon]]
+
+# Hotfix 2.0.9.4 (October 1, 2024)
+* Revised the introductory text regarding player expectations in [[Session Zero]]
 # Hotfix 2.0.9.3 (September 3, 2024)
 * Removed Kiril's ***weak grip*** feature and added a warning callout box regarding movement speed while grappled in [[Arc Q - A Shining Beacon]]
 # Hotfix 2.0.9.2 (September 2, 2024)
@@ -21,7 +84,7 @@
 * Added a response for Strahd if the players ask to be released from Barovia in [[Act I - Into the Mists/Arc C - Into the Valley|Arc C - Into the Valley]]
 * Modified Madam Eva's reading regarding the *Tome of Strahd* in [[Act I - Into the Mists/Arc C - Into the Valley|Arc C - Into the Valley]] to prevent players from mistaking the skeletal rider for the "wandering soul" in her foretelling
 * Added an additional **wolf** encounter in [[Act I - Into the Mists/Arc C - Into the Valley|Arc C - Into the Valley]] and revised the **wolf** statblock
-* Replaced some wolves in the Werewolf's Hunt encounter in [[Act I - Into the Mists/Arc C - Into the Valley|Arc C - Into the Valley]]with an additional werewolf
+* Replaced some wolves in the Werewolf's Hunt encounter in [[Act I - Into the Mists/Arc C - Into the Valley|Arc C - Into the Valley]] with an additional werewolf
 * Clarified in [[Act I - Into the Mists/Arc C - Into the Valley|Arc C - Into the Valley]] that the werewolf pack did not hunt humans before Kiril's rise to power
 * Clarified that Ezmerelda's map of Barovia doesn't mark locations other than settlements in [[Arc E - The Missing Vistana]]
 * Added an NPC profile for Van Richten in [[Arc E - The Missing Vistana]]
