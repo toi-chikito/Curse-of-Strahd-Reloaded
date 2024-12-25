@@ -830,6 +830,8 @@ Cuando el jugador regresa a su habitación, puede ver dos **enjambres de murcié
 
 El descanso de los jugadores en la mansión transcurre sin incidentes. Cuando se despiertan a la mañana siguiente, pueden encontrar el cadáver del burgomaestre en un ataúd en la sala de estar, como se describe en <span class="citation">E4. Mansión del Burgomaestre (p. 44)</span>. Ismark e Ireena están en el comedor, bebiendo té en silencio.
 
+> El burgomaestre se encuentra en un salón lateral, tendido en un sencillo ataúd de madera, rodeado de flores marchitas y un tenue olor a descomposición.
+
 Cuando los jugadores descienden al piso principal, Ireena los saluda y insiste en prepararles cuencos de gachas de leche de cabra y tazas de té de manzanilla para el desayuno. Mientras Ireena se ocupa en la cocina, Ismark les pide solemnemente y con disculpas a los jugadores tres favores.
 
 ***Escoltar a Ireena.*** Primero, Ismark señala en voz baja que Ireena parece haberse convertido en un objetivo tanto para el Diablo como para sus compañeros aldeanos, y que ya no cree que la aldea, que se encuentra directamente bajo la sombra del Castillo Ravenloft, sea segura para ella.
@@ -854,6 +856,9 @@ Los jugadores tienen una ronda para matar a la rata mientras se apresura hacia u
 
 ## B5d. La Iglesia de Barovia
 <span class="citation"><em>Esta escena tiene lugar en el Capítulo 3: Área E5.</em></span>
+
+>LEER:
+>En lo alto de una pequeña colina, apoyada en las raíces de la roca que sostiene el Castillo Ravenloft, se alza una edificación gris y decadente, hecha de piedra y madera. Esta iglesia se ve desgastada y fatigada. Una torre de campanario se eleva en la parte trasera, y la luz titilante se filtra a través de los agujeros del tejado de tejas. Las vigas del techo parecen ceder débilmente bajo su peso. Se puede ver como hay daños recientes causados en las las paredes y el techo de la iglesia. Se pueden ver las marcas de unas garras en la puerta de madera.
 
 Cuando los jugadores llegan a la iglesia con el cuerpo del burgomaestre, [[Non-Player Characters#Ismark Kolyanovich|Ismark]] se muestra perturbado por los daños causados en las paredes y el techo. Mientras llama a la puerta principal y pide por el Padre Donavich, si Parriwimple aún está vivo, lee lo siguiente:
 
@@ -886,6 +891,28 @@ Esta área se describe en gran medida como en <span class="citation">Iglesia (p.
 <p>Puedes ver que la capilla está cubierta de escombros, y escuchas una suave voz desde dentro recitando una oración.</p>
 </div>
 
+>HABITACIONES:
+>
+>5B - Habitación de Doru:
+>	LEER: 
+>	Esta sucia y oscura habitación contiene una cama de madera con un colchón relleno de paja. Montado sobre el cabecero de la cama se encuentra un símbolo sagrado de madera.
+>	
+>5C - Habitación de Donavich:
+>	LEER:
+>	Esta sucia habitación contiene una cama de madera con un colchón relleno de paja, junto a la cual descansa una pequeña mesa con una lámpara de aceite encendida. Colgado sobre el cabecero de la cama se encuentra un símbolo sagrado de madera en forma de sol.
+>	
+>5D - Trampilla:
+>	LEER:
+>	El tiempo y el abandono han perforado agujeros en el techo de esta habitación mohosa, que contiene algunas tejas rotas del techo entre charcos de agua. En una esquina, incrustada en el suelo, hay una pesada trampilla de madera asegurada con una cadena y un candado.
+>	
+>5E - Oficina:
+>	LEER:
+>	Un viejo escritorio y una silla se encuentran contra la pared sur, con un símbolo sagrado de madera colgado sobre ellos, con forma de un estallido solar. Una barra de hierro de tres metros de largo está fijada a la pared norte, sugiriendo que una vez colgó allí un tapiz. Contra la pared opuesta se encuentra un armario de madera con cuatro puertas altas.
+>	LOOT:
+>	Dentro del armario se encuentran una caja de yesca, algunas cajas de madera llenas de velas y dos libros bastante usados: *Himnos al Amanecer*, un volumen de cánticos dedicados al Señor del Alba, y *La Espada de la Verdad: Los Usos de la Lógica en la Guerra Contra las Herejías Diabólicas, Tal Como Fue Luchada por la Inquisición Ulmista*, un extraño libro que mezcla ejercicios de lógica con descripciones escabrosas de cultos adoradores de demonios.
+
+
+
 Doru no grita llamando a su padre cuando los jugadores entran en la capilla. En su lugar, cuando los jugadores se acercan por primera vez a la capilla, las oraciones de Donavich se detienen. Añade la siguiente línea a la descripción de la capilla en lugar del grito de Doru:
 
 <div class="description">
@@ -896,7 +923,7 @@ Doru no grita llamando a su padre cuando los jugadores entran en la capilla. En 
 >
 > El Padre Donavich no apoyaba la marcha de Doru al Castillo Ravenloft. Un hombre apacible y de pocas palabras, Donavich temía que Doru encontrara su fin más allá de los muros del castillo. Sin embargo, para mantener a su hijo a salvo, y como un gesto de amor, Donavich le dio a Doru su símbolo sagrado, así como su bendición.
 >
-> Sin embargo, el símbolo sagrado de Donavich hizo poco para proteger a su hijo. Cuando Strahd comenzó su asedio a la aldea de Barovia hace dos semanas, sus fuerzas no-muertas no estaban solas: Strahd también envió a Doru, ahora un recién convertido **vástago vampírico**, para aterrorizar la iglesia y atormentar a su padre. Donavich apenas logró atraer y atrapar a Doru en la cripta, donde aún permanece encerrado.
+> Sin embargo, el símbolo sagrado de Donavich hizo poco para proteger a su hijo. Cuando Strahd comenzó su asedio a la aldea de Barovia hace una semana, sus fuerzas no-muertas no estaban solas: Strahd también envió a Doru, ahora un recién convertido **vástago vampírico**, para aterrorizar la iglesia y atormentar a su padre. Donavich apenas logró atraer y atrapar a Doru en la cripta, donde aún permanece encerrado.
 >
 > Desde que Doru regresó, el Padre Donavich no ha podido lanzar ningún hechizo y ya no siente la presencia del Señor del Alba cuando reza. Cuando Strahd envió a Doru de regreso a Barovia, permitió que Doru continuara usando el símbolo sagrado de su padre como una broma cruel. Como resultado, Donavich cree erróneamente que la naturaleza no-muerta de Doru ha corrompido su símbolo—y, por lo tanto, su relación con el Señor del Alba—y esto le ha impedido alcanzar la gracia divina del Señor del Alba.
 >
@@ -946,7 +973,7 @@ Si los jugadores aceptan, Donavich les entrega la llave del candado en <span cla
 La cripta se describe en gran medida como en <span class="citation">E5g. Cripta (p. 47)</span>. Sin embargo, modifica la última frase de la descripción de la siguiente manera:
 
 <div class="description">
-<p>La luz de las velas de la capilla de arriba se filtra a través de las grietas, pero no hay señales de ninguna criatura en la penumbra.</p>
+<p>El sótano de la iglesia tiene paredes toscamente labradas y un suelo hecho de arcilla húmeda y tierra. Los pilares de madera podrida se esfuerzan por soportar el peso del techo de madera. La luz de las velas de la capilla de arriba se filtra a través de las grietas, pero no hay señales de ninguna criatura en la penumbra.</p>
 </div>
 
 Doru, un **vástago vampírico**, ha utilizado su habilidad de ***trepar como araña*** para aferrarse al techo al escuchar la aproximación de los jugadores. Un jugador con una puntuación de Sabiduría (Percepción) pasiva de 16 o más lo detecta automáticamente en la esquina oscura del techo en el lado opuesto de la habitación. De lo contrario, lee lo siguiente después de que haya pasado una ronda.
@@ -1110,7 +1137,7 @@ Mientras Ismark empaca las raciones, puede compartir la siguiente información:
 
 Aproximadamente una hora antes del mediodía, [[Non-Player Characters#Ireena Kolyana|Ireena]] se escapa discretamente de la mansión y camina hacia la Loma de Lugdana, una pequeña y tranquila colina al norte de Barovia. (La colina lleva el nombre de la paladín Lugdana, quien, según la leyenda, conoció por primera vez al burgomaestre Ismark Antonovich el Grande en esa colina).
 
-Poco antes del mediodía, si los jugadores no han estado al tanto de ella, [[Non-Player Characters#Ismark Kolyanovich|Ismark]]—quien está debriefing a un par de **exploradores** barovianos sobre su búsqueda infructuosa de Gertruda—nota la ausencia de Ireena con cierta preocupación y pide a los jugadores que la encuentren y la lleven de vuelta a casa.
+Poco antes del mediodía, si los jugadores no han estado al tanto de ella, [[Non-Player Characters#Ismark Kolyanovich|Ismark]]—quien está preguntando a un par de **exploradores** barovianos sobre su búsqueda infructuosa de Gertruda—nota la ausencia de Ireena con cierta preocupación y pide a los jugadores que la encuentren y la lleven de vuelta a casa.
 
 Dado que Strahd y sus sirvientes solo han visitado durante la noche, Ismark no está notablemente alarmado por la ausencia de Ireena, pero aún quiere que la lleven de vuelta a casa lo más rápido posible. Ismark sugiere a los jugadores que revisen primero la Loma de Lugdana, uno de los lugares favoritos de Ireena en el pueblo, y proporciona breves indicaciones para llegar allí.
 
@@ -1137,7 +1164,7 @@ Ireena no sabe quién es Tatyana. (Desconocido para Ireena, el brazalete fue un 
 
 Después de compartir los objetos del cofre, Ireena se quita la bufanda, revelando las marcas de mordida en su cuello. Mientras recorre las marcas con los dedos, frunce el ceño. "No sé por qué no me ha matado o me ha convertido," dice, apretando los dientes mientras sus manos se cierran en puños. "No sé si es algún tipo de juego enfermo que está jugando, o si simplemente le gusta ver a la gente sufrir."
 
-La ira la abandona cuando agrega, con la voz temblorosa, "Dicen que las mujeres con cabello rojo traen mala suerte. Lo siento, nunca quise traerte ninguna." (Ella está agradecida por cualquier consuelo que los jugadores puedan ofrecer.)
+La ira la abandona cuando agrega, con la voz temblorosa, "Dicen que las mujeres con cabello rojo traen mala suerte. Lo siento, nunca quise traeros ninguna." (Ella está agradecida por cualquier consuelo que los jugadores puedan ofrecer.)
 
 Ireena regresa con gusto a la mansión con los jugadores, o regresa por su cuenta poco después del mediodía si los jugadores no la encuentran. Luego, recoge una bolsa de viaje de su habitación.
 

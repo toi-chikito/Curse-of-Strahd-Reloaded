@@ -1,93 +1,102 @@
-*An adventure for five 3rd-level characters.*
+# Una Aventura para Cinco Personajes de Nivel 3
 
-In this arc, the players depart the village of Barovia for Tser Pool and the town of Vallaki. As they journey through the woods, they can encounter a pair of Barovian **scouts** searching for a missing family, distract or do battle with a horde of **zombies**, and recover a weapons cache left by Dr. Rudolph van Richten.
+En este arco, los personajes parten del pueblo de Barovia hacia Tser Pool y la ciudad de Vallaki. Durante su viaje por el bosque, pueden encontrar a un par de **exploradores** barovianos que buscan a una familia desaparecida, distraer o enfrentarse a una horda de **zombis**, y recuperar un alijo de armas dejado por el Dr. Rudolph van Richten.
 
-Upon their arrival at the River Ivlis Crossroads, the players encounter Strahd von Zarovich for the first time, accompanied by Escher, one of his vampiric consorts. After a tense conversation, the players can head north to Tser Pool. 
+Al llegar al Cruce del Río Ivlis, los personajes se encuentran con Strahd von Zarovich por primera vez, acompañado por Escher, uno de sus consortes vampíricos. Tras una conversación tensa, los personajes pueden dirigirse al norte, hacia Tser Pool.
 
-On the way to Tser Pool, the players encounter a raven—the disguised **wereraven** Muriel Vinshaw—fleeing a monstrous **strix**, a scarecrow of the skies crafted by the swamp-witch Baba Lysaga. If the players defend Muriel from the strix’s onslaught, she joins them for the remainder of their journey to Vallaki, though without revealing her true identity.
+En el camino a Tser Pool, los personajes encuentran un cuervo—en realidad la **hombre-cuervo** Muriel Vinshaw disfrazada—que huye de un monstruoso **strix**, un espantapájaros aéreo creado por la bruja del pantano Baba Lysaga. Si los personajes defienden a Muriel del ataque del strix, ella se une a ellos en el viaje hacia Vallaki, aunque sin revelar su verdadera identidad.
 
-Soon afterward, the players finally arrive at the Vistani encampment at Tser Pool. There, they receive a magical Tarokka reading from Madam Eva, which foretells the location of three artifacts that will assist them in the fight against Strahd, as well as an ally who is destined to aid them. 
+Poco después, los personajes finalmente llegan al campamento Vistani en Tser Pool. Allí, reciben una lectura mágica de Tarokka de Madam Eva, quien predice la ubicación de tres artefactos que les ayudarán en la lucha contra Strahd, así como un aliado que está destinado a asistirlos.
 
-While staying at Tser Pool, the players hear Vistani tales of Strahd's history and the *Holy Symbol of Ravenkind*, and can also meet Arturi Radanavich, a wandering Vistana who claims to have once known Rudolph van Richten. As the players depart, they also receive a mission from Madam Eva to purchase a toy in Vallaki for delivery to her great-grand-niece, Arabelle.
+Durante su estadía en Tser Pool, los personajes escuchan cuentos Vistani sobre la historia de Strahd y el *Símbolo Sagrado del Cuervo*, y también pueden conocer a Arturi Radanavich, un Vistano errante que afirma haber conocido al Dr. Rudolph van Richten. Al partir, los personajes también reciben una misión de Madam Eva para comprar un juguete en Vallaki y entregarlo a su bisnieta, Arabelle.
 
-If the players are tasked with escorting Ireena to St. Andral's Church in Vallaki, or if they have their own reasons for doing so, they then return to the Old Svalich Road via the River Ivlis Crossroads, traveling west through the mountains. Along the way, they encounter a strange skeletal rider, a pair of fresh graves, a watchful revenant, the **night hag** Morgantha in her peddler's disguise, two flocks of friendly **ravens**, and a **werewolf** accompanied by its pack of ravenous **wolves**. 
+Si los personajes tienen la misión de escoltar a Ireena hasta la Iglesia de San Andral en Vallaki, o si tienen sus propios motivos para hacerlo, regresan al Camino Viejo de Svalich a través del Cruce del Río Ivlis y viajan al oeste por las montañas. En el camino, encuentran a un extraño jinete esquelético, dos tumbas frescas, un revenant vigilante, a la **hechicera de la noche** Morgantha disfrazada de vendedora ambulante, dos bandadas de **cuervos** amistosos, y un **hombre-lobo** acompañado por su manada de **lobos** hambrientos.
 
-Upon arriving in Vallaki, the players can find lodgings at the Blue Water Inn. There, they can meet a host of colorful characters, including the ringmaster Rictavio and the sons of Lady Fiona Wachter. When morning comes, the players can also have a fateful encounter with Baron Vargas Vallakovich and his brutish enforcer, Izek Strazni...
+Al llegar a Vallaki, los personajes pueden encontrar alojamiento en la Posada del Agua Azul. Allí, pueden conocer a varios personajes coloridos, incluyendo al maestro de ceremonias Rictavio y a los hijos de Lady Fiona Wachter. Cuando llegue la mañana, los personajes también tendrán un encuentro trascendental con el Barón Vargas Vallakovich y su brutal secuaz, Izek Strazni...
 
-> [!warning]+ **The Road From Tser Pool**
->
-> The module’s map of Barovia depicts a dotted line that appears to connect the Tser Pool Encampment to Tser Falls. Despite its appearance, <span class="citation">Tser Falls (p. 37)</span> makes clear that this is not a shortcut. Instead, this dotted line is a footpath that leads to the base of Tser Falls, one thousand feet below the bridge overhead. At no point does it actually reconnect to the main road.
->
-> To travel from the Tser Pool Encampment to Vallaki, the players will instead need to travel south, back toward the River Ivlis Crossroads, then take the Old Svalich Road westward.
+> [!warning]+ **El Camino Desde Tser Pool**
+> 
+> El mapa de Barovia en el módulo muestra una línea de puntos que parece conectar el campamento de Tser Pool con las Cascadas Tser. A pesar de su apariencia, <span class="citation">Cascadas Tser (p. 37)</span> deja claro que esto no es un atajo. En cambio, esta línea punteada es un sendero que conduce a la base de las Cascadas Tser, a mil pies por debajo del puente superior. En ningún momento vuelve a conectarse con el camino principal.
+> 
+> Para viajar del campamento de Tser Pool a Vallaki, los personajes deben viajar hacia el sur, de regreso al Cruce del Río Ivlis, y luego tomar el Camino Viejo de Svalich hacia el oeste.
 
-> [!info]+ **No Random Encounters**
-> This guide incorporates the material in the original *Curse of Strahd* module only by reference. As such, whenever the players are traveling, you should disregard the <span class="citation">Random Encounters (p. 28)</span> section except where a particular encounter is referenced and incorporated directly.
-# C1. The Svalich Woods
-The journey from the village of Barovia to the River Ivlis Crossroads is three miles long and takes one hour.
-## C1a. The Barovian Scouts
-As the players travel, read:
+> [!info]+ **Sin Encuentros Aleatorios**
+> Esta guía incorpora el material del módulo original de *La Maldición de Strahd* solo como referencia. Por lo tanto, siempre que los personajes estén viajando, debes omitir la sección de <span class="citation">Encuentros Aleatorios (p. 28)</span> excepto cuando se haga referencia directa a un encuentro específico e incorporado.
+# C1. Los Bosques de Svalich
 
-<div class="description"><p>You set off from the silent village of Barovia, the fog creeping around your feet as you pass onto the Old Svalich Road. A sea of tall, pale-green grasses stretches out before you on either side of the road, all the way up to the edge of the Ivlis River. The sky above is a dull grey, the clouds heavy with the promise of rain.</p>
-<p>It's not long before you can see the old arched stone bridge in the distance that spans the clear blue river ahead. Crossing it, you find yourselves on a muddy road that winds its way through the trees. The air is thick with the scent of damp earth and decaying leaves, and the trees press in close, casting deep shadows that carve dark gouges across the road.</p></div>
+El viaje desde el pueblo de Barovia hasta el Cruce del Río Ivlis abarca tres millas y toma aproximadamente una hora.
 
-If any players have a passive Wisdom (Perception) score of 16 or higher, they hear a rustling noise and see a silhouette crouching in the misty underbrush. Otherwise, the players simply hear a voice call out, muffled and diffuse in the fog: “Who goes there? Name yourselves.”
+## C1a. Los Exploradores Barovianos
 
-The voice belongs to a gruff female Barovian **scout** named Kereza, who is joined by a second, soft-spoken male **scout** named Korga, whom the players previously encountered in [[Act I - Into the Mists/Arc B - Welcome to Barovia|Arc B - Welcome to Barovia]]. After confirming that the players are not transporting Ireena against her will, the scouts warn the players that Strahd’s spies are numerous throughout the Svalich Woods, including wolves, bats, and—at times—the very trees themselves. (If asked about the trees, the scouts can describe seeing animate vines, saplings, and bramble-patches that wander through the woods with hostile intent.)
+Mientras los personajes avanzan, lee:
 
-If [[Non-Player Characters#Ireena Kolyana|Ireena]] is with the players, she can aid the players in reassuring the scouts, who recognize her and greet her with quiet respect. The scouts are surprised to see Ireena venturing forth from the village, but agree that Vallaki is likely a safer place than Barovia—assuming, of course, that she can make it there safely. (Ireena stubbornly insists, however, that her journey is a diplomatic and humanitarian one, and that the players are her escorts and bodyguards.)
+<div class="description"><p>Partís del silencioso pueblo de Barovia, con la niebla arremolinándose alrededor de sus pies mientras cruzais hacia el Viejo Camino de Svalich. A ambos lados del camino, se extiende un mar de altas hierbas de un verde pálido, hasta el borde del Río Ivlis. El cielo arriba es de un gris apagado, con nubes pesadas que prometen lluvia.</p>
+<p>No pasa mucho tiempo antes de que podáis ver a lo lejos el viejo puente de piedra arqueado que se extiende sobre el río azul claro. Al cruzarlo, os encontráis en un camino lodoso que serpentea entre los árboles. El aire está impregnado del aroma a tierra húmeda y hojas en descomposición, y los árboles se cierran alrededor, proyectando sombras profundas que rasgan el camino con surcos oscuros.</p></div>
 
-The scouts are searching for the Lansten family: two parents and three young children—a girl and two boys—who went missing during the zombie attack on the village and haven’t been seen since. After asking whether the players have seen their quarries on their journey, the scouts warn them not to stray from the road, noting that dead and dark things lurk beneath the treetops. Kereza and Korga then respectfully depart.
+Si alguno de los personajes tiene una puntuación de Sabiduría (Percepción) pasiva de 16 o más, escuchan un ruido entre el follaje y ven una silueta agachada en la maleza neblinosa. De lo contrario, solo escuchan una voz que llama, apagada y difusa en la niebla: “¿Quién va ahí? Digan sus nombres.”
 
-Shortly after the players resume their trek down the Old Svalich Road, a light drizzle begins to fall, stirring a fine mist that drifts through the underbrush.
-## C1b. Van Richten’s Cache
-As the players continue down the road, read:
+La voz pertenece a una **exploradora** baroviana de voz áspera llamada Kereza, quien está acompañada por un segundo **explorador** de voz suave llamado Korga, a quien los personajes ya encontraron en [[Acto I - En Las Brumas/Arco B - Bienvenidos a Barovia|Arco B - Bienvenidos a Barovia]]. Después de confirmar que los personajes no transportan a Ireena contra su voluntad, los exploradores advierten a los personajes que los espías de Strahd son numerosos en los Bosques de Svalich, incluyendo lobos, murciélagos, y—en ocasiones—los mismos árboles. (Si se les pregunta sobre los árboles, los exploradores pueden describir cómo han visto enredaderas animadas, retoños y parches de zarzas que vagan por el bosque con intenciones hostiles).
 
-<div class="description"><p>You travel further into the woods, the muddy road guiding you deeper and further away from civilization. As the road bends, the river brushes up against you once more. Here, the river is wider, its waters dark and calm. You can see the reflection of the trees and fog in its surface. The sound of the quiet, trickling water is met only by the rustling of leaves and the drizzle of soft rain. No birdsong breaks the silence that hangs over the woods.</p></div>
+Si [[Personajes No Jugadores#Ireena Kolyana|Ireena]] acompaña a los personajes, ella puede ayudar a tranquilizar a los exploradores, quienes la reconocen y la saludan con respeto. Los exploradores se sorprenden de ver a Ireena aventurarse fuera del pueblo, pero coinciden en que Vallaki es probablemente un lugar más seguro que Barovia—suponiendo, claro está, que pueda llegar allí sana y salva. (Ireena insiste tercamente, sin embargo, en que su viaje es de naturaleza diplomática y humanitaria, y que los personajes son sus escoltas y guardaespaldas.)
 
-While traversing this section of the Old Svalich Road, the players are stalked by one of Strahd's spies: a **wolf.** (See <span class="citation">Strahd's Spies, pg. 29</span> for more information.)
+Los exploradores están buscando a la familia Lansten: dos padres y tres niños pequeños—una niña y dos niños—que desaparecieron durante el ataque zombi al pueblo y no han sido vistos desde entonces. Después de preguntar si los personajes los han visto durante su travesía, los exploradores les advierten que no se desvíen del camino, señalando que cosas oscuras y muertas acechan bajo las copas de los árboles. Kereza y Korga se despiden entonces respetuosamente.
 
-If the players received the location of Van Richten’s hidden weapons cache from Doru in Barovia’s church, they can enter the woods to the south to find it. If they do, read:
+Poco después de que los personajes reanuden su viaje por el Viejo Camino de Svalich, comienza a caer una ligera llovizna, que levanta una fina neblina que serpentea entre los arbustos.
+
+## C1b. El Alijo de Van Richten
+
+Mientras los personajes continúan por el camino, lee:
+
+<div class="description"><p>Avanzáis más profundamente en el bosque, el camino lodoso guiándolos cada vez más lejos de la civilización. Al doblar una curva, el río vuelve a aparecer cerca vuestro. Aquí, el río es más ancho, sus aguas oscuras y calmadas. Podéis ver el reflejo de los árboles y la niebla en su superficie. El sonido tranquilo del agua que gotea es acompañado solo por el crujir de las hojas y la suave llovizna. Ningún canto de pájaros rompe el silencio que domina el bosque.</p></div>
+
+Mientras cruzan esta sección del Viejo Camino de Svalich, los personajes son acechados por uno de los espías de Strahd: un **lobo**. (Consulta <span class="citation">Los Espías de Strahd, pág. 29</span> para más información.)
+
+>Lobo: Sigilo +4
+
+Si los personajes recibieron la ubicación del alijo de armas escondido de Van Richten por parte de Doru en la iglesia de Barovia, pueden adentrarse en el bosque hacia el sur para encontrarlo. Si lo hacen, lee:
 
 <div class="description">
-<p>You step from the road and into the woods, crossing the treeline as your feet squelch into mud and loamy soil. Wisps of fog curl across the earth around you, gnarled trees reaching their arms overhead as gray light filters through the canopy. You walk for three hundred paces, stepping softly through the mulch and mist until you arrive at a clearing, the woods parting to make room for a tall, ancient oak whose knotted black trunk rises far above its peers.</p>
-<p>You soon realize, however, that you’re not alone. Five figures shamble or stand aimlessly within the clearing, their clothes muddied and torn and their flesh just beginning to turn pallid and gray. </p>
+<p>Salís del camino y os adentráis en el bosque, cruzando la línea de árboles mientras vuestros pies se hunden en el lodo y el suelo cubierto de humus. Remolinos de niebla serpentean por la tierra a vuestro alrededor, mientras los árboles retorcidos extienden sus ramas por encima, filtrando una luz gris a través del dosel. Caminais unos trescientos pasos, avanzando suavemente entre la hojarasca y la niebla hasta que llegan a un claro, donde el bosque se abre para dar paso a un alto y antiguo roble cuyo tronco nudoso se eleva mucho más que sus pares.</p>
+<p>Sin embargo, pronto os dais cuenta de que no estáis solos. Cinco figuras deambulan o permanecen de pie sin rumbo dentro del claro; sus ropas están sucias y rasgadas, y su carne comienza a tornarse pálida y grisácea.</p>
 </div>
 
-The five figures are **zombies**. They also match the descriptions of the Lansten family provided by the scouts—two parents, a young girl, and two young boys.
+Las cinco figuras son **zombis**. También coinciden con las descripciones de la familia Lansten que proporcionaron los exploradores: dos padres, una niña y dos niños.
 
-The players can attempt to lure the zombies away from the clearing; given the zombies’ low intelligence, doing so should be reasonably easy. Alternatively, the players can attempt to ambush and attack the zombies to destroy them altogether.
+Los personajes pueden intentar atraer a los zombis fuera del claro; dada la baja inteligencia de los zombis, hacerlo debería ser relativamente fácil. Alternativamente, los personajes pueden intentar emboscar y atacar a los zombis para destruirlos por completo.
 
-If the players reach the oak tree, they can find Van Richten’s weapons cache where Doru told them: in a hollow nestled beneath the tree’s roots. The cache itself is a small, unlocked wooden chest containing 20 silvered crossbow bolts, a light crossbow, two *healer’s kits*, two vials of *holy water*, and one *potion of healing.*
-# C2. River Ivlis Crossroads
-<span class="citation"><em>This scene takes place in Chapter 2: Area F.</em></span>
+Si los personajes llegan al roble, pueden encontrar el alijo de armas de Van Richten en el lugar que Doru les indicó: en un hueco bajo las raíces del árbol. El alijo es un pequeño cofre de madera sin cerradura que contiene 20 virotes de ballesta de plata, una ballesta ligera, dos *kits de curación*, dos frascos de *agua bendita* y una *poción de curación*.
 
-As the players approach this area, the drizzling rain stops. Read:
+# C2. Cruce del Río Ivlis
+<span class="citation"><em>Esta escena tiene lugar en el Capítulo 2: Área F.</em></span>
 
-<div class="description"><p>Soon, the river bends once more out of sight and the dark woods surround the road once again. Finally, though, the trees pull away, revealing a tall cliff at the base of a foggy mountain slope. The air is cold and damp here, and soft wisps of fog swirl around the base of the cliff.</p></div>
+Al acercarse los jugadores a esta zona, la lluvia ligera se detiene. Lee:
 
-The players have arrived at the River Ivlis Crossroads, which is largely as described in <span class="citation">River Ivlis Crossroads (p. 35)</span>. Do not check for a random encounter when the players arrive.
+<div class="description"><p>Pronto, el río vuelve a desaparecer de vista al doblar una curva, y el oscuro bosque rodea el camino una vez más. Finalmente, sin embargo, los árboles se apartan, revelando un alto acantilado en la base de una brumosa pendiente montañosa. El aire aquí es frío y húmedo, y suaves volutas de niebla giran alrededor de la base del acantilado.</p></div>
 
-This scene begins similarly to <span class="citation">River Ivlis Crossroads (p. 35)</span>. However, the first time the players move to depart for Tser Pool, instead of seeing **The Hanged One**, they can hear the sound of a horse-drawn carriage or wagon approaching through the fog. Almost as soon as the sound appears, Strahd’s black carriage, as described in <span class="citation">Black Carriage (p. 37)</span> and <span class="citation">Carriage House (p. 54)</span>, comes into view.
-## C2a. Strahd’s Arrival
-The players can see a driver sitting in the coach box: the **vampire spawn** Escher, as described in <span class="citation">K49. Lounge (p. 70)</span>. If present, Ireena gasps at the sight of him, whispering that she thought that he was dead.
+Los jugadores han llegado al Cruce del Río Ivlis, descrito en su mayoría como en <span class="citation">Cruce del Río Ivlis (pág. 35)</span>. No verifiques si hay un encuentro aleatorio al llegar los jugadores.
 
-> [!abstract]+ **What If The Players Flee?**
+Esta escena comienza de forma similar a <span class="citation">Cruce del Río Ivlis (pág. 35)</span>. Sin embargo, la primera vez que los jugadores intenten partir hacia la Piscina Tser, en lugar de ver **El Colgado**, pueden escuchar el sonido de un carruaje tirado por caballos aproximándose a través de la niebla. Casi tan pronto como aparece el sonido, la carroza negra de Strahd, descrita en <span class="citation">Carroza Negra (pág. 37)</span> y <span class="citation">Casa de Carrozas (pág. 54)</span>, aparece a la vista.
+
+## C2a. La Llegada de Strahd
+Los jugadores pueden ver a un conductor sentado en el pescante de la carroza: el **vástago vampírico** Escher, descrito en <span class="citation">K49. Salón (pág. 70)</span>. Si está presente, Ireena jadea al verlo, susurrando que creía que estaba muerto.
+
+> [!abstract]+ **¿Qué pasa si los jugadores huyen?**
 >
-> The players should have little time to attempt to conceal themselves before Strahd’s carriage comes into view. However, if the players attempt to flee the carriage into the woods, Strahd’s **dire wolves**—one for each player plus Ireena—emerge from the fog behind them and snarl, obstructing the players' escape.
+> Los jugadores deberían tener poco tiempo para intentar esconderse antes de que la carroza de Strahd se haga visible. Sin embargo, si intentan escapar hacia el bosque, **los lobos gigantes** de Strahd —uno por cada jugador más Ireena— emergen de la niebla detrás de ellos, gruñendo y bloqueando su escape.
 
-The carriage then comes to a stop. Read the following, modifying the text as necessary if Ireena isn’t present, and pausing briefly after each paragraph to allow the players a short opportunity to act or react:
+La carroza se detiene entonces. Lee lo siguiente, modificando el texto según sea necesario si Ireena no está presente y haciendo una breve pausa después de cada párrafo para permitir que los jugadores actúen o reaccionen:
 
-<div class="description"><p>The driver releases the reins, steps down from the coach box, and moves to open the side door of the carriage, bowing deeply. A moment passes—and then a man steps out from the carriage.</p>
-<p>He is tall, gaunt, and dressed in finery befitting a man of aristocratic, even royal stature. A black cloak is pulled neatly around his shoulders, tied at the neck by a blood-red brooch. A longsword rests ensheathed at his hip, its polished hilt gleaming beneath the dim light. His scarlet tunic is worked with intricate designs, and his hair is pulled back into a sharp and immaculate widow's peak. </p><p>His eyes are dark, and as he moves to adjust the ruby at his neck, you see that his fingernails form long, elegant claws. It's only then that you realize that his skin is pale—unnaturally so— and that his eyes glint with a deep, intelligent hunger.</p></div>
+<div class="description"><p>El conductor suelta las riendas, baja del pescante y se mueve para abrir la puerta lateral de la carroza, haciendo una profunda reverencia. Pasa un momento—y entonces un hombre sale de la carroza.</p>
+<p>Es alto, demacrado y está vestido con ropajes dignos de un hombre de estirpe aristocrática, incluso real. Una capa negra se ajusta cuidadosamente alrededor de sus hombros, atada al cuello con un broche rojo sangre. Una espada larga descansa envainada en su cadera, su empuñadura pulida reluciendo bajo la tenue luz. Su túnica escarlata está adornada con intrincados diseños, y su cabello está peinado hacia atrás en una picuda y bien cuidada entrada.</p><p>Sus ojos son oscuros, y mientras se ajusta el rubí en su cuello, ves que sus uñas forman garras largas y elegantes. Solo entonces te das cuenta de que su piel es pálida, antinaturalmente pálida, y que sus ojos brillan con una profunda y astuta hambre.</p></div>
 
-If [[Non-Player Characters#Ireena Kolyana|Ireena]] is with the party, add:
+Si [[Personajes No Jugadores#Ireena Kolyana|Ireena]] está con el grupo, añade:
 
-<div class="description"><p>Ireena rocks backward, as if slapped. She averts her eyes from the man's gaze, her entire body tightening. "Don't look into his eyes," she chokes out.</p>
-<p>The man's gaze rests briefly on Ireena, and he smiles—though no warmth reaches his eyes. "Lady Kolyana," he says. "What a pleasant surprise." He then turns his gaze to you. </p></div>
+<div class="description"><p>Ireena se echa hacia atrás, como si hubiese recibido una bofetada. Aparta la mirada de la del hombre, y todo su cuerpo se tensa. "No lo mires a los ojos," susurra con la voz quebrada.</p>
+<p>La mirada del hombre reposa brevemente en Ireena, y sonríe, aunque ningún calor alcanza sus ojos. "Dama Kolyana," dice. "Qué agradable sorpresa." Luego, vuelve su mirada hacia ustedes. </p></div>
 
-Whether Ireena is with the party or not, add:
+Tanto si Ireena está presente con el grupo como si no, añade:
 
-<div class="description"><p>"Good day," he says. "I am Count Strahd von Zarovich—and it is a pleasure to finally meet the newcomers to my domain. My friends have told me so much about you." His eyes linger over each one of you in turn, regarding you like a cut of meat weighed at market, an intriguing but inanimate trinket—a prey animal spotted by a predator in the bush.</p></div>
+<div class="description"><p>"Buenos días," dice. "Soy el Conde Strahd von Zarovich— es un placer finalmente conocer a los recién llegados a mi dominio. Me han hablado mucho sobre vosotros." Sus ojos se detienen en cada uno de ustedes, mirándolos como si fueran carne a ser pesada en el mercado, un objeto intrigante pero inanimado—una presa vista por un depredador en el bosque.</p></div>
 
 > [!lore]+ **Strahd’s Foretelling**
 >
