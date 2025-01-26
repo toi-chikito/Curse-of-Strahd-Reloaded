@@ -61,7 +61,7 @@ If the players again refuse the invitation or continue to stall, Rahadin shakes 
 If the players make no move to stop him, Rahadin then moves toward the door, pauses, and quietly notes that, despite his own misgivings, he would not be surprised if his master holds open the invitation regardless, should the players change their minds. He then departs.
 
 > [!abstract]+ **Ezmerelda’s Advice**
-> If told of Strahd’s invitation once recruited to their cause in [[Arc K - The Fallen Abbey]], Ezmerelda d’Avenir eagerly advises the players to accept it—if they haven’t already—as a means to scope out the castle in advance of retrieving the *Icon of Ravenloft* in [[Arc K - The Fallen Abbey]], rescuing the **werewolf** Emil Toranescu in [[Arc L - The Den of Wolves]], and/or recovering Argynvost’s skull in [[Arc M - The Dragon's Manor]].
+> If told of Strahd’s invitation once recruited to their cause in [[Arc K - The Fallen Abbey]], Ezmerelda d’Avenir eagerly advises the players to accept it—if they haven’t already—as a means to scope out the castle in advance of retrieving the *Icon of Dawn's Grace* in [[Arc K - The Fallen Abbey]], rescuing the **werewolf** Emil Toranescu in [[Arc L - The Den of Wolves]], and/or recovering Argynvost’s skull in [[Arc M - The Dragon's Manor]].
 >
 > Ezmerelda notes, however, that she has *not* been invited to the dinner, and therefore can’t attend openly. She’s willing, though, to pursue her own independent course of action while the players dine with Strahd. At the players’ suggestion, she might spend the evening guarding Ireena, secretly surveying the castle grounds for alternate entrances and possible guards (though she won’t enter the castle itself alone), or taking some other action to further the party’s interests.
 
@@ -479,7 +479,7 @@ While Sasha is gone, Strahd continues to engage the players in smalltalk, posing
 > [!lore]+ **Strahd’s Opinions**
 > If asked about the following residents or factions of Barovia, Strahd can share the following opinions:
 >
-> * ***Werewolf Pack.*** “A pack of feral animals, and twice as unwieldy. Still, with their excesses properly tamed, they have their uses."
+> * ***Werewolf Pack.*** “A pack of feral animals, and twice as unruly. Still, with their excesses properly tamed, they have their uses."
 >
 > * ***Forest Folk.*** “They have none of their ancestors’ grace, and little of their wisdom. Their fanaticism, though flattering, occasionally leaves an unpleasant taste in one’s mouth. A lord who revels in worship is a fool, not a god."
 >
@@ -640,7 +640,7 @@ As he guides the players through this area, Strahd shares that the castle was bu
 
 This area is largely as described in <span class="citation">K15. Chapel (p. 57)</span>, <span class="citation">K16. North Chapel Access (p. 58)</span>, <span class="citation">K17. South Chapel Access (p. 58)</span>, <span class="citation">K18. High Tower Staircase (p. 58)</span>, <span class="citation">K29. Creaky Landing (p. 62)</span>, and <span class="citation">K28. King’s Balcony (p. 62)</span>. 
 
-However, remove the remains of Gustav Herrenghast and the *Icon of Ravenloft* from the Chapel. In addition, remove any reference to these remains, the *Icon of Ravenloft*, and the “piercing shaft of light" from this area’s description. In addition, remove the two **Strahd zombies** from the King’s Balcony.
+However, remove the remains of Gustav Herrenghast and the *Icon of Ravenloft* (renamed in this guide as the *Icon of Dawn's Grace*) from the Chapel. In addition, remove any reference to these remains, the *Icon of Ravenloft*, and the “piercing shaft of light" from this area’s description. In addition, remove the two **Strahd zombies** from the King’s Balcony.
 
 Upon entering the chapel, Strahd reminisces aloud: “I recall the day Prefect Ciril Romulich first dedicated this sacred hall to the glory of the Morninglord. Each man and woman had such faith in the power of his consecration—yet behold what it has become." He shakes his head, then asks the players, curiously: “What is it that you have faith in?"
 
@@ -772,7 +772,7 @@ The conversation then unfolds as follows unless the players intervene:
 * Ludmilla turns to Diavola and instructs her to “deliver her report to the Master."
 * Diavola casts her eyes toward the ground as she bows hurriedly toward Strahd, stammering: “Forgive me, Great One. The lightning has scorched the runes inscribed into the upper tower. The bridge—it will not work until the runes are freshly cast."
 * Strahd asks Diavola coldly if she can re-cast the tower runes. She nods, wringing her hands and licking her lips, and adds, “Yes—but I would require the aid of the full coven. And even then, it could take us until morning."
-* “Then see that it is done by then," Strahd replies sternly. “You are dismissed." Diavola bows deeply, then flees up <span class="citation">K21. North Tower Stair (p. 59)</span> until she reaches <span class="citation">K54. Familiar Room (p. 71)</span>, where she rejoins the other **Barovian witches**.
+* “Then see that it is done by then," Strahd replies sternly. “You are dismissed." Diavola bows deeply, then flees up <span class="citation">K21. South Tower Stair (p. 59)</span> until she reaches <span class="citation">K54. Familiar Room (p. 71)</span>, where she rejoins the other **Barovian witches**.
 
 Strahd then turns to the players and apologizes again for the inconvenience, noting that it appears unlikely that he will be able to send them home via the carriage that evening. “Should you wish it, I would be more than glad to have rooms prepared for the night," he promises. “Our guest quarters are warm and comfortable, and in far better condition than many other chambers of the castle." 
 
@@ -834,7 +834,33 @@ If Escher is the players' guide, he is curt and visibly slouching as he shows th
 > > [!info]- **Second Floor (2F). Court of the Count** 
 > > If a player ascends only one floor up <span class="citation">K21. South Tower Stair (p. 59)</span> from <span class="citation">K9. Guests’ Hall (p. 56)</span>, the door leading to <span class="citation">K30. King’s Accountant (p.62)</span> is locked, requiring a successful DC 15 Dexterity (Thieves’ Tools) check to open without alerting Rahadin.
 > >
-> > * **King’s Accountant.** This area is largely as described in <span class="citation">K30. King’s Accountant (p. 62)</span>. However, Lief greets any intruders with wariness and suspicion, and threatens to pull his rope to summon the castle’s guards if the players threaten him or the treasures he guards.
+> > * **King’s Accountant.** This area is largely as described in <span class="citation">K30. King’s Accountant (p. 62)</span>. However, Lief Lipsiege is a lawful neutral **wight** with no attacks. When the players first approach, notice, or interact with him, read:
+> > 
+> > <hr>
+> > 
+> > The corpselike figure atop the stool is—or once was—an elderly man, clad in a high-collared, once-crisp white shirt, a deep brown vest, and a light pink ascot, all of which have grown faded and rotted with the ravages of age. His thinning, white-haired combover is neatly parted over his pallid, wrinkled forehead, and his gaunt, ash-gray face is framed by an impressively thick pair of mutton chops. His near-skeletal hands tremble slightly as he scribbles along a crumbling parchment scroll, his gray eyes never once flickering in your direction.
+> > 
+> > <hr>
+> > 
+> > Lief is not chained to his wooden desk. However, he won’t leave the room voluntarily under any circumstances. 
+> > 
+> > If treated with kindness and allowed to ramble regarding Strahd’s assorted riches, conquests, and tax assessments, Lief eventually (and accidentally) mentions the location of <span class="citation">K41. Treasury (p. 67)</span>, rather than that of the *Holy Symbol of Ravenkind*. Read:
+> > 
+> > <hr>
+> > 
+> > "If only Count Strahd would let me properly tabulate the items he’s added to the old treasury over the years," Lief grumbles. “Too many trinkets and baubles, all layered in dust. No ledger entries, no tallies, and he expects the numbers to match!" The old wight scratches his chin, grunting. “At least the old girl keeps an eye on them, bless her heart. A dreadful business when she was alive, though. A right shame."
+> > 
+> > <hr>
+> > 
+> > > [!lore]- **Lief Lipsiege**
+> > > When Khazan first became Strahd’s arcane advisor four centuries ago, Strahd already had the additional services of Lief Lipsiege, an elderly master accountant wholly dedicated to his work. Unwilling to lose Lief’s services when he died, Strahd—after promising Lief his salary would continue to fund his siblings and their descendants—worked with Khazan to transform Lief into a **wight**, thereby allowing Lief to continue his life’s work even into undeath. Since then, Lief has obediently served as Strahd’s accountant, though his mind has grown scattered and his memory full of holes over the many years since his death.
+> > > 
+> > > Lief then continues to ramble. If stopped and further questionned regarding “the old girl" he mentioned, Lief pauses to remember, then recalls aloud that she was “the red-haired woman." If Ireena is present, he jabs a withered finger in her direction and adds, “Like her." (Though he doesn’t remember her name or what happened to her, Lief is referring to the portrait of Tatyana Federovna.) 
+> > > 
+> > > If asked how to access the “old treasury," Lief is willing to help the players only if they first promise to fully tabulate and log the items found therein, and to avoid taking any for themselves. (“Count Strahd always finds out," he wheezes, wagging a bony finger at them.) Players who intend to steal from the treasury can convince Lief of their good faith by succeeding on a DC 12 Charisma (Deception) check. If they do, Lief abashedly admits that he doesn’t recall the proper way to enter, but does remember that it involved “poking" something in the third-floor study. (Lief doesn’t remember it, but he’s referring to the poker mechanism by the fireplace in <span class="citation">K37. Study (p. 66)</span>.
+> > > 
+> > > <hr>
+> > > 
 > >
 > > * **Audience Hall.** This area is largely as described in <span class="citation">K25. Audience Hall (p. 61)</span>. However, shortly after a player enters this room, Strahd uses his ***shapechange*** feature to secretly enter the room in mist form from <span class="citation">K19. Grand Landing (p. 58)</span>, surprising any player with a passive Wisdom (Perception) score of 26 or below. Strahd then assumes his true form and amusedly chides his “curious friend" for “wandering amidst the shadows." After asking whether the castle’s guest quarters were not to their liking, he asks if they require him to escort them to their rooms. “After all," he adds, his eyes glinting in the darkness, “we wouldn’t want you getting lost again."
 >
