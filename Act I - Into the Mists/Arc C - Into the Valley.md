@@ -224,17 +224,22 @@ Los jugadores pueden lograr estas concesiones con diversos argumentos, incluyend
 * Los jugadores no han tomado ninguna acción hostil contra Strahd y se les debe conceder la presunción de inocencia.
 * Las acciones de los jugadores en la Casa de la Muerte se realizaron en defensa propia y, por lo tanto, deben ser excusadas.
 
+
 Si los jugadores parecen dudar de la fidelidad de Strahd a sus concesiones, [él promete](https://www.reddit.com/r/CurseofStrahd/comments/e99hko/an_anthology_of_strahds_taunts_and_quips/): "No temáis, queridos niños. No soy un mentiroso. Ambos sabemos que el engaño es para los débiles."
 
 Cuando los jugadores hayan respondido a todas las preguntas de Strahd a su satisfacción, él se despide y regresa al carruaje negro.
 
 Cuando lo hace, los **lobos terribles** de Strahd—uno por cada jugador más Ireena—emergen del bosque, si aún no lo han hecho, y se colocan flanqueando el carruaje. Strahd señala que él y sus “amigos” volverán a ver a los jugadores—quizás muy pronto. El carruaje y los lobos luego parten hacia el Castillo Ravenloft.
-
 ## C2e. Partiendo del Cruce
 Cuando los jugadores se preparan para dejar el Cruce del Río Ivlis después de la partida de Strahd, se encuentran con <span class="citation">El Colgado (p. 35)</span>. El personaje colgado de la horca debe ser el que fue más grosero con Strahd o el menos cooperativo con sus preguntas.
 
 # C3. El Strix
 A mitad del camino desde el Cruce del Río Ivlis hasta el Campamento de la Piscina de Tser, los jugadores escuchan el sonido de un pájaro angustiado graznando desde arriba. Un cuervo con las puntas de las alas azules—reconocible como el mismo cuervo que se encontraron en el pueblo de Barovia—se estrella contra el camino a los pies de los jugadores, visiblemente herido. Este es, nuevamente, el **hombre cuervo** Muriel, disfrazada y con 1 punto de golpe. Sus alas y torso han sido atravesados por varias docenas de púas de plata, dejándola incapaz de volar, regenerarse o transformarse hasta que sean retiradas.
+
+> [!info]+ **NPCs Moribundos**
+>
+> Como se indica en Monstruos y Muerte (<span class="citation">Manual del Jugador, p. 198</span>), los personajes no jugadores aliados, como Muriel Vinshaw y cualquier otro PNJ que luche junto a los jugadores, deben quedar inconscientes al ser reducidos a 0 puntos de golpe. Cuando esto ocurre, siguen las mismas reglas para las tiradas de salvación por muerte que los personajes jugadores, descritas con más detalle en Tiradas de Salvación por Muerte (<span class="citation">Manual del Jugador, p. 197</span>).
+
 
 La llegada del cuervo es seguida poco después por un terrible chillido estridente y la aparición de un **Strix mayor**: un gran “pájaro” artificial hecho de madera, pieles de animales, arpillera y cientos de plumas negras de cuervo.
 
@@ -322,7 +327,6 @@ Si descubre que los jugadores planean viajar a Vallaki, Muriel viaja con ellos m
 
 > [!info]+ **Muriel Incógnita**
 > Mientras viaja con los jugadores, Muriel trata de mantener un perfil bajo mientras se gana la confianza del grupo. Mientras está en forma de cuervo, los jugadores solo pueden comunicarse con ella usando el conjuro *hablar con animales*, aunque ella niega todo conocimiento sobre Strahd o los orígenes del Strix y finge ser un cuervo ordinario y simple preocupado únicamente por la comida y evitar depredadores. Si le preguntan su nombre, insiste emocionada, y luego (si la cuestionan) tercamente, que su nombre es "Blue."
-> 
 > Mientras acompaña al grupo, Muriel puede usar su característica ***imitación*** para producir cualquiera de los siguientes sonidos para incitar o reaccionar ante los jugadores:
 > 
 > * **Silbido.** Para señalar secreto o precaución.
@@ -1430,7 +1434,7 @@ Stanimir's tale indicates the relationship between Strahd and the Vistani, there
 
 ***Tser Falls.*** The encounter with the revenant has been added to provide the players with a clear, though non-urgent hook to Argynvostholt. The revenant's responses are intentionally kept terse in order to ensure that the players learn little of the Order of the Silver Dragon until their meeting with Sir Godfrey Gwilym.
 
-***Meeting Morgantha.*** This scene has been intentionally structured to discourage the players from uncovering Morgantha's true identity, attacking the night hags, or entering Old Bonegrinder. (They will have a full opportunity to do so later in ***Arc I. The Lost Soul***.) Instead, this scene merely introduces Morgantha as a character, foreshadows her domain over dreams, and informs the players that she lives in the old windmill with her two daughters (i.e., her coven).
+***Meeting Morgantha.*** This scene has been intentionally structured to discourage the players from uncovering Morgantha's true identity, attacking the night hags, or entering Old Bonegrinder. (They will have a full opportunity to do so later in [[Arc H - The Lost Soul]].) Instead, this scene merely introduces Morgantha as a character, foreshadows her domain over dreams, and informs the players that she lives in the old windmill with her two daughters (i.e., her coven).
 
 ***The Deep Woods.*** The swarms of ravens have been added to ensure that the players view ravens (and, by extension, wereravens) as friends and allies. Ireena's reaction to Lake Zarovich has been added to further foreshadow her relationship to Izek and her origins in Vallaki.
 
