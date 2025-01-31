@@ -185,11 +185,29 @@ Tanto si Ireena está presente con el grupo como si no, añade:
 ## C2b. Comienza la conversación
 Si no es interrumpido, [[Strahd von Zarovich#The Gentleman|Strahd]] saluda a cada uno de los personajes jugadores individualmente—por su nombre, si sus espías han tenido la oportunidad de aprenderlos y comunicárselos. Mientras lo hace, hace un comentario personal sobre la especie, clase (si es evidente por su equipo o vestimenta) y/o personalidad de cada personaje (si sus espías le han informado al respecto). Si es posible, enmarca cada comentario en forma de un cumplido, observación simpática o (con moderación) una amenaza excepcionalmente velada.
 
+> Andreas, tengo entendido que haces uso un arma poco convencional. Debes de ser un ingenioso inventor, una lastima que tu salud se vea tan... frágil.
+
+> Tu debes de ser Franchesca, una muchacha de lo más capaz para la corta edad que posees. Me han dicho mis amigos que tus zarzas mantuvieron una gran parte de las fuerzas que asediaban.
+
+> Oh, el heroe de las llamas (jaja). Surtr, verdad? Hacía mucho que no veía a uno de los de tu especie. Sinceramente, no se si eres un valiente, o un insensato. Puede que simplemente seas ambas.
+
+> Tu debes de ser Echo. Vistes como un simple ladrón, pero tu habilidad con el arco dista de ser ordinaria, sin ninguna duda, has debido tener un buen adiestramiento. Veo que viajas con un cuervo de lo más peculiar, aunque no parece autóctono. ¿De donde lo sacaste?
+
+> Y por último, el hombre de fe, Esteban. Me han dicho que obras milagros. Tal vez puedas sustituir al viejo Donavich. Su ultima reunión familiar pareció dejarlo ciertamente trastocado. 
+
 Si [[Non-Player Characters#Ireena Kolyana|Ireena]] está presente, Strahd entonces pregunta si “Lady Kolyana” los ha presentado adecuadamente a su dominio, y se disculpa por cualquier “cuento popular” que sus súbditos puedan haber compartido sobre él.
+
+> Oh, Lady Kolyana, espero que les hayas presentado adecuadamente a mi dominio.
+> Pido disculpas por cualquier "cuento popular" que algunos de mis súbditos hayan podido compartir sobre mi.
 
 (Sin embargo, no niega su ataque al pueblo de Barovia, señalando únicamente que la gente del pueblo lo desafió en un acto de traición absoluta. "Estoy seguro de que pueden estar de acuerdo en que mi respuesta fue mesurada," dice. "Después de todo, ningún señor podría tolerar un asentamiento que fomentara tal sedición. La disciplina que les impartí fue una bondad que pocos otros se dignarían otorgar.")
 
+> SI SE QUEJAN DEL ATAQUE A BAROVIA:
+	Después del acto de traición absoluta que cometieron los habitantes del Pueblo de Barovia, estoy seguro de que podéis estar de acuerdo en que mi respuesta fue mesurada. Después de todo, ningún señor podría tolerar un asentamiento que fomente la sedición.
+
 A medida que avanza la conversación, Strahd señala que ha escuchado "cosas maravillosas" sobre las hazañas de los jugadores en "cierta vieja casa en el borde de mi dominio." Luego, Strahd hace una breve referencia a las acciones de los jugadores en la Casa de la Muerte, alabando con sarcasmo su "feroz y ardiente valor."
+
+> He odio cosas maravillosas sobre vuestras hazañas en cierta vieja casa a las afueras de mi dominio. Habéis demostrado un feroz y ardiente valor. Por lo que se, cierto clérigo fue capaz de desterrar al joven Walter de forma indefinida. Aunque, he de decir que causasteis un gran daño a un grupo de mis sirvientes—los ocupantes de una casa particular en los límites de mi dominio. Confiaba en esos sirvientes para traerme especímenes de interés, pero vuestras actividades los han dejado incapacitados indefinidamente. ¿Por qué no debería castigaros por vuestros crímenes contra ellos?
 
 Si los jugadores preguntan sobre la naturaleza de la Casa de la Muerte o su propósito al llevarlos a Barovia, Strahd sonríe fríamente y solo dice: "Las almas de los condenados son cosas trágicamente torcidas. No os detengáis en su locura."
 
@@ -233,10 +251,12 @@ Si los jugadores parecen dudar de la fidelidad de Strahd a sus concesiones, [él
 Cuando los jugadores hayan respondido a todas las preguntas de Strahd a su satisfacción, él se despide y regresa al carruaje negro.
 
 Cuando lo hace, los **lobos terribles** de Strahd—uno por cada jugador más Ireena—emergen del bosque, si aún no lo han hecho, y se colocan flanqueando el carruaje. Strahd señala que él y sus “amigos” volverán a ver a los jugadores—quizás muy pronto. El carruaje y los lobos luego parten hacia el Castillo Ravenloft.
+
+> Ha sido una agradable charla, pero me temo que voy a tener que retirarme. Tanto yo como mis amigos volveremos a veros, forasteros, quizá muy pronto. Buenas Tardes.
 ## C2e. Partiendo del Cruce
 Cuando los jugadores se preparan para dejar el Cruce del Río Ivlis después de la partida de Strahd, se encuentran con <span class="citation">El Colgado (p. 35)</span>. El personaje colgado de la horca debe ser el que fue más grosero con Strahd o el menos cooperativo con sus preguntas.
 
->Escuchas un ruido chirriante detrás de ti, proveniente del patíbulo. Donde antes no había nada, ahora cuelga un cuerpo gris y sin vida. La brisa hace girar lentamente a la figura ahorcada, hasta que fija sus ojos muertos en ti.
+>Escuchas un ruido chirriante detrás de vosotros, proveniente del patíbulo. Donde antes no había nada, ahora cuelga un cuerpo gris y sin vida. La brisa hace girar lentamente a la figura ahorcada, hasta que fija sus ojos muertos en ti.
 
 # C3. El Strix
 A mitad del camino desde el Cruce del Río Ivlis hasta el Campamento de la Piscina de Tser, los jugadores escuchan el sonido de un pájaro angustiado graznando desde arriba. Un cuervo con las puntas de las alas azules—reconocible como el mismo cuervo que se encontraron en el pueblo de Barovia—se estrella contra el camino a los pies de los jugadores, visiblemente herido. Este es, nuevamente, el **hombre cuervo** Muriel, disfrazada y con 1 punto de golpe. Sus alas y torso han sido atravesados por varias docenas de púas de plata, dejándola incapaz de volar, regenerarse o transformarse hasta que sean retiradas.
