@@ -75,7 +75,10 @@ Al acercarse los jugadores a esta zona, la lluvia ligera se detiene. Lee:
 
 Los jugadores han llegado al Cruce del Río Ivlis, descrito en su mayoría como en <span class="citation">Cruce del Río Ivlis (pág. 35)</span>. No verifiques si hay un encuentro aleatorio al llegar los jugadores.
 
-Esta escena comienza de forma similar a <span class="citation">Cruce del Río Ivlis (pág. 35)</span>. Sin embargo, la primera vez que los jugadores intenten partir hacia la Piscina Tser, en lugar de ver **El Colgado**, pueden escuchar el sonido de un carruaje tirado por caballos aproximándose a través de la niebla. Casi tan pronto como aparece el sonido, la carroza negra de Strahd, descrita en <span class="citation">Carroza Negra (pág. 37)</span> y <span class="citation">Casa de Carrozas (pág. 54)</span>, aparece a la vista.
+>Una vieja horca de madera cruje bajo el viento helado que sopla desde las tierras altas al oeste. Un trozo deshilachado de cuerda baila colgando de su viga. El camino, muy transitado, se divide aquí, y un poste con señales frente al patíbulo apunta en tres direcciones: Aldea de Barovia hacia el este, Tser Pool hacia el noroeste, y Ravenloft/Vallaki hacia el suroeste. La bifurcación hacia el noroeste desciende y desaparece entre los árboles, mientras que la bifurcación hacia el suroeste se aferra a una pendiente ascendente. Frente al patíbulo, un muro bajo, desmoronado en algunos lugares, encierra parcialmente un pequeño terreno de tumbas envuelto en niebla.
+
+
+Esta escena comienza de forma similar a <span class="citation">Cruce del Río Ivlis (pág. 35)</span>. Sin embargo, la primera vez que los jugadores intenten partir hacia la Poza Tser, en lugar de ver **El Colgado**, pueden escuchar el sonido de un carruaje tirado por caballos aproximándose a través de la niebla. Casi tan pronto como aparece el sonido, la carroza negra de Strahd, descrita en <span class="citation">Carroza Negra (pág. 37)</span> y <span class="citation">Casa de Carrozas (pág. 54)</span>, aparece a la vista.
 
 ## C2a. La Llegada de Strahd
 Los jugadores pueden ver a un conductor sentado en el pescante de la carroza: el **vástago vampírico** Escher, descrito en <span class="citation">K49. Salón (pág. 70)</span>. Si está presente, Ireena jadea al verlo, susurrando que creía que estaba muerto.
@@ -233,6 +236,8 @@ Cuando lo hace, los **lobos terribles** de Strahd—uno por cada jugador más Ir
 ## C2e. Partiendo del Cruce
 Cuando los jugadores se preparan para dejar el Cruce del Río Ivlis después de la partida de Strahd, se encuentran con <span class="citation">El Colgado (p. 35)</span>. El personaje colgado de la horca debe ser el que fue más grosero con Strahd o el menos cooperativo con sus preguntas.
 
+>Escuchas un ruido chirriante detrás de ti, proveniente del patíbulo. Donde antes no había nada, ahora cuelga un cuerpo gris y sin vida. La brisa hace girar lentamente a la figura ahorcada, hasta que fija sus ojos muertos en ti.
+
 # C3. El Strix
 A mitad del camino desde el Cruce del Río Ivlis hasta el Campamento de la Piscina de Tser, los jugadores escuchan el sonido de un pájaro angustiado graznando desde arriba. Un cuervo con las puntas de las alas azules—reconocible como el mismo cuervo que se encontraron en el pueblo de Barovia—se estrella contra el camino a los pies de los jugadores, visiblemente herido. Este es, nuevamente, el **hombre cuervo** Muriel, disfrazada y con 1 punto de golpe. Sus alas y torso han sido atravesados por varias docenas de púas de plata, dejándola incapaz de volar, regenerarse o transformarse hasta que sean retiradas.
 
@@ -345,11 +350,24 @@ El viaje desde el Cruce del Río Ivlis hasta el Campamento de la Piscina de Tser
 > En la actualización v2.0.8, añadida el **18 de julio de 2024**, se eliminó la invitación de Madam Eva en [[Act I - Into the Mists/Arc B - Welcome to Barovia]]. En su lugar, Ismark Kolyanovich ahora pide a los jugadores que viajen a Tser Pool y busquen la guía de Madam Eva sobre cómo puede ser derrotado Strahd. Los Dungeon Masters que usaron la versión anterior de Arc B deben usar en su lugar la [[Deprecated Material/Arc C - Into the Valley#C4. Tser Pool|versión obsoleta de esta escena]]. (Todas las demás escenas de este arco, comenzando con [[#C5. El Jinete Esquelético]], permanecen sin cambios).
 
 ## C4a. Llegada a Tser Pool
-Esta área es mayormente como se describe en <span class="citation">G. Campamento de la Piscina de Tser (p. 36)</span>. Sin embargo, ninguno de los Vistani en el campamento está intoxicado, y solo uno—una mujer Vistana llamada Eliza—sirve como espía de Strahd.
+Esta área es mayormente como se describe en <span class="citation">G. Campamento de la Poza de Tser (p. 36)</span>. Sin embargo, ninguno de los Vistani en el campamento está intoxicado, y solo uno—una mujer Vistana llamada Eliza—sirve como espía de Strahd.
 
 Cuando los jugadores entran al campamento, son recibidos por Stanimir, un anciano Vistana que les informa que la líder de su campamento, Madam Eva, los ha estado esperando y les señala la tienda de Eva. Stanimir, un hombre mayor jovial y colorido con un brillo en los ojos, es mayormente como se describe en <span class="citation">Visitantes Misteriosos (p. 19)</span>. Sin embargo, tiene preparado el conjuro *imagen mayor* en lugar de *toque vampírico*.
 
+>Stanimir Character sheet:
+>**Stanimir** *(CN male human)*, un hombre anciano con las estadísticas de un **mago**, tiene los siguientes conjuros preparados:
+>**Trucos (a voluntad):** *friends*, *light*, *mage hand*, *prestidigitation*  
+>**1.er nivel (4 espacios):** *charm person*, *mage armor*, *shield*, *sleep*  
+>**2.º nivel (3 espacios):** *misty step*, *suggestion*  
+>**3.er nivel (3 espacios):** *bestow curse*, *phantom steed*, *vampiric touch*  
+>**4.º nivel (3 espacios):** *greater invisibility*, *stoneskin*  
+>**5.º nivel (1 espacio):** *dominate person*  
+
+
 Stanimir está encantado de responder cualquier pregunta que los jugadores puedan tener sobre los Vistani o Barovia, como se describe en <span class="citation">Tradiciones Vistani (p. 27)</span>. Las únicas excepciones son la información sobre los barovianos sin alma, que no existen, y Old Bonegrinder, que Stanimir no menciona. Además, Stanimir y los otros Vistani no saben que un aquelarre de **brujas nocturnas** se ha asentado recientemente en el viejo molino, al que solo conocen como el Molino de los Durst. Los Vistani tampoco mencionan las maldiciones Vistani, que son mera superstición, y describen el interés de Strahd en Tatyana como "verdadero deseo" en lugar de "verdadero amor."
+[[Lore Vistani]]
+
+
 
 Sin embargo, Stanimir no discutirá los asuntos de Strahd en Tser Pool. En cambio, comparte su creencia de que Strahd no regresará pronto y asegura a los jugadores que cualquier cosa discutida en su reunión con Madam Eva no llegará a oídos del vampiro.
 
@@ -470,21 +488,42 @@ Da a los jugadores unos minutos lejos de la mesa para planificar sus historias a
 >
 > Más allá de esta marca, estas criaturas poseen una extraordinaria resistencia. Los métodos convencionales de daño resultan ineficaces para someter permanentemente a un hombre lobo. Solo a través del mordisco de plata o el frío del poder de la muerte un hombre lobo puede ser verdaderamente puesto a descansar.
 >
-> Un conjuro de remoción también puede curar a un licántropo afligido, aunque aquellos que aceptan la bestia pueden resistirse con amargura. Para aquellos desafortunados nacidos bajo la maldición, están condenados a soportar su aflicción de por vida. Hasta donde mi investigación ha mostrado, no existe cura, ni respiro para tales individuos. Están atrapados en una lucha eterna, siempre perseguidos por el lobo interior.
+> Un conjuro de remoción (removal) también puede curar a un licántropo afligido, aunque aquellos que aceptan la bestia pueden resistirse con amargura. Para aquellos desafortunados nacidos bajo la maldición, están condenados a soportar su aflicción de por vida. Hasta donde mi investigación ha mostrado, no existe cura, ni respiro para tales individuos. Están atrapados en una lucha eterna, siempre perseguidos por el lobo interior.
 >
 ### El Relato de Stanimir
 Stanimir es el primero, contando el mismo relato que se describe en <span class="citation">El Fuego Danzante (p. 20)</span>. Sin embargo, excluye el párrafo final, y en su lugar termina con la frase: “La figura en el fuego danzante vence a su último enemigo, luego se dispersa en una nube de humo y brasas.” Durante su relato, los jugadores pueden notar a Stanimir usando el conjuro *imagen mayor* para crear las formas en las llamas.
+
+
+<div class="description">
+    <p>Stanimir llena su boca con vino y luego lo escupe al fuego. Las llamas cambian de naranja a verde. Mientras bailan y se agitan, una figura oscura aparece en el corazón de la hoguera.</p>
+    
+    <p>“Venimos de una tierra antigua cuyo nombre ha sido olvidado hace mucho—una tierra de reyes. Nuestros enemigos nos expulsaron de nuestros hogares, y ahora vagamos por los caminos perdidos.”</p>
+    
+    <p>La sombra en el fuego toma la forma de un hombre siendo derribado de su caballo, con una lanza atravesando su costado.</p>
+    
+    <p>Stanimir continúa: “Una noche, un soldado herido llegó tambaleándose a nuestro campamento y colapsó. Cuidamos su terrible herida y calmamos su sed con vino. Sobrevivió. Cuando le preguntamos quién era, no quiso decirlo. Solo deseaba volver a casa, pero estábamos en lo profundo de la tierra de sus enemigos. Lo acogimos como a uno de los nuestros y lo escoltamos de regreso a su patria. Sus enemigos lo perseguían. Decían que era un príncipe, pero no lo entregamos, incluso cuando sus asesinos cayeron sobre nosotros como lobos.”</p>
+    
+    <p>En lo más profundo de la hoguera, ves a la figura oscura de pie con la espada desenvainada, luchando contra una multitud de sombras.</p>
+    
+    <p>“Este hombre de sangre real luchó para protegernos, como nosotros lo protegimos a él. Lo llevamos a salvo hasta su hogar, y nos agradeció. Dijo: ‘Les debo mi vida. Quédense cuanto deseen, márchense cuando lo elijan, y sepan que siempre estarán seguros aquí.’”</p>
+	
+	<p>La figura en el fuego danzante vence a su último enemigo, luego se dispersa en una nube de humo y brasas.</p>
+</div>
+
 
 Cuando su relato termina y todos los participantes hacen sus conjeturas—Eliza y Arturi al final, con Eliza votando "Verdadero" y Arturi votando "Medio Verdadero"—Stanimir revela que su historia era, de hecho, un relato verdadero del pueblo Vistani, y que el príncipe herido vivió como amigo de los Vistani, incluso cuando su corazón fue desviado por sombras y niebla. (Si se le pregunta, Stanimir admite que el príncipe era Strahd von Zarovich en los días antes de llegar a Barovia, y que su promesa a los Vistani es la razón por la cual permanecen en el valle hasta hoy, “sin temor ni favor.”)
 
 ### El Relato de Eliza
 Después de que uno de los jugadores haya contado su historia, Eliza comparte la siguiente:
 
-<div class="description"><p>“Se dice que dentro de cada cuervo revolotea un alma perdida, y que cada canción de un cuervo cuenta un relato de épocas pasadas. Escuchad con atención.”</p>
-<p>Toma una respiración profunda; cuando habla de nuevo, su voz es suave, con una cualidad melódica y escalofriante.</p>
-<p>“Cantad, cuervos, de Barovia, nacida de las brumas y bañada en crepúsculo. Cantad de Lugdana, la firme del Señor del Alba, tocada por el amanecer y enemiga de la oscuridad profunda...</p>
-<p>[Texto traducido...]</p>
-<p>“Cantad, cuervos; sois los guardianes, los observadores, los narradores de historias no contadas. Cantad, cuervos, de la memoria de Lugdana, las sombras que acechan y los héroes por venir.”</p></div>
+<div class="description"><p>"Se dice que dentro de cada cuervo revolotea un alma perdida, y que cada canto de cuervo cuenta una historia de tiempos pasados. Susurran, así que escucha con atención."</p>
+<p>Toma una profunda bocanada de aire; cuando habla de nuevo, su voz es suave, con una cualidad melódica y etérea.</p>
+<p>"Cantad, cuervos, de Barovia, nacida de las brumas y bañada en el crepúsculo. Cantad de Lugdana, la firme del Alba, adversaria del Señor Oscuro que acecha en las profundidades. El Símbolo Sagrado de la Estirpe Cuervo, su radiante testamento, el faro del guerrero de inquebrantable fe."</p>
+<p>"Cantad, cuervos, del ascenso de Chernovog, llamado Dios Verde y Señor Demonio sobre la Colina Yester. Lugdana, de cabellos grises, cansada de la batalla, su espada y escudo aún pulidos y listos. Guiada entre sombras, hacia suelo sagrado, se enfrentó al demonio en una danza tempestuosa."</p>
+<p>"Cantad, cuervos, de la última furia de Lugdana, del emblema de la Estirpe Cuervo resplandeciendo con luz. El destino de la batalla cambiando, el valiente grito de la heroína, un último asalto con la gracia de la divinidad. El Señor Demonio desterrado, la guerrera caída, la herida en su costado demasiado profunda para soportar."</p>
+<p>"Cantad, cuervos, de los últimos momentos de la luz, de la sombra descendiendo desde la radiante altura. Cantad del ángel, de plumas negras y pico afilado, el ángel del Señor del Alba reclamando su don. El Símbolo arrebatado, sostenido en las garras de los cuervos."</p>
+<p>"Cantad, cuervos; sois los guardianes, los vigilantes, los narradores de historias aún no contadas. Cantad, cuervos, en memoria de Lugdana, de las sombras que acechan y de los héroes por venir."</p></div>
+
 
 Cuando su relato termina y todos los participantes hacen sus conjeturas—Stanimir y Arturi al final, con Stanimir votando "Verdadero" y Arturi votando "Falso"—Eliza revela que su historia era medio verdadera.
 
