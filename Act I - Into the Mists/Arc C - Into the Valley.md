@@ -372,6 +372,16 @@ El viaje desde el Cruce del Río Ivlis hasta el Campamento de la Piscina de Tser
 ## C4a. Llegada a Tser Pool
 Esta área es mayormente como se describe en <span class="citation">G. Campamento de la Poza de Tser (p. 36)</span>. Sin embargo, ninguno de los Vistani en el campamento está intoxicado, y solo uno—una mujer Vistana llamada Eliza—sirve como espía de Strahd.
 
+>LEER:
+
+>El camino se desvanece gradualmente y es reemplazado por un sendero retorcido y fangoso que serpentea entre los árboles. Profundos surcos en la tierra evidencian el ir y venir de los carros.
+
+>El dosel de niebla y ramas cede repentinamente ante nubes negras que hierven en lo alto. Se abre un claro junto a un río que se ensancha para formar un pequeño lago de varios cientos de pies de ancho. Cinco coloridas tiendas redondas, cada una de diez pies de diámetro, están levantadas fuera de un círculo de cuatro carromatos de techo abovedado. Cerca de la orilla del lago, una tienda mucho más grande y de forma decadente brilla con una tenue luz interior. Junto a ella, ocho caballos sin brida beben del río.
+
+>Las melancólicas notas de un acordeón se mezclan con el canto de varias figuras vestidas con ropajes brillantes alrededor de una hoguera. Un sendero continúa más allá del campamento, serpenteando hacia el norte entre el río y el borde del bosque.
+
+
+
 Cuando los jugadores entran al campamento, son recibidos por Stanimir, un anciano Vistana que les informa que la líder de su campamento, Madam Eva, los ha estado esperando y les señala la tienda de Eva. Stanimir, un hombre mayor jovial y colorido con un brillo en los ojos, es mayormente como se describe en <span class="citation">Visitantes Misteriosos (p. 19)</span>. Sin embargo, tiene preparado el conjuro *imagen mayor* en lugar de *toque vampírico*.
 
 >Stanimir Character sheet:
@@ -395,6 +405,22 @@ Si los jugadores preguntan si Strahd obtuvo un augurio de Madam Eva, Stanimir le
 
 ## C4b. La Tienda de Madam Eva
 Esta escena se desarrolla mayormente como se describe en <span class="citation">La Tienda de Madam Eva (p. 37)</span>. Después de saludar a los jugadores, [[Non-Player Characters#Madam Eva|Madam Eva]] nombra personalmente a cada personaje jugador, dándoles uno o más epítetos simbólicos relacionados con sus historias, sus metas y/o sus capacidades.
+
+>Llamas mágicas proyectan un resplandor rojizo sobre el interior de la tienda, revelando una mesa baja cubierta con un mantel de terciopelo negro. Destellos de luz parecen parpadear desde una bola de cristal sobre la mesa, mientras una figura encorvada observa sus profundidades. 
+
+>Cuando la anciana habla, su voz crepita como hierbas secas. "¡Por fin han llegado!" Una risa estridente estalla de sus labios marchitos, como relámpagos de locura.
+
+
+>Hmm Andreas Tadelli. Ohhh, todo un ingeniero. Pero necesitarás algo más que alquimia para salvar tu cuerpo del mal que lo atormenta.
+
+> Esteban Kuusi. Ohhh, la desesperación te llevo a tratar de evitar lo imposible. Solo un gran poder divino podrá enmendar tus errores.
+
+>Surtr Hazarim. Una vez fuiste engañado y convertido en una espada ejecutora portada por la oscuridad. Sin embargo, la sed de venganza que ahora te arde en el pecho volverá a empujarte hacia las tinieblas, pero esta vez eliminado cualquier rastro de mal que se cruce en tu camino.
+
+>Franchesca Verdeflor. Una pequeña chica con grandes metas, determinada a salvar todo lo que le importa y a restaurar finalmente el equilibrio.
+
+>Oh… Echo. La traición ha marcado profundas grietas en tu espíritu, y en ellas la oscuridad susurrará, anhelando filtrarse hasta lo más profundo de tu ser.
+
 
 > [!profile]+ **Perfil: Madam Eva**
 >
@@ -430,7 +456,7 @@ Independientemente de la respuesta de los jugadores, Madam Eva responde negando 
 Cuando los jugadores se preparan para irse, Madam Eva se detiene y cierra los ojos, aunque poco después los abre de par en par. Lee lo siguiente:
 
 <div class="description"><p>La voz de Madam Eva es un siseo bajo mientras habla, su silueta danzando bajo la luz parpadeante de las velas. "Una sombra se acerca a mi tienda: un solitario servidor de la Oscuridad. Busca conocimiento de vuestro futuro—secretos que estoy jurada a nunca revelar a nadie excepto a sus dueños." </p>
-<p>“No miréis, niño, ni os apresuréis a saludarlo; si descubre vuestras verdaderas aspiraciones, todo podría perderse. No reveléis, ni siquiera, que conocéis su verdadera naturaleza, porque su maestro sabrá que os lo he contado, y su ira caerá sobre todos nosotros."</p></div>
+<p>“No miréis, niños, ni os apresuréis a saludarlo; si descubre vuestras verdaderas aspiraciones, todo podría perderse. No reveléis, ni siquiera, que conocéis su verdadera naturaleza, porque su maestro sabrá que os lo he contado, y su ira caerá sobre todos nosotros."</p></div>
 
 ## C4c. Hospitalidad Vistani
 Al salir de la tienda de Madam Eva, los jugadores encuentran a otros dos Vistani esperando afuera: una mujer llamada Eliza y un hombre llamado Arturi Radanavich. Stanimir se une al grupo unos momentos después.
@@ -496,20 +522,28 @@ Da a los jugadores unos minutos lejos de la mesa para planificar sus historias a
 
 > [!lore]+ **El Manuscrito de Arturi**
 >
-> El manuscrito de Arturi—escrito por el Dr. Rudolph van Richten—está escrito a mano y tiene dos páginas de largo. Se titula "Un Estudio de la Maldición del Hombre Lobo," y dice lo siguiente:
+> El manuscrito de Arturi—escrito a mano por el Dr. Rudolph van Richten—tiene dos páginas y lleva por título *"Un Estudio sobre la Maldición del Hombre Lobo"*. Su contenido es el siguiente:
 >
 ><hr>
 >
-> Los hombres lobo están entre los licántropos más temibles, portando una maldición tan antigua como aterradora. Para ellos, la aflicción de la licantropía transforma incluso al más civilizado de los individuos en una bestia monstruosa, distorsionando las líneas entre el hombre y la naturaleza.
+> Los hombres lobo son de los licántropos más temibles, portadores de una maldición tan antigua como aterradora. Para ellos, la aflicción de la licantropía transforma incluso al individuo más civilizado en una bestia monstruosa, desdibujando los límites entre el hombre y la naturaleza.
 >
-> [Texto traducido del manuscrito...]
+> En su forma humanoide, un hombre lobo conserva muchas de las características de su identidad original, salvo por ciertos matices, como sentidos agudizados, un temperamento explosivo y una extraña preferencia por la carne cruda. Con el tiempo, comienzan a manifestarse rasgos sutiles que insinúan su naturaleza bestial. No obstante, es en sus formas de lobo e híbrida donde se revela el verdadero horror de la maldición. La forma híbrida de un hombre lobo es particularmente aterradora: un cuerpo humanoide musculoso coronado por la cabeza de un lobo voraz. Es capaz de empuñar armas, aunque sus medios de ataque preferidos son sus devastadoras garras y su poderosa mordida.
 >
-> Una forma segura de identificar a un individuo afligido es la presencia de una herida perpetuamente sangrante: la cicatriz de la transmisión inicial de la maldición. Esta herida nunca se cura por completo hasta que la maldición se levanta.
+> Los hombres lobo suelen abandonar la civilización poco después de su transformación. Aquellos que rechazan la maldición huyen por miedo a dañar a sus seres queridos, mientras que los que la aceptan temen ser descubiertos y las repercusiones de sus actos violentos. En la naturaleza, forman manadas y conviven con lobos comunes y lobos terribles por igual.
 >
-> Más allá de esta marca, estas criaturas poseen una extraordinaria resistencia. Los métodos convencionales de daño resultan ineficaces para someter permanentemente a un hombre lobo. Solo a través del mordisco de plata o el frío del poder de la muerte un hombre lobo puede ser verdaderamente puesto a descansar.
+> El aspecto más trágico de la licantropía es su transmisión. Un humanoide puede contraer esta maldición mediante una herida infligida por un licántropo o por herencia, si uno o ambos de sus padres son hombres lobo.
 >
-> Un conjuro de remoción (removal) también puede curar a un licántropo afligido, aunque aquellos que aceptan la bestia pueden resistirse con amargura. Para aquellos desafortunados nacidos bajo la maldición, están condenados a soportar su aflicción de por vida. Hasta donde mi investigación ha mostrado, no existe cura, ni respiro para tales individuos. Están atrapados en una lucha eterna, siempre perseguidos por el lobo interior.
+> Los malditos tienen dos caminos: resistir a la bestia interior o abrazarla. Aquellos que resisten soportan una tensión incesante, hasta que la llegada de la luna llena desencadena una transformación compulsiva y horrible. Estas personas a menudo experimentan sueños sangrientos y perturbadores: ecos de la carnicería desatada en su locura.
 >
+> Algunas almas retorcidas, sin embargo, eligen aceptar su naturaleza bestial. Con el tiempo, pueden dominar sus habilidades, invocando la resistencia y la fuerza del lobo a voluntad. Sin embargo, para lograrlo, primero deben llevar a cabo un acto particularmente espantoso y vil—uno que me abstendré de describir en estas páginas.
+>
+> Una manera segura de identificar a un individuo afligido es la presencia de una herida perpetuamente abierta y sangrante: la cicatriz de la transmisión de la maldición. Esta herida nunca se cura completamente hasta que la maldición es levantada.
+>
+> Más allá de esta marca, estas criaturas poseen una resistencia extraordinaria. Los métodos convencionales de daño resultan ineficaces para someter permanentemente a un hombre lobo. Solo la mordida de la plata o el frío poder de la muerte pueden darle el descanso eterno.
+>
+> Un hechizo de eliminación también puede curar a un licántropo afligido, aunque aquellos que han aceptado a la bestia pueden resistirse ferozmente. En cuanto a aquellos desafortunados que nacieron bajo la maldición, están condenados a soportar su aflicción de por vida. Hasta donde mi investigación ha demostrado, no existe cura ni alivio para tales individuos. Están atrapados en una lucha eterna, perseguidos para siempre por el lobo dentro de ellos.
+
 ### El Relato de Stanimir
 Stanimir es el primero, contando el mismo relato que se describe en <span class="citation">El Fuego Danzante (p. 20)</span>. Sin embargo, excluye el párrafo final, y en su lugar termina con la frase: “La figura en el fuego danzante vence a su último enemigo, luego se dispersa en una nube de humo y brasas.” Durante su relato, los jugadores pueden notar a Stanimir usando el conjuro *imagen mayor* para crear las formas en las llamas.
 
@@ -655,9 +689,15 @@ La figura es Madam Eva. No responde si se le llama y espera a que los jugadores 
 
 Si se le pregunta más, Madam Eva levanta una mano, luego se gira silenciosamente para mirar hacia el cementerio sin nombre cerca de la horca. La Marcha de los Muertos, como se describe en <span class="citation">Marcha de los Muertos (p. 48)</span>, comienza poco después.
 
+>Una inquietante luz verde impregna el cementerio. De esta luz emerge una procesión fantasmal. Imágenes vacilantes de valientes mujeres portando enormes espadas, hombres diestros en la madera con arcos esbeltos, enanos con hachas resplandecientes y magos de vestimentas arcaicas, barbas largas y extraños sombreros puntiagudos—todos ellos y muchos más marchan desde el cementerio, aumentando en número con cada segundo que pasa.
+
+
 Una vez que la Marcha comienza, Madam Eva informa a los jugadores: "Cada espíritu en esta marcha comparte un rasgo común. ¿Podéis suponer cuál podría ser?" Si los jugadores responden correctamente, luego pregunta: "¿A dónde suponéis que podrían dirigirse?"
 
 Independientemente de la respuesta de los jugadores, Madam Eva comparte la información sobre la Marcha proporcionada en <span class="citation">Marcha de los Muertos (p. 48)</span>, ya sea en respuesta a las preguntas de los jugadores o por iniciativa propia una vez que la Marcha ha partido completamente del cementerio.
+
+>Estos no son los espíritus de las personas enterradas aquí, sino de antiguos aventureros que murieron intentando destruir a Strahd. Cada noche, los aventureros fantasmales intentan completar su misión, y cada noche fracasan. No tienen interés en los vivos y no pueden ser golpeados, dañados ni repelidos. No se comunicarán con los personajes.
+
 
 "Este es el precipicio sobre el que camináis," les advierte una vez que la Marcha ha partido. "Hay muchos caminos entre las telarañas del Destino, pero solo puedo ver lo que *puede* ser—no lo que será. Puedo deciros lo que *debéis* hacer, pero no puedo asegurar que tendréis éxito. Porque si fracasáis, este será vuestro lugar de descanso—un lugar sin legado, gloria ni amor. ¿Lo entendéis?"
 
@@ -691,20 +731,21 @@ Si los jugadores aceptan la tarea de Madam Eva, ella asiente con aprobación. Lu
 <p>La luz azulada danza sobre su superficie, revelando una ilustración de un guardia sonriente mirando hacia un sacerdote altivo, los dedos del sacerdote a centímetros de la nariz del guardia mientras este prepara una daga curva tras su espalda. “El Nueve de Glifos—el Traidor.” Sus oscuros ojos se mueven de lado a lado, como si leyera un texto invisible. "Veo al antiguo enemigo de una casa vieja y noble. El alma perdida os llevará hacia él."</p>
 <p>Se mueve hacia la segunda carta, esta en la parte superior de la cruz. Mientras cierra los ojos y escucha una vez más, la luz de las velas se intensifica, su color estallando en un amarillo vivo y alegre.</p>
 <p>"Esta carta habla de una fuerza poderosa de bien y protección, un símbolo sagrado de gran esperanza." Voltea la carta.</p>
-<p>Esta vez, la luz revela una nueva ilustración: un guerrero armado sosteniendo una espada de hierro agrietada y un escudo de madera cubierto de cuero, su rostro oculto por un pesado casco de hierro. “El Cinco de Espadas—el Mirmidón.” Sus ojos se fijan profundamente en la oscuridad que acecha más allá de la luz de las velas. (Consulta <span class="citation">Espadas (Picas), p. 12</span>, para la profecía de esta carta.)</p>
+<p>Esta vez, la luz revela una nueva ilustración: un guerrero armado sosteniendo una espada de hierro agrietada y un escudo de madera cubierto de cuero, su rostro oculto por un pesado casco de hierro. “El Cinco de Espadas—el Mirmidón.” Sus ojos se fijan profundamente en la oscuridad que acecha más allá de la luz de las velas. "Busca una guarida de lobos en las colinas que dominan un lago de montaña. El tesoro pertenece a la Madre Noche."
+ (Consulta <span class="citation">Espadas (Picas), p. 12</span>, para la profecía de esta carta.)</p>
 <p>Se mueve hacia la tercera carta, en el brazo derecho de la cruz, cerrando los ojos como en trance, sus labios fruncidos en contemplación silenciosa. La luz de las velas desaparece, por un instante—y luego regresa en una explosión de blanco feroz, ardiente y puro, tan fuerte que duele mirar—</p>
 <p>Los ojos de Madam Eva se abren de golpe, ardiendo con feroz determinación.</p>
 <p>"Esta es una carta de poder y fuerza. Habla de un arma de venganza: una espada de luz solar." Voltea la carta.</p>
-<p>La luz revela una tercera ilustración: un hombre de rostro solemne vestido con vestimentas sagradas, una mano sosteniendo la cadena de un incensario de bronce que emite humo ardiente. “El Ocho de Glifos—el Obispo.” La voz de la anciana se llena de propósito. (Consulta <span class="citation">Glifos (Corazones), p. 14</span>, para la profecía de esta carta.)</p>
+<p>La luz revela una tercera ilustración: un hombre de rostro solemne vestido con vestimentas sagradas, una mano sosteniendo la cadena de un incensario de bronce que emite humo ardiente. “El Ocho de Glifos—el Obispo.” La voz de la anciana se llena de propósito. "Lo que buscas yace en un montón de tesoros, más allá de un conjunto de puertas de ámbar." (Consulta <span class="citation">Glifos (Corazones), p. 14</span>, para la profecía de esta carta.)</p>
 <p>Se mueve hacia la cuarta carta, en la parte inferior de la cruz, y escucha una vez más, trazando pequeños círculos sobre su reverso mientras tararea una nota contemplativa. Las llamas mágicas saltan y bailan sobre sus mechas, ahora arrojando brasas violetas en el aire mientras las tumbas más allá brillan con un resplandor crepuscular.</p>
 <p>"Esta carta ilumina a alguien que os ayudará enormemente en la batalla contra la oscuridad."</p>
 <p>Voltea la carta.</p>
-<p>Esta vez, la ilustración revelada es un cementerio silencioso cubierto de niebla, su entrada sellada con una afilada cerca de hierro. "La Niebla." Madam Eva se inclina hacia adelante. (Consulta <span class="citation">El Enemigo de Strahd, p. 15</span>, para la profecía de esta carta.)</p>
+<p>Esta vez, la ilustración revelada es un cementerio silencioso cubierto de niebla, su entrada sellada con una afilada cerca de hierro. "La Niebla." Madam Eva se inclina hacia adelante. "Una Vistana vaga sola por estas tierras, en busca de su mentor. No permanece en un lugar por mucho tiempo. Búscala en la abadía de Santa Markovia, cerca de la niebla."(Consulta <span class="citation">El Enemigo de Strahd, p. 15</span>, para la profecía de esta carta.)</p>
 <p>Finalmente, mueve su mano hacia la quinta carta—y casi retrocede, su ceño frunciéndose hasta que las arrugas dividen su frente como una trinchera. Detrás de ella, las sombras rodean la luz de las velas hasta que la luz es casi devorada por la creciente oscuridad. Cuando habla nuevamente, la voz áspera de Madam Eva apenas es un susurro.</p>
 <p>"Vuestro enemigo es una criatura de oscuridad, cuyos poderes están más allá de la mortalidad. Cuando llegue la hora del juicio, ¡esta carta os conducirá a él!"</p>
 <p>Su mano tiembla sobre la carta por un momento de silencio—y luego, dedos ágiles y antiguos revelan su reverso.</p>
 <p>En la oscuridad, la quinta y última ilustración apenas es visible a través del humo y la penumbra antinatural. Sobre la superficie de la carta se encuentra una representación de un emperador coronado y sonriente vestido con galas reales y alcanzando una copa de vino—aunque sus extremidades son de marioneta, atadas a cuerdas que desaparecen en la oscuridad por encima.</p>
-<p>Madam Eva exhala lentamente. "El Marionetista." (Consulta <span class="citation">La Ubicación de Strahd en el Castillo, p. 17</span>, para la profecía de esta carta.)</p>
+<p>Madam Eva exhala lentamente. "El Marionetista." "Mira hacia las grandes alturas. Encuentra el corazón palpitante del castillo. Él espera cerca."(Consulta <span class="citation">La Ubicación de Strahd en el Castillo, p. 17</span>, para la profecía de esta carta.)</p>
 <p>Cuando la última sílaba pasa por sus labios, la anciana se congela—y luego se balancea hacia atrás, sus ojos girando hasta que sus blancos brillan como perlas en la oscuridad—y luego vuelve en sí, la luz de las velas ardiendo con su resplandor carmesí ordinario.</p>
 <p>El sonido del mundo natural regresa—el susurro del viento entre los árboles, el distante ulular de un búho y el lejano chapoteo del río Ivlis contra sus orillas. La luz plateada de la luna vuelve a atravesar el borde del cementerio, y sentís que respiráis por primera vez desde que comenzó la lectura.</p>
 <p>Madam Eva no dice nada. Solo os observa en silencio con ojos oscuros y pesados.</p>
