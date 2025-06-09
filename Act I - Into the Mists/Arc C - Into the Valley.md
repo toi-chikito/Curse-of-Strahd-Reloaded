@@ -385,7 +385,7 @@ Esta área es mayormente como se describe en <span class="citation">G. Campament
 Cuando los jugadores entran al campamento, son recibidos por Stanimir, un anciano Vistana que les informa que la líder de su campamento, Madam Eva, los ha estado esperando y les señala la tienda de Eva. Stanimir, un hombre mayor jovial y colorido con un brillo en los ojos, es mayormente como se describe en <span class="citation">Visitantes Misteriosos (p. 19)</span>. Sin embargo, tiene preparado el conjuro *imagen mayor* en lugar de *toque vampírico*.
 
 >Stanimir Character sheet:
->**Stanimir** *(CN male human)*, un hombre anciano con las estadísticas de un **mago**, tiene los siguientes conjuros preparados:
+**Stanimir** *(CN male human)*, un hombre anciano con las estadísticas de un **mago**, tiene los siguientes conjuros preparados:
 >**Trucos (a voluntad):** *friends*, *light*, *mage hand*, *prestidigitation*  
 >**1.er nivel (4 espacios):** *charm person*, *mage armor*, *shield*, *sleep*  
 >**2.º nivel (3 espacios):** *misty step*, *suggestion*  
@@ -557,7 +557,7 @@ Stanimir es el primero, contando el mismo relato que se describe en <span class=
     
     <p>Stanimir continúa: “Una noche, un soldado herido llegó tambaleándose a nuestro campamento y colapsó. Cuidamos su terrible herida y calmamos su sed con vino. Sobrevivió. Cuando le preguntamos quién era, no quiso decirlo. Solo deseaba volver a casa, pero estábamos en lo profundo de la tierra de sus enemigos. Lo acogimos como a uno de los nuestros y lo escoltamos de regreso a su patria. Sus enemigos lo perseguían. Decían que era un príncipe, pero no lo entregamos, incluso cuando sus asesinos cayeron sobre nosotros como lobos.”</p>
     
-    <p>En lo más profundo de la hoguera, ves a la figura oscura de pie con la espada desenvainada, luchando contra una multitud de sombras.</p>
+    <p>En lo más profundo de la hoguera, veis a la figura oscura de pie con la espada desenvainada, luchando contra una multitud de sombras.</p>
     
     <p>“Este hombre de sangre real luchó para protegernos, como nosotros lo protegimos a él. Lo llevamos a salvo hasta su hogar, y nos agradeció. Dijo: ‘Les debo mi vida. Quédense cuanto deseen, márchense cuando lo elijan, y sepan que siempre estarán seguros aquí.’”</p>
 	
@@ -636,7 +636,7 @@ Mientras los jugadores realizan el viaje al cruce, lee:
 <p>A medida que se acerca la hora de las brujas, desciende un inquietante silencio. Incluso las hojas cesan de susurrar, dejando el chapoteo de vuestras botas en el barro como el único sonido persistente.</p>
 </div>
 
-Si los jugadores no lograron ocultar su partida, cualquier jugador con una puntuación de Sabiduría (Percepción) pasiva de 11 o mayor se da cuenta de que están siendo seguidos. Lee:
+Si los jugadores no lograron ocultar su partida, cualquier jugador con una puntuación de **Sabiduría (Percepción) pasiva de 11** o mayor se da cuenta de que están siendo seguidos. Lee:
 
 <div class="description">
 <p>El sonido de una rama rompiéndose corta el silencio como el cristal haciéndose añicos. Un arbusto detrás de vosotros se agita—luego cae abruptamente en silencio.</p>
@@ -664,6 +664,21 @@ Eliza espera viajar abiertamente con los jugadores hasta su destino. Si es recha
 Mientras huye por el bosque, Eliza tiene media cobertura de cualquier jugador que esté a al menos 30 pies de distancia y tres cuartos de cobertura de cualquier jugador a al menos 60 pies de distancia.
 
 **Si los jugadores intentan ocultar su rastro de Eliza**, pueden hacerlo viajando fuera del camino y superando una prueba de Destreza (Sigilo) CD 11, seguida de una prueba de Sabiduría (Supervivencia) CD 11. Los jugadores que se desvíen del camino de esta manera encuentran un **fuego fatuo** como se describe en <span class="citation">Will-o'-Wisp (p. 33)</span>.
+
+
+| d20   | Complicación                                                                                                                                                                                                                                                                                                                                            |
+| ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1     | Tu camino te lleva a través de una zona de matorrales densos. Haz una prueba de Fuerza (Atletismo) o Destreza (Acrobacias) CD 10 (a tu elección) para atravesarlos. Si fallas, los matorrales cuentan como 5 pies de terreno difícil.                                                                                                                   |
+| 2     | El suelo irregular amenaza con ralentizar tu avance. Haz una prueba de Destreza (Acrobacias) CD 10 para sortear la zona. Si fallas, el suelo cuenta como 10 pies de terreno difícil.                                                                                                                                                                    |
+| 3     | Pasas corriendo por un enjambre de mosquitos mordedores (https://5e.tools/bestiary.html#swarm%20of%20insects_mm). El enjambre realiza un ataque de oportunidad contra ti (+3 al ataque; 4d4 de daño perforante en un golpe).                                                                                                                            |
+| 4     | Un arroyo, un barranco o un lecho rocoso bloquea tu camino. Haz una prueba de Fuerza (Atletismo) o Destreza (Acrobacias) CD 10 (a tu elección) para cruzarlo. Si fallas, el obstáculo cuenta como 10 pies de terreno difícil.                                                                                                                           |
+| 5     | Haz una tirada de salvación de Constitución CD 10. Si fallas, la arena, el polvo, la ceniza, la nieve o el polen te ciegan hasta el final de tu turno. Mientras estés cegado de esta manera, tu velocidad se reduce a la mitad.                                                                                                                         |
+| 6     | Un desnivel repentino te toma por sorpresa. Haz una tirada de salvación de Destreza CD 10 para sortearlo. Si fallas, caes 1d4 × 5 pies, recibiendo 1d6 de daño contundente por cada 10 pies de caída como es normal, y quedas derribado.                                                                                                                |
+| 7     | Te enredas en una trampa de lazo. Haz una tirada de salvación de Destreza CD 15. Si fallas, quedas atrapado y **restringido**. Como acción, tú o alguien a 5 pies de ti puede hacer una prueba de Fuerza CD 10 para liberarte con éxito. La trampa también puede ser destruida; tiene CA 10, 5 puntos de golpe y es inmune al daño psíquico y venenoso. |
+| 8     | Te ves atrapado en una estampida de alces asustados. Haz una tirada de salvación de Destreza CD 10. Si fallas, recibes 1d4 de daño contundente y 1d4 de daño perforante.                                                                                                                                                                                |
+| 9     | Tu camino te lleva cerca de un parche de zarzas afiladas. Haz una tirada de salvación de Destreza CD 15 o usa 10 pies de movimiento (a tu elección) para evitarlas. Si fallas, recibes 1d10 de daño cortante.                                                                                                                                           |
+| 10    | Una araña gigante comienza a perseguirte (https://5e.tools/bestiary.html#giant%20spider_xmm)                                                                                                                                                                                                                                                            |
+| 11-20 | Sin complicaciones.                                                                                                                                                                                                                                                                                                                                     |
 
 ### La Marcha de los Muertos
 Cuando los jugadores llegan al Cruce del Río Ivlis, lee:
@@ -713,9 +728,9 @@ Madam Eva comienza la lectura de las cartas Tarokka sentándose sobre la tierra 
 
 Mientras baraja el mazo, los jugadores notan una bolsa de terciopelo en el suelo junto a ella, que no estaba allí un momento antes. Madam Eva los mira a los ojos y luego se ríe suavemente. "La tarea que me pedís no es un favor pequeño," murmura. "A cambio, os pediría un favor propio."
 
-Si los jugadores aceptan la petición de Madam Eva o preguntan más detalles, ella les informa que la bolsa contiene diez piezas de oro. "Mi tatarasobrina, Arabelle, celebrará su décimo día de nombramiento en dos días," dice. "Para esta ocasión tan trascendental, deseo ofrecerle un regalo, pero en mi vejez soy incapaz de hacer el viaje por mí misma."
+Si los jugadores aceptan la petición de Madam Eva o preguntan más detalles, ella les informa que la bolsa contiene diez piezas de oro. **"Mi tatarasobrina, Arabelle, celebrará su décimo día de nombramiento en dos días," dice. "Para esta ocasión tan trascendental, deseo ofrecerle un regalo, pero en mi vejez soy incapaz de hacer el viaje por mí misma."**
 
-Madam Eva pide a los jugadores que usen los fondos de la bolsa para comprar un juguete para Arabelle en Blinsky Toys, en Vallaki—Blinsky, señala con cariño, es el favorito de Arabelle—y entregar el juguete al campamento Vistani al suroeste de Vallaki antes del mediodía del día de nombramiento de Arabelle. Añade que los jugadores pueden quedarse con cualquier cambio como pago por sus esfuerzos.
+Madam Eva pide a los jugadores que usen los fondos de la bolsa para comprar un juguete para Arabelle en Juguetes Blinsky, en Vallaki—Blinsky, señala con cariño, es el favorito de Arabelle—y entregar el juguete al campamento Vistani al suroeste de Vallaki antes del mediodía del día de nombramiento de Arabelle. Añade que los jugadores pueden quedarse con cualquier cambio como pago por sus esfuerzos.
 
 Eva agrega, con una sonrisa enigmática, que los jugadores disfrutarán hablando con Arabelle, ya que es “una niña muy interesante,” y que podrían encontrar en la amistad con su familia un regalo en sí mismo. (Si los jugadores preguntan, Eva comparte únicamente que el padre de Arabelle, Luvash, es el líder del campamento Vistani de Vallaki, y su hermano Arrigal es "un hombre perceptivo e inteligente.")
 
@@ -731,7 +746,7 @@ Si los jugadores aceptan la tarea de Madam Eva, ella asiente con aprobación. Lu
 <p>La luz azulada danza sobre su superficie, revelando una ilustración de un guardia sonriente mirando hacia un sacerdote altivo, los dedos del sacerdote a centímetros de la nariz del guardia mientras este prepara una daga curva tras su espalda. “El Nueve de Glifos—el Traidor.” Sus oscuros ojos se mueven de lado a lado, como si leyera un texto invisible. "Veo al antiguo enemigo de una casa vieja y noble. El alma perdida os llevará hacia él."</p>
 <p>Se mueve hacia la segunda carta, esta en la parte superior de la cruz. Mientras cierra los ojos y escucha una vez más, la luz de las velas se intensifica, su color estallando en un amarillo vivo y alegre.</p>
 <p>"Esta carta habla de una fuerza poderosa de bien y protección, un símbolo sagrado de gran esperanza." Voltea la carta.</p>
-<p>Esta vez, la luz revela una nueva ilustración: un guerrero armado sosteniendo una espada de hierro agrietada y un escudo de madera cubierto de cuero, su rostro oculto por un pesado casco de hierro. “El Cinco de Espadas—el Mirmidón.” Sus ojos se fijan profundamente en la oscuridad que acecha más allá de la luz de las velas. "Busca una guarida de lobos en las colinas que dominan un lago de montaña. El tesoro pertenece a la Madre Noche."
+<p>Esta vez, la luz revela una nueva ilustración: un guerrero armado sosteniendo una espada de hierro agrietada y un escudo de madera cubierto de cuero, su rostro oculto por un pesado casco de hierro. “El Cinco de Espadas—el Mirmidón.” Sus ojos se fijan profundamente en la oscuridad que acecha más allá de la luz de las velas. "Busca una guarida de lobos en las colinas con vistas a un lago de montaña. El tesoro pertenece a la Madre Noche."
  (Consulta <span class="citation">Espadas (Picas), p. 12</span>, para la profecía de esta carta.)</p>
 <p>Se mueve hacia la tercera carta, en el brazo derecho de la cruz, cerrando los ojos como en trance, sus labios fruncidos en contemplación silenciosa. La luz de las velas desaparece, por un instante—y luego regresa en una explosión de blanco feroz, ardiente y puro, tan fuerte que duele mirar—</p>
 <p>Los ojos de Madam Eva se abren de golpe, ardiendo con feroz determinación.</p>
@@ -751,6 +766,39 @@ Si los jugadores aceptan la tarea de Madam Eva, ella asiente con aprobación. Lu
 <p>Madam Eva no dice nada. Solo os observa en silencio con ojos oscuros y pesados.</p>
 </div>
 
+
+>VERSION ADAPTADA:
+
+<div class="description">
+<p>Madam Eva coloca ambos mazos sobre la tierra frente a ella. Cerrando los ojos, coloca su mano derecha sobre la superficie del mazo más grande. Las llamas carmesí se atenúan y giran en patrones arcanos mientras sus labios se mueven en silencio, una tensión distante extendiéndose por el aire. Los sonidos de los árboles susurrantes y el río más allá de las paredes de la tienda comienzan a atenuarse, el mundo exterior se vuelve mudo e insustancial mientras el espacio dentro se vuelve más sólido, más real.</p>
+<p>Lentamente, con reverencia, la anciana saca tres cartas de la parte superior del mazo, colocándolas boca abajo separadamente en el suelo, con la segunda colocada entre sus compañeras y por encima de ellas. Luego se mueve al mazo más pequeño, sacando dos cartas más. La primera la coloca debajo de las primeras tres, formando una cruz. La segunda, la coloca en el centro.</p>
+<p>Las sombras de las lápidas a su alrededor se balancean como siluetas, inclinándose hacia las cartas como observadores ansiosos—pero el aire en el cementerio está perfectamente quieto. No hay luz que intruya excepto la luz de las tres velas; ninguna voz resuena en el silencio. Sombras y niebla giran más allá de las tumbas, donde habita la oscuridad de la noche más profunda—pero aquí, en su centro, la luz aún reina.</p>
+<p>La anciana mueve entonces su mano hacia la carta más a la izquierda—la primera. Cierra los ojos e inclina la cabeza, como si escuchara una palabra no dicha. Las luces arcanas giran y luego cambian, sus colores tornándose de un azul profundo y penetrante.</p>
+<p>"Esta carta habla de la historia. El conocimiento de lo antiguo os ayudará a entender mejor a vuestro enemigo."</p>
+<p>Voltea la carta.</p>
+<p>La luz azulada danza sobre su superficie, revelando una ilustración. “El Nueve de Glifos—el Traidor.” Sus oscuros ojos se mueven de lado a lado, como si leyera un texto invisible. "Veo al antiguo enemigo de una casa vieja y noble. El alma perdida os llevará hacia él."</p>
+<p>Se mueve hacia la segunda carta, esta en la parte superior de la cruz. Mientras cierra los ojos y escucha una vez más, la luz de las velas se intensifica, su color estallando en un amarillo vivo y alegre.</p>
+<p>"Esta carta habla de una fuerza poderosa de bien y protección, un símbolo sagrado de gran esperanza." Voltea la carta.</p>
+<p>Esta vez, la luz revela una nueva ilustración:  “El Cinco de Espadas—el Mirmidón.” Sus ojos se fijan profundamente en la oscuridad que acecha más allá de la luz de las velas. "Busca una guarida de lobos en las colinas con vistas a un lago de montaña. El tesoro pertenece a la Madre Noche."
+ (Consulta <span class="citation">Espadas (Picas), p. 12</span>, para la profecía de esta carta.)</p>
+<p>Se mueve hacia la tercera carta, cerrando los ojos como en trance, sus labios fruncidos en contemplación silenciosa. La luz de las velas desaparece, por un instante—y luego regresa en una explosión de blanco feroz, ardiente y puro, tan fuerte que duele mirar—</p>
+<p>Los ojos de Madam Eva se abren de golpe, ardiendo con feroz determinación.</p>
+<p>"Esta es una carta de poder y fuerza. Habla de un arma de venganza: una espada de luz solar." Voltea la carta.</p>
+<p>La luz revela una tercera ilustración: “El Ocho de Glifos—el Obispo.” La voz de la anciana se llena de propósito. "Lo que buscáis yace en un montón de tesoros, más allá de un conjunto de puertas de ámbar." (Consulta <span class="citation">Glifos (Corazones), p. 14</span>, para la profecía de esta carta.)</p>
+<p>Se mueve hacia la cuarta carta, y escucha una vez más, trazando pequeños círculos sobre su reverso mientras tararea una nota contemplativa. Las llamas mágicas saltan y bailan sobre sus mechas, ahora arrojando brasas violetas en el aire mientras las tumbas más allá brillan con un resplandor crepuscular.</p>
+<p>"Esta carta ilumina a alguien que os ayudará enormemente en la batalla contra la oscuridad."</p>
+<p>Voltea la carta.</p>
+<p>Esta vez, la ilustración revelada es un cementerio silencioso cubierto de niebla, su entrada sellada con una afilada cerca de hierro. "La Niebla." Madam Eva se inclina hacia adelante. "Una Vistana vaga sola por estas tierras, en busca de su mentor. No permanece en un lugar por mucho tiempo. Búscala en la abadía de Santa Markovia, cerca de la niebla."(Consulta <span class="citation">El Enemigo de Strahd, p. 15</span>, para la profecía de esta carta.)</p>
+<p>Finalmente, mueve su mano hacia la quinta carta—y casi retrocede, su ceño frunciéndose hasta que las arrugas dividen su frente como una trinchera. Detrás de ella, las sombras rodean la luz de las velas hasta que la luz es casi devorada por la creciente oscuridad. Cuando habla nuevamente, la voz áspera de Madam Eva apenas es un susurro.</p>
+<p>"Vuestro enemigo es una criatura de oscuridad, cuyos poderes están más allá de la mortalidad. Cuando llegue la hora del juicio, ¡esta carta os conducirá a él!"</p>
+<p>Su mano tiembla sobre la carta por un momento de silencio—y luego, dedos ágiles y antiguos revelan su reverso.</p>
+<p>En la oscuridad, la quinta y última ilustración apenas es visible a través del humo y la penumbra antinatural. Sobre la superficie de la carta se encuentra una representación de un emperador coronado alcanzando una copa de vino—aunque sus extremidades son de marioneta, atadas a cuerdas que desaparecen en la oscuridad por encima.</p>
+<p>Madam Eva exhala lentamente. "El Marionetista." "Mira hacia las grandes alturas. Encuentra el corazón palpitante del castillo. Él espera cerca."(Consulta <span class="citation">La Ubicación de Strahd en el Castillo, p. 17</span>, para la profecía de esta carta.)</p>
+<p>Cuando la última sílaba pasa por sus labios, la anciana se congela—y luego se balancea hacia atrás, sus ojos girando hasta que sus blancos brillan como perlas en la oscuridad—y luego vuelve en sí, la luz de las velas ardiendo con su resplandor carmesí ordinario.</p>
+<p>El sonido del mundo natural regresa—el susurro del viento entre los árboles, el distante ulular de un búho y el lejano chapoteo del río Ivlis contra sus orillas. La luz plateada de la luna vuelve a atravesar el borde del cementerio, y sentís que respiráis por primera vez desde que comenzó la lectura.</p>
+<p>Madam Eva no dice nada. Solo os observa en silencio con ojos oscuros y pesados.</p>
+</div>
+
 Madam Eva se niega a profundizar en las lecturas de los jugadores o proporcionar información o ayuda adicional. Si se lo piden, ella dice únicamente: “Los hilos del Destino no pueden ser convocados como un sirviente o invocados como un truco de mago. Solo veo lo que las cartas me muestran, y nada más.”
 
 Madam Eva despide a los jugadores una vez que ha completado la lectura Tarokka, instruyéndoles que regresen a la Piscina de Tser y que "no digan a ningún sirviente de Strahd lo que acaban de escuchar."
@@ -762,13 +810,18 @@ Madam Eva rechaza regresar con los jugadores, prefiriendo quedarse en el cruce. 
 
 **_Hito_**. Recibir la lectura Tarokka completa un hito de la historia. Cuando el grupo se marche del cruce, otorga a cada jugador 500 PX.
 
-## C4g. Partiendo de la Piscina de Tser
-Cuando los jugadores despiertan en la Piscina de Tser a la mañana siguiente, Stanimir los invita a desayunar con él alrededor del fuego frío. El desayuno, al que Arturi asiste si puede, incluye polenta de maíz, rollos de repollo rellenos y pan frito. (Si su traición no fue revelada la noche anterior, Eliza se une alegremente a los jugadores para el desayuno también).
+## C4g. Partiendo de la Poza de Tser
+Cuando los jugadores despiertan en la Poza de Tser a la mañana siguiente, Stanimir los invita a desayunar con él alrededor del fuego frío. El desayuno, al que Arturi asiste si puede, incluye polenta de maíz, rollos de repollo rellenos y pan frito. (Si su traición no fue revelada la noche anterior, Eliza se une alegremente a los jugadores para el desayuno también).
 
 Si los jugadores intentan hablar con Madam Eva nuevamente antes de partir, Stanimir les advierte que "la anciana" está dormida y no desea ser molestada. Si los jugadores intentan entrar en su tienda, la encuentran dormida en un jergón junto a su mesa.
 
 # C5. El Jinete Esquelético
 Cuando los jugadores regresan al Cruce del Río Ivlis después de recibir la lectura Tarokka, encuentran un jinete esquelético, como se describe en <span class="citation">Jinete Esquelético (p. 31)</span>, que se acerca desde el camino occidental y continúa hacia el pueblo de Barovia. Si los jugadores vieron el cadáver de Dalvan Olensky al entrar en Barovia, notan que la vestimenta del jinete es visiblemente similar a la suya.
+
+>
+>A través de la niebla surge un **caballo de guerra esquelético** con su jinete, ambos cubiertos con una **cota de malla en ruinas**. El jinete esquelético levanta un **farol oxidado** que no emite luz.
+>Se acerca desde el camino occidental y continúa hacia el pueblo de Barovia, sin prestaros atención.  La vestimenta del jinete es visiblemente similar a la del cadaver que os encontrasteis al entrar en Barovia.
+
 
 > [!abstract]+ **Siguiendo al Jinete**
 > Si lo siguen, el jinete continúa ignorando a los jugadores. Después de viajar una corta distancia por el camino, gira hacia el sur por un antiguo sendero de caza en el bosque, que sigue hacia el este en dirección a la frontera oriental de Barovia. (El jinete deambula al azar y no tiene un destino particular).
@@ -783,7 +836,7 @@ Mientras los jugadores viajan hacia el oeste desde el Cruce del Río Ivlis, lee:
 <p>Las antiguas paredes de piedra de la torre están cubiertas de musgo y hiedra, su puerta de madera podrida colgando de las bisagras. Cerca, dos tumbas frescas se encuentran junto al camino. El cadáver de un animal parece yacer en la hierba alta no muy lejos.</p>
 </div>
 
-Haz una pausa para permitir que los jugadores actúen o reaccionen. Si los jugadores permanecen en silencio, continúa con [[#C7. La Caza de los Lobos]] a continuación. De lo contrario, permite que los jugadores exploren el área.
+Haz una pausa para permitir que los jugadores actúen o reaccionen. Si los jugadores permanecen en silencio, continúa con [[#C7. El Camino Alto]] a continuación. De lo contrario, permite que los jugadores exploren el área.
 ## La Torre de Vigilancia
 La torre de vigilancia en ruinas fue construida hace mucho tiempo como un puesto de observación por la Orden del Dragón de Plata. Tiene la misma estructura que la <span class="citation">Torre de Guardia (p. 157)</span> en el Paso de Tsolenka, con los siguientes cambios:
 
@@ -794,7 +847,17 @@ La torre de vigilancia en ruinas fue construida hace mucho tiempo como un puesto
 
 Si los jugadores exploran la torre de vigilancia, encuentran un colgante de plata roto tallado para parecerse a un dragón, que yace en el suelo del primer piso, cerca de la entrada. El colgante siempre está frío al tacto.
 
-Desde las almenas de la torre de vigilancia, los jugadores pueden ver las Cataratas Tser al noroeste y la Piscina de Tser al noreste. Hacia el sur, por encima y más allá de las pendientes del Monte Ghakis, solo se ve una impenetrable pared de densa niebla gris.
+>LEER:
+>Primer piso:
+	Una fría estancia se alza frente a la puerta, con el **viento aullando** por la chimenea que se encuentra en la pared opuesta a la puerta. Una **escalera de piedra** se encuentra en la pared sur (vuestra derecha al entrar). Tres **ventanas** dan vista a los arboles rodeados de espesa niebla en el exterior. Se puede ver un colgante de plata roto tallado para parecerse a un dragón, que yace en el suelo.
+>Segundo piso:
+>	El nivel superior de la torre cuenta con una ventana en cada cada pared. Una **escalera de de mano de hierro oxidado** está atornillada al suelo y al techo, y conduce a una **trampilla de madera**.
+>Tercer piso:
+>	Salís a las almenas. Aquí el viento se agita con más fuerza que a ras de suelo, sonando con fuerza y enfriando vuestros cuerpos rápidamente. Desde aquí, podéis ver las Cataratas Tser al noroeste y la Poza de Tser al noreste. Hacia el sur, veis una gran monte nevada (el Monte Ghakis) y por encima y más allá de su cima, solo se ve una impenetrable pared de densa niebla gris.
+
+
+
+Desde las almenas de la torre de vigilancia, los jugadores pueden ver las Cataratas Tser al noroeste y la Poza de Tser al noreste. Hacia el sur, por encima y más allá de las pendientes del Monte Ghakis, solo se ve una impenetrable pared de densa niebla gris.
 
 ## Las Tumbas
 Las dos tumbas contienen los restos de dos refugiados barovianos que fueron asesinados por lobos durante su viaje a Vallaki hace algún tiempo. Una prueba de Sabiduría (Supervivencia) CD 12 revela que las tumbas tienen no más de unas pocas semanas.
@@ -815,7 +878,7 @@ Mientras los jugadores continúan por el camino, lee:
 <p>El aire se vuelve más frío a medida que el camino pasa a través de un oscuro bosque de coníferas, el denso dosel bloqueando de nuevo gran parte de la tenue luz del cielo. Aquí, el camino se estrecha, sus bordes pasando por encima de empinadas pendientes rocosas mientras serpentea alrededor de un espolón de la montaña. Los únicos sonidos que os acompañan son el crujido de las hojas caídas y un ocasional susurro en la maleza.</p>
 </div>
 
-Si uno de los jugadores tiene una puntuación de Sabiduría (Percepción) pasiva de 14 o mayor, o si uno de los jugadores supera una prueba de Sabiduría (Percepción) CD 14, añade:
+Si uno de los jugadores tiene una puntuación de **Sabiduría (Percepción) pasiva de 14** o mayor, o si uno de los jugadores supera una prueba de Sabiduría (Percepción) CD 14, añade:              
 
 <div class="description">
 <p>Mientras vuestras pisadas chapotean en el viejo camino fangoso, vislumbráis un destello de movimiento en la maleza: un brillo de pelaje gris, ojos ámbar y afilados dientes blancos. Luego, tan rápido como apareció, desaparece, escabulléndose de nuevo en las sombras.</p>
@@ -826,13 +889,13 @@ El movimiento pertenece a un **lobo**, que rápidamente se retira al bosque. Sus
 Si los jugadores continúan, lee:
 
 <div class="description">
-<p>A medida que el camino se curva alrededor del borde de la montaña, los acantilados a la derecha caen en picado, dejando un abismo hacia un barranco boscoso más abajo. El camino, ahora de apenas tres metros de ancho, gira más adelante, doblando alrededor de este barranco antes de descender dramáticamente y serpentear alrededor de un pico de montaña más pequeño.</p>
+<p>A medida que el camino se curva alrededor del borde de la montaña, los acantilados a la derecha caen en picado, dejando un abismo hacia un barranco boscoso más abajo. El camino, ahora de apenas tres metros de ancho (10 pies), gira más adelante, doblando alrededor de este barranco antes de descender dramáticamente y serpentear alrededor de un pico de montaña más pequeño.</p>
 </div>
 
 Si uno de los jugadores tiene una puntuación de Sabiduría (Percepción) pasiva de 14 o mayor, o si uno de los jugadores supera una prueba de Sabiduría (Percepción) CD 14, añade:
 
 <div class="description">
-<p>Veis tres sombras cubiertas de pelaje gris moverse entre la maleza frente a vosotros. Dos más parpadean al borde de vuestra visión, justo detrás de vosotros.</p>
+<p>Veis tres (dos) sombras cubiertas de pelaje gris moverse entre la maleza frente a vosotros. Dos (una) más parpadean al borde de vuestra visión, justo detrás de vosotros.</p>
 </div>
 
 Si uno de los jugadores tiene una puntuación de Sabiduría (Percepción) pasiva de 18 o mayor, o si uno de los jugadores supera una prueba de Sabiduría (Percepción) CD 18, añade:
@@ -855,19 +918,121 @@ Si los jugadores se detienen, continúan o atacan, los cinco lobos en el bosque 
 
 Reemplaza el ataque de ***mordisco*** de los lobos con las siguientes opciones de acción:
 
-* ***Desgarrar.*** *Ataque de arma cuerpo a cuerpo:* +4 al ataque, alcance 1.5 m, un objetivo. *Impacto:* 7 (2d4 + 2) de daño perforante. En lugar de infligir daño, el lobo puede agarrar al objetivo (escapar CD 11).
-* ***Zarpazo.*** *Ataque de arma cuerpo a cuerpo:* +4 al ataque, alcance 1.5 m, un objetivo. *Impacto:* 6 (1d8 + 2) de daño cortante. Si el objetivo es una criatura, debe hacer una tirada de salvación de Fuerza CD 11. Si falla, queda derribado o es empujado 1.5 metros (a elección del lobo).
+* ***Desgarrar.*** *Ataque de arma cuerpo a cuerpo:* +4 al ataque, alcance 5pies, un objetivo. *Impacto:* 7 (2d4 + 2) de daño perforante. En lugar de infligir daño, el lobo puede agarrar al objetivo (escapar CD 11).
+* ***Zarpazo.*** *Ataque de arma cuerpo a cuerpo:* +4 al ataque, alcance 5 pies, un objetivo. *Impacto:* 6 (1d8 + 2) de daño cortante. Si el objetivo es una criatura, debe hacer una tirada de salvación de Fuerza CD 11. Si falla, queda derribado o es empujado 5 pies (a elección del lobo).
 
+<div class="statblock">
+  <h2>Lobo</h2>
+  <em>Bestia Mediana, sin alineamiento</em>
+  <hr>
+  <strong>Clase de Armadura</strong> 12<br>
+  <strong>Puntos de Golpe</strong> 11 (2d8 + 2)<br>
+  <strong>Velocidad</strong> 40 pies
+  <hr>
+  <table class="ability-table">
+    <thead>
+      <tr>
+        <th>FUE</th>
+        <th>DES</th>
+        <th>CON</th>
+        <th>INT</th>
+        <th>SAB</th>
+        <th>CAR</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>14 (+2)</td>
+        <td>15 (+2)</td>
+        <td>12 (+1)</td>
+        <td>3 (-4)</td>
+        <td>12 (+1)</td>
+        <td>6 (-2)</td>
+      </tr>
+    </tbody>
+  </table>
+  <hr>
+  <strong>Habilidades</strong> Percepción +5, Sigilo +4<br>
+  <strong>Sentidos</strong> Visión en la oscuridad 60 pies, Percepción pasiva 15<br>
+  <strong>Idiomas</strong> —<br>
+  <strong>Desafío</strong> 1/4 (50 PX)<br>
+  <strong>Bonificación por Competencia</strong> +2<br>
+  <hr>
+  <p>
+    <strong><em>Tácticas de Manada.</em></strong> El lobo tiene ventaja en las tiradas de ataque contra una criatura si al menos uno de sus aliados está a 5 pies de esa criatura y no está incapacitado.
+  </p>
+  <h3>Acciones</h3>
+  <p>
+    <strong><em>Desgarrar.</em></strong> Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies, un objetivo.<br>
+    <strong>Impacto:</strong> 7 (2d4 + 2) de daño perforante. En lugar de infligir daño, el lobo puede agarrar al objetivo (escapar CD 11).
+  </p>
+  <p>
+    <strong><em>Zarpazo.</em></strong> Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies, un objetivo.<br>
+    <strong>Impacto:</strong> 6 (1d8 + 2) de daño cortante. Si el objetivo es una criatura, debe hacer una tirada de salvación de Fuerza CD 11. Si falla, queda derribado o es empujado 5 pies (a elección del lobo).
+  </p>
+</div>
+
+<div class="statblock">
+<h2>Hombre Lobo</h2>
+<em>Humanoide Mediano (Humano, Cambiaformas), Caótico Maligno</em>
+<hr>
+<strong>Clase de Armadura</strong> 11 en forma humanoide, 12 (armadura natural) en forma de lobo o híbrida
+<br>
+<strong>Puntos de Golpe</strong> 84 (13d8 + 26)
+<br>
+<strong>Velocidad</strong> 30 pies (40 pies en forma de lobo)
+<hr>
+<table class="ability-table">
+  <thead>
+    <tr>
+      <th>FUE</th>
+      <th>DES</th>
+      <th>CON</th>
+      <th>INT</th>
+      <th>SAB</th>
+      <th>CAR</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>16 (+3)</td>
+      <td>13 (+1)</td>
+      <td>14 (+2)</td>
+      <td>10 (+0)</td>
+      <td>11 (+0)</td>
+      <td>10 (+0)</td>
+    </tr>
+  </tbody>
+</table>
+<hr>
+<strong>Tiradas de Salvación</strong> Fuer +5<br>
+<strong>Habilidades</strong> Percepción +4, Sigilo +3<br>
+<strong>Sentidos</strong> Visión en la oscuridad 60 pies, Percepción pasiva 14<br>
+<strong>Idiomas</strong> Común (no puede hablar en forma de lobo)<br>
+<strong>Desafío</strong> 3, o 2 sin su regeneración<br>
+<strong>Bonificación por Competencia.</strong> +2<br>
+<hr>
+<p><strong><em>Oído y Olfato Agudos.</em></strong> El hombre lobo tiene ventaja en las pruebas de Sabiduría (Percepción) que dependan del oído o el olfato.</p>
+<p><strong><em>Tácticas de Manada.</em></strong> El hombre lobo tiene ventaja en las tiradas de ataque contra una criatura si al menos uno de sus aliados está a 5 pies de la criatura y no está incapacitado.</p>
+<p><strong><em>Regeneración.</em></strong> El hombre lobo recupera 10 puntos de golpe al comienzo de su turno. Si recibe daño necrótico o daño contundente, perforante o cortante de un arma de plata, este rasgo no funciona al comienzo de su próximo turno. El hombre lobo muere solo si empieza su turno con 0 puntos de golpe y no se regenera.</p>
+<h3>Acciones</h3>
+<p><strong><em>Multiataque.</em></strong> El hombre lobo realiza dos ataques: dos con su lanza (forma humanoide) o uno con su mordisco y uno con sus garras (forma de lobo o híbrida).</p>
+<p><strong><em>Mordisco (Solo Forma de Lobo o Híbrida).</em></strong> Ataque de Arma Cuerpo a Cuerpo: +5 para golpear, alcance 5 pies, un objetivo. Impacto: 7 (1d8 + 3) de daño perforante. En lugar de infligir daño, el hombre lobo puede atrapar al objetivo (CD 11 para escapar). Además, si el objetivo es un humanoide, debe tener éxito en una tirada de salvación de Constitución CD 13 o ser maldecido con licantropía de hombre lobo.</p>
+<p><strong><em>Garras (Solo Forma de Lobo o Híbrida).</em></strong> Ataque de Arma Cuerpo a Cuerpo: +5 para golpear, alcance 5 pies, una criatura. Impacto: 8 (2d4 + 3) de daño cortante. Si el objetivo es una criatura, debe tener éxito en una tirada de salvación de Fuerza CD 13 o ser derribado, o empujado 5 pies.</p>
+<p><strong><em>Lanza (Solo Forma Humanoide).</em></strong> Ataque de Arma Cuerpo a Cuerpo o a Distancia: +5 para golpear, alcance 5 pies o rango 20/60 pies, una criatura. Impacto: 6 (1d6 + 3) de daño perforante, o 6 (1d8 + 3) de daño perforante si se usa con dos manos para realizar un ataque cuerpo a cuerpo.</p>
+<h3>Acciones Adicionales</h3>
+<p><strong><em>Cambio de Forma.</em></strong> El hombre lobo se transforma en un híbrido lobo-humano o en un lobo, o vuelve a su forma verdadera, que es humanoide. Sus estadísticas, excepto su CA, son las mismas en cada forma. Cualquier equipo que lleve se fusiona con la nueva forma. Vuelve a su forma verdadera si muere.</p>
+</div>
 En combate, los **lobos** atacan a un solo jugador a la vez, usando su habilidad de ***tácticas de manada*** para obtener ventaja en las tiradas de ataque y sus ataques de ***zarpas*** para intentar empujar a un jugador al barranco.
 
-Un jugador que caiga en el barranco rueda 15 metros hacia abajo, recibiendo 17 (5d6) de daño por impacto y quedando tumbado. El sexto lobo usa su ataque de ***desgarrar*** contra cualquier criatura que caiga al barranco y luego intenta arrastrarla con la esperanza de obtener una comida fácil. Una criatura que se aferre al borde rocoso al fondo del barranco tiene media cobertura contra criaturas que estén en la cima.
+Un jugador que caiga en el barranco rueda 15 metros (50 pies) hacia abajo, recibiendo 17 (5d6) de daño por impacto y quedando tumbado. El sexto lobo usa su ataque de ***desgarrar*** contra cualquier criatura que caiga al barranco y luego intenta arrastrarla con la esperanza de obtener una comida fácil. Una criatura que se aferre al borde rocoso al fondo del barranco tiene media cobertura contra criaturas que estén en la cima.
 
 Una vez que un jugador cae al barranco, el resto de la manada huye al bosque y luego desciende por otro camino para asistir al sexto lobo en arrastrar a su presa. La manada huye si cuatro de los seis lobos son asesinados.
 
 > [!info]+ **Descendiendo al Barranco**
 > Un jugador que intente subir o bajar el borde del barranco debe realizar una prueba de Fuerza (Atletismo) CD 10. Si tiene éxito, el personaje se mueve a la mitad de su velocidad hacia arriba o hacia abajo, según desee. Con un resultado de 6-9, el personaje no gana ni pierde terreno; con un resultado de 5 o menos, el personaje cae y recibe 1d6 de daño por impacto por cada 3 metros caídos, aterrizando tumbado en la base del barranco.
 
-Al salir de esta área, un jugador con una puntuación de Sabiduría (Percepción) pasiva de 13 o mayor nota a dos lobos, ligeramente más grandes que los otros, observándolos desde una cima oriental que se eleva por encima de la línea de árboles. Un jugador que supere una prueba de Sabiduría (Perspicacia) CD 20 discierne que los lobos parecen vigilarlos con una inteligencia paciente inusual para un lobo. Los lobos se dan la vuelta y desaparecen de la vista si son notados o si alguien interactúa con ellos.
+Al salir de esta área, un jugador con una puntuación de **Sabiduría (Percepción) pasiva de 13** o mayor nota a dos lobos, ligeramente más grandes que los otros, observándolos desde una cima oriental que se eleva por encima de la línea de árboles. Un jugador que supere una prueba de Sabiduría (Perspicacia) CD 20 discierne que los lobos parecen vigilarlos con una inteligencia paciente inusual para un lobo. Los lobos se dan la vuelta y desaparecen de la vista si son notados o si alguien interactúa con ellos.
 
 > [!lore]+ **Los Lobos Observadores**
 > Los dos lobos son **hombres lobo** en forma de lobo. Brutales y sedientos de sangre, son leales a Kiril Stoyanovich y Strahd von Zarovich, y volverán a aparecer para acechar a los jugadores en [[#C11. La Caza de los Hombres Lobo]].
@@ -877,6 +1042,17 @@ Al salir de esta área, un jugador con una puntuación de Sabiduría (Percepció
 
 Esta área es en gran medida como se describe en <span class="citation">Cataratas Tser (p. 37)</span>. Además, cuando los jugadores llegan, pueden ver un <span class="citation">revenant (p. 31)</span> de pie solo en el punto medio del puente, con las manos descansando sobre la empuñadura de su espada, cuya hoja está firmemente clavada en el suelo.
 
+> LEER:
+>Seguís el camino de tierra mientras se aferra al costado de una montaña, hasta que termina ante un **puente arqueado de piedra cubierta de moho** que cruza un **desfiladero natural**.
+>
+>**Gárgolas** cubiertas de **musgo negro** se posan en las esquinas del puente, sus gestos ceñudos desgastados por el tiempo.
+>
+>Del lado montañoso del puente, una **cascada** se derrama hacia una **laguna brumosa** casi mil pies más abajo. La laguna alimenta un **río** que serpentea entre los **pinos envueltos en niebla** que cubren el valle.
+>
+> En medio del puente vislumbráis de pie una figura con armadura oxidada y descansando las manos sobre la empuñadura de su espada, cuya hoja está clavada firmemente en el suelo
+
+
+Un personaje que se encuentre a 30 pies o menos del **revenant** y tenga éxito en una tirada de **Sabiduría (Perspicacia) CD 10** puede ver la **inteligencia y el odio** en sus ojos hundidos.
 ![[Bridge Revenant.png]]
 <span class="credit">"Bridge Revenant" por Caleb Cleveland. Apóyalo en <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
@@ -934,7 +1110,13 @@ El viaje desde las Cataratas Tser hasta la <span class="citation">Carroza Negra 
 
 Esta área es como se describe en <span class="citation">Carroza Negra (p. 37)</span>. (La carroza de Strahd no está presente, aunque los jugadores pueden ver surcos profundos en el camino fangoso que pasan desde el Viejo Camino de Svalich hacia la antigua calzada empedrada que conduce al Castillo Ravenloft.)
 
+>Incluso aquí, en las montañas, el bosque y la niebla son ineludibles. Más adelante, el camino de tierra se divide en dos, ensanchándose hacia el este. Allí veis parches de adoquines, lo que sugiere que la bifurcación oriental fue en su día una arteria importante.
+
+
 El viaje desde la Carroza Negra hasta las **Puertas de Barovia** occidentales es de un cuarto de milla y toma cinco minutos. Esta área es como se describe en <span class="citation">Puertas de Barovia (p. 33)</span>, pero vista desde el lado opuesto.
+
+>Contrafuertes de piedra altos se alzan grises entre la niebla. Grandes portones de hierro cuelgan de la mampostería. El rocío se aferra con fría tenacidad a los barrotes oxidados.
+
 
 > [!abstract]+ **Visitando el Castillo Ravenloft**
 > Si los jugadores deciden visitar el Castillo Ravenloft (por ejemplo, para investigar la desaparición de Gertruda), el viaje desde el cruce es de dos millas y media y toma cincuenta minutos. Cuando los jugadores llegan, el exterior del castillo es como se describe en [[Arc P - Ravenloft Heist#P2b. Aproximándose al Castillo|Arc P - Ravenloft Heist]].
@@ -959,7 +1141,21 @@ Si los jugadores permanecen en silencio o continúan adelante, lee:
 
 Los jugadores emergen en la base de la colina sobre la que se encuentra el **Viejo Molinillo de Huesos**, como se describe en <span class="citation">Aproximándose al Molino de Viento (p. 125)</span>. No hay cuervos en o cerca del molino.
 
+>LEER:
+>El **Viejo Camino Svalich** deja de ser un sendero serpenteante a través de las **Montañas Balinok** y se convierte en un **camino pausado** que bordea la ladera de la montaña mientras desciende hacia un **valle envuelto en niebla**. En el corazón del valle, se distingue una **ciudad amurallada** junto a las orillas de un **gran lago de montaña**, cuyas aguas son **oscuras e inmóviles**. 
+  Una bifurcación en el camino lleva hacia el oeste, hasta una **alta colina**, en cuya cima se erige un **molino de piedra ruinoso**, con **aspas de madera deformadas y desnudas**.
+
+Si se acercan (MEJOR NO A NO SER QUE SE ACERQUEN MÁS)LEER:
+>El edificio de **cúpula en forma de cebolla** se inclina hacia adelante y a un lado, como si intentara apartarse del **cielo gris tormentoso**. Sus **muros de ladrillo gris** y sus **ventanas cubiertas de suciedad** en los pisos superiores le dan un aire de abandono. 
+>Una **plataforma de madera decrépita** rodea el molino sobre una **puerta endeble** que conduce al interior del edificio. 
+
+
+
 Cuando el molino aparece a la vista, los jugadores también notan a **Morgantha** acercándose desde la dirección opuesta con su carreta, como se describe en <span class="citation">Pasteles de Sueños (p. 48)</span>.
+
+>LEER:
+>Escuchais el sonido de **pequeñas ruedas de madera** rodando sobre los **adoquines húmedos**. Sigues el **solitario sonido** hasta encontrar una **figura encorvada**, envuelta en harapos, empujando un **destartalado carro de madera** a través de la **niebla**. Viene desd eel camino en dirección Vallaki.
+
 
 Esta escena se desarrolla principalmente como se describe en <span class="citation">Pasteles de Sueños (p. 48)</span>, pero Morgantha viene del pueblo de Vallaki, no del pueblo de Barovia, y no lleva a un niño metido en un saco en su carreta de vendedora.
 
@@ -991,6 +1187,17 @@ Morgantha saluda cálidamente a los jugadores, llamándolos "viajeros cansados,"
 
 Morgantha tiene algunos "pasteles de sueños" sobrantes de su jornada laboral—"rellenos con la luz y el amor de los sueños"—que ofrece a los jugadores gratuitamente como "una primera muestra." Aconseja a los jugadores que los pasteles saben mejor después de una comida caliente, "especialmente con un buen vino para acompañarlos." (Si se comen, los pasteles de sueños afectan a los jugadores como se describe en **Pasteles de Sueños**, p. 125.)
 
+> **Pasteles de Ensueño**
+Estos pasteles parecen y saben como pequeñas tartas de carne picada. 
+>- **Efecto al consumirlos:** Una criatura que **coma uno en su totalidad** debe hacer una **tirada de salvación de Constitución DC 16**. Si falla, entra en un **trance** que dura **1d4 + 4 horas**.
+>- Mientras está en trance, la criatura está **incapacitada** y su **velocidad es de 0 pies**.
+>- El trance termina si la criatura **recibe daño** o si alguien usa una **acción** para sacudirla y despertarla.
+> **Efectos del Trance**
+Durante el trance, la criatura **sueña con un lugar lleno de alegría**, completamente apartado de los horrores del mundo. 
+>- Los **lugares y personajes** del sueño son **vívidos y creíbles**.
+>- Cuando el sueño termina, la criatura **siente un fuerte deseo de regresar a ese lugar imaginario**.
+
+
 Si se le pregunta cómo logra viajar por los caminos con seguridad, Morgantha solo sonríe y promete a los jugadores que "una anciana tiene sus trucos." ("Pero," se queja, "mi espalda y mis pobres pies sí que protestan de vez en cuando. No puedo esperar a remojarlos en una tina de agua caliente una vez que esté en casa.")
 
 Si los jugadores piden entrar a su casa, Morgantha se disculpa por su falta de hospitalidad, pero señala que está cansada y no preparada para recibir visitas. (Los jugadores son bienvenidos, dice, a visitarla otro día si lo desean.)
@@ -1017,6 +1224,11 @@ El viaje desde el Viejo Molinillo de Huesos hasta el **Pueblo de Vallaki** es de
 
 Este encuentro se desarrolla como se describe en <span class="citation">Enjambres de Cuervos (p. 32)</span>, con el grupo acompañado por dos **enjambres de cuervos**. Si Muriel está con el grupo y puede volar, toma vuelo junto a la bandada disfrazada, pero mantiene un ojo atento en los jugadores mientras viajan.
 
+>LEER:
+>Vuestra presencia en esta tierra lúgubre no ha pasado desapercibida. Un cuervo os sigue durante varios minutos, manteniendo una distancia respetuosa. Más cuervos empiezan a mostrar interés por vosotros. 
+>No pasa mucho tiempo antes de que su número aumente, y pronto decenas de ellos os están observando.
+
+
 Mientras los jugadores avanzan por el camino, lee:
 
 <div class="description">
@@ -1026,6 +1238,11 @@ Mientras los jugadores avanzan por el camino, lee:
 Si [[Non-Player Characters#Ireena Kolyana|Ireena]] está con el grupo, se detiene en seco y pregunta a los jugadores si el grupo puede hacer un breve desvío cruzando el campo hacia el lago. Si se le pregunta, señala únicamente que el lago le parece extrañamente familiar.
 
 El Lago Zarovich es como se describe en <span class="citation">L. Lago Zarovich (p. 38)</span>, pero sin botes varados ni el bote de Bluto visible.
+
+
+>LEER:
+>Al pie de una montaña, enclavado en el bosque brumoso, hay un gran lago. El agua está perfectamente quieta y oscura, reflejando las nubes negras del cielo como un espejo monstruoso.
+
 
 Al llegar a la orilla del lago, Ireena nota con inquietud que parece ser el mismo lago que ha visto en sus sueños. (Si aún no lo ha compartido, Ireena cuenta la historia de su sueño, descrita en [[#C4d. La Danza del Fuego]] arriba.)
 
@@ -1037,7 +1254,7 @@ Mientras los jugadores continúan por el camino, lee:
 <p>Tan rápido como apareció, el campo vuelve a ser engullido por el bosque, los árboles cerrándose a su alrededor una vez más. El oscuro sotobosque cruje y se agita con el viento, y el peso del bosque presiona desde todos los lados. No puedes evitar la sensación de que, de algún modo, estás siendo observado.</p>
 </div>
 
-Si uno de los jugadores tiene una puntuación pasiva de Sabiduría (Percepción) de 14 o superior, o si uno de los jugadores tiene éxito en una prueba de Sabiduría (Percepción) CD 14, añade:
+Si uno de los jugadores tiene una puntuación pasiva de **Sabiduría (Percepción) de 14** o superior, o si uno de los jugadores tiene éxito en una prueba de Sabiduría (Percepción) CD 14, añade:
 
 <div class="description">
 <p>Una sombra humanoide parpadea a lo lejos—y luego desaparece de la vista.</p>
@@ -1108,6 +1325,56 @@ Modifica las estadísticas de los lobos como se describe en [[#C7a. El Barranco]
 <p><strong><em>Cambio de Forma.</em></strong> El hombre lobo se transforma en un híbrido lobo-humano o en un lobo, o vuelve a su forma verdadera, que es humanoide. Sus estadísticas, excepto su CA, son las mismas en cada forma. Cualquier equipo que lleve se fusiona con la nueva forma. Vuelve a su forma verdadera si muere.</p>
 </div>
 
+<div class="statblock">
+  <h2>Lobo</h2>
+  <em>Bestia Mediana, sin alineamiento</em>
+  <hr>
+  <strong>Clase de Armadura</strong> 12<br>
+  <strong>Puntos de Golpe</strong> 11 (2d8 + 2)<br>
+  <strong>Velocidad</strong> 40 pies
+  <hr>
+  <table class="ability-table">
+    <thead>
+      <tr>
+        <th>FUE</th>
+        <th>DES</th>
+        <th>CON</th>
+        <th>INT</th>
+        <th>SAB</th>
+        <th>CAR</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>14 (+2)</td>
+        <td>15 (+2)</td>
+        <td>12 (+1)</td>
+        <td>3 (-4)</td>
+        <td>12 (+1)</td>
+        <td>6 (-2)</td>
+      </tr>
+    </tbody>
+  </table>
+  <hr>
+  <strong>Habilidades</strong> Percepción +5, Sigilo +4<br>
+  <strong>Sentidos</strong> Visión en la oscuridad 60 pies, Percepción pasiva 15<br>
+  <strong>Idiomas</strong> —<br>
+  <strong>Desafío</strong> 1/4 (50 PX)<br>
+  <strong>Bonificación por Competencia</strong> +2<br>
+  <hr>
+  <p>
+    <strong><em>Tácticas de Manada.</em></strong> El lobo tiene ventaja en las tiradas de ataque contra una criatura si al menos uno de sus aliados está a 5 pies de esa criatura y no está incapacitado.
+  </p>
+  <h3>Acciones</h3>
+  <p>
+    <strong><em>Desgarrar.</em></strong> Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies, un objetivo.<br>
+    <strong>Impacto:</strong> 7 (2d4 + 2) de daño perforante. En lugar de infligir daño, el lobo puede agarrar al objetivo (escapar CD 11).
+  </p>
+  <p>
+    <strong><em>Zarpazo.</em></strong> Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies, un objetivo.<br>
+    <strong>Impacto:</strong> 6 (1d8 + 2) de daño cortante. Si el objetivo es una criatura, debe hacer una tirada de salvación de Fuerza CD 11. Si falla, queda derribado o es empujado 5 pies (a elección del lobo).
+  </p>
+</div>
 
 En combate, los **lobos** trabajan juntos, utilizando sus ***Garras*** para derribar a los personajes y luego su ***Desgarrar*** para inmovilizar a los objetivos derribados. Una vez que los lobos han arrastrado a un personaje inmovilizado lejos del grupo, los **hombres lobo** cambian su enfoque para atacarlo con su ***Mordisco***. El primer personaje atacado de esta manera nota que los hombres lobo son ligeramente más grandes que los otros lobos y tienen ojos inteligentes y perturbadoramente humanos.
 
@@ -1146,6 +1413,10 @@ Cualquier jugador que haya fallado su tirada de salvación contra la maldición 
 ## C12a. Las Puertas de Vallaki
 El camino continúa hacia la **Ciudad de Vallaki**, descrita en su mayoría como en <span class="citation">Approaching the Town (p. 95)</span>. Sin embargo, elimina la primera oración del texto descriptivo y añade el siguiente texto al final del primer párrafo: 
 
+> Los bosques retroceden, revelando una **sombría aldea montañosa** rodeado por una **empalizada de madera**. Una **densa niebla** presiona contra la muralla, como si buscara una forma de entrar, esperando atrapar al pueblo dormido.
+>El **camino de tierra** termina en un **par de robustas puertas de hierro**, tras las cuales se alzan **dos figuras sombrías**. Plantadas en el suelo, flanqueando el camino fuera de las puertas, hay **media docena de picas** con **cabezas de lobo** empaladas en ellas.
+
+
 <div class="description"><p>Más de una docena de tiendas destartaladas se han instalado contra la empalizada. Entre ellas, docenas de personas andrajosas y demacradas deambulan o se sientan junto a fogatas de baja intensidad y sacos de dormir, sus miradas vacías observándolos en silencio mientras se acercan.</p></div>
 
 Si los jugadores partieron de Tser Pool esa mañana, llegan a Vallaki al anochecer.
@@ -1153,8 +1424,13 @@ Si los jugadores partieron de Tser Pool esa mañana, llegan a Vallaki al anochec
 Si [[Non-Player Characters#Ireena Kolyana|Ireena]] está viajando visiblemente con el grupo, añade:
 
 <div class="description"><p>Algunas de ellas observan a Ireena con un reconocimiento apagado, pero nadie levanta una mano en señal de saludo ni hace ningún gesto de calidez.</p></div>
-
+ 
 Esta área, la Puerta del Amanecer, está descrita en su mayoría como en <span class="citation">Town Gates (p. 95)</span>. Las tiendas conforman un campamento de refugiados de Barovia, alojando a quienes sobrevivieron al viaje desde el pueblo de Barovia tras el asedio de Strahd.
+
+>INFO:
+> **Las Puertas de Vallaki** Tres **altas puertas de hierro** conducen a la ciudad:
+> - **Puerta Norte**: A veces llamada **Puerta Zarovich**, o "la puerta al lago", ya que conduce al **Lago Zarovich** (*capítulo 2, área L*). - **Puerta Oeste**: Conocida como la **Puerta del Ocaso**, aunque ningún habitante de Vallaki ha visto un atardecer sin nubes. Algunas **cabañas abandonadas** bordean el camino fuera de esta puerta. 
+> - **Puerta Este**: También llamada **Puerta del Alba**, aunque algunos lugareños se refieren a ella como la **Puerta del Luto**. Las **puertas están aseguradas por cadenas de hierro con candados** durante la noche. Durante el día, permanecen cerradas pero no suelen estar bloqueadas. 
 
 ### El Campamento de Refugiados
 Si está con el grupo, [[Non-Player Characters#Ireena Kolyana|Ireena]] se siente devastada y enfurecida al ver el campamento de refugiados. Sugiere que se reúna con los refugiados mientras los jugadores buscan alojamiento en la ciudad, y promete unirse al grupo más tarde. Los jugadores pueden disuadirla con una prueba exitosa de Carisma (Persuasión) CD 10. De lo contrario, Ireena se acerca a una de las fogatas, ya sea sola o—si los jugadores insisten en acompañarla—con compañía.
@@ -1174,6 +1450,15 @@ Tras su interacción con los refugiados, Ireena está furiosa por la indiferenci
 ### Los Guardias en las Puertas
 Los guardias en las puertas actúan en su mayoría como se describe en <span class="citation">Town Gates (p. 95)</span>. Uno lleva una lanza plateada, mientras que el otro tiene un carcaj con una docena de virotes de ballesta, la mitad de los cuales están plateados.
 
+> INFO: 
+> **Guardias y Seguridad** 
+> - **Dos guardias de la ciudad** (**humanos, LB**) custodian cada puerta. 
+> - Uno lleva una lanza plateada, mientras que el otro tiene un carcaj con una docena de virotes de ballesta, la mitad de los cuales están plateados.
+> - Los **visitantes son recibidos con sospecha**, especialmente aquellos que llegan por la noche. 
+> - **Llegada nocturna**: Para convencer a los guardias de desbloquear la puerta, al menos un personaje debe superar una **prueba de Carisma (Persuasión) DC 20**.
+> SI HAY ALTERCADO
+> Si ocurre un **altercado en una de las puertas**, los guardias gritan **"¡A las armas!"**. Sus gritos se **repiten en toda Vallaki**, poniendo **a toda la ciudad en alerta en cuestión de minutos**.  - **Guardias de Vallaki**: Hay **24 guardias humanos**, con **12 en servicio en todo momento** (**6 en las puertas y 6 patrullando las murallas**). - **Milicia de Vallaki**: La ciudad puede **reunir una milicia de 50 aldeanos** armados con **garrotes, dagas y antorchas**.
+
 Los guardias exigen que cada persona primero se identifique. Una vez identificados, cada jugador debe mostrar sus dientes ("Para demostrar que no son vampiros.") y exponerse brevemente a un collar ensartado con bulbos de ajo ("Para demostrar que no son hombres lobo"). (El Barón ha informado erróneamente a sus guardias que los hombres lobo son gravemente alérgicos al ajo.)
 
 Luego, los guardias exigen que cada jugador pague 1 pieza de oro como peaje para entrar al pueblo. Los guardias se niegan a aceptar pagos en nombre de los refugiados, a quienes el Barón ha prohibido específicamente la entrada, alegando preocupaciones por "enfermedades, desorden y malicia infeliz."
@@ -1189,7 +1474,7 @@ Cada vez que los jugadores pasen por las puertas, incluida la primera, los guard
 ### Entrando al Pueblo
 Mientras los jugadores avanzan por la avenida principal de Vallaki, lee:
 
-<div class="description"><p>Pasas del camino de tierra a calles adoquinadas, el barro manchando tus botas y los bajos de tus pantalones. Detrás de ti, las puertas se cierran con un golpe, y puedes ver a los guardias retomar sus puestos tras ellas. A lo lejos, puedes distinguir a dos figuras más portando picas, patrullando las murallas mientras observan el bosque retorcido más allá.</p>
+<div class="description"><p>Pasais del camino de tierra a calles adoquinadas, el barro manchando tus botas y los bajos de tus pantalones. Detrás de ti, las puertas se cierran con un golpe, y puedes ver a los guardias retomar sus puestos tras ellas. A lo lejos, puedes distinguir a dos figuras más portando picas, patrullando las murallas mientras observan el bosque retorcido más allá.</p>
 <p>Los aleros de los edificios están decorados con viejos estandartes y telas raídas que ondean y se retuercen con la fría brisa. Los estandartes están pintados con palabras e ilustraciones descoloridas, pero el tiempo les ha robado tanto su legibilidad como cualquier belleza que pudieran haber tenido.</p>
 <p>La luz parpadeante de las velas se filtra por las ventanas cerradas de las casas adosadas, y sombras humanoides se mueven tras las cortinas cerradas. Sombras largas acechan en los callejones, donde la hierba crece larga y torcida bajo la madera manchada y combada de los edificios superiores.</p>
 <p>Las calles están desiertas, aunque puedes ver a una figura encapuchada alejándose de ti por el camino central. En la distancia, más allá de las murallas, un lobo solitario aúlla, y una ráfaga de viento helado corta la noche como un cuchillo.</p></div>
@@ -1202,6 +1487,8 @@ Mientras los personajes avanzan por las calles, son notados por Ernst Larnak, qu
 <span class="citation"><em>Esta escena tiene lugar en el Capítulo 5: Área N2.</em></span>
 
 Esta área se describe principalmente como en <span class="citation">N2. Blue Water Inn (p. 98)</span>. Si Muriel está presente, se despide de los jugadores con un suave y sentimental trino, luego parte para unirse a los demás cuervos que descansan en el techo. (Si los jugadores regresan más tarde a la posada buscándola, no estará presente.)
+
+>Humo gris sale por la chimenea de este gran edificio de madera de dos pisos, con cimientos de piedra y un tejado de tejas hundido, sobre el cual se han posado varios cuervos. Un cartel de madera pintado que cuelga sobre la entrada principal muestra una cascada azul.
 
 Cuando los jugadores llegan por primera vez, la posada contiene a los siguientes NPCs notables:
 
@@ -1249,6 +1536,14 @@ Cuando los jugadores llegan por primera vez, la posada contiene a los siguientes
 
 La taberna se describe como en <span class="citation">N2c. Taproom (p. 100)</span>. Sin embargo, añade el siguiente texto al final de la descripción de esta área:
 
+>LEER: 
+>Capas húmedas cuelgan de ganchos en el pórtico de entrada. La taberna está repleta de mesas y sillas, con estrechos pasillos serpenteando entre ellas. Una barra se extiende a lo largo de una pared, bajo un balcón al que se accede por una escalera de madera que se adhiere a la pared norte. Otro balcón sobresale sobre una entrada al este. Todas las ventanas están equipadas con gruesas contraventanas y travesaños. Faroles colgando sobre la barra y descansando sobre las mesas bañan la sala en una tenue luz anaranjada y proyectan sombras sobre las paredes, la mayoría de las cuales están adornadas con cabezas de lobo montadas sobre placas de madera.
+
+
+>INFO del vino: 
+>Montados sobre soportes y encajados en nichos detrás de la barra hay tres barriles de vino, cada uno tres cuartos vacío. Dos de los barriles contienen Purple Grapemash No. 3 (un vino barato), y el tercero contiene Red Dragon Crush (un vino de calidad). Un grifo de latón está clavado en cada barril.
+
+
 <div class="description">
 <p>Casi una docena de vallakianos están dispersos por las distintas mesas, sorbiendo jarras de vino o cuencos de un guiso sustancioso. Junto a la escalera, un hombre vestido de forma colorida y con un sombrero de ala ancha adornado con plumas gesticula ampliamente en la cabecera de una mesa larga, captando la atención de varios clientes sentados allí. Oyes una ola de risas recorrer el grupo, seguida de un ligero aplauso.</p>
 </div>
@@ -1261,6 +1556,15 @@ Cuando los jugadores entran por primera vez en la posada, [[Non-Player Character
 
 Si los personajes se acercan a la barra, [[Non-Player Characters#Urwin Martikov|Urwin]] sale de la cocina llevando una bandeja con pan recién horneado, guiso caliente de remolacha y filetes de lobo, que coloca en la barra. (La comida huele deliciosamente apetitosa.) Szoldar Szoldarovich y Yevgeni Krushkin también están sentados en la barra y se describen como en <span class="citation">N2c. Taproom (p. 100)</span>.
 
+>INFO POR SI PREGUNTAN A SZOLDAR O TEVGENI
+>
+>**Cazadores de lobos.** Szoldar Szoldarovich y Yevgeni Krushkin (N, humanos exploradores) son cazadores locales que frecuentan la **Posada del Agua Azul**. Matan lobos y venden su carne para ganarse la vida, un trabajo peligroso y sangriento. Ambos hombres son sombríos y tienen una mirada atormentada.
+>
+>Estos dos sujetos son serios, pero rara vez dejan pasar una oportunidad de ganar unas monedas. Si los personajes buscan guías o información sobre la tierra de Barovia, Szoldar y Yevgeni pueden ser de utilidad. No temen aventurarse fuera de los muros de Vallaki durante el día y conocen bien los bosques y el valle. Están dispuestos a actuar como guías por 5 po al día, o a proporcionar direcciones a lugares importantes a cambio de bebidas gratis. Piensan que es una locura viajar por “este reino maldito” de noche y no lo harán a menos que el pago sea exorbitante (100 po o más).
+>
+>En las raras ocasiones en que tiene algo que decir, Szoldar habla de forma brusca, mientras que Yevgeni suele repetir las palabras de su amigo con menos palabras. Szoldar tiene una muesca en su arco por cada lobo que ha matado, mientras que Yevgeni añade un nuevo trozo a su capa de piel de lobo cada vez que hace una presa. Ambos tienen familias, pero pasan la mayor parte del tiempo juntos, ya sea ahogando sus penas o cazando en el bosque. La mayoría de las cabezas de lobo que adornan las paredes de la taberna son obra suya.
+
+
 Urwin saluda calurosamente a los jugadores y les da la bienvenida a la Posada del Agua Azul. Si los jugadores no dirigen la conversación a otro tema, les comenta que parecen viajeros y les pregunta si necesitan habitaciones para pasar la noche.
 
 Antes de que Urwin pueda responder a los jugadores, Danika regresa y se disculpa con los jugadores por la demora. Suponiendo que los jugadores no interrumpan, la conversación prosigue de la siguiente manera:
@@ -1272,9 +1576,19 @@ Antes de que Urwin pueda responder a los jugadores, Danika regresa y se disculpa
 
 Danika informa entonces a los jugadores las tarifas de habitación y comida, como se detalla en <span class="citation">N2. Blue Water Inn (p. 98)</span>. (Tanto la habitación grande para huéspedes, <span class="citation">N2m. Guest Room (p. 102)</span>, como las dos habitaciones pequeñas para huéspedes, <span class="citation">N2l. Guest Rooms (p. 102)</span>, están disponibles para alquilar.) Cuando Urwin regresa, se ofrece a tomar los pedidos de los jugadores para la cena, asumiendo que tienen hambre.
 
+> TARIFAS:
+> 1 ep una noche (sopa caliente de remolacha y pan recién horneado incluidas con al estancia)
+> 1 ep un filete de lobo
+> 3 pc una pinta de vino Mosto de Uva Púrpura nº 3 por
+> 1 po una pinta del superior Aplastadragones Rojo
+
+
 Los jugadores tienen entonces unos minutos para conversar con Urwin y Danika o entre ellos. Durante esta conversación, Urwin y Danika pueden proporcionar información a los jugadores sobre Rictavio, el Festival del Sol Llameante (que tendrá lugar en cinco días al mediodía) y el campamento Vistani cercano, como se describe en <span class="citation">Vallaki Lore (p. 96)</span>.
 
 Tanto Urwin como Danika pueden dar indicaciones hacia cualquier lugar importante dentro de Vallaki, incluyendo **N1. St. Andral's Church**, **N5. Arasek Stockyard**, y **N8. Town Square**. Si los jugadores preguntan sobre el otro huésped de la posada, Urwin y Danika también pueden compartir información sobre Rictavio, que es en su mayoría como se describe en <span class="citation">N2c. Taproom (p. 100)</span>, salvo que Rictavio llegó esa misma mañana.
+
+> Rictavio. El único huésped de la Posada del Agua Azul en este momento es un trovador semielfo vestido con ropas coloridas que responde al nombre de Rictavio—una identidad falsa adoptada por el legendario cazador de vampiros Rudolph van Richten (ver apéndice D). Entretiene a los parroquianos con historias tan extravagantes que parecen increíbles, aunque él insiste en que son ciertas. Rictavio asegura ser un maestro de ceremonias de carnaval proveniente de una tierra lejana. Cuando llegó, estaba acompañado de un mono llamado Piccolo. Como el mono no fue bien recibido en la posada, Rictavio se lo dio al juguetero local (ver zona N7).
+
 
 El envío más reciente de vino para la posada está ligeramente retrasado, pero no lo suficiente como para alarmar a Urwin. Por lo tanto, no solicita a los jugadores que investiguen la situación en la Bodega del Mago de los Vinos en este momento. (Esta misión no estará disponible hasta que los jugadores alcancen el nivel 5. Consulta [[Arc J - The Stolen Gem]] para más información.)
 
