@@ -276,7 +276,7 @@ Ultimately, the players can also dissuade Wensencia from harvesting the elk by s
 
 As Wensencia departs, if the players treated her cordially, she warns them to beware the creatures that lurk amidst the gloom of the nearby crags and woods. "This meadow is a place of ancient death," she says, "and such creatures are drawn to it like moths to a flame. Do not linger long, lest you draw their attention—and their appetites." (Wensencia is referring to the **ghouls** that dwell amidst the cliffs of the nearby mountains, described in further detail below.)
 
-If the players successfully dissuade or drive off Wensencia, the raven clucks gratefully and solemnly bows its head in a showing of respect. If the players linger an additional five minutes, the dire elk passes away, its eyes slowly drifting closed as the wound overtakes it.
+If the players successfully dissuade or drive off Wensencia, the raven clucks gratefully and solemnly bows its head in a showing of respect. If the players linger an additional five minutes, the dire elk passes away, its remaining eye slowly drifting closed as the wound overtakes it.
 #### The Mass Grave
 When the players depart the stone slab for the grave site, read:
 
@@ -349,7 +349,7 @@ The cemetery and mausoleum are largely as described in <span class="citation">Q1
 ### Kitchen
 <span class="citation"><em>This scene takes place in Chapter 7, Area Q10.</em></span>
 
-This area is largely as described in <span class="citation">Q10. Kitchen (p. 133).</span> However, the iron pot isn’t rattling when the players first enter the room. Instead, the room is noticeably colder than the surrounding rooms, though not quite freezing.
+This area is largely as described in <span class="citation">Q10. Kitchen (p. 133).</span> However, the iron pot has a lid and isn’t rattling when the players first enter the room. Instead, the room is noticeably colder than the surrounding rooms, though not quite freezing.
 
 If a player approaches or crosses in front of the fireplace, read:
 
@@ -499,10 +499,10 @@ The northeastern barrel appears to be empty. However, a player who uses the crow
 This area is largely as described in <span class="citation">Q4. Spider's Ballroom (p. 132).</span> However, replace two of the **giant spiders** with a pair of **phase spiders** lurking in the Ethereal Plane, which emerge into the Material Plane and attack when all **giant spiders** have been defeated.
 
 > [!combat]+ **Balancing the Spiders’ Ballroom**
-> This combat encounter is a **bruising** combat encounter against a party of five 6th-level players, a CR 2 ally (Ireena Kolyana), a CR 4 ally (Ezmerelda d’Avenir), and a CR 1/4 ally (Zorya), and will consume approximately 33% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows: 
-> * **Three Players.** Reduce the number of giant spiders to seven. 
-> * **Four Players.** Reduce the number of giant spiders to eight. 
-> * **Six Players**. Increase the number of giant spiders to ten.
+> This two-wave encounter includes a bruising combat encounter followed by a mild combat encounter against a party of five 6th-level players, a CR 2 ally (Ireena Kolyana), a CR 4 ally (Ezmerelda d’Avenir), and a CR 1/4 ally (Zorya), the first of which will consume approximately 30% of their total maximum hit points and the second of which will consume approximately 7% of their total maximum hit points (for a total of 37% of their maximum hit points). For parties of smaller or larger sizes, modify the encounter as follows: 
+> * **Three Players.** Reduce the number of giant spiders in the first wave to one. Have the phase spiders appear in waves—first one, then the other. 
+> * **Four Players.** Reduce the number of giant spiders in the first wave to six. 
+> * **Six Players**. Increase the number of giant spiders in the first wave to eight.
 
 > [!info]+ **Phase Spider Harvesting**
 > A single adult **phase spider** possesses two large fangs, each of which can produce up to three vials of venom. A character can harvest a single fang successfully by succeeding on a DC 12 Dexterity (Nature) check. (On a failure, the fang is cracked and unusable.)
@@ -530,7 +530,7 @@ The satchel, which appears to have had its leather strap forcibly torn off, cont
 ## M4d. Exterior
 <span class="citation"><em>This scene takes place in Chapter 7, Areas Q5 and Q8.</em></span>
 
-These areas are as described in <span class="citation">Q5. Ruined Stable (p. 132)</span> and <span class="citation">Q8. Iron Gate (p. 133).</span>.
+These areas are as described in <span class="citation">Q5. Ruined Stable (p. 132)</span> and <span class="citation">Q8. Iron Gate (p. 133).</span>
 # M5. Second Floor
 ## M5a. Central Hall
 <span class="citation"><em>This scene takes place in Chapter 7, Areas Q17, Q18, Q20, Q21, Q22, and Q23.</em></span>
@@ -714,7 +714,7 @@ Removing the picture from the wall reveals a hidden stone shelf containing a par
 The bracelet is carved to resemble a dragon biting its own tail, and is a *bracelet of warding*. The block of white stone, which bears the carving of a dragon’s head and is mounted on a leather cord, is an *amulet of knight’s passage*. The rapier, which has a silvered blade and a hilt carved with the images of tiny dragons, has the properties of a *moon-touched rapier* (<span class="citation">Xanathar's Guide to Everything, p. 138</span>)
 
 > [!item]+ **Bracelet of Warding**
-> *Wondrous item, rare (requires attunement)*
+> *Wondrous item, rare*
 >
 > This bracelet has 3 charges. While wearing it, you can use a bonus action to spend 1 of its charges to cast the *sanctuary* spell (DC 15), or 2 of its charges to cast the *warding bond* spell with a range of 30 feet.
 >
@@ -968,9 +968,9 @@ If any of the players refuse to swear Vladimir’s oath, read:
 
 > [!combat]+ **Balancing the Commander** 
 > Due to the phase mechanic, this is a series of two consecutive **bruising** combat encounters against a party of five 6th-level players, a CR 3 ally (Ireena Kolyana), a CR 4 ally (Ezmerelda d’Avenir), and a CR 1/4 ally (Zorya), and will each consume approximately 39% of their total maximum hit points (for a total of 78% of their maximum hit points). For parties of smaller or larger sizes, modify the encounter as follows: 
-> * **Three Players**. Reduce Vladimir’s hit points in each phase to 169. Reduce his Greatsword to a +1 greatsword (+11 to hit, 2d6+6 slashing damage), reduce the damage of his ***Conjure Phantoms*** to 1d8, reduce his ***Reaving Sweep*** to 6d4 slashing damage, reduce his ***Umbral Snare*** to 4d4 piercing initially and 2d4 piercing when attempting to escape the grapple. In his second phase, reduce his Greatsword to a +1 (+11 to hit, 2d6+6 slashing damage) and 1d4 additional piercing damage, reduce his ***Black Flames*** to 2d4 cold damage and 1d4 necrotic damage, reduce his ***Gravepyre*** to 2d6 cold and 2d6 necrotic damage, reduce his ***Destructive Wave*** to 2d6 thunder and 2d6 necrotic damage, and reduce his ***Vengeful Rush***’s initial damage to 2d4. 
-> * **Four Players**. Reduce Vladimir’s hit points in each phase to 198. Reduce his Greatsword to a +1 greatsword (+11 to hit, 2d6+6 slashing damage), reduce the damage of his ***Conjure Phantoms*** to 1d8+2, reduce his ***Reaving Sweep*** to 7d4 slashing damage, reduce his ***Umbral Snare*** to 2d12 piercing initially and 1d12 piercing when attempting to escape the grapple. In his second phase, reduce his Greatsword to a +1 (+11 to hit, 2d6+6 slashing damage) and 1d4 additional piercing damage, reduce his ***Black Flames*** to 1d12 cold damage and 1d6 necrotic damage, reduce his ***Gravepyre*** to 2d8 cold and 2d8 necrotic damage, reduce his ***Destructive Wave*** to 2d8 thunder and 2d8 necrotic damage, and reduce his ***Vengeful Rush***’s initial damage to 1d12. 
-> * **Six Players**. Increase Vladimir’s hit points in each phase to 258. Increase his Greatsword to a +3 greatsword (+13 to hit, 2d6+8 slashing damage), increase the damage of his ***Conjure Phantoms*** to 1d10+3, increase his ***Reaving Sweep*** to 4d10 slashing damage, increase his ***Umbral Snare*** to 6d4 piercing initially and 3d4 piercing when attempting to escape the grapple. In his second phase, increase his Greatsword to a +3 (+13 to hit, 2d6+8 slashing damage) and 1d6 additional piercing damage, increase his ***Black Flames*** to 3d4 cold damage and 1d6 necrotic damage, increase his Gravepyre to ***2d10*** cold and 2d10 necrotic damage, increase his ***Destructive Wave*** to 2d10 thunder and 2d10 necrotic damage, and increase his ***Vengeful Rush***’s initial damage to 3d4.
+> * **Three Players**. Reduce Vladimir’s hit points in each phase to 169. Reduce his Greatsword to a +1 greatsword (+11 to hit, 2d6+6 slashing damage), reduce the damage of his ***Conjure Phantoms*** to 1d8, reduce his ***Reaving Sweep*** to 6d4 slashing damage, reduce his ***Umbral Snare*** to 4d4 piercing initially and 2d4 piercing when attempting to escape the grapple. In his second phase, reduce his Greatsword to a +1 (+11 to hit, 2d6+6 slashing damage) and 1d4 additional piercing damage, reduce his ***Black Flames*** to 2d4 fire damage and 1d4 necrotic damage, reduce his ***Gravepyre*** to 2d6 fire and 2d6 necrotic damage, reduce his ***Destructive Wave*** to 2d6 thunder and 2d6 necrotic damage, and reduce his ***Vengeful Rush***’s initial damage to 2d4. 
+> * **Four Players**. Reduce Vladimir’s hit points in each phase to 198. Reduce his Greatsword to a +1 greatsword (+11 to hit, 2d6+6 slashing damage), reduce the damage of his ***Conjure Phantoms*** to 1d8+2, reduce his ***Reaving Sweep*** to 7d4 slashing damage, reduce his ***Umbral Snare*** to 2d12 piercing initially and 1d12 piercing when attempting to escape the grapple. In his second phase, reduce his Greatsword to a +1 (+11 to hit, 2d6+6 slashing damage) and 1d4 additional piercing damage, reduce his ***Black Flames*** to 1d12 fire damage and 1d6 necrotic damage, reduce his ***Gravepyre*** to 2d8 fire and 2d8 necrotic damage, reduce his ***Destructive Wave*** to 2d8 thunder and 2d8 necrotic damage, and reduce his ***Vengeful Rush***’s initial damage to 1d12. 
+> * **Six Players**. Increase Vladimir’s hit points in each phase to 258. Increase his Greatsword to a +3 greatsword (+13 to hit, 2d6+8 slashing damage), increase the damage of his ***Conjure Phantoms*** to 1d10+3, increase his ***Reaving Sweep*** to 4d10 slashing damage, increase his ***Umbral Snare*** to 6d4 piercing initially and 3d4 piercing when attempting to escape the grapple. In his second phase, increase his Greatsword to a +3 (+13 to hit, 2d6+8 slashing damage) and 1d6 additional piercing damage, increase his ***Black Flames*** to 3d4 fire damage and 1d6 necrotic damage, increase his Gravepyre to ***2d10*** fire and 2d10 necrotic damage, increase his ***Destructive Wave*** to 2d10 thunder and 2d10 necrotic damage, and increase his ***Vengeful Rush***’s initial damage to 3d4.
 
 > [!abstract]+ **The Players Flee**
 > If any players attempt to flee down the stairs, Vladimir leaps from the beacon’s western window and lands on the rooftop beside <span class="citation">Q49. Beacon Tower Door (p. 141)</span> to block their escape.
@@ -1016,7 +1016,6 @@ If any of the players refuse to swear Vladimir’s oath, read:
 <strong>Challenge</strong> 15<br>
 <strong>Proficiency</strong> +5
 <hr>
-<p><strong><em>Legendary Resistance (1/day).</em></strong> If Vladimir would fail a saving throw, he can choose to succeed instead.</p>
 <p><strong><em>Regeneration.</em></strong> Vladimir regains 10 hit points at the start of his turn. If he takes fire or radiant damage, this trait doesn't function at the start of his next turn. Vladimir's body is destroyed only if he starts his turn with 0 hit points and doesn't regenerate.</p>
 <p><strong><em>Turn Immunity.</em></strong> Vladimir is immune to effects that turn undead.</p>
 <p><strong><em>Oathbind.</em></strong> If Vladimir would deal damage to a dying creature with his <strong><em>+2 greatsword</em></strong>, he can instead choose to stabilize that creature and subject it to the effects of a <em>geas</em> spell. This geas lasts until dispelled and can damage its bearer any number of times each day. A creature that takes damage in this way is also restrained until the start of its next turn. In addition, the geas can’t be ended or dispelled except through the effects of a <em>greater restoration</em> or <em>wish</em> spell, or if Vladimir uses an action to dismiss it.</p>
@@ -1030,6 +1029,7 @@ If any of the players refuse to swear Vladimir’s oath, read:
 <p><strong><em>Umbral Snare.</em></strong> Black-spiked wires extrude from the earth around Vladimir in a 5-foot radius. Each creature in that area must succeed on a DC 18 Dexterity saving throw or take 14 (4d6) piercing damage and be grappled by the wires (escape DC 19) until the start of Vladimir’s next turn. A creature that succeeds on the saving throw takes half damage and isn’t grappled. A creature that attempts to escape the grapple immediately takes an additional 7 (2d6) piercing damage, whether it succeeds or fails.</p>
 <h3>Reactions</h3>
 <p>Vladimir can take up to three reactions per round, but only one per turn. If Vladimir would lose his reactions and isn't incapacitated, he loses one reaction instead.</p>
+<p><strong><em>Indomitable.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> Vladimir can repeat the saving throw against one effect or condition currently affecting it. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.)</p>
 <p><strong><em>Sworn Retribution (1/round).</em></strong> In response to taking damage from a creature he can see, Vladimir marks that creature until the end of his next turn. While that creature is marked, Vladimir doesn’t provoke opportunity attacks when moving directly toward it, he has advantage on the first melee attack he makes against that creature each turn and his weapon attacks against that creature score a critical hit on a roll of 19-20.</p>
 <p><strong><em>Ghostly Command.</em></strong> In response to taking damage from an attack or spell, Vladimir conjures a phantom soldier to shield him, reducing the damage taken by half (rounded up). This ability can’t reduce Vladimir’s damage taken by more than 10.</p>
 <p><strong><em>Martial Reprisal.</em></strong> In response to taking damage from an attack or spell, Vladimir moves up to half his speed toward the attacker or caster and makes an attack against it with his <strong><em>+2 greatsword</em></strong> if it's within reach.</p>
@@ -1077,7 +1077,6 @@ If any of the players refuse to swear Vladimir’s oath, read:
 <strong>Challenge</strong> 15<br>
 <strong>Proficiency</strong> +5
 <hr>
-<p><strong><em>Legendary Resistance (1/day).</em></strong> If Vladimir would fail a saving throw, he can choose to succeed instead.</p>
 <p><strong><em>Regeneration.</em></strong> Vladimir regains 10 hit points at the start of his turn. If he takes fire or radiant damage, this trait doesn't function at the start of his next turn. Vladimir's body is destroyed only if he starts his turn with 0 hit points and doesn't regenerate.</p>
 <p><strong><em>Rejuvenation.</em></strong> When Vladimir's body is destroyed, his soul lingers. After 24 hours, the soul inhabits and animates another corpse on the same plane of existence and regains all its hit points. While the soul is bodiless, a wish spell can be used to force the soul to go to the afterlife and not return.</p>
 <p><strong><em>Turn Immunity.</em></strong> Vladimir is immune to effects that turn undead.</p>
@@ -1085,12 +1084,13 @@ If any of the players refuse to swear Vladimir’s oath, read:
 <h3>Actions</h3>
 <p><strong><em>Multiattack.</em></strong> Vladimir makes two melee attacks. He can replace one of those attacks with a <strong><em>black flames</em></strong> attack.</p>
 <p><strong><em>Greatsword +2.</em></strong> Melee Weapon Attack: +12 to hit, reach 5 ft., one target. Hit: 14 (2d6 + 7) slashing damage plus 3 (1d6) piercing damage, and the target must make a DC 18 Wisdom saving throw. On a failure, it has disadvantage on the first attack roll or ability check it makes before the end of its next turn.</p>
-<p><strong><em>Black Flames.</em></strong> Ranged Spell Attack: +10 to hit, range 30 ft., one target. Hit: 7 (2d6) fire damage plus 3 (1d6) necrotic damage, and the target ignites in black flames. At the start of its next turn, the target and each creature within 5 feet of it must make a DC 17 Constitution saving throw or take an additional 7 (2d6) cold damage. (The flames can’t be doused by nonmagical means.)</p>
+<p><strong><em>Black Flames.</em></strong> Ranged Spell Attack: +10 to hit, range 30 ft., one target. Hit: 7 (2d6) fire damage plus 3 (1d6) necrotic damage, and the target ignites in black flames. At the start of its next turn, the target and each creature within 5 feet of it must make a DC 17 Constitution saving throw or take an additional 7 (2d6) fire damage. (The flames can’t be doused by nonmagical means.)</p>
 <h3>Bonus Actions</h3>
 <p><strong><em>Gravepyre.</em></strong> Vladimir hurls a magical ball of black flames that explodes at a point he can see within 120 feet of him. Each creature in a 10-foot radius sphere centered on that point must make a DC 17 Dexterity saving throw. The sphere spreads around corners. A creature takes 10 (3d6) fire damage plus 10 (3d6) necrotic damage on a failed save, or half as much damage on a successful one. On a failure, a creature also has disadvantage on the next attack it makes before the start of Vladimir’s next turn.</p>
 <p><strong><em>Destructive Wave.</em></strong> Vladimir strikes the ground with his greatsword, creating a burst of destructive energy that ripples outward from him. Each creature within 10 feet of him must succeed on a DC 18 Constitution saving throw or take 10 (3d6) thunder damage plus 10 (3d6) necrotic damage and be knocked prone. A creature that succeeds on its saving throw takes half as much damage and isn’t knocked prone.</p>
 <h3>Reactions</h3>
 <p>Vladimir can take up to three reactions per round, but only one per turn. If Vladimir would lose his reactions and isn't incapacitated, he loses one reaction instead.</p>
+<p><strong><em>Indomitable.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> Vladimir can repeat the saving throw against one effect or condition currently affecting it. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.)</p>
 <p><strong><em>Vengeful Rush.</em></strong> In response to an enemy hitting or missing him with an attack, Vladimir charges toward it, moving up to 15 feet straight toward it without triggering opportunity attacks. If Vladimir ends his movement within 5 feet of that enemy, he can force it to make a DC 18 Strength saving throw. On a failure, the target takes 2d6 bludgeoning damage and Vladimir and the target move up to an additional 10 feet in the same direction without triggering opportunity attacks. If the target can’t move the full distance, it takes an additional 1d6 bludgeoning damage for each 5 feet not moved.</p>
 <p><strong><em>Vengeful Glare.</em></strong> In response to taking damage from an enemy within 30 feet, Vladimir forces that creature to make a DC 17 Wisdom saving throw. On a failure, the creature is frightened of Vladimir until Vladimir deals damage to it or until the end of Vladimir’s next turn. If the creature fails the saving throw by 5 or more, it is paralyzed instead.</p>
 <p><strong><em>Sentinel’s Strike.</em></strong> In response to a creature attempting to move out of his reach without first taking the Disengage action, Vladimir makes an attack against it with his <strong><em>+2 greatsword</em></strong>. On a hit, the creature takes no damage from the attack, but it falls prone and its speed becomes 0 for the rest of the turn.</p>
@@ -1127,7 +1127,7 @@ The players can summon an aspect of Argynvost’s spirit to briefly animate the 
 
 The gargoyle then whispers the short verse described in <span class="citation">Q44. Dragon Gargoyle (p. 141)</span>.
 
-***Milestone.*** Receiving Argynvost’s quest completes a story milestone. When the players obtain the gargoyle’s prophecy, award each player 2,000 XP.
+***Milestone.*** Receiving Argynvost’s quest completes a story milestone. When the players obtain the gargoyle’s prophecy, award each player 2,500 XP.
 
 > [!info]+ **Returning the Skull**
 > The players can return Argynvost's skull to his crypt in [[Arc Q - A Shining Beacon]], which takes place in the immediate aftermath of [[Arc P - Ravenloft Heist]].

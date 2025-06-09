@@ -18,19 +18,21 @@ The players begin this act at 5th level and should end it at 8th level, gaining 
 
 * defeat the druids occupying the Wizard of Wines winery (2,000 XP)
 * retrieve the stolen gem from Yester Hill (2,500 XP)
-* recruit Ezmerelda d’Avenir at the Abbey of St. Markovia (1,250 XP)
-* bargain with Zuleika Toranescu at the Werewolf Den (2,000 XP)
+* recruit Ezmerelda d’Avenir at the Abbey of St. Markovia (1,000 XP)
+* bargain with Zuleika Toranescu at the Werewolf Den (1,500 XP)
+* free Ilya and Zuleika from the den (250 XP)
 * receive Argynvost’s mission at Argynvostholt (2,500 XP)
-* put Varushka’s ghost to rest and find her hidden cache in Castle Ravenloft (1,500 XP)
+* put Varushka’s ghost to rest and find her hidden cache in Castle Ravenloft (500 XP)
 * return from Castle Ravenloft following the dinner with Strahd (3,500 XP)
-* steal Argynvost’s skull from Ravenloft’s **Hall of Bones** (1,000 XP)
-* recover the *Icon of Ravenloft* from Ravenloft’s catacombs (1,000 XP)
-* rescue Emil Toranescu from Ravenloft’s dungeons (1,000 XP)
-* rescue Gertruda from the master bedroom of Castle Ravenloft (500 XP)
-* raid Strahd’s hidden treasury in Castle Ravenloft (500 XP)
-* purify the Abbot’s soul (2,000 XP)
-* rescue Ilya Krezkov (1,000 XP)
-* obtain the *Holy Symbol of Ravenkind* (2,000 XP)
+* steal Argynvost’s skull from Ravenloft’s **Hall of Bones** (4000 XP)
+* recover the *Icon of Ravenloft* from Ravenloft’s catacombs (250 XP)
+* obtain the *Spear of the Huntress* from King Dostron's crypt (250 XP)
+* rescue Emil Toranescu from Ravenloft’s dungeons (250 XP)
+* rescue Gertruda from the master bedroom of Castle Ravenloft (250 XP)
+* raid Strahd’s hidden treasury in Castle Ravenloft (250 XP)
+* defeat the Abbot (2,000 XP)
+* redeem the Abbot after defeating him (500 XP)
+* defeat Kiril Stoyanovich (2,000 XP)
 * light the beacon of Argynvostholt (3,000 XP)
 # Timeline
 The quests of Act III become available and are resolved as given in the table below. (🟢 signifies a day the quest remains available, 🔶 signifies a day on which a significant event occurs, 🟥 signifies a quest deadline, and ❌ signifies a day the quest is unavailable.)
@@ -44,6 +46,7 @@ The quests of Act III become available and are resolved as given in the table be
 | N: Tales of Vallaki      | —   | —   | —   | —   | —   | —   | —   | —   |
 | O: Dinner with the Devil | —   | —   | —   | —   | —   | 🔶  | ❌   | ❌   |
 | P: Ravenloft Heist       | —   | —   | —   | —   | —   | —   | 🔶  | ❌   |
+| Q: A Shining Beacon      | —   | —   | —   | —   | —   | —   | —   | 🔶  |
 
 The most common path through Act III is as follows:
 
@@ -51,9 +54,10 @@ The most common path through Act III is as follows:
 * **Neyavr 10.** The players travel to the Wizard of Wines winery and defeat the druids of the Forest Folk there in [[Arc J - The Stolen Gem]].
 * **Neyavr 11.** The players travel to Yester Hill at dawn and stop the ritual to summon the **tree blight** Wintersplinter in [[Arc J - The Stolen Gem]]. The players then meet Ezmerelda d'Avenir in the village of Krezk and conduct a seance at the Abbey of St. Markovia in [[Arc K - The Fallen Abbey]], then stake out the werewolf den at nightfall in [[Arc L - The Den of Wolves]].
 * **Neyavr 12.** The players investigate Argynvostholt in [[Arc M - The Dragon's Manor]].
-* **Neyavr 13.** The players dine with Strahd at dusk in [[Arc O - Dinner with the Devil]] (🔶).
-* **Neyavr 14 (New Moon).** The players infiltrate Castle Ravenloft at dusk, then escape through the teleportation brazier in [[Arc P - Ravenloft Heist]] (🔶).
-* **Neyavr 15.** The players light the beacon of Argynvostholt in [[Arc M - The Dragon's Manor]] and defeat the werewolf Kiril Stoyanovich in [[Arc L - The Den of Wolves]].
+* **Neyavr 13.** The players take a day of downtime.
+* **Neyavr 14.** The players dine with Strahd at dusk in [[Arc O - Dinner with the Devil]] (🔶).
+* **Neyavr 15 (New Moon).** The players infiltrate Castle Ravenloft at dusk, then escape through the teleportation brazier in [[Arc P - Ravenloft Heist]] (🔶).
+* **Neyavr 16.** The players light the beacon of Argynvostholt and defeat the werewolf Kiril Stoyanovich in [[Arc Q - A Shining Beacon]] (🔶).
 
 Alternately, particularly swift players might take the following path through Act III instead:
 
@@ -61,6 +65,7 @@ Alternately, particularly swift players might take the following path through Ac
 * **Neyavr 10.** The players travel to the Wizard of Wines winery and defeat the druids of the Forest Folk there in [[Arc J - The Stolen Gem]].
 * **Neyavr 11.** The players travel to Yester Hill at dawn and stop the ritual to summon the **tree blight** Wintersplinter in [[Arc J - The Stolen Gem]]. The players then meet Ezmerelda d'Avenir and conduct a seance in [[Arc K - The Fallen Abbey]], and stake out the werewolf den in [[Arc L - The Den of Wolves]].
 * **Neyavr 12.** The players take a day of downtime.
-* **Neyavr 13.** The players take a day of downtime, then dine with Strahd at dusk in [[Arc O - Dinner with the Devil]] (🔶).
-* **Neyavr 14 (New Moon).** The players infiltrate Castle Ravenloft at dusk, then escape through the teleportation brazier in [[Arc P - Ravenloft Heist]] (🔶).
-* **Neyavr 15.** The players light the beacon of Argynvostholt in [[Arc M - The Dragon's Manor]] and defeat the werewolf Kiril Stoyanovich in [[Arc L - The Den of Wolves]].
+* **Neyavr 13.** The players take a day of downtime.
+* **Neyavr 14.** The players take a day of downtime, then dine with Strahd at dusk in [[Arc O - Dinner with the Devil]] (🔶).
+* **Neyavr 15 (New Moon).** The players infiltrate Castle Ravenloft at dusk, then escape through the teleportation brazier in [[Arc P - Ravenloft Heist]] (🔶).
+* **Neyavr 16.** The players light the beacon of Argynvostholt and defeat the werewolf Kiril Stoyanovich in [[Arc Q - A Shining Beacon]] (🔶).

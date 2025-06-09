@@ -162,7 +162,7 @@ Whether the players allow her to keep the lyre or not, Bianca bids them farewell
 > [!lore]+ **The Pack's Dispensation**
 > Long ago, before he entered his most recent hibernation more than a century ago, Strahd granted Barovia's werewolf pack his standing permission to depart Barovia through the Mists freely. The pack retains this special dispensation today under Kiril's leadership.
 
-Once she has obtained any useful materials from her wagon, Ezmerelda advises the players that they will need to stake out the den until the pack has departed for the night, then move quickly to determine whether Ilya Krezkov is imprisoned inside. (If the players suggest a direct assault, Ezmerelda wryly advises them that challenging a pack of nearly a dozen werewolves and half again as many ordinary wolves would be a fool’s errand at best, and suicidal at worst.
+Once she has obtained any useful materials from her wagon, Ezmerelda advises the players that they will need to stake out the den until the pack has departed for the night, then move quickly to determine whether Ilya Krezkov is imprisoned inside. (If the players suggest a direct assault, Ezmerelda wryly advises them that challenging a pack of nearly a dozen werewolves and half again as many ordinary wolves would be a fool’s errand at best, and suicidal at worst.)
 # L3. Svalich Woods
 As dusk approaches, Ezmerelda can lead the players to a dark and quiet hollow in the Svalich Wood to the west of Lake Baratok. Read:
 
@@ -207,8 +207,8 @@ If asked, Ezmerelda can share that the Radanaviches sold Van Richten’s son—a
 <div class="description">
 <p>"It was a year after I'd parted ways with Dr. Van Richten, and I felt as though no monster could challenge me. That's when I heard whispers of a beast known as the Black Terror—a werewolf that was the bane of several villages skirting the dark forests of Darkon. I vowed to track it and put an end to its reign of terror.</p>
 <p>"It took many nights of investigation and research, but I finally caught sight of the beast at the edge of a shadowed swamp, its fangs stained red with the blood of its latest meal. My heart raced as I watched it slip into the mists—no ordinary fog, but the veil that shrouds the worlds themselves—and I knew that if I failed to pursue it, I might be forced to begin my hunt anew.</p>
-<p>In my arrogance, I thought I could handle whatever lay beyond. I was a Vistani—a born wanderer of the Mists—and a student of Rudolph van Richten himself. I plunged ahead without a second thought—and the Black Terror ambushed me, springing from the gloom with claws and teeth. He tore off my leg below the knee, my bright blood staining his charcoal hide.</p>
-<p>In that moment, I knew I would die, alone and powerless—until Dmitri and Anna emerged from the woods, cold silver flashing in their hands. The werewolf fled, and the Krezkovs brought me back to their home, where they nursed me back to health. When I recovered, they took me to Vallaki and commissioned the local toymaker, a brilliant man called Blinsky, to craft me a new leg. To this day, this leg reminds me of the importance of caution—and the dangers of unchecked zeal.</p>
+<p>"In my arrogance, I thought I could handle whatever lay beyond. I was a Vistani—a born wanderer of the Mists—and a student of Rudolph van Richten himself. I plunged ahead without a second thought—and the Black Terror ambushed me, springing from the gloom with claws and teeth. He tore off my leg below the knee, my bright blood staining his charcoal hide.</p>
+<p>"In that moment, I knew I would die, alone and powerless—until Dmitri and Anna emerged from the woods, cold silver flashing in their hands. The werewolf fled, and the Krezkovs brought me back to their home, where they nursed me back to health. When I recovered, they took me to Vallaki and commissioned the local toymaker, a brilliant man called Blinsky, to craft me a new leg. To this day, this leg reminds me of the importance of caution—and the dangers of unchecked zeal."</p>
 </div>
 
 When her story ends, Ezmerelda gazes into the flames. "I owe the Krezkovs a debt I can never repay," she says softly. "But finding Ilya and returning him home, safe and sound—that would be a start."
@@ -393,7 +393,7 @@ This area is largely as described in <span class="citation">Z7. Shrine of Mother
 <p>Two wooden cages flank the statue, their lids held shut with heavy rocks. In the left-side cage kneels a youth with sunken eyes and loose, tattered clothing, a rotting human leg laid across the ground before his cage. In the right-side cage, an amber-eyed woman wearing shredded clothes sits with her legs crossed, her shaggy, rope-like strands of hair tied back behind a black bandana. Silver collars around their necks are chained to the wall behind them, each collar’s band carved with patterns of wicked-looking thorns.</p>
 </div>
 
-The medallion is the *Holy Symbol of Ravenkind*. The youth is Ilya Krezkov, a fourteen-year-old **werewolf** with 36 hit points. The woman is Zuleika Toranescu, Ilya’s aunt and a **werewolf** priestess of Mother Night. Both Ilya and Zuleika are starving and have three levels of exhaustion as a result.
+The medallion is the *Holy Symbol of Ravenkind*. The youth is Ilya Krezkov, a thirteen-year-old **werewolf** with 36 hit points. The woman is Zuleika Toranescu, Ilya’s aunt and a **werewolf** priestess of Mother Night. Both Ilya and Zuleika are starving and have three levels of exhaustion as a result.
 
 Players who saw Ilya's sketch of Zuleika in [[Arc K - The Fallen Abbey#Ilya’s Bedroom|Arc K - The Fallen Abbey]] recognize her as the woman in the picture.
 
@@ -418,6 +418,9 @@ Players who saw Ilya's sketch of Zuleika in [[Arc K - The Fallen Abbey#Ilya’s 
 > Each collar is magically locked and bears a single, small keyhole, the key to which Kiril wears on a cord around his neck. A locked collar can also be opened with a successful DC 25 Strength check or a successful DC 25 Dexterity (Thieves’ Tools) check. However, each time a creature attempts to open a collar without first unlocking it, or attempts to pick the lock without using the proper key, that creature must make a DC 17 Dexterity saving throw or take 7d8 piercing damage. Whether the creature succeeds or fails on the saving throw, the collar’s wearer also immediately takes 31 (7d8) piercing damage as the collar extrudes large thorns that pierce the wearer’s neck.
 >
 > The spells *dispel magic* and *knock* have no effect on either collar. In addition, if a prisoner teleports while wearing the collar, the collar teleports with its wearer.
+
+> [!info]+ **Collars and Anti-Magic**
+> A _silverthorn collar_ is affected normally by <span class="citation">Khazan's Spell Drain (p. 167)</span> at <span class="citation">Chapter 11: Van Richten's Tower (p. 167)</span>. If her collar is removed, Zuleika is glad to help the players rescue Emil from Castle Ravenloft in [[Arc P - Ravenloft Heist]].
 
 > [!info]+ **The Chains**
 > The chains connecting Ilya and Zuleika's collars to the cavern wall have the statistics of a *chain (10 feet)*, as described in <span class="citation">Player's Handbook, p. 151)</span>, with an AC of 19. 
@@ -470,7 +473,7 @@ If asked about the shrine, corpses, treasure, or *Holy Symbol of Ravenkind*, or 
 * Zuleika doesn’t know what the *Holy Symbol of Ravenkind* is—only that the statue of Mother Night has worn it for decades. 
 
 > [!info]+ **The Curse of Mother Night**
-> Items in Mother Night’s hoard, including the *Holy Symbol of Ravenkind* and the statue of Mother Night, can’t be moved or removed without permission. Additionally, a creature that attempts to physically retrieve an item from the hoard without permission, must make a DC 25 Wisdom saving throw or be incapacitated until it releases the item.
+> Items in Mother Night’s hoard, including the *Holy Symbol of Ravenkind* and the statue of Mother Night, can’t be moved or removed without permission. Additionally, a creature that attempts to physically retrieve an item from the hoard without permission, must make a DC 25 Wisdom saving throw or be incapacitated until it releases the item. (A creature that attempts to indirectly retrieve an item, such as by using a tool, a spell, or another creature to do so, is similarly affected. In such a case, the effect doesn’t end until the item is returned to Mother Night’s hoard.)
 >
 > While incapacitated in this way, the creature can't move any part of its body except for its hands and face, and can't remove its hand from the hoard except by releasing the item taken. Additionally, the creature must make a DC 25 Constitution saving throw at the end of each turn it remains incapacitated, taking 8d8 necrotic damage on a failure or half as much on a success.
 > 
@@ -483,7 +486,7 @@ Zuleika warns the players that, should they fail to keep their oath by the moon'
 > [!info]+ **Oath of the New Moon**
 > Zuleika is willing to allow the players to take the *Holy Symbol of Ravenkind* only if all of them, including any NPC companions, swear the Oath of the New Moon before the statue of Mother Night.
 > 
-> The next new moon takes place on Neyavr 14th—the seventh day after the last full moon. Each time the moon rises after the new moon, beginning at nightfall on Neyavr 15th, each player that swore the oath suffers the following effects: their maximum hit points are reduced by one-seventh their original maximum (rounded up), and they gain a cumulative -1 to ability checks and saving throws. (A character dies if this effect reduces their hit point maximum to 0. These reductions last until removed by a *wish* spell or similar magic.) 
+> The next new moon takes place on Neyavr 15th—the seventh day after the last full moon. Each time the moon rises after the new moon, beginning at nightfall on Neyavr 16th, each player that swore the oath suffers the following effects: their maximum hit points are reduced by one-seventh their original maximum (rounded up), and they gain a cumulative -1 to ability checks and saving throws. (A character dies if this effect reduces their hit point maximum to 0. These reductions last until removed by a *wish* spell or similar magic.) 
 > 
 > A cleric of Mother Night, including Zuleika, can use their action to release a character from their oath and remove any penalties they've suffered for failing to fulfill it. (Zuleika won't do so unless the players free Emil from Castle Ravenloft.) This action has no effect if the cleric is being manipulated or coerced.
 
@@ -495,7 +498,7 @@ If the players agree to swear Zuleika's oath and retrieve the *Holy Symbol of Ra
 > 
 > The holy symbol has 5 charges for the following properties. It regains 1d4 + 1 charges daily at dawn.
 > 
-> **_Dawn's Embrace._** As a reaction, when a creature you can see within 60 feet of you would be reduced to 0 hit points, you can expend 2 charges to cause that creature to drop to 1 hit point instead. That creature gains immunity to all damage until the start of its next turn.
+> **_Dawn's Embrace._** As a reaction, when a creature you can see within 30 feet of you would be reduced to 0 hit points, you can expend 2 charges to cause that creature to drop to 1 hit point instead. That creature gains immunity to all damage until the start of its next turn.
 > 
 > **_Light of Hope._** As an action, you can expend 1 charge and choose one creature you can see within 30 feet of you. All of the following conditions on that creature end: blinded, charmed, deafened, frightened, paralyzed, poisoned, and stunned.
 > 

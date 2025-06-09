@@ -19,6 +19,9 @@ Players who escape Castle Ravenloft via the teleportation brazier in <span class
 
 ***Ruins of Berez.*** If the players teleport to Marina's Monument in Berez, they can take shelter in <span class="citation">U2. Ulrich Mansion (p. 162)</span> or <span class="citation">U4. Churchyard (p. 164)</span>, their arrival hidden by the thick fog that clings to the swamp.
 
+> [!abstract]+ **Ruins of Berez**
+> Should the players attempt to explore the other structures within Berez, those ruins are largely as described in <span class="citation">U1. Abandoned Cottages (p. 162)</span>, <span class="citation">U4. Churchyard (p. 164)</span>, and <span class="citation">U5. Marina's Monument (p. 164)</span>. However, the abandoned cottages house four witches as detailed below, Lazlo Ulrich's ghost does not appear in the Ulrich mansion, and Baba Lysaga's goat pen is as described in [[Arc I - The Walls of Krezk#I4c. The Scrying Spell|I4c. The Scrying Spell]].
+
 If the players attempt to take shelter in <span class="citation">U1. Abandoned Cottages (p. 162)</span>, they are attacked by two **Barovian hexwitches** and two **Barovian bogwitches**, who are as described in [[Arc P - Ravenloft Heist#P9c. Cauldron Room|Arc P - Ravenloft Heist]]. The tumult attracts the attention of the seven **scarecrows** standing guard in the marsh, which arrive three rounds after combat begins.
 
 > [!combat]- **Balancing the Ruins of Berez**
@@ -33,7 +36,7 @@ The players can also travel from Berez to the town of Vallaki, Van Richten's Tow
 
 * The journey from Berez to Vallaki is four-and-one-half miles long and takes one hour and thirty minutes.
 * The journey from Berez to Lake Baratok is seven miles long and takes two hours and twenty minutes. 
-* The journey from Berez to Krezk is eight-and-one-quarter miles long and takes three hours.
+* The journey from Berez to Krezk is eight-and-three-quarter miles long and takes three hours.
 
 ***Old Svalich Road.*** If the players teleport to Marina's Monument in Berez, they can make camp on or near the Old Svalich Road. If they do, they experience the <span class="citation">Strahd Zombies (p. 31)</span> random encounter one hour after making camp, but with eight **zombies** instead of **Strahd zombies**.
 
@@ -47,7 +50,7 @@ The players can also travel from Berez to the town of Vallaki, Van Richten's Tow
 
 ***Wizard of Wines.*** If the players teleport to the Wizard of Wines, the Martikovs are glad to give them a place to sleep for the night. When the players depart the next morning, Davian sends two **swarms of ravens** to accompany them to their destination. (The ravens depart when the players next arrive at Vallaki, Krezk, or Argynvostholt, whichever comes first.)
 
-***Tsolenka Pass.*** If the players teleport to Tsolenka Pass, they can sleep in the guard tower there. The petrified **vrocks** don't attack players who bypass the gatehouse from the north side of the portcullis.
+***Tsolenka Pass.*** If the players teleport to Tsolenka Pass, they can sleep in the guard tower there. The petrified **vrocks** don't attack players who bypass the gatehouse from the east side of the portcullis.
 
 The players can also travel from the guard tower to the town of Vallaki, Van Richten's Tower, or the village of Krezk:
 
@@ -120,11 +123,11 @@ The players are met at <span class="citation">S6. North Gate (p. 147)</span> by 
 
 If the players share the truth of Cyrus’s situation, Otto and Zygfrek are horrified, with Zygfrek falling silent and clutching her cloak around her while Otto angrily demands the players recant their “lie." “The Abbot would never lie to us!" Otto howls, with tears beading at the corners of his eyes.
 
-The players can convince Otto and Zygfrek that they are telling the truth with a successful DC 10 Charisma (Persuasion) check, succeeding automatically if they describe Cyrus’s appearance, personality, or other details they could have gleaned only by encountering him. If they do, Otto and Zygfrek utterly deflate, appearing heartbroken. “We’ve been waiting for so long," Otto mumbles, snifling. “What do we wait for now?" As he speaks, Zygfrek pulls her hood down to cover her face, leaves the gate, and sits at the edge of the cliff, staring out at the village below with sorrow, shame, and self-loathing. Otto and Zygfrek are grateful for any guidance or encouragement the players can provide.
+The players can convince Otto and Zygfrek that they are telling the truth with a successful DC 10 Charisma (Persuasion) check, succeeding automatically if they describe Cyrus’s appearance, personality, or other details they could have gleaned only by encountering him. If they do, Otto and Zygfrek utterly deflate, appearing heartbroken. “We’ve been waiting for so long," Otto mumbles, sniffling. “What do we wait for now?" As he speaks, Zygfrek pulls her hood down to cover her face, leaves the gate, and sits at the edge of the cliff, staring out at the village below with sorrow, shame, and self-loathing. Otto and Zygfrek are grateful for any guidance or encouragement the players can provide.
 
 Otto and Zygfrek are glad to bring the players to the Abbot if asked to do so, though Zygfrek prefers to linger by the cliffside if told of the Abbot’s duplicity. 
 ### The Courtyard
-Upon entering <span class="citation">S12. Courtyard (p. 150)</span>, the players encounter Clovin Belview, who is delivering bowls of cold porridge to the Belviews in the padlocked stone shelves. Clovin greets the players and informs them that the Abbot is in the asylum, located in <span class="citation">S15. Madhouse (p. 151)</span>, tending and ministering to Clovin’s family therein.
+Upon entering <span class="citation">S12. Courtyard (p. 150)</span>, the players encounter Clovin Belview, who is delivering bowls of cold porridge to the Belviews in the padlocked stone sheds. Clovin greets the players and informs them that the Abbot is in the asylum, located in <span class="citation">S15. Madhouse (p. 151)</span>, tending and ministering to Clovin’s family therein.
 
 If the players agreed to investigate Cyrus’s “perfection" in [[Arc K - The Fallen Abbey#The Eavesdroppers|Arc K - The Fallen Abbey]], Clovin eagerly asks the players whether they’ve seen Cyrus since departing the Abbey. “Is he well?" he asks, adding, “Has he taken to his new form?" 
 
@@ -214,6 +217,9 @@ In combat, the Abbot prefers to fight in the Abbey’s courtyard, but might be l
 > [!abstract]+ **The Flesh Golem’s Loyalty**
 > If the players gave Vasilka’s flower garland to the **flesh golem** in [[Arc K - The Fallen Abbey]], it joins them in battle against the Abbot when the Abbot enters his second phase.
 
+![[Ithuriel.png]]
+<span class="credit">"Ithuriel" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+
 <div class="statblock">
 <h2>Ithuriel, the Dawnbringer</h2>
 <em>Medium Celestial, Lawful Evil</em>
@@ -256,11 +262,11 @@ In combat, the Abbot prefers to fight in the Abbey’s courtyard, but might be l
 <strong>Challenge</strong> 15<br>
 <strong>Proficiency Bonus</strong> +5<br>
 <hr>
-<p><strong><em>Legendary Resistance (1/day).</em></strong> If Ithuriel would fail a saving throw, he can choose to succeed instead.</p>
 <p><strong><em>Innate Spellcasting.</em></strong> Ithuriel's spellcasting ability is Charisma (spell save DC 18). He can innately cast the following spells, requiring only verbal components:<br>
 At will: detect evil and good<br>
 1/day each: commune, raise dead</p>
 <p><strong><em>Magic Resistance.</em></strong> Ithuriel has advantage on saving throws against spells and other magical effects.</p>
+<p><strong><em>Magic Weapons.</em></strong> Ithuriel's weapon attacks are magical.</p>
 <p><strong><em>Fallen Grace.</em></strong> When Ithuriel is reduced to 0 hit points, his form expands and twists, becoming a massive creature with the head of a lion, the body of a ram, the wings of a bat, and the tail of a crocodile. His statistics are then instantly replaced by the statistics of his second form. His initiative count doesn't change, excess damage doesn't carry over to his new form, and he retains none of the conditions he had in his previous form. He then immediately uses his <strong><em>frightful presence</em></strong> reaction.</p>
 <h3>Actions</h3>
 <p><strong><em>Multiattack.</em></strong> Ithuriel makes two attacks. He can replace one of those attacks with <strong><em>ray of light</em></strong>.</p>
@@ -273,14 +279,15 @@ At will: detect evil and good<br>
 <p><strong><em>Sacred Radiance (1/day).</em></strong> Ithuriel's form bursts with divine light. Each creature that can see him within 20 feet must succeed on a DC 18 Constitution saving throw or take 14 (4d6) radiant damage. A creature that fails the saving throw by 5 or more is also blinded until the start of Ithuriel's next turn. A creature that fails the saving throw by 10 or more is also charmed by Ithuriel until the start of his next turn. While charmed in this way, the creature must fall prone to grovel before Ithuriel at the start of its turn, then immediately end its turn.</p>
 <h3>Reactions</h3>
 <p>Ithuriel can take up to three reactions per round, but only one per turn. If Ithuriel would lose his reactions and isn't incapacitated, he loses one reaction instead.</p>
-<p><strong><em>Punish.</em></strong> In response to an enemy missing him with a melee attack, Ithuriel makes the following attack against it: <strong><em>Palm.</em></strong> *Melee Weapon Attack*: +9 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) bludgeoning damage, and Ithuriel can force the target to make a DC 17 Strength saving throw. On a failure, the target is pushed up to 10 feet away or grappled (escape DC 17). If he grapples the target, Ithuriel can immediately use his <strong><em>descend</em></strong>.</p>
-<p><strong><em>Descend.</em></strong> In response to grappling an enemy, Ithuriel can immediately fly up to his speed while dragging that enemy with him. If he moves within 5 feet of the ground while moving, the grappled enemy must succeed on a DC 17 Strength saving throw or take 3 (1d6) bludgeoning damage per 10 feet fallen. For each additional 5 feet Ithuriel moves along the ground, the grappled enemy takes an additional 2 (1d4) bludgeoning damage as Ithuriel grinds it along the earth. (This movement doesn't provoke opportunity attacks.) When Ithuriel's movement ends, the grappled enemy falls prone.
+<p><strong><em>Indomitable.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> Ithuriel can repeat the saving throw against one effect or condition currently affecting it. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.)</p>
+<p><strong><em>Punish.</em></strong> In response to an enemy missing him with a melee attack, Ithuriel makes the following attack against it: <strong><em>Palm.</em></strong> <em>Melee Weapon Attack</em>: +9 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) bludgeoning damage, and Ithuriel can force the target to make a DC 17 Strength saving throw. On a failure, the target is pushed up to 10 feet away or grappled (escape DC 17). If he grapples the target, Ithuriel can immediately use his <strong><em>descend</em></strong>.</p>
+<p><strong><em>Descend.</em></strong> In response to grappling an enemy, Ithuriel can immediately fly up to his speed while dragging that enemy with him. If he moves within 5 feet of the ground while moving, the grappled enemy must succeed on a DC 17 Strength saving throw or take 3 (1d6) bludgeoning damage per 10 feet descended. For each additional 5 feet Ithuriel moves along the ground, the grappled enemy takes an additional 2 (1d4) bludgeoning damage as Ithuriel grinds it along the earth. (This movement doesn't provoke opportunity attacks.) When Ithuriel's movement ends, the grappled enemy is forced prone.
 <p><strong><em>Ascend.</em></strong> In response to taking damage, Ithuriel releases any creatures he has grappled, then flies up to one third of his speed without provoking opportunity attacks.</p>
 <p><strong><em>Shift (Costs 2 Reactions).</em></strong> In response to suffering one of the following conditions, Ithuriel momentarily assumes the form of the corresponding beast, ending the condition: blinded (giant bat), grappled (octopus), paralyzed (giant poisonous snake), prone (giant spider), restrained (mouse), or stunned (jellyfish). Ithuriel then immediately returns to his true form.</p>
 </div>
 
 > [!warning]+ **Grappling Enemies**
-> Remember that Ithuriel's speed is halved when grappling a creature, including when using his ***descend*** reaction.
+> Remember that Ithuriel's speed is halved when grappling a creature, including when using his ***descend*** reaction unless the creature is two or more sizes smaller than Ithuriel.
 
 <div class="statblock">
 <h2>Ithuriel, the Fallen Star</h2>
@@ -324,23 +331,28 @@ At will: detect evil and good<br>
 <strong>Challenge</strong> 16<br>
 <strong>Proficiency Bonus</strong> +5<br>
 <hr>
-<p><strong><em>Legendary Resistance (1/day).</em></strong> If Ithuriel would fail a saving throw, he can choose to succeed instead.</p>
 <p><strong><em>Magic Resistance.</em></strong> Ithuriel has advantage on saving throws against spells and other magical effects.</p>
+<p><strong><em>Magic Weapons.</em></strong> Ithuriel's weapon attacks are magical.</p>
 <h3>Actions</h3>
 <p><strong><em>Multiattack.</em></strong> Ithuriel makes one attack with his claws and one with his bite or radiant darts</p>
 <p><strong><em>Bite.</em></strong> <em>Melee Weapon Attack</em>: +11 to hit, reach 10 ft., one target. Hit: 17 (2d10 + 6) piercing damage plus 4 (1d8) radiant damage. If the target is a creature, it is grappled (escape DC 19). Until this grapple ends, the target is restrained, and Ithuriel can't bite another target.</p>
 <p><strong><em>Claw.</em></strong> <em>Melee Weapon Attack</em>: +11 to hit, reach 5 ft., one target. Hit: 13 (2d6 + 6) slashing damage.</p>
-<p><strong><em>Radiant Darts.</em></strong> <em>Ranged Weapon Attack</em>: +10 to hit, reach 5 ft., three separate targets. Hit: 7 (2d4 + 2) radiant damage. Being within 5 feet of a hostile creature doesn't cause Ithuriel to make this attack with disadvantage.</p>
+<p><strong><em>Radiant Darts.</em></strong> <em>Ranged Weapon Attack</em>: +10 to hit, range 30 ft., three separate targets. Hit: 7 (2d4 + 2) radiant damage. Being within 5 feet of a hostile creature doesn't cause Ithuriel to make this attack with disadvantage.</p>
 <p></p>
 <h3>Bonus Actions</h3>
 <p><strong><em>Erupt Earth.</em></strong> Ithuriel slams his tail against the ground, causing fountains of churned earth and stone to erupt in a 5-foot radius around him. Each creature in that area must succeed on a DC 19 Strength saving throw or take 7 (2d6) bludgeoning damage and fall prone.</p>
 <p><strong><em>Eclipse Beam (1/day).</em></strong> Ithuriel exhales a burst of brilliant radiance and shadowy mirk in a 30-foot cone. Each creature in that area must make a DC 18 Constitution saving throw, taking 9 (2d8) radiant damage plus 9 (2d8) necrotic damage on a failed save, or half as much damage on a successful one.</p>
 <h3>Reactions</h3>
 <p>Ithuriel can take up to three reactions per round, but only one per turn. If Ithuriel would lose his reactions and isn't incapacitated, he loses one reaction instead.</p>
+<p><strong><em>Indomitable.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> Ithuriel can repeat the saving throw against one effect or condition currently affecting it. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.)</p>
 <p><strong><em>Tail.</em></strong> In response to being missed or hit by a melee attack, Ithuriel makes the following attack against the attacker: <em>Melee Weapon Attack:</em> +11 to hit, reach 15 ft., one target. Hit: 11 (2d4 + 6) bludgeoning damage and the target must make a DC 19 Strength saving throw. On a failure, Ithuriel can either knock it prone or push it up to 5 feet away (Ithuriel's choice). </p>
 <p><strong><em>Wings (1/round).</em></strong> In response to a creature he can see completing a spell, making an attack, or moving to a space within 60 feet of him, Ithuriel beats his wings, forcing each creature within 5 feet of him to succeed on a DC 19 Strength saving throw or be pushed 5 feet away and knocked prone. Ithuriel can then fly up to his speed toward the original creature without triggering opportunity attacks.</p>
 <p><strong><em>Frightful Presence (1/day).</em></strong> In response to assuming his second form, Ithuriel forces each creature of his choice within 120 feet that is aware of him to make a DC 18 Wisdom saving throw. On a failure, a creature is frightened of Ithuriel until the end of its next turn.</p>
 </div>
+
+![[Ithuriel2.png]]
+
+<span class="credit">"Ithuriel" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 > [!info]+ **Defeating the Abbot**
 > ***Milestone.*** Defeating the Abbot completes a story milestone. When the players free the Abbey and Krezk from the Abbot’s control, award each player 2,000 XP, or 2,500 XP if they also redeemed the Abbot (see below).
@@ -472,7 +484,7 @@ The youth, who appears to be no more than nineteen or twenty years of age and re
 Once awoken, the youth—who asks the players to call him Ithuriel, rather than the Abbot—expresses momentary disorientation as the shard of divinity gradually integrates his memories and sense of self.
 
 > [!info]+ **Ithuriel, Restored**
-> Ithuriel uses the statistics of a **pegasus**, but with the **healing touch** feature of a **unicorn** and the size, creature type, languages, and ***change shape*** feature of a **deva**. Replace the pegasus’s ***hooves*** attack with the following: ***Mace.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit*: 1d6 + 4 bludgeoning damage plus 4 (1d8) radiant damage. In addition, Ithuriel can cast *raise dead* once per day, but no more than three times per year.
+> Ithuriel uses the statistics of a **pegasus**, but with the **healing touch** feature of a **unicorn** and the size, languages, and ***change shape*** feature of a **deva**. Replace the pegasus’s ***hooves*** attack with the following: ***Mace.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit*: 1d6 + 4 bludgeoning damage plus 4 (1d8) radiant damage. In addition, Ithuriel can cast *raise dead* once per day, but no more than three times per year.
 >
 > When first restored, Ithuriel awakens with 1 hit point and four levels of exhaustion.
 
@@ -489,6 +501,9 @@ Ithuriel can also share the following information if asked:
 * He intends to remain at the Abbey and in Krezk. “I have an obligation to these people that I might never repay," he says solemnly. “My place is here—and I sense that, perhaps soon, I shall be called upon to defend those I once tormented."
 
 Before the players depart, Ithuriel freely offers them healing through the use of his ***healing touch***, and offers them the use of his *raise dead* feature should they require it. “My abilities are sorely limited following my rebirth," he says, plucking three snow-white feathers from his wings, “but should you require rebirth of your own, you need merely speak my name while you hold this feather aloft, and I shall be there."
+
+> [!info]+ **The Icon of Dawn's Grace**
+> The *Icon of Dawn's Grace* retains its magical abilities but loses its sentience as the shard of Ithuriel's consciousness is transferred to the redeemed Abbot.
 
 > [!info]+ **Ithuriel’s Feathers**
 > If a player speak’s Ithuriel’s name while holding one of his feathers aloft, the feather burns up into radiant embers. Ithuriel then flies to the players’ location, arriving within five minutes if the players are in the western portion of the valley (e.g., the Wizard of Wines, Yester Hill, or Lake Baratok), fifteen minutes if the players are in the central portion of the valley (e.g., Vallaki, Berez, or Mt. Ghakis), and thirty minutes if the players are in the eastern portion of the valley (e.g., the village of Barovia, Castle Ravenloft, or Tser Pool).
@@ -518,7 +533,7 @@ When the players first descend the switchback road and enter the village of Krez
 <p>A warm, pleasant breeze rustles through the pines as a woman’s voice, gentle and kind, whispers into your ears: “Find me at the Shrine of the White Sun, by the water’s edge. As you have healed this place, allow me to bring you healing in turn."</p>
 </div>
 
-Players who spoke with St. Markovia in [[#The Abbot’s Redemption]] recognize her voice.
+Players who spoke with St. Markovia in [[Arc Q - A Shining Beacon#The Abbot's Redemption|The Abbot's Redemption]] recognize her voice.
 ### Markovia’s Gift
 If the players follow St. Markovia’s invitation to <span class="citation">S4. Pool and Shrine (p. 146)</span>, read:
 
@@ -528,7 +543,7 @@ If the players follow St. Markovia’s invitation to <span class="citation">S4. 
 
 Any players who received visions of St. Markovia in Ezmerelda’s seance in [[Arc K - The Fallen Abbey]] recognize her visage.
 
-If she did not speak with the players in [[#The Abbot’s Redemption]], St. Markovia introduces herself to the players and thanks them for freeing the Abbey and Krezk of the “shadow that lay upon it." If the Abbot was defeated, but not redeemed, she expresses sorrow for “Ithuriel’s passing," but notes that she finds comfort in the fact that “his memory will live on in the stones of the Abbey."
+If she did not speak with the players in [[Arc Q - A Shining Beacon#The Abbot's Redemption|The Abbot's Redemption]], St. Markovia introduces herself to the players and thanks them for freeing the Abbey and Krezk of the “shadow that lay upon it." If the Abbot was defeated, but not redeemed, she expresses sorrow for “Ithuriel’s passing," but notes that she finds comfort in the fact that “his memory will live on in the stones of the Abbey."
 
 Markovia invites each player to fill a single waterskin from the waters of the pool. “These waters once carried far greater magic. While that magic faded long ago, your victory has allowed me to remind them of the blessing they once carried—if only for a time."
 
@@ -719,7 +734,6 @@ Kiril then attacks.
 <hr>
 <p><strong><em>Regeneration.</em></strong> Kiril regains 20 hit points at the start of its turn. If he takes necrotic damage or bludgeoning, piercing, or slashing damage from a silvered weapon, this trait doesn't function at the start of his next turn.</p>
 <p><strong><em>Legendary Resistance (1/day).</em></strong> If Kiril fails a saving throw, he can choose to succeed instead.</p>
-<p><strong><em>Indomitable.</em></strong> If Kiril would be paralyzed or stunned, he is slowed instead. (His speed is halved, he has disadvantage on Dexterity saving throws, and creatures have advantage on attacks made against him.)</p>
 <p><strong><em>Keen Hearing and Smell.</em></strong> Kiril has advantage on Wisdom (Perception) checks that rely on hearing or smell.</p>
 <p><strong><em>Second Phase.</em></strong> When Kiril is reduced to 0 hit points, he digs his claws into his chest, pulls out his own heart, and devours it. He then doubles in height and breadth, gaining a hunched back, bony protrusions along his arms and shoulders, and a grotesque, bloated head with oversized fangs and teeth, as well as a pair of toothy jaws for eyes. His statistics are then instantly replaced by the statistics of his second form. His initiative count doesn’t change. Excess damage and conditions don’t carry over to his new form.</p>
 <h3>Actions</h3>
@@ -733,6 +747,7 @@ Kiril then attacks.
 <p><strong><em>Shapechange.</em></strong> Kiril polymorphs into his human form or into a dire wolf, or back into his true form (a wolf-humanoid hybrid). His statistics, other than his AC, are the same in each form. Any equipment he is wearing or carrying isn't transformed. He reverts to his human form if he dies.</p>
 <h3>Reactions</h3>
 <p>Kiril can take up to three reactions per round, but only one per turn. If Kiril would lose his reactions and isn't incapacitated, he loses one reaction instead.</p>
+<p><strong><em>Indomitable.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> Kiril can repeat the saving throw against one effect or condition currently affecting it. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.)</p>
 <p><strong><em>Pounce.</em></strong>  In response to a creature moving within 30 feet, Kiril moves up to his speed toward it without triggering opportunity attacks.</p>
 <p><strong><em>Lash Out.</em></strong> In response to being missed by an attack made by a creature he can see, hear, or smell, Kiril moves up to his speed toward that creature without triggering opportunity attacks. He can then attack that creature with his claws if it's within reach.</p>
 <p><strong><em>Maul.</em></strong> In response to being hit by an attack made by a creature within 5 feet, Kiril attacks that creature with his bite.</p>
@@ -777,6 +792,7 @@ Kiril then attacks.
 <hr>
 <strong>Saving Throws</strong> Strength +11, Constitution +10<br>
 <strong>Skills</strong> Perception +5<br>
+<strong>Condition Immunities</strong> frightened<br>
 <strong>Senses</strong> passive Perception 14<br>
 <strong>Languages</strong> Common<br>
 <strong>Challenge</strong> 18, or 17 without his regeneration<br>
@@ -784,7 +800,6 @@ Kiril then attacks.
 <hr>
 <p><strong><em>Regeneration.</em></strong> Kiril regains 20 hit points at the start of his turn. If he takes necrotic damage or bludgeoning, piercing, or slashing damage from a silvered weapon, this trait doesn't function at the start of his next turn.</p>
 <p><strong><em>Legendary Resistance (1/day).</em></strong> If Kiril fails a saving throw, he can choose to succeed instead.</p>
-<p><strong><em>Indomitable.</em></strong> If Kiril would be paralyzed or stunned, he is slowed instead. (His speed is halved, he has disadvantage on Dexterity saving throws, and creatures have advantage on attacks made against him.)</p>
 <p><strong><em>Keen Hearing and Smell.</em></strong> Kiril has advantage on Wisdom (Perception) checks that rely on hearing or smell.</p>
 <h3>Actions</h3>
 <p><strong><em>Multiattack.</em></strong> Kiril makes one attack with his claws and one attack with his bite. He can replace the bite with a swallow if he already has a target restrained with his bite.</p>
@@ -796,6 +811,7 @@ Kiril then attacks.
 <p><strong><em>Shadow Beam.</em></strong> A 5-foot-wide, 100-foot-long beam of swirling shadows bursts from Kiril’s maw. Each creature in that area must make a DC 18 Dexterity saving throw, taking 14 (4d6) necrotic damage on a failed save, or half as much damage on a success. A target grappled by Kiril’s bite automatically fails the saving throw.</p>
 <h3>Reactions</h3>
 <p>Kiril can take up to three reactions per round, but only one per turn. If Kiril would lose his reactions and isn't incapacitated, he loses one reaction instead.</p>
+<p><strong><em>Indomitable.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> Kiril can repeat the saving throw against one effect or condition currently affecting it. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.)</p>
 <p><strong><em>Leap.</em></strong> In response to a creature moving within 30 feet of him, making a ranged attack against him, or casting a spell, Kiril leaps toward it without provoking opportunity attacks. Each creature within a 5-foot radius of him must then immediately make a DC 19 Strength saving throw or fall prone. Kiril can then attack the creature that moved, attacked, or cast a spell with his claws.</p>
 <p><strong><em>Devour.</em></strong> In response to a creature moving within his reach for the first time on a turn, Kiril attacks it with his bite if he isn't currently biting another creature. If the attack misses, that creature has advantage on its next attack against Kiril before the start of its next turn.</p>
 <p><strong><em>Pin.</em></strong> In response to being missed by an attack made by a creature within reach or a creature leaving his reach, Kiril attacks it with his claws. If he grapples the creature, it must succeed on an additional DC 19 Strength saving throw or fall prone.</p>
@@ -827,7 +843,7 @@ Emil is glad to allow the players to accompany him and the remainder of the pack
 
 Emil is also happy to ask Zuleika to release the players from the *Oath of the New Moon*, if they took the oath before departing the werewolf den. If asked, Emil reassures the players that the pack will no longer hunt for human flesh. “We were never meant to prey upon our own kind," he promises. “Though we stand apart from you, we are your brethren—not your enemies."
 
-***Milestone.*** Defeating Kiril completes a story milestone. When the players do so, award each player 3,000 XP.
+***Milestone.*** Defeating Kiril completes a story milestone. When the players do so, award each player 2,000 XP.
 # Q6. Return to Argynvostholt
 
 > [!lore]+ **Vladimir’s Command**
@@ -862,7 +878,7 @@ A player can attempt a DC 15 Charisma (Persuasion) check to convince the revenan
 
 When the players defeat the last revenant, it warns them that Commander Horngaard is waiting for them in the cemetery. “May the Morninglord protect you," it rasps before collapsing.
 
-> [!abstract]+ Vladimir's Command
+> [!abstract]+ **Vladimir's Command**
 > Vladimir Horngaard has forbidden Godfrey from speaking with the players. If he attempts to do so while bound in the chapel, black wires manifest to bind his tongue and jaw.
 
 
@@ -880,13 +896,134 @@ The first time the players enter the cemetery, if they’re not using stealth or
 </div>
 
 > [!abstract]+ **Zorya’s Return**
-> If the players befriended her in [[Arc M - The Dragon’s Manor]], the spirit of the pseudodragon Zorya dives from one of the mansion’s upper windows on the first round of combat to assist them. In combat, Zorya uses simple gestures and squeaks to attempt to communicate that the players should place Argynvost’s skull in the mausoleum before fighting Vladimir. If the players attempt to place Argynvost’s skull there, Zorya attempts to defend them by attacking Vladimir as they do so.
+> If the players befriended her in [[Arc M - The Dragon's Manor]], the spirit of the pseudodragon Zorya dives from one of the mansion’s upper windows on the first round of combat to assist them. In combat, Zorya uses simple gestures and squeaks to attempt to communicate that the players should place Argynvost’s skull in the mausoleum before fighting Vladimir. If the players attempt to place Argynvost’s skull there, Zorya attempts to defend them by attacking Vladimir as they do so.
 
 > [!combat]- **Balancing the Fallen Knight** 
 > Due to the phase mechanic, this combat encounter is a series of two consecutive combat encounters, the first **bloody** and the second **crushing**, against a party of five 7th-level players, a CR 2 ally (Ireena Kolyana), and a CR 4 ally (Ezmerelda d’Avenir), the first of which will consume approximately 42% of their total maximum hit points and the second of which will consume approximately 139% of their total maximum hit points (for a total of 181% of their maximum hit points). For parties of smaller or larger sizes, modify the encounter as follows: 
 > * **Three Players**. Remove the phantom warriors in Vladimir’s second phase 
 > * **Four Players**. Reduce the number of phantom warriors in Vladimir’s second phase to two. 
 > * **Six Players**. Increase the number of phantom warriors in Vladimir’s second phase to six.
+
+<div class="statblock">
+<h2>Vladimir Horngaard, Vengeful Revenant</h2>
+<em>Medium undead, lawful evil</em>
+<hr>
+<strong>Armor Class</strong> 17 (half plate armor)<br>
+<strong>Hit Points</strong> 228 (24d8 + 120)<br>
+<strong>Speed</strong> 30 ft.<br>
+<hr>
+<table class="ability-table">
+  <thead>
+    <tr>
+      <th>STR</th>
+      <th>DEX</th>
+      <th>CON</th>
+      <th>INT</th>
+      <th>WIS</th>
+      <th>CHA</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>20 (+5)</td>
+      <td>14 (+2)</td>
+      <td>20 (+5)</td>
+      <td>13 (+1)</td>
+      <td>16 (+3)</td>
+      <td>18 (+4)</td>
+    </tr>
+  </tbody>
+</table>
+<hr>
+<strong>Saving Throws</strong> Str +10, Con +10, Wis +8, Cha +9<br>
+<strong>Skills</strong> Athletics +10, History +6, Intimidation +9, Perception +8<br>
+<strong>Damage Resistances</strong> necrotic, psychic<br>
+<strong>Damage Immunities</strong> poison<br>
+<strong>Condition Immunities</strong> charmed, exhaustion, frightened, paralyzed, poisoned, stunned<br>
+<strong>Senses</strong> darkvision 60 ft., passive Perception 18<br>
+<strong>Languages</strong> Common, Draconic<br>
+<strong>Challenge</strong> 15<br>
+<strong>Proficiency</strong> +5
+<hr>
+<p><strong><em>Regeneration.</em></strong> Vladimir regains 10 hit points at the start of his turn. If he takes fire or radiant damage, this trait doesn't function at the start of his next turn. Vladimir's body is destroyed only if he starts his turn with 0 hit points and doesn't regenerate.</p>
+<p><strong><em>Turn Immunity.</em></strong> Vladimir is immune to effects that turn undead.</p>
+<p><strong><em>Oathbind.</em></strong> If Vladimir would deal damage to a dying creature with his <strong><em>+2 greatsword</em></strong>, he can instead choose to stabilize that creature and subject it to the effects of a <em>geas</em> spell. This geas lasts until dispelled and can damage its bearer any number of times each day. A creature that takes damage in this way is also restrained until the start of its next turn. In addition, the geas can’t be ended or dispelled except through the effects of a <em>greater restoration</em> or <em>wish</em> spell, or if Vladimir uses an action to dismiss it.</p>
+<p><strong><em>Burning Hatred.</em></strong> When Vladimir is reduced to 0 hit points, black flames erupt along the hilt of his greatsword and the shadows encircling its blade become spiked black wires. His statistics are then instantly replaced by the statistics of his second form. His initiative count doesn't change, excess damage doesn't carry over to his new form, and he retains none of the conditions he had in his previous form.</p>
+<h3>Actions</h3>
+<p><strong><em>Multiattack.</em></strong> Vladimir makes two attacks with his <strong><em>+2 greatsword</em></strong>. He can replace one of those attacks with one use of his <strong><em>conjure phantoms</em></strong> action.</p>
+<p><strong><em>Greatsword +2.</em></strong> Melee Weapon Attack: +12 to hit, reach 5 ft., one target. Hit: 14 (2d6 + 7) slashing damage, and Vladimir can push the target up to 5 ft. away. Instead of pushing the target, Vladimir can force the target to make a DC 18 Strength saving throw or be knocked prone.</p>
+<p><strong><em>Conjure Phantoms.</em></strong> Vladimir summons a pair of <strong>phantom warriors</strong>, which appear next to a hostile creature that Vladimir can see. Each warrior makes a <strong><em>spectral longsword</em></strong> attack against that creature, then disappears. A creature that takes damage in this way can’t regain hit points until the start of Vladimir’s next turn.</p>
+<h3>Bonus Actions</h3>
+<p><strong><em>Reaving Sweep.</em></strong> Vladimir sweeps his greatsword in an arc with thunderous force, creating a shockwave that rips through a 15-foot cone in front of him. Each creature in that area must succeed on a DC 18 Constitution saving throw or take 21 (6d6) slashing damage and be pushed back 5 feet. A creature that succeeds on the saving throw takes half damage and isn’t pushed.</p>
+<p><strong><em>Umbral Snare.</em></strong> Black-spiked wires extrude from the earth around Vladimir in a 5-foot radius. Each creature in that area must succeed on a DC 18 Dexterity saving throw or take 14 (4d6) piercing damage and be grappled by the wires (escape DC 19) until the start of Vladimir’s next turn. A creature that succeeds on the saving throw takes half damage and isn’t grappled. A creature that attempts to escape the grapple immediately takes an additional 7 (2d6) piercing damage, whether it succeeds or fails.</p>
+<h3>Reactions</h3>
+<p>Vladimir can take up to three reactions per round, but only one per turn. If Vladimir would lose his reactions and isn't incapacitated, he loses one reaction instead.</p>
+<p><strong><em>Indomitable.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> Vladimir can repeat the saving throw against one effect or condition currently affecting it. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.)</p>
+<p><strong><em>Sworn Retribution (1/round).</em></strong> In response to taking damage from a creature he can see, Vladimir marks that creature until the end of his next turn. While that creature is marked, Vladimir doesn’t provoke opportunity attacks when moving directly toward it, he has advantage on the first melee attack he makes against that creature each turn and his weapon attacks against that creature score a critical hit on a roll of 19-20.</p>
+<p><strong><em>Ghostly Command.</em></strong> In response to taking damage from an attack or spell, Vladimir conjures a phantom soldier to shield him, reducing the damage taken by half (rounded up). This ability can’t reduce Vladimir’s damage taken by more than 10.</p>
+<p><strong><em>Martial Reprisal.</em></strong> In response to taking damage from an attack or spell, Vladimir moves up to half his speed toward the attacker or caster and makes an attack against it with his <strong><em>+2 greatsword</em></strong> if it's within reach.</p>
+</div>
+<br>
+
+<div class="statblock">
+<h2>Vladimir Horngaard, Knight of Death</h2>
+<em>Medium undead, lawful evil</em>
+<hr>
+<strong>Armor Class</strong> 17 (half plate armor)<br>
+<strong>Hit Points</strong> 228 (24d8 + 120)<br>
+<strong>Speed</strong> 30 ft.<br>
+<hr>
+<table class="ability-table">
+  <thead>
+    <tr>
+      <th>STR</th>
+      <th>DEX</th>
+      <th>CON</th>
+      <th>INT</th>
+      <th>WIS</th>
+      <th>CHA</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>20 (+5)</td>
+      <td>14 (+2)</td>
+      <td>20 (+5)</td>
+      <td>13 (+1)</td>
+      <td>16 (+3)</td>
+      <td>18 (+4)</td>
+    </tr>
+  </tbody>
+</table>
+<hr>
+<strong>Saving Throws</strong> Str +10, Con +10, Wis +8, Cha +9<br>
+<strong>Skills</strong> Athletics +10, History +6, Intimidation +9, Perception +8<br>
+<strong>Damage Resistances</strong> necrotic, psychic<br>
+<strong>Damage Immunities</strong> Poison<br>
+<strong>Condition Immunities</strong> Charmed, exhaustion, frightened, paralyzed, poisoned, stunned<br>
+<strong>Senses</strong> darkvision 60 ft., passive Perception 18<br>
+<strong>Languages</strong> Common, Draconic<br>
+<strong>Challenge</strong> 15<br>
+<strong>Proficiency</strong> +5
+<hr>
+<p><strong><em>Regeneration.</em></strong> Vladimir regains 10 hit points at the start of his turn. If he takes fire or radiant damage, this trait doesn't function at the start of his next turn. Vladimir's body is destroyed only if he starts his turn with 0 hit points and doesn't regenerate.</p>
+<p><strong><em>Rejuvenation.</em></strong> When Vladimir's body is destroyed, his soul lingers. After 24 hours, the soul inhabits and animates another corpse on the same plane of existence and regains all its hit points. While the soul is bodiless, a wish spell can be used to force the soul to go to the afterlife and not return.</p>
+<p><strong><em>Turn Immunity.</em></strong> Vladimir is immune to effects that turn undead.</p>
+<p><strong><em>Oathbind.</em></strong> If Vladimir would kill a creature with his <strong><em>+2 greatsword</em></strong>, he can instead choose to stabilize that creature and subject it to the effects of a <em>geas</em> spell. This geas lasts until dispelled and can damage its bearer any number of times each day. A creature that takes damage in this way is also restrained until the start of its next turn. In addition, the geas can’t be ended or dispelled except through the effects of a <em>greater restoration</em> or <em>wish</em> spell, or if Vladimir uses an action to dismiss it.</p>
+<h3>Actions</h3>
+<p><strong><em>Multiattack.</em></strong> Vladimir makes two melee attacks. He can replace one of those attacks with a <strong><em>black flames</em></strong> attack.</p>
+<p><strong><em>Greatsword +2.</em></strong> Melee Weapon Attack: +12 to hit, reach 5 ft., one target. Hit: 14 (2d6 + 7) slashing damage plus 3 (1d6) piercing damage, and the target must make a DC 18 Wisdom saving throw. On a failure, it has disadvantage on the first attack roll or ability check it makes before the end of its next turn.</p>
+<p><strong><em>Black Flames.</em></strong> Ranged Spell Attack: +10 to hit, range 30 ft., one target. Hit: 7 (2d6) fire damage plus 3 (1d6) necrotic damage, and the target ignites in black flames. At the start of its next turn, the target and each creature within 5 feet of it must make a DC 17 Constitution saving throw or take an additional 7 (2d6) fire damage. (The flames can’t be doused by nonmagical means.)</p>
+<h3>Bonus Actions</h3>
+<p><strong><em>Gravepyre.</em></strong> Vladimir hurls a magical ball of black flames that explodes at a point he can see within 120 feet of him. Each creature in a 10-foot radius sphere centered on that point must make a DC 17 Dexterity saving throw. The sphere spreads around corners. A creature takes 10 (3d6) fire damage plus 10 (3d6) necrotic damage on a failed save, or half as much damage on a successful one. On a failure, a creature also has disadvantage on the next attack it makes before the start of Vladimir’s next turn.</p>
+<p><strong><em>Destructive Wave.</em></strong> Vladimir strikes the ground with his greatsword, creating a burst of destructive energy that ripples outward from him. Each creature within 10 feet of him must succeed on a DC 18 Constitution saving throw or take 10 (3d6) thunder damage plus 10 (3d6) necrotic damage and be knocked prone. A creature that succeeds on its saving throw takes half as much damage and isn’t knocked prone.</p>
+<h3>Reactions</h3>
+<p>Vladimir can take up to three reactions per round, but only one per turn. If Vladimir would lose his reactions and isn't incapacitated, he loses one reaction instead.</p>
+<p><strong><em>Indomitable.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> Vladimir can repeat the saving throw against one effect or condition currently affecting it. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.)</p>
+<p><strong><em>Vengeful Rush.</em></strong> In response to an enemy hitting or missing him with an attack, Vladimir charges toward it, moving up to 15 feet straight toward it without triggering opportunity attacks. If Vladimir ends his movement within 5 feet of that enemy, he can force it to make a DC 18 Strength saving throw. On a failure, the target takes 2d6 bludgeoning damage and Vladimir and the target move up to an additional 10 feet in the same direction without triggering opportunity attacks. If the target can’t move the full distance, it takes an additional 1d6 bludgeoning damage for each 5 feet not moved.</p>
+<p><strong><em>Vengeful Glare.</em></strong> In response to taking damage from an enemy within 30 feet, Vladimir forces that creature to make a DC 17 Wisdom saving throw. On a failure, the creature is frightened of Vladimir until Vladimir deals damage to it or until the end of Vladimir’s next turn. If the creature fails the saving throw by 5 or more, it is paralyzed instead.</p>
+<p><strong><em>Sentinel’s Strike.</em></strong> In response to a creature attempting to move out of his reach without first taking the Disengage action, Vladimir makes an attack against it with his <strong><em>+2 greatsword</em></strong>. On a hit, the creature takes no damage from the attack, but it falls prone and its speed becomes 0 for the rest of the turn.</p>
+</div>
 
 Vladimir attacks if the players attack him first, or if he deems further conversation unnecessary. If the players ask to restore Argynvost’s skull to the mausoleum, he falters briefly, then shakes his head. “You are too dangerous to be left alive," he rumbles. “Your antagonism to von Zarovich is a threat I shall not tolerate. When you lie in the ground, perhaps then I shall complete the task you have set yourselves upon—but not until the last breath has left your bodies."
 
@@ -1012,7 +1149,7 @@ Continue with the following, modifying the text as necessary to reflect each non
 <p>The light falls upon a hilltop beyond Vallaki’s walls, piercing through the smoke that drifts lazily from the campfires below until it finds a wide-eyed Arrigal, a half-whittled statuette dropping from his hands as Arabelle, curled up against Luvash’s chest, watches the light with quiet satisfaction. She reaches out to Van Richten beside her, lifting his chin with her small, gentle hand, until his eyes behold the light and well with unshed tears.</p>
 <p>The light travels east, until it finds the village of Barovia beyond the mountains, where the shadow of Castle Ravenloft has, if only for a heartbeat, withdrawn in loathing and fear. Ismark, wielding a hammer instead of a sword, looks up from a half-built wall and pounds a proud fist against his chest. Parriwimple, carrying a pile of lumber with Bildrath in the street nearby, points into the sky with rapt fascination, and a small, fragile smile touches the corners of his uncle’s lips. In a candlelit kitchen not far away, Father Donavich and Mary look up from a table with eyes wide and hopeful while, just upstairs, Doru’s arms wrap tenderly around Gertruda’s waist, her slender hand clasping his clawed one against her heart.</p>
 <p>The light travels west, too, illuminating the village of Krezk, and the snow-capped abbey that stands far above. It finds Kala and Ilya Krezkov, who throw themselves, ruddy-cheeked and laughing, into the fresh-fallen snow that dusts the shores of Krezk’s sacred pool, while Dmitri and Anna watch the skies from the old gazebo nearby, two familiar wolves curled quietly in the snow beside them. On the high mountain spur that overlooks the village, amidst a quiet, snowy garden, Otto, Zygfrek, and Clovin Belview watch the light from their perch atop an old stone wall. Behind them, Ithuriel, Vasilka, and a silent golem look up from the flourishing vegetation, the flowers in Vasilka’s hands painted a perlescent and joyful silver.</p>
-<p>The light travels south, touching rows of wooden posts laden with green-growing vines, each one groaning with the weight of the grapes that peek forth from their leaves. It finds Davian Martikov, whose hand wraps tightly around the locket in his pocket; Claudiu, who looks up into the sky from the shadows of the vineyard and stares; and Elvir, who clutches the hilt of his shortsword as solemn understanding blooms across his face.</p>
+<p>The light travels south, touching rows of wooden posts laden with green-growing vines, each one groaning with the weight of the grapes that peek forth from their leaves. It finds Davian Martikov, whose hand wraps tightly around the locket that hangs from his belt; Claudiu, who looks up into the sky from the shadows of the vineyard and stares; and Elvir, who clutches the hilt of his shortsword as solemn understanding blooms across his face.</p>
 <p>The light finds the dark and twisted rooftops of Castle Ravenloft, where Sasha Ivliskova stands alone, her face twisted with the pain of sudden hope. It finds a lonely cairn amidst the Svalich Woods, where Kavan’s spirit lifts his head in remembrance and sorrow. And it finds, at long last, the sagging doorstep of an old and tired manor, where Lady Fiona Wachter holds a trembling hand to her face as tears spill across her cheeks.</p>
 <p>And then—the instant passes, the reflections vanish, and the day slowly returns. The distant song, too, fades, leaving tones of lingering sorrow, remembrance, and defiance that soon vanish into silence. The beacon of Argynvostholt, however, still shines bright, bathing the woods and valleys below with a lustrous silver radiance.</p>
 <p>
@@ -1020,7 +1157,7 @@ Continue with the following, modifying the text as necessary to reflect each non
 
 All creatures that oppose Strahd, including the players, then gain the effects of the ***Beacon of Protection*** described in <span class="citation">Lighting the Beacon (p. 142)</span>.
 
-***Milestone.*** Returning Argynvost’s skull to his crypt completes a story milestone. When the players light Argynvost’s beacon, award each player 3,000 XP.
+***Milestone.*** Returning Argynvost’s skull to his crypt completes a story milestone. When the players light Argynvost’s beacon, award each player 3,000 XP. (This should bring the players to 8th level.)
 # Q7. Return to the Werewolf Den
 
 > [!abstract]+ **Fighting Kiril**
