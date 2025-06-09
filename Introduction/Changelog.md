@@ -1,3 +1,72 @@
+# Hotfix 2.1.0.1 (May 30, 2025)
+* Fixed ravine battlemap not rendering in [[Arc C - Into the Valley]]
+# Update 2.1 (May 23, 2025)
+* Added [[Arc U - Dreams of Dawn]]
+* Removed Strahd's Castle Ravenloft lair actions
+# Hotfix 2.0.12.4 (May 19, 2025)
+* Amended various typos, broken links, and errors in formatting
+* Clarified that the coven's concentration spells stop when they change to phase 2 in [[Arc H - The Lost Soul]]
+* Added fire vulnerability to the **lesser strix** in line with the **greater strix** in [[Arc C - Into the Valley]]
+# Hotfix 2.0.12.3 (May 16, 2025)
+* Amended various typos, broken links, and errors in formatting
+* Updated chapter name "Dreams of Dawn" to [[Arc T - The Three Fanes#T5. A Light in the Dark|T5. A Light in the Dark]]
+* Updated the *Indomitable* feature across all relevant statblocks
+# Patch 2.0.12.2 (May 12, 2025)
+* Revised the Tyrant's final trail in [[Arc T - The Three Fanes]]
+* Added a sequence for igniting the *Sunsword* in [[Arc S - A Sword of Sunlight]]
+# Patch 2.0.12.1 (May 10, 2025)
+* Amended various typos, broken links, and errors in formatting
+* Clarified that the siege of Barovia village has been for six days in Arc B
+* Clarified that players wake shortly before dawn in the Village of Barovia to ensure they can participate in Kolyan's funeral in Arc B
+* Aligned Gertruda's journey to be towards Vallaki, but intercepted by Strahd in Arc B
+* Changed the tarot reading to refer to Vampyr's sarcophagus in Arc C
+* Clarified when Victor gifts the Spirit Mirror in Arc H
+* Clarified that the Abbot is bringing forward Anna's deadline to one week in Arc I
+* Added further details to and removed ambiguities in Varushka's nightmare in Arc O
+* Refine and simplified the rooftop mechanic in Varushka's nightmare in Arc O
+* Clarified that Rahadin locks the door to the guest suite as a whole in Arc O
+* Clarified that Tasha Petrovna's holy symbol is worn by Father Lucien and not in her crypt in Arc P
+* Amended contradictions regarding Cyrus and his presence in Ravenloft in Arc P
+* Added information on how Icon of Dawn's Grace retains its magical abilities but loses sentience once the Abbot is redeemed in Arc Q
+* Amended lore contradictions in History of Barovia
+* Added information in Lore of Barovia, the Tarokka reading, and Act II summary stating that players cannot wander randomly and discover things
+* Updated the NPCs appendices with missing content for Old Bonegrinder 
+* Updated Amber Shards with locations of all mentioned shards
+* Added a Barovian relic sidebar for each location that a unique relic responds to a location.
+* Added an infobox detailing that if creative players bring a silverthorn collar to the anti-magic field of the tower, that it will nullify the magic.
+# Update 2.0.12 (May 8, 2025)
+* Added [[Arc T - The Three Fanes]]
+# Hotfix 2.0.11.2 (March 23, 2025)
+* Tweaked the history of the Amber Temple and the answer to Meda's riddle in [[Arc S - A Sword of Sunlight]] to clarify that the amber vestiges are not the Dark Powers.
+# Hotfix 2.0.11.1 (March 22, 2025)
+* Added *Indomitable* to Vladimir's statblock in Arc M
+* Clarified damage resistance in Ludmilla's *Shroud of Shadows* ability in Arc J
+* Added image of Yeska to Arc D
+* Added image of Arrigal's secret message to Arc O
+* Added image of Lief to Arc O
+* Added image of Khazan's staff to Arc P
+* Added barricade map Arc B
+* Added ice cave maps to Arc R 
+# Update 2.0.11 (March 22, 2025)
+* Added [[Arc S - A Sword of Sunlight]]
+# Patch 2.0.10.5 (March 22, 2025)
+* Amended various typos and errors in formatting
+* Added images for Anastrasya, Stella Wachter, and the Bodak Lair
+* Removed attunement from the Twilight Crest, Bracelet of Warding, and Mace of Life
+* Added roleplay information for Rahadin in [[Non-Player Characters]]
+* Clarified damage resistance in Ludmilla's *Shroud of Shadows* ability
+* Revised references to Strahd's wedding being "over 400 years ago" when it was in fact just under 400 years
+* Added column heading to Icicle Cascade table in [[Arc R - Trials of the Mountain]]
+* Tidied Izek's schedule in [[Arc F - Lady Wachter's Wish]]
+* Clarified the timeline in [[Act III Summary]]
+* Updated the *Indomitable* feature across various statblocks 
+* Added *Hindered* into glossary
+# Patch 2.0.10.4 (February 13, 2025)
+* Amended various typos, broken links, and errors in formatting
+* Revised XP rewards to match milestone levels
+* Added images for Anastrasya second phase, Doru's notes on Castle Ravenloft, Van Richten's notes on Castle Ravenloft, Ismark the Great, Ithuriel, the Wolf's Head Jamboree, the Keeper's Whistle, Ludmilla's second phase, Rudoph van Richten, the Talisman of Echoes, the Twilight Crest, and the Martikovs of the Blue Water Inn
+* Added maps for the Village of Barovia, and Lake Zarovich 
+* Added blindsight to Strahd von Zarovich when casting *fog bank*
 # Patch 2.0.10.3 (January 12, 2025)
 * Amended various typos and errors in formatting
 * Amended inconsistencies across various statblocks

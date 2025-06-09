@@ -61,7 +61,7 @@ The players can learn from Urwin Martikov, Danika Dorakova, Father Lucian Petrov
 
 If the players received [[#H1. Erasmus' Plea]] and ask to speak with Victor, Baron Vallakovich allows them to do so with a successful DC 12 Charisma (Persuasion or Deception) check, or automatically if they sufficiently flatter him or if Lady Wachter has already seized power. 
 
-If the players describe Erasmus's visitation to Victor, Victor glances at the *spirit mirror* in his workroom and says, sounding hurt, “I thought I told you I had this under control!” 
+If the players describe Erasmus' visitation to Victor, Victor glances at the *spirit mirror* in his workroom and says, sounding hurt, “I thought I told you I had this under control!” 
 
 A moment later, Victor's face softens, and he reluctantly tells the players that “Stella” and "Erasmus" have decided that he needs help, and that they might not be entirely wrong. He then asks the players if they would be willing to assist him “Stella,” and "Erasmus"—the spirit that they encountered—with a particular task.
 ### What Victor Knows
@@ -140,7 +140,7 @@ If the players express an interest in it, Victor is glad to lend them his copy o
 > To combat their inherently selfish natures, the hags in a coven must enter into a written contract with the others, signed by each hag's true name. The hags of a coven guard their contract jealously, often sealing it within the heart of their lair, ever-careful to keep their names from falling into enemy hands.
 
 > [!info]+ **Harvesting Phase Spiders**
-> The players will later encounter **phase spiders** in Argynvostholt and have an opportunity to harvest their fangs and venom to combat the **phantom warriors** that lurk there. See [[Arc M - The Dragon's Manor#M4c. Spiders’ Ballroom|Arc M - Argynvost's Beacon]] for more information regarding the harvesting and use of phase spider parts.
+> The players will later encounter **phase spiders** in Argynvostholt and have an opportunity to harvest their fangs and venom to combat the **phantom warriors** that lurk there. See [[Arc M - The Dragon's Manor#M4c. Spiders’ Ballroom|Arc M - The Dragon's Manor]] for more information regarding the harvesting and use of phase spider parts.
 # H3. The Refugee Camp
 If it's been at least six hours since Lady Wachter's inauguration in [[Arc F - Lady Wachter's Wish]], the refugee camp has been relocated to <span class="citation">N8. Town Square (p. 119)</span>. (The refugees are still living in tents, however, while Lady Wachter works to find them suitable housing.)
 
@@ -450,7 +450,7 @@ Unlike their mother, Bella and Offalia are easily distracted. They can be lured 
 
 If the players fail to convince Morgantha of a comforting cover story, she immediately becomes suspicious of their motives and presence. Too wary to entertain their presence any longer, she says, regretfully, that she and her daughters are tired, and asks that the players return the following day to speak further. (A player who succeeds on a DC 17 Wisdom (Insight) check discerns that Morgantha is suspicious, not tired.)
 
-If the players leave, Morgantha watches them depart from the window, then ascends to  <span class="citation">O3. Bedroom (p. 127)</span> one round later to alert Bella and Offlia of the players' suspicious visit.
+If the players leave, Morgantha watches them depart from the window, then ascends to  <span class="citation">O3. Bedroom (p. 127)</span> one round later to alert Bella and Offalia of the players' suspicious visit.
 
 If the players fail to leave, after a brief period of time (during which she reveals nothing of note to the players), Morgantha briefly excuses herself to withdraw a tray of dream pastries from the oven, then calls upstairs, “Girls, it’s time to taste the fresh batch!” (The dream pastries are obviously near-raw. Morgantha’s words are a signal informing the other two **night hags** that undesired guests have arrived in the windmill and must be dealt with.)
 
@@ -519,7 +519,7 @@ The hags fight in self-defense, or if the players make clear that they will not 
 >
 > - **_Warding Wind._** The coven casts _warding wind._
 > - **_Gust of Wind._** The coven casts _gust of wind._
-> - **_Amphibious Cacophony._** The coven causes the frogs in the grass around the windmill to croak a strangely hypnotic song. Each creature within 120 feet of the windmill that can hear the frogs must succeed on a DC 10 Charisma saving throw or use all of its movement on its next turn to move as far as it can toward the mill.
+> - **_Amphibious Cacophony._** The coven causes the frogs in the grass around the windmill to croak a strangely hypnotic song. Each creature within 120 feet of the windmill that can hear the frogs must succeed on a DC 10 Charisma saving throw or use all of its movement at the start of its next turn to move as far as it can toward the mill.
 > - **_Dispel Magic (1/day)._** The coven casts _dispel magic_ at 5th level.
 
 <div class="statblock">
@@ -567,7 +567,7 @@ The hags fight in self-defense, or if the players make clear that they will not 
 <p><strong><em>Magic Resistance.</em></strong> The coven has advantage on saving throws against spells and magical effects.</p>
 <p><strong><em>Spellcasting.</em></strong> The coven's spellcasting ability is Intelligence (spell save DC 17, +9 to hit with spell attacks).
 <p><strong><em>Complex Casting.</em></strong> If a hag casts a spell on her turn using a bonus action, she can also use her action to cast a non-cantrip spell on the same turn.</p>
-<p><strong><em>Second Phase.</em></strong> If the coven is reduced to 0 hit points, its statistics are instantly replaced by those of **The Nightmare Three**. Its initiative remains the same. Excess damage doesn't carry over to its new form, but it retains any conditions it had in its previous form.</p>
+<p><strong><em>Second Phase.</em></strong> If the coven is reduced to 0 hit points, its statistics are instantly replaced by those of <strong>The Nightmare Three</strong>. Its initiative remains the same. Excess damage doesn't carry over to its new form, but it retains any conditions it had in its previous form. Any spells requiring concentration end.</p>
 <h3>Actions</h3>
 <p><strong><em>Blindness/Deafness (Bella Only).</em></strong> Bella casts <em>blindness/deafness</em>. A target takes an additional 7 (2d6) necrotic damage if it fails the saving throw, or half damage on a success.</p>
 <p><strong><em>Putrid Radiance (Bella Only).</em></strong> <em>2nd-level necromancy</em>, 30 feet, components V S M, instantaneous. <em>Effect:</em>: Dim, greenish light bursts within a 10-foot-radius sphere centered on a point that Bella chooses within range. Each creature within that area must succeed on a DC 17 Constitution saving throw or take 2d6 radiant damage and be poisoned until the end of its next turn.</p>
@@ -921,6 +921,10 @@ If one of the players moves to attack, Erasmus shouts, “Wait! I don’t mean t
 <p>He wears short pants, a loose shirt, and a vest, though his body becomes wisps of curling fog not far below his knees. His eyes glitter with mirth, and an elfin smile plays across his face as his unkempt hair drifts lazily amidst the gloom. When he speaks, his voice is cheery and light, and his fingers twitch with excitement. “Stella! You brought your friends!”</p>
 </div>
 
+![[Erasmus.png]]
+
+<span class="credit">"Erasmus van Richten" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+
 Erasmus greets the players and Victor warmly, and Stella introduces him using his full name as he stands beside her. Victor greets Erasmus somewhat stiffly, and a DC 10 Wisdom (Insight) check reveals that he is slightly jealous of the younger ghost. (Though Victor has no romantic interest in Stella, he has had few friends throughout his life, and fears losing his only friend to the cheerier, sunnier Erasmus.)
 
 Erasmus can share the following information, either at the players’ request or of his own volition:
@@ -1068,9 +1072,8 @@ When the gallows speaker dies, the *Tome of Strahd* drops to the ground below. S
 <strong>Senses</strong> truesight 60 ft., passive Perception 15<br>
 <strong>Languages</strong> Abyssal, Common<br>
 <strong>Challenge</strong> CR 11<br>
-<strong>Proficiency Bonus.</strong> +4<br>
+<strong>Proficiency Bonus</strong> +4<br>
 <hr>
-<p><strong><em>Legendary Resistance (1/day).</em></strong> If the gallows speaker fails a saving throw, it can choose to succeed instead.</p>
 <p><strong><em>Divination Senses.</em></strong> The gallows speaker can see 60 feet into the Ethereal Plane when it is on the Material Plane and vice versa.</p>
 <p><strong><em>Wrath of the Traitor.</em></strong> If the gallows speaker is reduced to 0 hit points, the golden wisps around it wink out, revealing five daggers with wavy blades and lacquered hilts colored red, black, and gold. All of the gallows speaker's current effects end, and its statistics are instantly replaced by those of the <strong>Ba’al Verzi Avenger</strong>. Its initiative remains the same. Excess damage doesn't carry over to its new form, but it retains any conditions it had in its previous form.</p>
 <h3>Actions</h3>
@@ -1083,6 +1086,7 @@ When the gallows speaker dies, the *Tome of Strahd* drops to the ground below. S
 <p><strong><em>Wisplight Flare.</em></strong> The gallows speaker directs one of its wisps to a point within 30 feet, where it flares with golden light. Each creature within 5 feet of that point must succeed on a DC 16 Constitution saving throw or take 14 (4d6) radiant damage and be blinded until the start of the gallows speaker's next turn. A creature that succeeds on the saving throw takes half damage and isn't blinded.</p>
 <h3>Reactions</h3>
 <p>The gallows speaker can take up to three reactions per round, though no more than one per turn. If it would lose its reactions and isn't incapacitated, it loses one reaction instead.</p>
+<p><strong><em>Indomitable.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> The gallows speaker can repeat the saving throw against one effect or condition currently affecting it. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.)</p>
 <p><strong><em>Death's Revelation.</em></strong> In response to taking damage from a creature within range, the gallows speaker attacks that creature with its <strong><em>foretelling touch</em></strong> or <strong><em>will-o'-wisp</em></strong>.</p>
 <p><strong><em>Ghostly Step.</em></strong> In response to taking damage, the gallows speaker teleports up to 15 feet away. It can then immediately force each creature within 5 feet of its new location to make a DC 16 Wisdom saving throw. Each creature that fails the saving throw is frightened until the end of that creature's next turn.</p>
 </div>
@@ -1129,29 +1133,31 @@ When the gallows speaker dies, the *Tome of Strahd* drops to the ground below. S
 <strong>Challenge</strong> CR 11<br>
 <strong>Proficiency Bonus</strong> +4<br>
 <hr>
-<p><strong><em>Legendary Resistance (1/day).</em></strong> If the gallows speaker fails a saving throw, it can choose to succeed instead.</p>
 <p><strong><em>Divination Senses.</em></strong> The gallows speaker can see 60 feet into the Ethereal Plane when it is on the Material Plane and vice versa.</p>
 <p><strong><em>Incorporeal Movement.</em></strong> The gallows speaker can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.</p>
 <h3>Actions</h3>
 <p><strong><em>Multiattack.</em></strong> The gallows speaker makes two attacks.</p>
-<p><strong><em>Ba'al Verzi Dagger.</em></strong> <em>Ranged Weapon Attack:</em> +8 to hit, range 30 feet, one creature. <em>Hit:</em> 7 (1d6 + 4) piercing damage and the target must make a DC 16 Wisdom saving throw, taking 14 (4d6) necrotic damage and becoming cursed until the start of the gallows speaker’s next turn on a failure. On a success, the target takes half the necrotic damage and isn't cursed. While cursed in this way, a creature moves at half speed and can't regain hit points, and the gallows speaker has advantage on attack rolls made against it. Leo doesn't gain disadvantage on an attack roll made with this attack due to being within 5 feet of a hostile creature.</p>
+<p><strong><em>Ba'al Verzi Dagger.</em></strong> <em>Ranged Weapon Attack:</em> +8 to hit, range 30 feet, one creature. <em>Hit:</em> 7 (1d6 + 4) piercing damage and the target must make a DC 16 Wisdom saving throw, taking 14 (4d6) necrotic damage and becoming cursed until the start of the gallows speaker’s next turn on a failure. On a success, the target takes half the necrotic damage and isn't cursed. While cursed in this way, a creature moves at half speed and can't regain hit points, and the gallows speaker has advantage on attack rolls made against it. The gallows speaker doesn't gain disadvantage on an attack roll made with this attack due to being within 5 feet of a hostile creature.</p>
 <p><strong><em>Grasp of the Grave.</em></strong> <em>Melee Weapon Attack:</em> +8 to hit, reach 5 ft., one creature. <em>Hit:</em> 18 (4d8) necrotic damage and the target is grappled until the gallows speaker loses its concentration (as if concentrating on a spell) or until the target uses its action to break free (escape DC 16). (Dragging this target doesn't cause the gallows speaker to move more slowly.) The gallows speaker can then immediately move up to half its speed without triggering opportunity attacks. Until this grapple ends, the target is restrained and takes an additional 9 (2d8) necrotic damage at the start of each of its turns, and the gallows speaker can't use <strong><em>grasp of the grave</em></strong> on another target.</p>
 <h3>Bonus Actions</h3>
 <p><strong><em>Shrieking Souls.</em></strong> A shroud of moaning spirits surrounds each creature within 5 feet of the gallows speaker. Each creature in that area must make a DC 16 Constitution saving throw or take 9 (2d8) necrotic damage and be dazed until the start of the gallows speaker’s next turn. (A dazed creature can move or take one action on its turn, not both. It also can’t take a bonus action or a reaction.)</p>
 <p><strong><em>Wail of the Forsaken (Recharge 5-6).</em></strong> The spirits within the gallows speaker’s cloak let out a maddened, burbling cry. Each creature within 60 feet must make a DC 16 Wisdom saving throw or be frightened until the start of the gallows speaker’s next turn.</p>
 <h3>Reactions</h3>
 <p>The avenger can take up to three reactions per round, though no more than one per turn. If it would lose its reactions and isn't incapacitated, it loses one reaction instead.</p>
+<p><strong><em>Indomitable.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> The gallows speaker can repeat the saving throw against one effect or condition currently affecting it. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.)</p>
 <p><strong><em>Ghastly Foresight.</em></strong> In response to being targeted by an attack or a spell that requires a saving throw, the gallows speaker imposes disadvantage on the attack roll or grants itself advantage on the saving throw. After the roll is made, the gallows speaker can immediately move up to half its speed without provoking opportunity attacks.</p>
 <p><strong><em>Traitor's Noose.</em></strong> In response to being targeted by a melee attack, the gallows speaker manifests a spectral noose that hangs loosely around the attacker's neck, forcing them to make a DC 16 Wisdom saving throw. On a failure, the attacker is filled with a brief and blinding rage toward another creature of the gallows speaker’s choice, and must instead immediately use its reaction, if available, to move up its speed toward that creature and make the same melee attack against that creature instead. The noose then disappears.</p>
 <p><strong><em>Haunting Echoes.</em></strong> In response to taking damage from a creature, the gallows speaker forces that creature to make a DC 16 Wisdom saving throw. On a failure, that creature takes 10 (4d4) psychic damage and has disadvantage on the next attack roll or ability check it makes before the start of its next turn.</p>
 </div>
 
 > [!combat]- **Balancing the Gallows Speaker**
-> Due to the phase mechanic, this is a series of two consecutive **bloody** combat encounters against a party of five 5th-level players and two CR 2 allies (Erasmus van Richten and Lady Fiona Wachter), which will each consume approximately 42% of the party's total maximum hit points (for a total of 84% of their maximum hit points). For parties of smaller or larger sizes, modify the encounter as follows:
+> Due to the phase mechanic, this is a series of two consecutive **bruising** combat encounters against a party of five 5th-level players, a CR 6 ally (Victor Vallakovich), a CR 1 ally (Majesto), and a CR 2 ally (Fiona Wachter), and will each consume approximately 28% of their total maximum hit points (for a total of 56% of their maximum hit points). For parties of smaller or larger sizes, modify the encounter as follows:
 > 
-> * ***Three Players.*** Reduce Leo’s hit points to 92 in each phase. For his first phase, reduce his foretelling touch attack to to 11 (2d8+2) damage, his will-o’-wisp attack to 10 (3d6) damage, his lash of souls bonus action to 7 (2d6) damage, and his wisplight flare bonus action to 10 (4d4) damage. For his second phase, reduce his Ba’al Verzi dagger attack to 5 (1d6+2) piercing and 10 (4d4) necrotic damage, his grasp of the grave attack to 14 (4d6) initial damage and 7 (2d6) continual damage, his shrieking souls bonus action to 7 (2d6) damage, and his haunting echoes to 7 (3d4) damage.
-> * ***Four Players.*** Reduce Leo’s hit points to 109 in each phase. For his first phase, reduce his foretelling touch attack to to 13 (2d8+4) damage, his will-o’-wisp attack to 11 (2d10) damage, his lash of souls bonus action to 7 (2d6) damage, and his wisplight flare bonus action to 12 (5d4) damage. For his second phase, reduce his Ba’al Verzi dagger attack to 6 (1d4+4) piercing and 12 (5d4) necrotic damage, his grasp of the grave attack to 15 (6d4) initial damage and 7 (3d4) continual damage, his shrieking souls bonus action to 7 (2d6) damage, and his haunting echoes reaction to 9 (2d8) damage.
->  * ***Six Players.*** Increase Leo’s hit points to 143 in each phase. For his first phase, increase his foretelling touch attack to to 17 (2d12+4) damage, his will-o’-wisp attack to 15 (6d4) damage, and his wisplight flare bonus action to 16 (3d10) damage. For his second phase, increase his Ba’al Verzi dagger attack to 8 (1d8+4) piercing and 16 (3d10) necrotic damage, his grasp of the grave attack to 20 (8d4) initial damage and 10 (4d4) continual damage, his shrieking souls bonus action to 10 (4d4) damage, and his haunting echoes to 11 (2d10) damage.
+> * ***Three Players.*** Reduce Leo’s hp to 111 in each phase. For his first phase, reduce his foretelling touch attack to to 11 (2d8+2) damage, his will-o’-wisp attack to 10 (3d6) damage, his lash of souls bonus action to 7 (2d6) damage, and his wisplight flare bonus action to 10 (4d4) damage. For his second phase, reduce his Ba’al Verzi dagger attack to 5 (1d6+2) piercing and 10 (4d4) necrotic damage, his grasp of the grave attack to 14 (4d6) initial damage and 7 (2d6) continual damage, his shrieking souls bonus action to 7 (2d6) damage, and his haunting echoes to 7 (3d4) damage.
+> * ***Four Players.*** Reduce Leo’s hp to 134 in each phase. For his first phase, reduce his foretelling touch attack to to 13 (2d8+4) damage, his will-o’-wisp attack to 11 (2d10) damage, his lash of souls bonus action to 7 (2d6) damage, and his wisplight flare bonus action to 12 (5d4) damage. For his second phase, reduce his Ba’al Verzi dagger attack to 6 (1d4+4) piercing and 12 (5d4) necrotic damage, his grasp of the grave attack to 15 (6d4) initial damage and 7 (3d4) continual damage, his shrieking souls bonus action to 7 (2d6) damage, and his haunting echoes reaction to 9 (2d8) damage.
+>  * ***Six Players.*** Increase Leo’s hp to 180 in each phase. For his first phase, increase his foretelling touch attack to to 17 (2d12+4) damage, his will-o’-wisp attack to 15 (6d4) damage, and his wisplight flare bonus action to 16 (3d10) damage. For his second phase, increase his Ba’al Verzi dagger attack to 8 (1d8+4) piercing and 16 (3d10) necrotic damage, his grasp of the grave attack to 20 (8d4) initial damage and 10 (4d4) continual damage, his shrieking souls bonus action to 10 (4d4) damage, and his haunting echoes to 11 (2d10) damage.
+
+
 ### Return to the Material Plane
 As the teleportation ritual draws to a close, ethereal beads of light emerge around Stella’s ghostly form, clinging to her dress and hair and flickering like fireflies. The following sequence then unfolds unless the players intervene:
 
@@ -1180,7 +1186,12 @@ If the players follow, they can observe as Victor and Stella meet each other at 
 * When Lady Wachter finally releases her, Stella steps forward toward the players—and stumbles, her foot nearly falling out from under her. Victor and Lady Wachter swiftly move to catch her. “You’ve been out of your body for too long,” Victor cautions her. “You need to get used to having legs again.”
 * Stella nods, then looks around at the players, her eyes shining with gratitude. “Thank you,” she says. “It was so quiet in there—so *cold.* But because of you, I can *feel* again. I can hear the world again. Thank you—from the bottom of my heart, *thank you.*” 
 
+![[Stella_Alive.png]]
+<span class="credit">"Stella Wachter" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+
 In gratitude for the players’ efforts, Lady Wachter grants them a *lantern of revealing*, as well as a standing invitation to seek her aid or counsel whenever they find themselves in Vallaki, so long as their efforts do not risk harm to the town or its people.
+
+The following morning, Victor also sends the players the following message with the sending spell: “Come to my home. I have a gift for you.” Upon their arrival, he presents them with the *spirit mirror* from his workroom.
 
 ***Milestone.*** Restoring Stella’s soul to her body completes a story milestone. If the players successfully rescue her from the Ethereal Plane, award each player 1,750 XP.
 
@@ -1193,7 +1204,7 @@ In gratitude for the players’ efforts, Lady Wachter grants them a *lantern of 
 > Once per day, you can use an action to cause it to either shrink to the size of a hand mirror or grow to the size of a full-length mirror.
 
 > [!abstract]+ **Van Richten & the Spirit Mirror**
-> Dr. Rudolph van Richten's curse prevents him from perceiving his son, Erasmus, in the *spirit mirror*. See [[Arc S - The Moonlit Murders]] for more information about lifting Van Richten's curse.
+> Dr. Rudolph van Richten's curse prevents him from perceiving his son, Erasmus, in the *spirit mirror*. See [[Arc T - The Three Fanes]] for more information about lifting Van Richten's curse.
 # H9. The Tome of Strahd
 The *Tome of Strahd* is kept closed by a locked steel clasp enchanted with an *arcane lock* spell cast at 5th level. The pass phrase to suppress it is "I come in Dostron's memory." (Only Strahd and his eldest bride, Sasha Ivliskova, know this pass phrase. See [[Arc O - Dinner with the Devil]] for more information about Sasha Ivliskova.) The _arcane lock_ can also be suppressed as normal with a _knock_ spell, a _dispel magic_ spell, or similar magic (e.g., the *antimagic field* surrounding <span class="citation">Chapter 11. Van Richten's Tower (p. 167)</span>).
 
@@ -1215,13 +1226,15 @@ Once successfully opened, the contents of the *Tome* now read as follows: <sup><
 <p>I write this now to crystallize my rage in the face of time's bitter winds. As the chill of the grave grips my heart, I feel all that I was leave me—the death of the man, and the birth of the immortal. Yet this memory shall persevere, a scion of that righteous fury. I shall bury the past, and so begin anew.</p>
 <p>I now reside far below Ravenloft. I live among the dead and sleep beneath the very stones of this hollow castle of despair. I have abandoned the riches of my conquests beneath the toll of the belfry, sealed behind a reminder of the treasure I once lost. Yet one day, I shall rise again from the ashes of my glory and reclaim what is rightfully mine.</p></div>
 
-The pages following the legible text are filled with diagrams, equations, and thousands of strange symbols. The symbols are not written language, but a cipher devised by Strahd to conceal his secret plans. (Only the **lich** Exethanter knows the key to decode Strahd's cipher. See [[Arc T - The Amber Temple]] for more information about Exethanter.) Several diagrams appear to depict a large, crystalline human heart, while others depict circles of standing stones. 
+The pages following the legible text are filled with diagrams, equations, and thousands of strange symbols. The symbols are not written language, but a cipher devised by Strahd to conceal his secret plans. (Only the **lich** Exethanter knows the key to decode Strahd's cipher. See [[Arc S - A Sword of Sunlight]] for more information about Exethanter.) Several diagrams appear to depict a large, crystalline human heart, while others depict circles of standing stones. 
 
 Players who read through these sections find numerous annotations referencing (in Common) an individual named Exethanter. Multiple instances of Exethanter’s name are accompanied by the symbol of the Amber Temple: a thick-bordered equilateral triangle containing an inverted equilateral triangle, which in turn contain a vertical wavy line. (The triangle represents the god of secrets, the inverted triangle the amber sarcophagi, and the wavy line the vestiges sealed within.)
 
+***Milestone.*** Obtaining the *Tome of Strahd* completes a story milestone. When the players obtain the tome, award each player 750 XP.
+
 > [!abstract]+ **The Symbol**
 >
-> The symbol of the Amber Temple can be identified by the dusk elf Kasimir Velikov (who has seen it in his dreams), by the revenant Sir Godfrey Gwilym (who once guarded the Temple), or by Victor Vallakovich (who has seen the symbol in his spellbook). Of these three, only Kasimir and Godfrey know what the Amber Temple is and where it can be found, and only Kasimir—once the players complete [[Arc M - The Dragon's Manor]]—is willing to tell them how to get there.
+> The symbol of the Amber Temple can be identified by the dusk elf Kasimir Velikov (who has seen it in his dreams), by the revenant Sir Godfrey Gwilym (who once guarded the Temple), or by Victor Vallakovich (who has seen the symbol in his spellbook). Of these three, only Kasimir and Godfrey know what the Amber Temple is and where it can be found, and only Kasimir—once the players complete [[Arc Q - A Shining Beacon]]—is willing to tell them how to get there.
 # Design Notes: The Lost Soul
 The original module presents a number of interesting ideas and set pieces—the hag coven at Old Bonegrinder, the dream pastry addicts, Victor Vallakovich's teleportation circle, Stella Wachter's strange illness, and the betrayal of Leo Dilisnya—but ultimately fails to do anything interesting or meaningful with them. 
 
@@ -1234,9 +1247,9 @@ As such, this arc aims to comprehensively rework these stray narrative elements 
 * The players now have a true opportunity to witness and intervene in the suffering wrought by night hags upon their victims, and to destroy their corruption once and for all.
 * Finally, the players now have a chance to learn about the dark history of Leo Dilisnya, enhancing the themes developed in the *Tome of Strahd*, foreshadowing Strahd's use of Leo's Ba'al Verzi dagger to seal the leeches corrupting the Fanes of Barovia, and providing emotional closure to Lady Wachter's character arc as it pertains to her deceased parents and brother.
 
-This arc also serves to cement Lady Wachter's alliance with the players, strengthening the themes of resonance and unity that run throughout the adventure and providing a clear narrative progression to their relationship in [[Arc G - Lady Wachter's Wish.]]
+This arc also serves to cement Lady Wachter's alliance with the players, strengthening the themes of resonance and unity that run throughout the adventure and providing a clear narrative progression to their relationship in [[Arc F - Lady Wachter's Wish]]
 
-***Erasmus's Plea.*** Erasmus's visitation has been added to provide a backup hook to this arc if the players miss or decline it elsewhere. Erasmus's presence in this portion of the adventure also serves to provide the players with exposition regarding the **gallows speaker**  hunting Stella's soul, and to continue developing the tragedy of the Van Richten family that began in [[Arc F - The Missing Vistana.]]
+***Erasmus's Plea.*** Erasmus's visitation has been added to provide a backup hook to this arc if the players miss or decline it elsewhere. Erasmus's presence in this portion of the adventure also serves to provide the players with exposition regarding the **gallows speaker**  hunting Stella's soul, and to continue developing the tragedy of the Van Richten family that began in [[Arc E - The Missing Vistana]]
 
 ***Burgomaster's Mansion.*** The *spirit mirror* has been added as a means of explaining Victor's communication with Stella, and as an eventual reward for the players upon restoring Stella's soul.
 
@@ -1316,7 +1329,7 @@ Morgantha's parley has been added to provide the players with a final dilemma: t
 
 The hags' threat to kill the children and feed them to the players in the morning as dream pastries has been added to create a clear "ticking clock" that incentivizes the players to promptly escape.
 
-***The Ritual.*** The carvings on the walls of the cult headquarters have been added to foreshadow Leo Dilisnya's imprisonment, and to introduce the image of the Ba'al Verzi dagger to the players prior to its recoery in [[Arc U - The Amber Temple]] and its use in[[Arc Y - Ladies of the Fanes.]]
+***The Ritual.*** The carvings on the walls of the cult headquarters have been added to foreshadow Leo Dilisnya's imprisonment, and to introduce the image of the Ba'al Verzi dagger to the players prior to its recovery in [[Arc U - The Amber Temple]] and its use in[[Arc Y - Ladies of the Fanes.]]
 
 The ghost of Erasmus van Richten has been added to this encounter to provide additional support in the players' battle against the **gallows speaker** (a powerful foe), to connect this storyline to Dr. Rudolph van Richten's involvement in [[Arc E - The Missing Vistana]], and to advance the players' connection with the tragedy of the Van Richten family.
 
